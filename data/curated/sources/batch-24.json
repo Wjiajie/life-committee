@@ -1,0 +1,277 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0102-c01",
+      "status": "not_found",
+      "note": "参考答案编辑部原创读书文章（原发于其 Notion 知识库/会员周刊，非公开页面）。已用标题全文及摘录关键句（如“当一切变得流动”）搜索，只找到其他作者写的鲍曼《流动的现代性》读书笔记，没找到同文公开页面",
+      "sources": [],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0102-c02",
+      "status": "not_found",
+      "note": "参考答案编辑部原创读书文章（原发于 Notion，非公开页面）。已用标题全文“读弗洛姆《逃避自由》：身份是牢笼还是船票？”及“数字游民”开头搜索，只找到其他作者写的《逃避自由》读后感，没找到同文公开页面",
+      "sources": [],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0103-c01",
+      "status": "not_found",
+      "note": "参考答案编辑部原创文章（围绕鲍德里亚《消费社会》，原发于 Notion）。已用标题全文“我逛了一次‘人生超市’，发现自己正在打折出售”及“购物车谋杀案”开头搜索，没找到同文公开页面",
+      "sources": [],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0103-c02",
+      "status": "not_found",
+      "note": "参考答案编辑部原创文章（讲随机奖励机制和斯金纳箱，原发于 Notion）。已用标题全文及 Variable-Ratio Reinforcement、斯金纳鸽子等关键词搜索，只找到主题相近的其他文章，没找到同文公开页面",
+      "sources": [],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0103-c04",
+      "status": "found",
+      "note": "参考答案编辑部中文原创/编译稿，原发于参考答案 Notion 会员周刊（非公开）。找到一份全文一致的公开网页副本（Stefan 的自留地，2025-07-19，归在“参考答案/参考翻译”分类，标题带“【翻译】”前缀）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "【翻译】泡泡玛特如何让无用变有用？（Stefan 的自留地，2025-07-19）",
+          "url": "https://stefanzhang.com/1603/",
+          "site": "stefanzhang.com",
+          "evidence": "https://stefanzhang.com/1603/",
+          "confidence": "medium",
+          "note": "已打开页面核对：序章“一场精心设计的‘意外’”及 Labubu、3400 万会员、王宁“街舞少年”等段落与摘录逐字一致；页面没有署名作者，也没有标原文出处，不能确认它就是首发页，因此只标 medium"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0104-c01",
+      "status": "not_found",
+      "note": "参考答案编辑部原创读书文章（阿伦特《人的境况》，原发于 Notion）。已用标题全文“读《人的境况》：我们为何如此疲惫？”及斯普特尼克开头搜索，只找到虎嗅、豆瓣上其他作者的同主题文章，没找到同文公开页面",
+      "sources": [],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0123-c01",
+      "status": "not_found",
+      "note": "参考答案编辑部对《庄子·外篇·天地》“抱瓮灌园”的原创解读（原发于 Notion）。已用标题及摘录句“庄子选了一个‘最有资格谈效率的人’”搜索，只找到《庄子》原文和其他解读，没找到同文公开页面",
+      "sources": [],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0123-c02",
+      "status": "not_found",
+      "note": "参考答案编辑部原创读书文章（麦克卢汉《理解媒介》与 AI，原发于 Notion）。已用标题全文“读《理解媒介》｜AI：意识的假肢”及摘录关键句搜索，只找到 VONNG 博客、上海社科院等其他作者的同主题文章，没找到同文公开页面",
+      "sources": [],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0099-c04",
+      "status": "not_found",
+      "note": "参考答案编辑部原创书评，评的是 Vaclav Smil 的《能量与文明》（Energy and Civilization: A History，MIT Press，书籍页 https://mitpress.ublish.com/book/energy-and-civilization-a-history ），书评本身原发于 Notion。已用小标题“不断升级的能量机器：人类文明的能源进化史”搜索，没找到同文公开页面",
+      "sources": [],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0048-c05",
+      "status": "found",
+      "note": "英文原题 Models: A Summary（2018-05-25，是对 Mark Manson《Models》一书的总结）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Models: A Summary",
+          "url": "https://thingofthings.wordpress.com/2018/05/25/models-a-summary/",
+          "site": "thingofthings.wordpress.com",
+          "evidence": "https://thingofthings.wordpress.com/2018/05/25/models-a-summary/",
+          "confidence": "high",
+          "note": "页面署 Posted by ozymandias，2018-05-25；两条规则（不要 needy、要 vulnerable）、生活方式“like attracts like”、约会中身体接触等内容与摘录一致"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Ozy Brennan"],
+        "evidence": "https://thingofthings.substack.com/",
+        "note": "Ozymandias 是 Thing of Things 博客作者的笔名（WordPress 署名 ozymandias），该博客现迁至 Substack，署名 Ozy Brennan"
+      }
+    },
+    {
+      "article_id": "vol0077-c04",
+      "status": "found",
+      "note": "英文原题 How money works（2021-01-06 发布，2021-08-28 更新；是《What Has Government Done to Our Money?》一书的读书笔记）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How money works",
+          "url": "https://invertedpassion.com/how-money-works/",
+          "site": "invertedpassion.com",
+          "evidence": "https://invertedpassion.com/how-money-works/",
+          "confidence": "high",
+          "note": "页面署 Author Paras Chopra；开头“I recently finished this excellent short book titled What Has Government Done To Our Money”与摘录一致"
+        },
+        {
+          "type": "social",
+          "title": "Paras Chopra 的同主题 Twitter 线程（Thread Reader 存档）",
+          "url": "https://threadreaderapp.com/thread/1346688696599252993.html",
+          "site": "threadreaderapp.com",
+          "evidence": "https://threadreaderapp.com/thread/1346688696599252993.html",
+          "confidence": "medium",
+          "note": "博文最初是以 Twitter 线程形式发布的，这里是存档"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0015-c04",
+      "status": "found",
+      "note": "斯坦福 CS183C（Technology-enabled Blitzscaling）2015 年第 11 课：John Lilly 访谈 Patrick Collison",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "CS183C Session 11: Patrick Collison, Stripe（Chris Yeh 整理，2015-11-28）",
+          "url": "https://medium.com/cs183c-blitzscaling-class-collection/cs183c-session-11-patrick-collison-stripe-84057f358ecb",
+          "site": "medium.com",
+          "evidence": "https://medium.com/cs183c-blitzscaling-class-collection/cs183c-session-11-patrick-collison-stripe-84057f358ecb",
+          "confidence": "high",
+          "note": "课程讲师 Chris Yeh 整理的问答记录；以“Tell us Stripe's founding story”开头，并有“Most technology companies are building cars; Stripe is building roads”，与摘录一致"
+        },
+        {
+          "type": "interview",
+          "title": "Scaling Stripe with Patrick Collison — Class 11 Notes of Stanford University's CS183C（Chris McCann，2015-11-05）",
+          "url": "https://medium.com/notes-essays-cs183c-technology-enabled-blitzscalin/class-11-notes-essay-reid-hoffman-john-lilly-chris-yeh-and-allen-blue-s-cs183c-technology-ebf34cebae26",
+          "site": "medium.com",
+          "evidence": "https://medium.com/notes-essays-cs183c-technology-enabled-blitzscalin/class-11-notes-essay-reid-hoffman-john-lilly-chris-yeh-and-allen-blue-s-cs183c-technology-ebf34cebae26",
+          "confidence": "medium",
+          "note": "学生课堂笔记，明确写着“This class was an interview by John Lilly, of Patrick Collison”"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0018-c04",
+      "status": "found",
+      "note": "YC Startup School 2018 视频 Running Your Company by Patrick Collison（Adora Cheung 访谈）。原书标注年份 2008 有误，实际是 2018",
+      "sources": [
+        {
+          "type": "video",
+          "title": "Running Your Company by Patrick Collison（Y Combinator，2018-10-03）",
+          "url": "https://www.ycombinator.com/blog/running-your-company-by-patrick-collison",
+          "site": "ycombinator.com",
+          "evidence": "https://www.ycombinator.com/blog/running-your-company-by-patrick-collison",
+          "confidence": "medium",
+          "note": "搜索结果显示页面说明为“YC Partner Adora Cheung, along with Patrick Collison … discuss how to most effectively run a startup company”"
+        },
+        {
+          "type": "interview",
+          "title": "スタートアップを経営すること (Startup School 2018 #18, Patrick Collison)（东京大学 FoundX 授权日译全文）",
+          "url": "https://foundx.jp/review/running-your-startup",
+          "site": "foundx.jp",
+          "evidence": "https://foundx.jp/review/running-your-startup",
+          "confidence": "high",
+          "note": "全文开头 Adora Cheung 介绍 Patrick，以及“从第一行代码到公开发布用了 1 年 11 个月”，与摘录一致；页面注明原文为 Running Your Company by Patrick Collison (2018)"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0041-c08",
+      "status": "found",
+      "note": "英文原题 Questions（Patrick Collison 个人网站上的问题清单页）",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Questions · Patrick Collison",
+          "url": "https://patrickcollison.com/questions",
+          "site": "patrickcollison.com",
+          "evidence": "https://patrickcollison.com/questions",
+          "confidence": "high",
+          "note": "开头“Some questions that I find interesting. I've omitted some that are related to Stripe”、邮箱 patrick@collison.ie 和首个问题“Why are certain things getting so much more expensive?”与摘录一致；该页面会持续更新"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0088-c06",
+      "status": "found",
+      "note": "英文原题 Want a Happier, More Fulfilling Life? 75-Year Harvard Study Says Focus on This 1 Thing（Mindmaven 博客，页面日期 2019-04-24；原书标注 2018）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Want a Happier, More Fulfilling Life? 75-Year Harvard Study Says Focus on This 1 Thing",
+          "url": "https://mindmaven.com/blog/positive-alacrity/",
+          "site": "mindmaven.com",
+          "evidence": "https://mindmaven.com/blog/positive-alacrity/",
+          "confidence": "high",
+          "note": "已打开核对：开头“Positive Alacrity is the art of creating micro-experiences… But I'm getting ahead of myself”、谷歌 750 万条结果、格兰特和格卢克研究等与摘录一致。正文抓取里没有显式署名，但文末作者简介（Leverage/Intent/Fellowship 三种超能力）与 Mindmaven 创始人 Patrick Ewers 的 LinkedIn 自我介绍一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0038-c03",
+      "status": "found",
+      "note": "英文原题 The Technology（2014-07-30，Startup School Europe 伦敦演讲稿）",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "The Technology",
+          "url": "http://paulbuchheit.blogspot.com/2014/07/the-technology.html",
+          "site": "paulbuchheit.blogspot.com",
+          "evidence": "http://paulbuchheit.blogspot.com/2014/07/the-technology.html",
+          "confidence": "high",
+          "note": "页面注明“This is the talk I gave at Startup School Europe”；“小决策比大决策更重要”“my defaults”以及六个模式与摘录一致"
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "ozymandias",
+      "note": "Ozymandias 即 Ozy Brennan，Thing of Things 博客作者",
+      "sources": [
+        {"type": "website", "title": "Thing of Things（Ozy Brennan 的 Substack）", "url": "https://thingofthings.substack.com/", "site": "thingofthings.substack.com", "evidence": "https://thingofthings.substack.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "About - Thing of Things（博客简介：有效利他主义、思考方法、人际关系等）", "url": "https://thingofthings.substack.com/about", "site": "thingofthings.substack.com", "evidence": "https://thingofthings.substack.com/about", "confidence": "high", "note": "旧版博客在 thingofthings.wordpress.com，署名 ozymandias"}
+      ]
+    },
+    {
+      "author_id": "packy-mccormick",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Not Boring by Packy McCormick（Newsletter）", "url": "https://www.notboring.co/", "site": "notboring.co", "evidence": "https://www.notboring.co/about", "confidence": "high", "note": null},
+        {"type": "article", "title": "The Electric Slide（Packy McCormick 与 Sam D'Amico 合写，2025-08-26）", "url": "https://www.notboring.co/p/the-electric-slide", "site": "notboring.co", "evidence": "https://www.notboring.co/p/the-electric-slide", "confidence": "high", "note": "其名下“电力技术栈的复兴”“稀土”等系列文章的英文原文，供该系列所在批次参考"}
+      ]
+    },
+    {
+      "author_id": "paras-chopra",
+      "note": "Wingify（VWO）创始人，现运营 AI 研究实验室 Lossfunk",
+      "sources": [
+        {"type": "website", "title": "Inverted Passion（Paras Chopra 个人博客）", "url": "https://invertedpassion.com/", "site": "invertedpassion.com", "evidence": "https://invertedpassion.com/about/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Lossfunk（Paras Chopra 创办的 AI 研究实验室）", "url": "https://lossfunk.com/", "site": "lossfunk.com", "evidence": "https://lossfunk.com/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "patrick-collison",
+      "note": "Stripe 联合创始人兼 CEO",
+      "sources": [
+        {"type": "website", "title": "Patrick Collison 个人网站", "url": "https://patrickcollison.com/", "site": "patrickcollison.com", "evidence": "https://patrickcollison.com/questions", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "patrick-ewers",
+      "note": "Mindmaven 创始人兼 CEO，高管教练",
+      "sources": [
+        {"type": "website", "title": "Mindmaven 官网（Patrick Ewers 创办的高管教练公司，含博客）", "url": "https://mindmaven.com/", "site": "mindmaven.com", "evidence": "https://mindmaven.com/leadership-coaching-team/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Radical Delegation（Patrick Ewers 著）", "url": "https://mindmaven.com/radical-delegation/", "site": "mindmaven.com", "evidence": "https://mindmaven.com/llm-info/", "confidence": "medium", "note": "书籍介绍页在 Mindmaven 官网"}
+      ]
+    },
+    {
+      "author_id": "paul-buchheit",
+      "note": "Gmail 创造者，前 YC 合伙人",
+      "sources": [
+        {"type": "website", "title": "Paul Buchheit 个人博客", "url": "http://paulbuchheit.blogspot.com/", "site": "paulbuchheit.blogspot.com", "evidence": "http://paulbuchheit.blogspot.com/2014/07/the-technology.html", "confidence": "high", "note": null},
+        {"type": "website", "title": "Paul Buchheit（维基百科）", "url": "https://en.wikipedia.org/wiki/Paul_Buchheit", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Paul_Buchheit", "confidence": "high", "note": null}
+      ]
+    }
+  ]
+}

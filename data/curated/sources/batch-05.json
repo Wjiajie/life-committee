@@ -1,0 +1,456 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0034-c05",
+      "status": "found",
+      "note": "英文原题 How we make decisions at Coinbase（Brian Armstrong，Medium，2018-05-08）；三步框架 Set the parameters / Deliberate / Decide 与摘录一致",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How we make decisions at Coinbase",
+          "url": "https://barmstrong.medium.com/how-we-make-decisions-at-coinbase-cd6c630322e9",
+          "site": "medium.com",
+          "evidence": "https://barmstrong.medium.com/how-we-make-decisions-at-coinbase-cd6c630322e9",
+          "confidence": "high",
+          "note": "开篇「Our core values include Clear Communication and Efficient Execution」与摘录逐句对应"
+        },
+        {
+          "type": "website",
+          "title": "Essays · Brian Armstrong（作者个人站文章索引，列有本文 2018）",
+          "url": "https://www.brianarmstrong.org/essays/",
+          "site": "brianarmstrong.org",
+          "evidence": "https://www.brianarmstrong.org/essays/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Brian Armstrong"], "evidence": "https://barmstrong.medium.com/how-we-make-decisions-at-coinbase-cd6c630322e9", "note": null}
+    },
+    {
+      "article_id": "vol0046-c06",
+      "status": "found",
+      "note": "英文原题 Scents and Sensibility（Brian Eno，Details Magazine，1992 年 7 月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Scents and Sensibility (Details Magazine, July 1992)",
+          "url": "https://enoweb.co.uk/interviews/detail92.html",
+          "site": "enoweb.co.uk",
+          "evidence": "https://enoweb.co.uk/interviews/detail92.html",
+          "confidence": "high",
+          "note": "EnoWeb 资料站转载全文，原刊 Details 杂志无在线原页"
+        },
+        {
+          "type": "article",
+          "title": "Scents and Sensibility by Brian Eno, For Details Magazine, July 1992",
+          "url": "http://music.hyperreal.org/artists/brian_eno/details.jul92",
+          "site": "music.hyperreal.org",
+          "evidence": "http://music.hyperreal.org/artists/brian_eno/details.jul92",
+          "confidence": "high",
+          "note": "另一全文转载；1965 年艺术学院收集约五十种气味、法国香菜前后不同等细节与摘录一致"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Brian Eno"], "evidence": "https://enoweb.co.uk/interviews/detail92.html", "note": null}
+    },
+    {
+      "article_id": "vol0073-c04",
+      "status": "found",
+      "note": "英文原题 Composers as Gardeners（Brian Eno 于 2011-10-16 Serpentine Gallery Garden Marathon 的发言，Edge.org 2011-11-10 刊出文字稿）",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "Composers as Gardeners",
+          "url": "https://www.edge.org/conversation/brian_eno-composers-as-gardeners",
+          "site": "edge.org",
+          "evidence": "https://www.edge.org/conversation/brian_eno-composers-as-gardeners",
+          "confidence": "high",
+          "note": "开篇「About the time when I first started making records…」及 Terry Riley《In C》、Steve Reich《It's Gonna Rain》《Come Out》与摘录一致"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Brian Eno"], "evidence": "https://www.edge.org/conversation/brian_eno-composers-as-gardeners", "note": null}
+    },
+    {
+      "article_id": "vol0038-c07",
+      "status": "found",
+      "note": "英文原题 Notes on “Taste”（Brie Wolfson，Are.na Editorial，2022-05-02），仿 Susan Sontag《Notes on “Camp”》的编号笔记体",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Notes on “Taste”",
+          "url": "https://www.are.na/editorial/notes-on-taste",
+          "site": "are.na",
+          "evidence": "https://www.are.na/editorial/notes-on-taste",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Brie Wolfson"], "evidence": "https://www.are.na/editorial/notes-on-taste", "note": null}
+    },
+    {
+      "article_id": "vol0078-c05",
+      "status": "found",
+      "note": "英文原题 Storytelling That Moves People: A Conversation with Screenwriting Coach Robert McKee（Harvard Business Review，2003 年 6 月）",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "Storytelling That Moves People",
+          "url": "https://hbr.org/2003/06/storytelling-that-moves-people",
+          "site": "hbr.org",
+          "evidence": "https://hbr.org/2003/06/storytelling-that-moves-people",
+          "confidence": "high",
+          "note": "页面署名 by Bronwyn Fryer，From the Magazine (June 2003)"
+        },
+        {
+          "type": "paper",
+          "title": "Storytelling that moves people. A conversation with screenwriting coach Robert McKee.（PubMed 索引，HBR 81(6):51-5）",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/12800716",
+          "site": "pubmed.ncbi.nlm.nih.gov",
+          "evidence": "https://pubmed.ncbi.nlm.nih.gov/12800716",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Bronwyn Fryer"], "evidence": "https://hbr.org/2003/06/storytelling-that-moves-people", "note": "Bronwyn Fryer（时任 HBR 资深编辑）为采访与署名者，受访者为编剧导师 Robert McKee，正文观点主要出自 McKee"}
+    },
+    {
+      "article_id": "vol0072-c08",
+      "status": "found",
+      "note": "标题借用 Byrne Hobart 的 Optionality is for Innumerate Cowards（2018），但译文正文实为 Applied Divinity Studies 的 Asymmetric Opportunities and the Cult of Optionality（2021-03-15）：开篇 Taleb「一本书（或五本）」、Naval/James Clear 推文、Tom Cleveland 看涨期权，以及第三人称引用 Hobart 原句均逐句对应",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Asymmetric Opportunities and the Cult of Optionality",
+          "url": "https://www.applieddivinitystudies.com/asymmetric/index.html",
+          "site": "applieddivinitystudies.com",
+          "evidence": "https://www.applieddivinitystudies.com/asymmetric/index.html",
+          "confidence": "high",
+          "note": "译文正文的实际出处"
+        },
+        {
+          "type": "article",
+          "title": "Optionality is for Innumerate Cowards",
+          "url": "https://byrnehobart.medium.com/optionality-is-for-innumerate-cowards-f2c5a759b607",
+          "site": "medium.com",
+          "evidence": "https://byrnehobart.medium.com/optionality-is-for-innumerate-cowards-f2c5a759b607",
+          "confidence": "high",
+          "note": "章节标题所借用的 Byrne Hobart 原文（2018-12-10），被正文引用；The Diff 存档另见 https://www.thediff.co/archive/optionality-is-for-innumerate-cowards-f2c5a759b607/"
+        }
+      ],
+      "author_check": {"status": "corrected", "authors": ["Applied Divinity Studies"], "evidence": "https://www.applieddivinitystudies.com/asymmetric/index.html", "note": "正文出自匿名博客 Applied Divinity Studies（笔名，页面无个人署名），Byrne Hobart 只是被引用的作者；若坚持按章节标题归属则对应 Hobart 2018 年原文，但内容不符"}
+    },
+    {
+      "article_id": "vol0079-c05",
+      "status": "found",
+      "note": "英文原题 Meditation in a Toolshed（C. S. Lewis，原载 The Coventry Evening Telegraph，1945-07-17；收入文集 God in the Dock）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Meditation in a Toolshed（全文 PDF）",
+          "url": "https://www.cutsinger.net/wp-content/uploads/2019/08/3_saints_1.pdf",
+          "site": "cutsinger.net",
+          "evidence": "https://www.cutsinger.net/wp-content/uploads/2019/08/3_saints_1.pdf",
+          "confidence": "high",
+          "note": "第三方教学用全文，工具棚光束、looking at / looking along、尼永加舞蹈等段落与摘录逐句对应"
+        },
+        {
+          "type": "website",
+          "title": "Jack in Retrospect Monthly - July（C. S. Lewis 官方站，记载本文 1945-07-17 首发于 The Coventry Evening Telegraph，后收入 God in the Dock）",
+          "url": "https://www.cslewis.com/jack-in-retrospect-monthly-july/",
+          "site": "cslewis.com",
+          "evidence": "https://www.cslewis.com/jack-in-retrospect-monthly-july/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "God in the Dock: Essays on Theology and Ethics（Eerdmans，1970；第 29 篇 Meditation in a Toolshed）",
+          "url": "https://search.worldcat.org/title/32880490",
+          "site": "worldcat.org",
+          "evidence": "https://search.worldcat.org/title/32880490",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["C. S. Lewis"], "evidence": "https://www.cslewis.com/jack-in-retrospect-monthly-july/", "note": null}
+    },
+    {
+      "article_id": "vol0054-c07",
+      "status": "found",
+      "note": "英文原题 Echo Chambers and Epistemic Bubbles（C. Thi Nguyen，Episteme 17(2):141–161，2018 年 9 月在线发表、2020 年刊出）；作者注明其早期面向大众的版本为 Aeon 杂志的 Escaping the Echo Chamber",
+      "sources": [
+        {
+          "type": "paper",
+          "title": "Echo Chambers and Epistemic Bubbles",
+          "url": "https://www.cambridge.org/core/journals/episteme/article/abs/echo-chambers-and-epistemic-bubbles/5D4AC3A808C538E17C50A7C09EC706F0",
+          "site": "cambridge.org",
+          "evidence": "https://doi.org/10.1017/epi.2018.32",
+          "confidence": "high",
+          "note": "DOI 10.1017/epi.2018.32；引言中 Saez-Trumper et al. 2013、An et al. 2014 引文与摘录一致"
+        },
+        {
+          "type": "paper",
+          "title": "ECHO CHAMBERS AND EPISTEMIC BUBBLES（ResearchGate 全文，C. Thi Nguyen, University of Utah）",
+          "url": "https://www.researchgate.net/publication/327633237_ECHO_CHAMBERS_AND_EPISTEMIC_BUBBLES",
+          "site": "researchgate.net",
+          "evidence": "https://www.researchgate.net/publication/327633237_ECHO_CHAMBERS_AND_EPISTEMIC_BUBBLES",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["C. Thi Nguyen"], "evidence": "https://www.researchgate.net/publication/327633237_ECHO_CHAMBERS_AND_EPISTEMIC_BUBBLES", "note": null}
+    },
+    {
+      "article_id": "vol0009-c03",
+      "status": "found",
+      "note": "编译自 Lenny's Podcast 节目 How Notion leveraged community to build a $10B business | Camille Ricketts（2022-12-11）",
+      "sources": [
+        {
+          "type": "podcast",
+          "title": "How Notion leveraged community to build a $10B business | Camille Ricketts (Notion, First Round Capital)",
+          "url": "https://www.lennysnewsletter.com/p/how-notion-leveraged-community-to",
+          "site": "lennysnewsletter.com",
+          "evidence": "https://www.lennysnewsletter.com/p/how-notion-leveraged-community-to",
+          "confidence": "high",
+          "note": "节目页含时间轴；与摘录中 Notion 首位市场营销员工、First Round Review、特斯拉与马斯克共事等介绍一致"
+        },
+        {
+          "type": "podcast",
+          "title": "How Notion leveraged community… - Lenny's Podcast（Apple Podcasts）",
+          "url": "https://podcasts.apple.com/us/podcast/how-notion-leveraged-community-to-build-a-%2410b/id1627920305?i=1000589746210",
+          "site": "podcasts.apple.com",
+          "evidence": "https://podcasts.apple.com/us/podcast/how-notion-leveraged-community-to-build-a-%2410b/id1627920305?i=1000589746210",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Camille Ricketts", "Lenny Rachitsky"], "evidence": "https://www.lennysnewsletter.com/p/how-notion-leveraged-community-to", "note": "原书单名 Camille 即 Camille Ricketts（嘉宾，前 Notion 市场营销负责人）；Lenny Rachitsky 为主持人"}
+    },
+    {
+      "article_id": "vol0016-c07",
+      "status": "found",
+      "note": "书籍节选：Carl Rogers《On Becoming a Person》（1961）第 6 章 What It Means to Become a Person（「戴着面具」「我到底是谁」等段落）",
+      "sources": [
+        {
+          "type": "book",
+          "title": "On Becoming a Person: A Therapist's View of Psychotherapy（Houghton Mifflin，1961；中译《个人形成论》/《成为一个人》）",
+          "url": "https://www.goodreads.com/book/show/174879.On_Becoming_a_Person",
+          "site": "goodreads.com",
+          "evidence": "https://www.goodreads.com/book/show/174879.On_Becoming_a_Person",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "On Becoming a Person Part 3, Chapter 6 Summary: “What It Means to Become a Person”",
+          "url": "https://www.supersummary.com/on-becoming-a-person/part-3-chapters-5-7-summary/",
+          "site": "supersummary.com",
+          "evidence": "https://www.supersummary.com/on-becoming-a-person/part-3-chapters-5-7-summary/",
+          "confidence": "medium",
+          "note": "章节概要页，用于定位章节：「Who am I, really?」「getting behind the mask」与摘录一致"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Carl Rogers"], "evidence": "https://www.goodreads.com/book/show/174879.On_Becoming_a_Person", "note": null}
+    },
+    {
+      "article_id": "vol0065-c03",
+      "status": "found",
+      "note": "英文原题 How to be more agentic（Cate Hall，Substack Useful Fictions，2024-01-10）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to be more agentic",
+          "url": "https://usefulfictions.substack.com/p/how-to-be-more-agentic",
+          "site": "usefulfictions.substack.com",
+          "evidence": "https://usefulfictions.substack.com/p/how-to-be-more-agentic",
+          "confidence": "high",
+          "note": "Court rejection / Seek real feedback（cooking without tasting）等小节与摘录高亮一致"
+        },
+        {
+          "type": "article",
+          "title": "How to Be More Agentic（Every 转载）",
+          "url": "https://every.to/p/how-to-be-more-agentic",
+          "site": "every.to",
+          "evidence": "https://every.to/p/how-to-be-more-agentic",
+          "confidence": "medium",
+          "note": "搜索结果中可见的同题转载页，未打开核对署名"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Cate Hall"], "evidence": "https://usefulfictions.substack.com/p/how-to-be-more-agentic", "note": null}
+    },
+    {
+      "article_id": "vol0011-c04",
+      "status": "found",
+      "note": "英文原题 Why Tacit Knowledge is More Important Than Deliberate Practice（Cedric Chin，Commoncog，隐性知识系列第 1 篇）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Why Tacit Knowledge is More Important Than Deliberate Practice",
+          "url": "https://commoncog.com/tacit-knowledge-is-a-real-thing/",
+          "site": "commoncog.com",
+          "evidence": "https://commoncog.com/tacit-knowledge-is-a-real-thing/",
+          "confidence": "high",
+          "note": "骑自行车示例、与 Ericsson 刻意练习的对比与摘录一致"
+        },
+        {
+          "type": "website",
+          "title": "The Tacit Knowledge Series（系列索引）",
+          "url": "https://commoncog.com/the-tacit-knowledge-series/",
+          "site": "commoncog.com",
+          "evidence": "https://commoncog.com/the-tacit-knowledge-series/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Cedric Chin"], "evidence": "https://commoncog.com/tacit-knowledge-is-a-real-thing/", "note": null}
+    },
+    {
+      "article_id": "vol0038-c06",
+      "status": "found",
+      "note": "英文原题 Action Produces Information（Cedric Chin，Commoncog）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Action Produces Information",
+          "url": "https://commoncog.com/action-produces-information/",
+          "site": "commoncog.com",
+          "evidence": "https://commoncog.com/action-produces-information/",
+          "confidence": "high",
+          "note": "开篇期望效用计算与贝叶斯分析两例与摘录逐句对应"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Cedric Chin"], "evidence": "https://commoncog.com/action-produces-information/", "note": null}
+    },
+    {
+      "article_id": "vol0079-c06",
+      "status": "found",
+      "note": "英文原题 research as leisure activity（Celine Nguyen，Newsletter personal canon，2024-05-27）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "research as leisure activity",
+          "url": "https://www.personalcanon.com/p/research-as-leisure-activity",
+          "site": "personalcanon.com",
+          "evidence": "https://www.personalcanon.com/p/research-as-leisure-activity",
+          "confidence": "high",
+          "note": "发布日期见 https://www.personalcanon.com/about 的文章列表"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Celine Nguyen"], "evidence": "https://www.personalcanon.com/p/research-as-leisure-activity", "note": null}
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "brian-armstrong",
+      "note": "Coinbase 联合创始人兼 CEO",
+      "sources": [
+        {"type": "website", "title": "Brian Armstrong 个人网站（Bio / Essays）", "url": "https://www.brianarmstrong.org/bio/", "site": "brianarmstrong.org", "evidence": "https://www.brianarmstrong.org/bio/", "confidence": "high", "note": "文章索引见 https://www.brianarmstrong.org/essays/"},
+        {"type": "website", "title": "Brian Armstrong (businessman) - Wikipedia", "url": "https://en.wikipedia.org/wiki/Brian_Armstrong_(businessman)", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Brian_Armstrong_(businessman)", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "brian-chesky",
+      "note": "Airbnb 联合创始人兼 CEO",
+      "sources": [
+        {"type": "website", "title": "Brian Chesky - Airbnb Newsroom（官方简介）", "url": "https://news.airbnb.com/about-us/leadership/brian-chesky", "site": "news.airbnb.com", "evidence": "https://news.airbnb.com/about-us/leadership/brian-chesky", "confidence": "high", "note": null},
+        {"type": "website", "title": "Brian Chesky - Y Combinator 创始人页", "url": "https://www.ycombinator.com/founders/brian-chesky", "site": "ycombinator.com", "evidence": "https://www.ycombinator.com/founders/brian-chesky", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "brian-eno",
+      "note": "英国音乐人、制作人、视觉艺术家，环境音乐与生成音乐的代表人物",
+      "sources": [
+        {"type": "website", "title": "Brian Eno 官方网站", "url": "https://www.brian-eno.net/", "site": "brian-eno.net", "evidence": "https://www.brian-eno.net/", "confidence": "high", "note": "由其唱片公司 Warp Records 运营"},
+        {"type": "website", "title": "EnoWeb：Brian Eno 资料站（收录访谈与文章）", "url": "https://www.enoweb.co.uk/links.html", "site": "enoweb.co.uk", "evidence": "https://www.enoweb.co.uk/links.html", "confidence": "medium", "note": "非官方资料站"}
+      ]
+    },
+    {
+      "author_id": "brie-wolfson",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Brie Wolfson 个人网站", "url": "https://www.briewolfson.com/", "site": "briewolfson.com", "evidence": "https://www.briewolfson.com/", "confidence": "high", "note": "站内收录 Notes on Taste"}
+      ]
+    },
+    {
+      "author_id": "bronwyn-fryer",
+      "note": "前《哈佛商业评论》资深编辑，商业写作与合著者",
+      "sources": [
+        {"type": "website", "title": "Bronwyn Fryer 个人网站", "url": "https://bronwynfryer.com/bronwyn-fryer/", "site": "bronwynfryer.com", "evidence": "https://bronwynfryer.com/bronwyn-fryer/", "confidence": "high", "note": null},
+        {"type": "book", "title": "The End of Epidemics（与 Jonathan D. Quick 合著，St. Martin's Press，2018）", "url": "https://academic.macmillan.com/author/bronwynfryer/", "site": "academic.macmillan.com", "evidence": "https://academic.macmillan.com/author/bronwynfryer/", "confidence": "high", "note": "Macmillan 作者页"}
+      ]
+    },
+    {
+      "author_id": "byrne-hobart",
+      "note": "金融与科技 Newsletter The Diff 创办人",
+      "sources": [
+        {"type": "website", "title": "The Diff - Inflections in finance and tech（Byrne Hobart 的 Newsletter）", "url": "https://www.thediff.co/", "site": "thediff.co", "evidence": "https://www.thediff.co/", "confidence": "high", "note": null},
+        {"type": "website", "title": "About - The Diff", "url": "https://www.thediff.co/about/", "site": "thediff.co", "evidence": "https://www.thediff.co/about/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "c-s-lewis",
+      "note": "英国作家、牛津/剑桥文学学者、基督教护教作家",
+      "sources": [
+        {"type": "website", "title": "C. S. Lewis - Wikipedia", "url": "https://en.wikipedia.org/wiki/C._S._Lewis", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/C._S._Lewis", "confidence": "high", "note": null},
+        {"type": "book", "title": "Mere Christianity（《返璞归真》，1952）", "url": "https://www.cslewis.com/mere-christianity-making-righteousness-readable/", "site": "cslewis.com", "evidence": "https://www.cslewis.com/mere-christianity-making-righteousness-readable/", "confidence": "high", "note": "C. S. Lewis 官方站介绍页"},
+        {"type": "book", "title": "God in the Dock: Essays on Theology and Ethics（Eerdmans，1970）", "url": "https://search.worldcat.org/title/32880490", "site": "worldcat.org", "evidence": "https://search.worldcat.org/title/32880490", "confidence": "high", "note": "收录 Meditation in a Toolshed"}
+      ]
+    },
+    {
+      "author_id": "c-thi-nguyen",
+      "note": "犹他大学哲学教授",
+      "sources": [
+        {"type": "website", "title": "Objectionable（C. Thi Nguyen 个人网站）", "url": "https://objectionable.net/", "site": "objectionable.net", "evidence": "https://objectionable.net/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Games: Agency as Art（Oxford University Press，2020）", "url": "https://academic.oup.com/book/32137", "site": "academic.oup.com", "evidence": "https://academic.oup.com/book/32137", "confidence": "high", "note": "获美国哲学协会 2021 年图书奖"}
+      ]
+    },
+    {
+      "author_id": "cameron-allan-mckean",
+      "note": "Aeon+Psyche 编辑。注意：Aeon 上 Bergson 与 Einstein 时间之辩的文章 Clock time contra lived time 署名作者为 Evan Thompson，McKean 只是编辑（https://aeon.co/essays/who-really-won-when-bergson-and-einstein-debated-time），「钟表与心跳」一文的作者归属可能有误",
+      "sources": [
+        {"type": "website", "title": "Cameron Allan McKean 个人网站", "url": "https://cameronallanmckean.com/", "site": "cameronallanmckean.com", "evidence": "https://cameronallanmckean.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Cameron Allan McKean | Aeon（编辑页）", "url": "https://aeon.co/users/cameron-allan-mckean", "site": "aeon.co", "evidence": "https://aeon.co/users/cameron-allan-mckean", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "camille",
+      "note": "全名 Camille Ricketts：Notion 首位市场营销员工、First Round Review 创始编辑，曾任职特斯拉与《华尔街日报》",
+      "sources": [
+        {"type": "social", "title": "Cam (Camille Ricketts) | Substack", "url": "https://substack.com/@camricketts", "site": "substack.com", "evidence": "https://substack.com/@camricketts", "confidence": "high", "note": null},
+        {"type": "social", "title": "Camille Ricketts | LinkedIn", "url": "https://linkedin.com/in/camillericketts", "site": "linkedin.com", "evidence": "https://linkedin.com/in/camillericketts", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "carl-rogers",
+      "note": "美国心理学家，人本主义心理学奠基人之一，来访者中心疗法创始人",
+      "sources": [
+        {"type": "website", "title": "Carl Rogers - Wikipedia", "url": "https://en.wikipedia.org/wiki/Carl_Rogers", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Carl_Rogers", "confidence": "high", "note": null},
+        {"type": "website", "title": "Carl Rogers, PhD: 1947 APA President（美国心理学会简介）", "url": "https://www.apa.org/about/governance/president/carl-r-rogers", "site": "apa.org", "evidence": "https://www.apa.org/about/governance/president/carl-r-rogers", "confidence": "high", "note": null},
+        {"type": "book", "title": "On Becoming a Person（《个人形成论》/《成为一个人》，Houghton Mifflin，1961）", "url": "https://books.google.com/books/about/On_Becoming_a_Person.html?id=DO8HDFxTqO0C", "site": "books.google.com", "evidence": "https://books.google.com/books/about/On_Becoming_a_Person.html?id=DO8HDFxTqO0C", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "cate-hall",
+      "note": "前最高法院诉讼律师、前女子扑克世界第一，Astera Institute 前 CEO",
+      "sources": [
+        {"type": "website", "title": "Useful Fictions（Cate Hall 的 Substack Newsletter）", "url": "https://usefulfictions.substack.com/about", "site": "usefulfictions.substack.com", "evidence": "https://usefulfictions.substack.com/about", "confidence": "high", "note": null},
+        {"type": "website", "title": "Cate Hall 个人网站", "url": "https://www.catehall.com/", "site": "catehall.com", "evidence": "https://www.catehall.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "You Can Just Do Things: How High-Agency People Get What They Want Out of Life（HarperCollins，2026）", "url": "https://www.catehall.com/the-book", "site": "catehall.com", "evidence": "https://books.google.com/books/about/You_Can_Just_Do_Things.html?id=yJaDEQAAQBAJ", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "cedric-chin",
+      "note": "新加坡，Commoncog 创办人",
+      "sources": [
+        {"type": "website", "title": "Commoncog（Cedric Chin 创办的商业专长刊物）", "url": "https://commoncog.com/about/", "site": "commoncog.com", "evidence": "https://commoncog.com/about/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Cedric Chin - Commoncog 作者页", "url": "https://commoncog.com/author/cedric/", "site": "commoncog.com", "evidence": "https://commoncog.com/author/cedric/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "celine-nguyen",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "personal canon（Celine Nguyen 的 Newsletter）", "url": "https://www.personalcanon.com/about", "site": "personalcanon.com", "evidence": "https://www.personalcanon.com/about", "confidence": "high", "note": null}
+      ]
+    }
+  ]
+}

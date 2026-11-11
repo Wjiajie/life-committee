@@ -1,0 +1,375 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0044-c05",
+      "status": "found",
+      "note": "英文原题 The Secrets Of Writing Smart, Long-form Articles That Go Absolutely Viral（Fast Company，2015-03-05）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Secrets Of Writing Smart, Long-form Articles That Go Absolutely Viral",
+          "url": "https://www.fastcompany.com/3042312/the-secrets-of-writing-smart-longform-articles-that-go-absolutely-viral/",
+          "site": "fastcompany.com",
+          "evidence": "https://www.fastcompany.com/3042312/the-secrets-of-writing-smart-longform-articles-that-go-absolutely-viral/",
+          "confidence": "high",
+          "note": "页面显示 March 5, 2015 BY Michael Grothaus，正文引述 Tim Urban 与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0026-c03",
+      "status": "found",
+      "note": "英文原题 How Notion builds product（Lenny's Newsletter，2023-05-30，付费文章）",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "How Notion builds product",
+          "url": "https://www.lennysnewsletter.com/p/how-notion-builds-product",
+          "site": "lennysnewsletter.com",
+          "evidence": "https://www.lennysnewsletter.com/p/how-notion-builds-product",
+          "confidence": "high",
+          "note": "开头“A huge thank-you to Michael Manapat, Notion's Chief Product and Technology Officer”与中文摘录逐句对应；属 How They Build Product 系列"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Michael Manapat"],
+        "evidence": "https://www.lennysnewsletter.com/p/how-notion-builds-product",
+        "note": "署名作者为 Lenny Rachitsky（访谈者/撰稿），Michael Manapat 为受访者、正文主体为其回答；若按署名归属应改为 Lenny Rachitsky"
+      }
+    },
+    {
+      "article_id": "vol0063-c03",
+      "status": "found",
+      "note": "Talks at Google 演讲 The Success Equation: Untangling Skill and Luck（2014）的文字稿译文",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "The Success Equation: Untangling Skill and Luck | Michael Mauboussin | Talks at Google",
+          "url": "https://www.youtube.com/watch?v=1JLfqBsX5Lc",
+          "site": "youtube.com",
+          "evidence": "https://www.youtube.com/watch?v=1JLfqBsX5Lc",
+          "confidence": "high",
+          "note": "视频字幕开场介绍（Credit Suisse 董事总经理、Columbia 兼职教授、“I love teaching and writing”）与中文摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "Talks at Google: Michael Mauboussin, \"The Success Equation: Untangling Skill and Luck\"",
+          "url": "https://www.valueinvestingworld.com/2014/07/talks-at-google-michael-mauboussin.html",
+          "site": "valueinvestingworld.com",
+          "evidence": "https://www.valueinvestingworld.com/2014/07/talks-at-google-michael-mauboussin.html",
+          "confidence": "medium",
+          "note": "佐证演讲时间为 2014 年 7 月"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0042-c04",
+      "status": "found",
+      "note": "英文原题 Augmenting Long-term Memory（2018 年 7 月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Augmenting Long-term Memory",
+          "url": "http://augmentingcognition.com/ltm.html",
+          "site": "augmentingcognition.com",
+          "evidence": "http://augmentingcognition.com/ltm.html",
+          "confidence": "high",
+          "note": "页面署名 Michael Nielsen | Y Combinator Research | July 2018，开篇 Shereshevsky/Luria 故事与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0043-c06",
+      "status": "found",
+      "note": "英文原题 Principles of Effective Research（Technical note 0404，2004 年 7 月）",
+      "sources": [
+        {
+          "type": "paper",
+          "title": "Principles of effective research (Technical note 0404)",
+          "url": "https://www.cs.unh.edu/~sbhatia/neilsen.pdf",
+          "site": "cs.unh.edu",
+          "evidence": "https://www.cs.unh.edu/~sbhatia/neilsen.pdf",
+          "confidence": "high",
+          "note": "第三方转存的 PDF 副本，署名 Michael A. Nielsen，University of Queensland，2004-07-27；未找到作者站点上可访问的原始链接"
+        },
+        {
+          "type": "article",
+          "title": "Michael Nielsen: Principles of Effective Research",
+          "url": "https://lemire.me/blog/2004/07/27/michael-nielsen-principles-of-effective-research/",
+          "site": "lemire.me",
+          "evidence": "https://lemire.me/blog/2004/07/27/michael-nielsen-principles-of-effective-research/",
+          "confidence": "medium",
+          "note": "2004 年发布当时的介绍帖，佐证作者与时间"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0010-c03",
+      "status": "found",
+      "note": "英文原题 What Is Strategy?（Harvard Business Review，1996 年 11-12 月号）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "What Is Strategy?",
+          "url": "https://hbr.org/1996/11/what-is-strategy?ab=RL-strategy-text-1",
+          "site": "hbr.org",
+          "evidence": "https://hbr.org/1996/11/what-is-strategy?ab=RL-strategy-text-1",
+          "confidence": "high",
+          "note": "HBR 页面署名 Michael E. Porter，From the Magazine (November–December 1996)"
+        },
+        {
+          "type": "article",
+          "title": "What Is Strategy? - Harvard Business School Faculty & Research",
+          "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=10698",
+          "site": "hbs.edu",
+          "evidence": "https://www.hbs.edu/faculty/Pages/item.aspx?num=10698",
+          "confidence": "medium",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0019-c03",
+      "status": "found",
+      "note": "英文原题 While Everyone Is Distracted By Social Media, Successful People Double Down On An Underrated Skill（Medium / Accelerated Intelligence，2018-05-02）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "While Everyone Is Distracted By Social Media, Successful People Double Down On An Underrated Skill",
+          "url": "https://medium.com/accelerated-intelligence/while-everyone-is-distracted-by-social-media-successful-people-double-down-on-a-totally-underrated-5a86701e9a27",
+          "site": "medium.com",
+          "evidence": "https://medium.com/accelerated-intelligence/while-everyone-is-distracted-by-social-media-successful-people-double-down-on-a-totally-underrated-5a86701e9a27",
+          "confidence": "high",
+          "note": "署名 Michael Simmons，May 2, 2018；breakthrough/incremental knowledge 与三条解决方案和摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0072-c07",
+      "status": "found",
+      "note": "英文原题 The Trouble with Optionality（2017 年哈佛毕业季评论文章）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Trouble with Optionality",
+          "url": "https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/",
+          "site": "thecrimson.com",
+          "evidence": "https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/",
+          "confidence": "high",
+          "note": "The Harvard Crimson，署名 Mihir A. Desai，开头“The language of finance can be insidious”与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "The Trouble with Optionality — Mihir A. Desai",
+          "url": "http://www.mihirdesai.org/all-publications/2017/6/1/the-problem-with-optionality",
+          "site": "mihirdesai.org",
+          "evidence": "http://www.mihirdesai.org/all-publications/2017/6/1/the-problem-with-optionality",
+          "confidence": "high",
+          "note": "作者个人网站转载"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0062-c06",
+      "status": "found",
+      "note": "The Observer Effect 第四期访谈 An Interview with Atlassian Co-Founder and Co-CEO Mike Cannon-Brookes（2021-10-31）；原站 theobservereffect.org 当前无法访问，完整 URL 在发布推文中被截断，故用推文串存档页作出处",
+      "sources": [
+        {
+          "type": "social",
+          "title": "Sriram Krishnan 发布 The Observer Effect 对 Mike Cannon-Brookes 访谈的推文串",
+          "url": "https://threadreaderapp.com/thread/1454533859396046851",
+          "site": "threadreaderapp.com",
+          "evidence": "https://threadreaderapp.com/thread/1454533859396046851",
+          "confidence": "medium",
+          "note": "推文串列出的主题（Atlassian 起源、工作周、决策树模型、IPO、气候）与中文摘录吻合；访谈原文页未能打开核对"
+        },
+        {
+          "type": "article",
+          "title": "An Interview with Atlassian Co-Founder and Co-CEO Mike Cannon-Brookes — White Noise",
+          "url": "https://www.tomwhitenoise.com/blog/mike-cannon-brookes-atlassian",
+          "site": "tomwhitenoise.com",
+          "evidence": "https://www.tomwhitenoise.com/blog/mike-cannon-brookes-atlassian",
+          "confidence": "medium",
+          "note": "访谈编辑 Tom White 的介绍帖，确认为 The Observer Effect 第四期访谈"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Mike Cannon-Brookes"],
+        "evidence": "https://threadreaderapp.com/thread/1454533859396046851",
+        "note": "访谈由 Sriram Krishnan（The Observer Effect）主持，Mike Cannon-Brookes 为受访者；按受访者归属成立"
+      }
+    },
+    {
+      "article_id": "vol0065-c05",
+      "status": "found",
+      "note": "英文原题 Patterns of Refactored Agency（Ribbonfarm 客座文章，2012-11-27）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Patterns of Refactored Agency",
+          "url": "https://ribbonfarm.com/2012/11/27/patterns-of-refactored-agency/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://ribbonfarm.com/2012/11/27/patterns-of-refactored-agency/",
+          "confidence": "high",
+          "note": "页面注明 This is a guest post by Mike Travers；开头 C.P. Snow《两种文化》段落与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0049-c07",
+      "status": "found",
+      "note": "出自 Mikkel Aaland 著作 Sweat（1978）第 1 章 Sweat Bathing and the Body，作者网站全文公开",
+      "sources": [
+        {
+          "type": "book",
+          "title": "Sweat, Chapter 1: Sweat Bathing and the Body",
+          "url": "https://www.mikkelaaland.com/sweat-bathing-and-the-body.html",
+          "site": "mikkelaaland.com",
+          "evidence": "https://www.mikkelaaland.com/sweat-bathing-and-the-body.html",
+          "confidence": "high",
+          "note": "章首引语“Give me a fever and I can cure any disease – Hippocrates”及“像慢跑或修剪草坪一样活跃”与摘录一致"
+        },
+        {
+          "type": "book",
+          "title": "Sweat: The Illustrated History and Description of the Finnish Sauna, Russian Bania, Islamic Hammam, Japanese Mushi-Buro, Mexican Temescal, and American Indian & Eskimo Sweatlodge（Capra Press，1978；Cyberbohemia Press 电子版 2017）",
+          "url": "https://www.booktopia.com.au/sweat-mikkel-aaland/ebook/9780997261059.html",
+          "site": "booktopia.com.au",
+          "evidence": "https://www.booktopia.com.au/sweat-mikkel-aaland/ebook/9780997261059.html",
+          "confidence": "medium",
+          "note": null
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "michael-grothaus",
+      "note": "小说家、记者，Fast Company 撰稿人",
+      "sources": [
+        {"type": "website", "title": "Michael Grothaus 个人网站", "url": "https://www.michaelgrothaus.com/", "site": "michaelgrothaus.com", "evidence": "https://www.michaelgrothaus.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Trust No One: Inside the World of Deepfakes（Hodder & Stoughton，2021）", "url": "https://www.northbanktalent.com/clients/michael-grothaus/", "site": "northbanktalent.com", "evidence": "https://www.northbanktalent.com/clients/michael-grothaus/", "confidence": "medium", "note": "经纪公司作者页，列出该书与小说 Epiphany Jones"}
+      ]
+    },
+    {
+      "author_id": "michael-hudson",
+      "note": "经济学家，密苏里大学堪萨斯城分校研究教授，ISLET 主席",
+      "sources": [
+        {"type": "website", "title": "Michael Hudson 个人网站", "url": "https://michael-hudson.com/", "site": "michael-hudson.com", "evidence": "https://michael-hudson.com/about/", "confidence": "high", "note": null},
+        {"type": "book", "title": "...and forgive them their debts: Lending, Foreclosure and Redemption from Bronze Age Finance to the Jubilee Year（ISLET-Verlag，2018）", "url": "https://michael-hudson.com/2018/08/and-forgive-them-their-debts/", "site": "michael-hudson.com", "evidence": "https://michael-hudson.com/2018/08/and-forgive-them-their-debts/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Super Imperialism: The Economic Strategy of American Empire（1968；第 3 版 2021）", "url": "https://michael-hudson.com/books/", "site": "michael-hudson.com", "evidence": "https://michael-hudson.com/books/", "confidence": "medium", "note": "作者网站书目页"}
+      ]
+    },
+    {
+      "author_id": "michael-manapat",
+      "note": "前 Notion 首席产品与技术官，曾任 Stripe 应用机器学习负责人，现 Rowspace 联合创始人",
+      "sources": [
+        {"type": "website", "title": "Michael Manapat 个人主页", "url": "https://mlmanapat.notion.site/", "site": "mlmanapat.notion.site", "evidence": "https://mlmanapat.notion.site/", "confidence": "high", "note": "列有其过往写作与演讲"},
+        {"type": "social", "title": "Michael Manapat LinkedIn", "url": "https://linkedin.com/in/mlmanapat", "site": "linkedin.com", "evidence": "https://linkedin.com/in/mlmanapat", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "michael-mauboussin",
+      "note": "Counterpoint Global（摩根士丹利投资管理）研究主管，哥伦比亚商学院兼职教授",
+      "sources": [
+        {"type": "website", "title": "Michael J. Mauboussin 个人网站", "url": "https://www.michaelmauboussin.com/", "site": "michaelmauboussin.com", "evidence": "https://www.michaelmauboussin.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing（2012）", "url": "https://success-equation.com/videos", "site": "success-equation.com", "evidence": "https://success-equation.com/videos", "confidence": "medium", "note": "该书官方网站"},
+        {"type": "book", "title": "More Than You Know: Finding Financial Wisdom in Unconventional Places（Columbia University Press）", "url": "https://cup.columbia.edu/book/more-than-you-know/9780231143721/", "site": "cup.columbia.edu", "evidence": "https://cup.columbia.edu/book/more-than-you-know/9780231143721/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "michael-nielsen",
+      "note": "量子计算先驱、开放科学倡导者，现就职 Astera Institute",
+      "sources": [
+        {"type": "website", "title": "Michael Nielsen's notebook（个人网站）", "url": "https://michaelnotebook.com/", "site": "michaelnotebook.com", "evidence": "https://michaelnotebook.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Reinventing Discovery: The New Era of Networked Science（Princeton University Press，2012）", "url": "https://press.princeton.edu/books/paperback/9780691202846/reinventing-discovery", "site": "press.princeton.edu", "evidence": "https://press.princeton.edu/books/paperback/9780691202846/reinventing-discovery", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "michael-porter",
+      "note": "哈佛商学院大学教授，战略与竞争力研究所所长",
+      "sources": [
+        {"type": "website", "title": "Michael E. Porter - Harvard Business School 教师主页", "url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6532", "site": "hbs.edu", "evidence": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6532", "confidence": "high", "note": null},
+        {"type": "website", "title": "Institute for Strategy and Competitiveness - About Michael Porter", "url": "https://www.isc.hbs.edu/about-michael-porter/biography/Pages/default.aspx", "site": "isc.hbs.edu", "evidence": "https://www.isc.hbs.edu/about-michael-porter/biography/Pages/default.aspx", "confidence": "high", "note": null},
+        {"type": "book", "title": "Competitive Strategy: Techniques for Analyzing Industries and Competitors（《竞争战略》，Free Press，1980）", "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=195", "site": "hbs.edu", "evidence": "https://www.hbs.edu/faculty/Pages/item.aspx?num=195", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "michael-simmons",
+      "note": "Empact 联合创始人，长期在 Medium / Inc. / HBR 等撰稿",
+      "sources": [
+        {"type": "website", "title": "Michael D. Simmons 个人网站", "url": "https://michaeldsimmons.com/bio/", "site": "michaeldsimmons.com", "evidence": "https://michaeldsimmons.com/bio/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Blockbuster Blueprint（Substack Newsletter）", "url": "https://blockbuster.thoughtleader.school/", "site": "blockbuster.thoughtleader.school", "evidence": "https://blockbuster.thoughtleader.school/about", "confidence": "high", "note": null},
+        {"type": "website", "title": "Michael Simmons – Medium", "url": "https://michaeldsimmons.medium.com/", "site": "medium.com", "evidence": "https://michaeldsimmons.medium.com/", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "michel-h-devoret",
+      "note": "物理学家，2025 年诺贝尔物理学奖得主，UC Santa Barbara 教授、耶鲁大学荣休教授、Google Quantum AI 首席科学家",
+      "sources": [
+        {"type": "website", "title": "Michel H. Devoret – Facts – 2025 - NobelPrize.org", "url": "https://www.nobelprize.org/prizes/physics/2025/devoret/facts/", "site": "nobelprize.org", "evidence": "https://www.nobelprize.org/prizes/physics/2025/devoret/facts/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Michel H. Devoret | UC Santa Barbara", "url": "https://www.ucsb.edu/about/faculty-and-alumni/michel-devoret", "site": "ucsb.edu", "evidence": "https://www.ucsb.edu/about/faculty-and-alumni/michel-devoret", "confidence": "high", "note": null},
+        {"type": "website", "title": "Michel Devoret | Yale Department of Physics", "url": "https://physics.yale.edu/profile/michel-devoret", "site": "physics.yale.edu", "evidence": "https://physics.yale.edu/profile/michel-devoret", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "michele-gelfand",
+      "note": "文化心理学家，斯坦福商学院组织行为学教授",
+      "sources": [
+        {"type": "website", "title": "Michele Gelfand 个人网站", "url": "https://www.michelegelfand.com/", "site": "michelegelfand.com", "evidence": "https://www.michelegelfand.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Rule Makers, Rule Breakers: How Tight and Loose Cultures Wire Our World（2018）", "url": "https://www.michelegelfand.com/rule-makers-rule-breakers", "site": "michelegelfand.com", "evidence": "https://www.michelegelfand.com/rule-makers-rule-breakers", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "mihir-a-desai",
+      "note": "哈佛商学院金融学教授、哈佛法学院教授",
+      "sources": [
+        {"type": "website", "title": "Mihir A. Desai 个人网站", "url": "http://www.mihirdesai.org/all-publications/category/Articles", "site": "mihirdesai.org", "evidence": "http://www.mihirdesai.org/all-publications/category/Articles", "confidence": "high", "note": "网站文章列表页"},
+        {"type": "book", "title": "The Wisdom of Finance: Discovering Humanity in the World of Risk and Return（Houghton Mifflin Harcourt，2017）", "url": "https://www.wcfia.harvard.edu/publications/wisdom-finance-discovering-humanity-world-risk-and-return", "site": "wcfia.harvard.edu", "evidence": "https://www.wcfia.harvard.edu/publications/wisdom-finance-discovering-humanity-world-risk-and-return", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "mike-cannon-brookes",
+      "note": "Atlassian 联合创始人兼 CEO",
+      "sources": [
+        {"type": "website", "title": "Mike Cannon-Brookes - Wikipedia", "url": "https://en.wikipedia.org/wiki/Mike_Cannon-Brookes", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Mike_Cannon-Brookes", "confidence": "high", "note": null},
+        {"type": "website", "title": "Atlassian 投资者关系 - 管理层与董事会", "url": "https://investors.atlassian.com/governance/management-team---board-of-directors/default.aspx", "site": "investors.atlassian.com", "evidence": "https://investors.atlassian.com/governance/management-team---board-of-directors/default.aspx", "confidence": "high", "note": null},
+        {"type": "speech", "title": "Mike Cannon-Brookes | TED Speaker（How you can use impostor syndrome to your benefit）", "url": "https://www.ted.com/speakers/mike_cannon_brookes", "site": "ted.com", "evidence": "https://www.ted.com/speakers/mike_cannon_brookes", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "mike-caulfield",
+      "note": "数字素养研究者，SIFT 方法创立者，“数字花园”概念的早期提出者",
+      "sources": [
+        {"type": "website", "title": "Hapgood（Mike Caulfield 博客）", "url": "https://hapgood.us/about/", "site": "hapgood.us", "evidence": "https://hapgood.us/about/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Verified: How to Think Straight, Get Duped Less, and Make Better Decisions about What to Believe Online（与 Sam Wineburg 合著，University of Chicago Press，2023）", "url": "https://hapgood.us/media/", "site": "hapgood.us", "evidence": "https://hapgood.us/media/", "confidence": "high", "note": "作者网站出版物页"}
+      ]
+    },
+    {
+      "author_id": "mike-travers",
+      "note": "软件开发者，MIT 媒体实验室博士，Ribbonfarm 客座作者",
+      "sources": [
+        {"type": "website", "title": "Hyperphor - Mike Travers（个人网站）", "url": "https://www.hyperphor.com/", "site": "hyperphor.com", "evidence": "https://www.hyperphor.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Omniorthogonal（早期博客）", "url": "http://omniorthogonal.blogspot.com/2012/11/refactoring-myself.html", "site": "omniorthogonal.blogspot.com", "evidence": "http://omniorthogonal.blogspot.com/2012/11/refactoring-myself.html", "confidence": "high", "note": "其博客中提及在 Ribbonfarm 发表 Refactoring Agency 客座文章"}
+      ]
+    },
+    {
+      "author_id": "mikkel-aaland",
+      "note": "作家、摄影师，桑拿与汗蒸文化研究者",
+      "sources": [
+        {"type": "website", "title": "Mikkel Aaland 个人网站", "url": "http://mikkelaaland.com/sweat.html", "site": "mikkelaaland.com", "evidence": "http://mikkelaaland.com/sweat.html", "confidence": "high", "note": "网站上的 Sweat 全书目录页"},
+        {"type": "book", "title": "Sweat: The Illustrated History and Description of the Finnish Sauna, Russian Bania, Islamic Hammam, Japanese Mushi-Buro, Mexican Temescal, and American Indian & Eskimo Sweatlodge（Capra Press，1978）", "url": "https://www.booktopia.com.au/sweat-mikkel-aaland/ebook/9780997261059.html", "site": "booktopia.com.au", "evidence": "https://www.booktopia.com.au/sweat-mikkel-aaland/ebook/9780997261059.html", "confidence": "medium", "note": null}
+      ]
+    }
+  ]
+}

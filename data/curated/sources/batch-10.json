@@ -1,0 +1,429 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0001-c03",
+      "status": "found",
+      "note": "2022 年 11 月印尼 G20 期间，印尼教育部长 Nadiem Makarim 与马斯克的线上对谈；标题取自马斯克回答学生提问时的 assume you're wrong / aspire to be less wrong",
+      "sources": [
+        {
+          "type": "video",
+          "title": "Bincang Menteri Nadiem dengan Elon Musk",
+          "url": "https://www.youtube.com/watch?v=TGhW6ANHxAg",
+          "site": "youtube.com",
+          "evidence": "https://www.youtube.com/watch?v=TGhW6ANHxAg",
+          "confidence": "high",
+          "note": "页面文字稿与摘录逐句对应（Nadiem 自我介绍、学生关于失败的提问、always assume you're wrong）；上传频道未核实"
+        },
+        {
+          "type": "article",
+          "title": "Elon Musk Interview: 8 Main Points from Tools for Productivity to Daily Habits",
+          "url": "https://whatsuptesla.com/2022/11/27/cinta/",
+          "site": "whatsuptesla.com",
+          "evidence": "https://whatsuptesla.com/2022/11/27/cinta/",
+          "confidence": "medium",
+          "note": "第三方整理的对谈要点与英文引文"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0039-c05",
+      "status": "found",
+      "note": "马斯克 2018-04-17 致特斯拉全员邮件，原题 Progress, Precision and Profit，由 Electrek 全文刊出",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Tesla Model 3 production aims for 6,000 units per week in June after upgrade in May - ~5,000 with margin of error, says Elon Musk",
+          "url": "https://electrek.co/2018/04/17/tesla-model-3-production-goal-6000-units-per-week/",
+          "site": "electrek.co",
+          "evidence": "https://electrek.co/2018/04/17/tesla-model-3-production-goal-6000-units-per-week/",
+          "confidence": "high",
+          "note": "页面引用邮件全文，开头 2020/2070/2250 辆周产量等段落与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "Elon Musk's 6 productivity rules, including walk out of meetings that waste your time",
+          "url": "https://www.cnbc.com/make-it/2018/04/18/elon-musks-productivity-rules-according-to-tesla-email.html",
+          "site": "cnbc.com",
+          "evidence": "https://www.cnbc.com/make-it/2018/04/18/elon-musks-productivity-rules-according-to-tesla-email.html",
+          "confidence": "high",
+          "note": "CNBC 确认邮件真实性，并摘出“中途离开会议”等六条效率建议"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0062-c07",
+      "status": "found",
+      "note": "英文原题 How to read less news but be more informed, according to a futurist（Quartz，2018；原 URL 标题 Stop reading the latest news if you want to be better informed）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to read less news but be more informed, according to a futurist",
+          "url": "https://qz.com/1222019/stop-reading-the-latest-news-if-you-want-to-be-better-informed",
+          "site": "qz.com",
+          "evidence": "https://qz.com/1222019/stop-reading-the-latest-news-if-you-want-to-be-better-informed",
+          "confidence": "high",
+          "note": "署名 By Ephrat Livni；开篇关于 Richard Watson 不用 Twitter、回看周日报纸的段落与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0002-c05",
+      "status": "found",
+      "note": "节选自 Erich Fromm《爱的艺术》（The Art of Loving，1956）第一章“爱是一门艺术吗？”；中文译文与刘福堂译本措辞一致",
+      "sources": [
+        {
+          "type": "book",
+          "title": "The Art of Loving（《爱的艺术》，1956）",
+          "url": "https://www.goodreads.com/book/show/14142.The_Art_of_Loving",
+          "site": "goodreads.com",
+          "evidence": "https://www.goodreads.com/book/show/14142.The_Art_of_Loving",
+          "confidence": "high",
+          "note": "Goodreads 显示 Erich Fromm 著，First published 1956"
+        },
+        {
+          "type": "book",
+          "title": "爱的艺术（刘福堂 译，人民文学出版社，2018）",
+          "url": "https://read.douban.com/ebook/172822685/",
+          "site": "read.douban.com",
+          "evidence": "https://www.douban.com/group/topic/243941638/?_spm_id=MjM3NzY2MzU5",
+          "confidence": "medium",
+          "note": "豆瓣小组帖列出刘福堂版译文“多数人宁愿把爱当成被爱的问题，而不愿当成爱的问题，即不愿当成一个爱的能力问题”，与摘录逐字相同"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0048-c04",
+      "status": "found",
+      "note": "英文原题 Where to Live for Happiness（2022-06-06，作者个人站 No Magic Pill，同时以 nomagicpill 账号在 LessWrong 发链接帖）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Where to Live for Happiness",
+          "url": "https://nomagicpill.github.io/research/living.html",
+          "site": "nomagicpill.github.io",
+          "evidence": "https://nomagicpill.github.io/research/living.html",
+          "confidence": "high",
+          "note": "Published 2022-06-06；正文“tradeoffs are everything”及城市内/城市间排序（短且可预测的通勤、志趣相投的人、爱好可达）与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "Where to Live for Happiness（LessWrong 链接帖）",
+          "url": "https://www.lesswrong.com/posts/vGHfceHmWRo5dcocJ/where-to-live-for-happiness",
+          "site": "lesswrong.com",
+          "evidence": "https://www.lesswrong.com/api/post/vGHfceHmWRo5dcocJ",
+          "confidence": "high",
+          "note": "2022-06-07 由 nomagicpill 发布，Linkpost 指向 210ethan.github.io/research/living.html"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Ethan Morse"],
+        "evidence": "https://ethanmorse.github.io/",
+        "note": "页面本身只署站名 No Magic Pill；ethanmorse.github.io（标题 Ethan Morse）提示已迁至 210ethan.github.io，后者再迁至 nomagicpill.github.io，原文最初发布在 210ethan.github.io，据此确认作者为 Ethan Morse"
+      }
+    },
+    {
+      "article_id": "vol0029-c03",
+      "status": "found",
+      "note": "英文原题 Status as a Service (StaaS)（Eugene Wei 博客 Remains of the Day，2019-02-26）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Status as a Service (StaaS)",
+          "url": "https://www.eugenewei.com/blog/2019/2/19/status-as-a-service",
+          "site": "eugenewei.com",
+          "evidence": "https://www.eugenewei.com/blog/2019/2/19/status-as-a-service",
+          "confidence": "high",
+          "note": "署名 February 26, 2019 by Eugene Wei"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0084-c06",
+      "status": "found",
+      "note": "英文原题 Seeing Like an Algorithm（Eugene Wei，2020-09-20），是 TikTok and the Sorting Hat 的续篇",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Seeing Like an Algorithm",
+          "url": "https://www.eugenewei.com/blog/2020/9/18/seeing-like-an-algorithm",
+          "site": "eugenewei.com",
+          "evidence": "https://www.eugenewei.com/blog/2020/9/18/seeing-like-an-algorithm",
+          "confidence": "high",
+          "note": "署名 September 20, 2020 by Eugene Wei；首段“For You Page 算法是主板上的总线”与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0014-c05",
+      "status": "found",
+      "note": "英文原题 The rationalization of publishing（Ev Williams，Medium，2018-04-04）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The rationalization of publishing",
+          "url": "https://ev.medium.com/the-rationalization-of-publishing-dc001d509de8",
+          "site": "ev.medium.com",
+          "evidence": "https://ev.medium.com/the-rationalization-of-publishing-dc001d509de8",
+          "confidence": "high",
+          "note": "署名 Ev Williams，Apr 4, 2018"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0004-c04",
+      "status": "found",
+      "note": "英文原题 How to Remember What You Read（Farnam Street）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to Remember What You Read",
+          "url": "https://fs.blog/remember-books/",
+          "site": "fs.blog",
+          "evidence": "https://fs.blog/remember-books/",
+          "confidence": "high",
+          "note": "开篇“It happens all the time...”及“六条阅读真理”与摘录一致；fs.blog/how-to-remember-what-you-read/ 是同题的另一篇，开头不同"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0056-c03",
+      "status": "found",
+      "note": "英文原题 Why You Should Stop Reading News（Farnam Street，Shane Parrish）；该页现标题 Stop Reading News，2024-12 改写过正文",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Stop Reading News（原题 Why You Should Stop Reading News）",
+          "url": "https://fs.blog/stop-reading-news/",
+          "site": "fs.blog",
+          "evidence": "https://fs.blog/stop-reading-news/",
+          "confidence": "high",
+          "note": "页面元数据作者 Shane Parrish、dateModified 2024-12-23；现版仍含摘录中的塔勒布引语，摘录开头“我们对信息的渴求让我们难以深入思考…”对应改写前版本（见镜像 vuink.com/post/sf-d-doybt/stop-reading-news）"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0002-c07",
+      "status": "found",
+      "note": "英文原题 Amp It Up!（Frank Slootman，LinkedIn 文章，2018-05-13），后扩写为同名书（2022）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Amp It Up!",
+          "url": "https://www.linkedin.com/pulse/amp-up-frank-slootman",
+          "site": "linkedin.com",
+          "evidence": "https://www.linkedin.com/pulse/amp-up-frank-slootman",
+          "confidence": "high",
+          "note": "Published May 13, 2018；开篇“As the former CEO of both Data Domain and ServiceNow...”及“Mediocrity is the silent killer”与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0024-c04",
+      "status": "found",
+      "note": "英文原题 Double-Loop Accounting—A Language for the Learning Organization（Fred Kofman，The Systems Thinker 期刊文章）",
+      "sources": [
+        {
+          "type": "paper",
+          "title": "Double-Loop Accounting–A Language for the Learning Organization",
+          "url": "https://thesystemsthinker.com/double-loop-accounting-a-language-for-the-learning-organization/",
+          "site": "thesystemsthinker.com",
+          "evidence": "https://thesystemsthinker.com/double-loop-accounting-a-language-for-the-learning-organization/",
+          "confidence": "high",
+          "note": "署名 By Fred Kofman；开篇“If accountants (those bean-counters) are so dumb...”与摘录一致"
+        },
+        {
+          "type": "paper",
+          "title": "Double-Loop Accounting: A Language for the Learning Organization（PDF 版）",
+          "url": "https://thesystemsthinker.com/wp-content/uploads/pdfs/030101E.pdf",
+          "site": "thesystemsthinker.com",
+          "evidence": "https://thesystemsthinker.com/wp-content/uploads/pdfs/030101E.pdf",
+          "confidence": "medium",
+          "note": "期刊原版 PDF，搜索结果显示标题与署名"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0088-c07",
+      "status": "found",
+      "note": "英文原题 Teal Paradigm and Organizations（Reinventing Organizations Wiki 词条，内容摘编自 Frederic Laloux《Reinventing Organizations》）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Teal Paradigm and Organizations - Reinventing Organizations Wiki",
+          "url": "https://reinventingorganizationswiki.com/en/theory/teal-paradigm-and-organizations/",
+          "site": "reinventingorganizationswiki.com",
+          "evidence": "https://reinventingorganizationswiki.com/en/theory/teal-paradigm-and-organizations/",
+          "confidence": "high",
+          "note": "首段（Teal 范式、listening to the organization's purpose）与小节 Taming the fears of the ego 与摘录一致；脚注逐条引用 Laloux 原书 Kindle 位置"
+        },
+        {
+          "type": "book",
+          "title": "Reinventing Organizations（《重塑组织》，Nelson Parker，2014）",
+          "url": "https://www.amazon.com/Reinventing-Organizations-Frederic-Laloux/dp/2960133501",
+          "site": "amazon.com",
+          "evidence": "https://www.amazon.com/Reinventing-Organizations-Frederic-Laloux/dp/2960133501",
+          "confidence": "medium",
+          "note": "词条内容所依据的原书"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Frederic Laloux"],
+        "evidence": "https://reinventingorganizationswiki.com/en/theory/teal-paradigm-and-organizations/",
+        "note": "网页为社区维护的 wiki 词条，无个人署名；正文是 Laloux 原书的摘编，脚注均为 Laloux, Frederic (2014) Reinventing Organizations，归属 Laloux 合理"
+      }
+    },
+    {
+      "article_id": "vol0072-c06",
+      "status": "found",
+      "note": "英文原题 Frederick Wiseman, The Art of Documentary No. 1（The Paris Review 第 226 期，2018 秋季号，Lola Peploe 访谈）",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "Frederick Wiseman, The Art of Documentary No. 1",
+          "url": "https://www.theparisreview.org/interviews/7210/the-art-of-documentary-no-1-frederick-wiseman",
+          "site": "theparisreview.org",
+          "evidence": "https://www.theparisreview.org/interviews/7210/the-art-of-documentary-no-1-frederick-wiseman",
+          "confidence": "high",
+          "note": "导语（拍摄团队精简、本人扛录音杆、不喜欢“观察电影”称呼、1930-01-01 生于波士顿）及“the final film is a report on what I've learned”与摘录一致；网页版称四十一部影片，中文译文为四十三部"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Frederick Wiseman"],
+        "evidence": "https://www.theparisreview.org/interviews/7210/the-art-of-documentary-no-1-frederick-wiseman",
+        "note": "受访者为 Frederick Wiseman，采访者为 Lola Peploe"
+      }
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "elon-musk",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Elon Musk - Wikipedia", "url": "https://en.wikipedia.org/wiki/Elon_Musk", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Elon_Musk", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "ephrat-livni",
+      "note": "记者，曾任 Quartz 资深记者，2020 年起供职《纽约时报》",
+      "sources": [
+        {"type": "website", "title": "Ephrat Livni - The New York Times 作者页", "url": "https://www.nytimes.com/by/ephrat-livni", "site": "nytimes.com", "evidence": "https://www.nytimes.com/by/ephrat-livni", "confidence": "high", "note": null},
+        {"type": "website", "title": "Ephrat Livni - Quartz 作者页", "url": "https://qz.com/author/ephratlivni", "site": "qz.com", "evidence": "https://qz.com/author/ephratlivni", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "eric-norden",
+      "note": "记者、作家，1960–80 年代《花花公子》访谈作者（1968 年采访库布里克）",
+      "sources": [
+        {"type": "website", "title": "SFE: Norden, Eric（科幻百科词条）", "url": "https://sf-encyclopedia.com/entry/norden_eric", "site": "sf-encyclopedia.com", "evidence": "https://sf-encyclopedia.com/entry/norden_eric", "confidence": "high", "note": "列出其 Playboy 访谈对象：Kubrick（1968-09）、Gore Vidal、Stephen King"},
+        {"type": "website", "title": "Summary Bibliography: Eric Norden（ISFDB）", "url": "https://isfdb.org/cgi-bin/ea.cgi?11219=", "site": "isfdb.org", "evidence": "https://isfdb.org/cgi-bin/ea.cgi?11219=", "confidence": "high", "note": "ISFDB 对其是否即 Eric Pelletier 的说法存疑"},
+        {"type": "book", "title": "The Ultimate Solution（1973 年小说）", "url": "https://en.wikipedia.org/wiki/The_Ultimate_Solution", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/The_Ultimate_Solution", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "erich-fromm",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Erich Fromm - Wikipedia", "url": "https://en.wikipedia.org/wiki/Erich_Fromm", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Erich_Fromm", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Art of Loving（《爱的艺术》，1956）", "url": "https://www.goodreads.com/book/show/14142.The_Art_of_Loving", "site": "goodreads.com", "evidence": "https://www.goodreads.com/book/show/14142.The_Art_of_Loving", "confidence": "high", "note": null},
+        {"type": "book", "title": "Escape from Freedom（《逃避自由》，Farrar & Rinehart，1941）", "url": "https://en.wikipedia.org/wiki/Escape_from_Freedom", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Escape_from_Freedom", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "ethan-morse",
+      "note": "个人站 No Magic Pill 的作者（站点由 ethanmorse.github.io → 210ethan.github.io → nomagicpill.github.io 迁移）",
+      "sources": [
+        {"type": "website", "title": "No Magic Pill（个人网站）", "url": "https://nomagicpill.github.io/", "site": "nomagicpill.github.io", "evidence": "https://nomagicpill.github.io/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Ethan Morse（旧站，已跳转）", "url": "https://ethanmorse.github.io/", "site": "ethanmorse.github.io", "evidence": "https://ethanmorse.github.io/", "confidence": "high", "note": "页面提示站点已迁移至 210ethan.github.io"},
+        {"type": "social", "title": "nomagicpill - LessWrong", "url": "https://www.lesswrong.com/users/nomagicpill", "site": "lesswrong.com", "evidence": "https://www.lesswrong.com/users/nomagicpill", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "eugene-wei",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Remains of the Day（Eugene Wei 个人博客）", "url": "https://www.eugenewei.com/", "site": "eugenewei.com", "evidence": "https://www.eugenewei.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Remains of the Day（Substack Newsletter）", "url": "https://eugenewei.substack.com/archive", "site": "eugenewei.substack.com", "evidence": "https://eugenewei.substack.com/archive", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "ev-williams",
+      "note": "Blogger、Twitter、Medium 联合创始人",
+      "sources": [
+        {"type": "website", "title": "Evan Williams (Internet entrepreneur) - Wikipedia", "url": "https://en.wikipedia.org/wiki/Evan_Williams_(Internet_entrepreneur)", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Evan_Williams_(Internet_entrepreneur)", "confidence": "high", "note": null},
+        {"type": "website", "title": "Ev Williams - Obvious（团队介绍页）", "url": "https://obvious.com/team/ev-williams/", "site": "obvious.com", "evidence": "https://obvious.com/team/ev-williams/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "ezra-klein",
+      "note": "《纽约时报》观点专栏作家、The Ezra Klein Show 主持人",
+      "sources": [
+        {"type": "website", "title": "Ezra Klein - The New York Times 作者页", "url": "https://www.nytimes.com/by/ezra-klein", "site": "nytimes.com", "evidence": "https://www.nytimes.com/by/ezra-klein", "confidence": "high", "note": null},
+        {"type": "book", "title": "Why We're Polarized（Avid Reader Press/Simon & Schuster，2020）", "url": "https://www.simonandschuster.com/books/Why-Were-Polarized/Ezra-Klein/9781476700397", "site": "simonandschuster.com", "evidence": "https://www.simonandschuster.com/books/Why-Were-Polarized/Ezra-Klein/9781476700397", "confidence": "high", "note": null},
+        {"type": "book", "title": "Abundance（与 Derek Thompson 合著，2025）", "url": "https://www.simonandschuster.com/authors/Ezra-Klein/406430737", "site": "simonandschuster.com", "evidence": "https://www.simonandschuster.com/authors/Ezra-Klein/406430737", "confidence": "high", "note": "链接为出版社作者页，列有该书"}
+      ]
+    },
+    {
+      "author_id": "farnam-street",
+      "note": "Shane Parrish 创办的博客/Newsletter",
+      "sources": [
+        {"type": "website", "title": "Farnam Street（fs.blog）", "url": "https://fs.blog/", "site": "fs.blog", "evidence": "https://fs.blog/stop-reading-news/", "confidence": "high", "note": "站点名 Shane Parrish | Farnam Street"}
+      ]
+    },
+    {
+      "author_id": "frank-slootman",
+      "note": "Data Domain、ServiceNow、Snowflake 前 CEO",
+      "sources": [
+        {"type": "website", "title": "Frank Slootman - Wikipedia", "url": "https://en.wikipedia.org/wiki/Frank_Slootman", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Frank_Slootman", "confidence": "high", "note": null},
+        {"type": "book", "title": "Amp It Up: Leading for Hypergrowth by Raising Expectations, Increasing Urgency, and Elevating Intensity（Wiley，2022）", "url": "https://ampitupbook.com/", "site": "ampitupbook.com", "evidence": "https://ampitupbook.com/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "fred-kofman",
+      "note": "前 MIT 斯隆管理学院教授，Conscious Business Center International 创始人",
+      "sources": [
+        {"type": "website", "title": "Fred Kofman 个人网站", "url": "https://www.fredkofman.org/", "site": "fredkofman.org", "evidence": "https://www.fredkofman.org/about-fred", "confidence": "high", "note": "西班牙语站点"},
+        {"type": "book", "title": "Conscious Business: How to Build Value Through Values（Sounds True，2006）", "url": "https://books.google.com/books/about/Conscious_Business.html?id=iXmvmAEACAAJ", "site": "books.google.com", "evidence": "https://books.google.com/books/about/Conscious_Business.html?id=iXmvmAEACAAJ", "confidence": "high", "note": null},
+        {"type": "website", "title": "About Fred - CBC International", "url": "https://www.cbcinternational.org/about-fred", "site": "cbcinternational.org", "evidence": "https://www.cbcinternational.org/about-fred", "confidence": "high", "note": "英文简介，列有 The Meaning Revolution（2018）"}
+      ]
+    },
+    {
+      "author_id": "fred-ramsdell",
+      "note": "2025 年诺贝尔生理学或医学奖得主（与 Mary Brunkow、坂口志文共享）",
+      "sources": [
+        {"type": "website", "title": "Fred Ramsdell – Facts – 2025 - NobelPrize.org", "url": "https://www.nobelprize.org/prizes/medicine/2025/ramsdell/facts/", "site": "nobelprize.org", "evidence": "https://www.nobelprize.org/prizes/medicine/2025/ramsdell/facts/", "confidence": "high", "note": null},
+        {"type": "interview", "title": "Fred Ramsdell – Interview - NobelPrize.org（2025-12）", "url": "https://www.nobelprize.org/prizes/medicine/2025/ramsdell/interview/", "site": "nobelprize.org", "evidence": "https://www.nobelprize.org/prizes/medicine/2025/ramsdell/interview/", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "frederic-laloux",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Reinventing Organizations 官网", "url": "https://www.reinventingorganizations.com/", "site": "reinventingorganizations.com", "evidence": "https://www.reinventingorganizations.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Reinventing Organizations（《重塑组织》，Nelson Parker，2014）", "url": "https://books.google.com/books/about/Reinventing_Organizations.html?id=h2H2nQEACAAJ", "site": "books.google.com", "evidence": "https://books.google.com/books/about/Reinventing_Organizations.html?id=h2H2nQEACAAJ", "confidence": "high", "note": null},
+        {"type": "book", "title": "重塑组织（中文版，东方出版社，2017）", "url": "https://www.cheerspublishing.com/book/detail/1422", "site": "cheerspublishing.com", "evidence": "https://weread.qq.com/web/bookDetail/e1932470811e39cecg019cfd", "confidence": "medium", "note": "湛庐文化图书页；出版社与年份见微信读书页"}
+      ]
+    },
+    {
+      "author_id": "frederick-wiseman",
+      "note": "美国纪录片导演，作品由其本人创立的 Zipporah Films 发行",
+      "sources": [
+        {"type": "website", "title": "Zipporah Films（Frederick Wiseman 作品官网）", "url": "https://zipporahfilms.com/", "site": "zipporahfilms.com", "evidence": "https://zipporahfilms.com/", "confidence": "high", "note": null},
+        {"type": "interview", "title": "Frederick Wiseman, The Art of Documentary No. 1（The Paris Review，2018）", "url": "https://www.theparisreview.org/interviews/7210/the-art-of-documentary-no-1-frederick-wiseman", "site": "theparisreview.org", "evidence": "https://www.theparisreview.org/interviews/7210/the-art-of-documentary-no-1-frederick-wiseman", "confidence": "high", "note": null}
+      ]
+    }
+  ]
+}

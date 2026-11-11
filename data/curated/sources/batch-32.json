@@ -1,0 +1,501 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0043-c04",
+      "status": "found",
+      "note": "英文原题 The Gervais Principle, Or The Office According to \"The Office\"（Ribbonfarm，2009-10-07），《热尔韦原则》系列第一篇",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Gervais Principle, Or The Office According to \"The Office\"",
+          "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "website",
+          "title": "The Gervais Principle 系列索引（Ribbonfarm）",
+          "url": "https://ribbonfarm.com/series/the-gervais-principle/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://ribbonfarm.com/series/the-gervais-principle/",
+          "confidence": "high",
+          "note": "系列各篇标题与发表日期一览"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0043-c05",
+      "status": "found",
+      "note": "英文原题 The Gervais Principle II: Posturetalk, Powertalk, Babytalk and Gametalk（Ribbonfarm，2009-11-11）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Gervais Principle II: Posturetalk, Powertalk, Babytalk and Gametalk",
+          "url": "https://www.ribbonfarm.com/2009/11/11/the-gervais-principle-ii-posturetalk-powertalk-babytalk-and-gametalk/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://www.ribbonfarm.com/2009/11/11/the-gervais-principle-ii-posturetalk-powertalk-babytalk-and-gametalk/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0050-c04",
+      "status": "found",
+      "note": "英文原题 The Gervais Principle III: The Curse of Development（Ribbonfarm，2010-04-14）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Gervais Principle III: The Curse of Development",
+          "url": "https://www.ribbonfarm.com/2010/04/14/the-gervais-principle-iii-the-curse-of-development/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://www.ribbonfarm.com/2010/04/14/the-gervais-principle-iii-the-curse-of-development/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0051-c06",
+      "status": "found",
+      "note": "英文原题 The Gervais Principle IV: Wonderful Human Beings（Ribbonfarm，2010-10-14）；中文译名「奇妙的人类世界」",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Gervais Principle IV: Wonderful Human Beings",
+          "url": "https://ribbonfarm.com/2010/10/14/the-gervais-principle-iv-wonderful-human-beings/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://ribbonfarm.com/2010/10/14/the-gervais-principle-iv-wonderful-human-beings/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0051-c07",
+      "status": "found",
+      "note": "英文原题 The Gervais Principle V: Heads I Win, Tails You Lose（Ribbonfarm，2011-10-14）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Gervais Principle V: Heads I Win, Tails You Lose",
+          "url": "https://www.ribbonfarm.com/2011/10/14/the-gervais-principle-v-heads-i-win-tails-you-lose/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://www.ribbonfarm.com/2011/10/14/the-gervais-principle-v-heads-i-win-tails-you-lose/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0052-c07",
+      "status": "found",
+      "note": "英文原题 The Gervais Principle VI: Children of an Absent God（Ribbonfarm，2013-05-16）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Gervais Principle VI: Children of an Absent God",
+          "url": "https://ribbonfarm.com/2013/05/16/the-gervais-principle-vi-children-of-an-absent-god/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://ribbonfarm.com/2013/05/16/the-gervais-principle-vi-children-of-an-absent-god/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0057-c07",
+      "status": "found",
+      "note": "英文原题 Life After Language（Ribbonfarm，2023-05-04）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Life After Language",
+          "url": "https://ribbonfarm.com/2023/05/04/life-after-language/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://ribbonfarm.com/2023/05/04/life-after-language/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0063-c04",
+      "status": "found",
+      "note": "英文原题 The Premium Mediocre Life of Maya Millennial（Ribbonfarm，2017-08-17）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Premium Mediocre Life of Maya Millennial",
+          "url": "https://ribbonfarm.com/2017/08/17/the-premium-mediocre-life-of-maya-millennial/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://ribbonfarm.com/2017/08/17/the-premium-mediocre-life-of-maya-millennial/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0068-c06",
+      "status": "found",
+      "note": "英文原题 Make Your Own Rules（Ribbonfarm，2018-02-15，Thinkability 系列第 5 篇）；中文译名「制定人生规则的规则」",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Make Your Own Rules",
+          "url": "https://ribbonfarm.com/2018/02/15/make-your-own-rules/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://ribbonfarm.com/2018/02/15/make-your-own-rules/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0077-c03",
+      "status": "found",
+      "note": "英文原题 Fools and their Money Metaphors（Ribbonfarm，2009-03-02）；中文译名「金钱隐喻的力量」",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Fools and their Money Metaphors",
+          "url": "https://ribbonfarm.com/2009/03/02/fools-and-their-money-metaphors/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://ribbonfarm.com/2009/03/02/fools-and-their-money-metaphors/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0077-c05",
+      "status": "found",
+      "note": "英文原题 Ancient Rivers of Money（Ribbonfarm，2010-11-05，Psychohistory 系列第 1 篇）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Ancient Rivers of Money",
+          "url": "https://www.ribbonfarm.com/2010/11/05/ancient-rivers-of-money/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://www.ribbonfarm.com/2010/11/05/ancient-rivers-of-money/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0077-c07",
+      "status": "found",
+      "note": "英文原题 Anthropology of Mid-Sized Startups（Ribbonfarm，2012-10-29），作者为 Ribbonfarm 客座作者 Kevin Simler，而非 Venkatesh Rao",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Anthropology of Mid-Sized Startups",
+          "url": "https://www.ribbonfarm.com/2012/10/29/anthropology-of-mid-sized-startups/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://www.ribbonfarm.com/2012/10/29/anthropology-of-mid-sized-startups/",
+          "confidence": "high",
+          "note": "开篇「羚羊结成羊群、狼组成狼群……人类形成部落」及「10 到 1000 人、邓巴数」段落与中文摘录逐句对应"
+        }
+      ],
+      "author_check": {
+        "status": "corrected",
+        "authors": [
+          "Kevin Simler"
+        ],
+        "evidence": "https://www.ribbonfarm.com/2012/10/29/anthropology-of-mid-sized-startups/",
+        "note": "页面署名「October 29, 2012 · Kevin Simler」；Ribbonfarm 归档页 https://ribbonfarm.com/archive/ 也列为「2012-10-29 Anthropology of Mid-Sized Startups — Kevin Simler」。原书误标为 Venkatesh Rao（Ribbonfarm 博主）"
+      }
+    },
+    {
+      "article_id": "vol0084-c05",
+      "status": "found",
+      "note": "英文原题 A Big Little Idea Called Legibility（Ribbonfarm，2010-07-26）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "A Big Little Idea Called Legibility",
+          "url": "https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0089-c04",
+      "status": "found",
+      "note": "英文原题 How to Take Your Brain Off-Road（Ribbonfarm，2016-05-26）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to Take Your Brain Off-Road",
+          "url": "https://ribbonfarm.com/2016/05/26/how-to-take-your-brain-off-road/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://ribbonfarm.com/2016/05/26/how-to-take-your-brain-off-road/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0091-c04",
+      "status": "found",
+      "note": "英文原题 A Camera, Not an Engine（2023-12-09，Mediocre Computing 系列），原发于 Ribbonfarm Studio Newsletter，该 Newsletter 2024 年更名为 Contraptions，现地址如下",
+      "sources": [
+        {
+          "type": "article",
+          "title": "A Camera, Not an Engine",
+          "url": "https://contraptions.venkateshrao.com/p/a-camera-not-an-engine",
+          "site": "contraptions.venkateshrao.com",
+          "evidence": "https://contraptions.venkateshrao.com/p/a-camera-not-an-engine",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0052-c04",
+      "status": "found",
+      "note": "英文原题 Are you serious?（Visakan Veerasamy 的 Substack，2023-01-08）。原书标注年份 2014 与原文发表日期不符",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Are you serious?",
+          "url": "https://visakanv.substack.com/p/are-you-serious",
+          "site": "visakanv.substack.com",
+          "evidence": "https://visakanv.substack.com/p/are-you-serious",
+          "confidence": "high",
+          "note": "文中 Justo Gallego Martínez 建教堂 60 年、Dashrath Manjhi 凿山路的例子与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0048-c06",
+      "status": "found",
+      "note": "英文原题 Blue Ocean Strategy（Harvard Business Review，2004 年 10 月号）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Blue Ocean Strategy",
+          "url": "https://hbr.org/2004/10/blue-ocean-strategy",
+          "site": "hbr.org",
+          "evidence": "https://hbr.org/2004/10/blue-ocean-strategy",
+          "confidence": "high",
+          "note": "搜索结果中的页面正文显示「by W. Chan Kim and Renée Mauborgne, From the Magazine (October 2004)」"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0005-c05",
+      "status": "found",
+      "note": "网易财经 2010 年 9 月对美团创始人王兴的专访，2010-10-09 发布，标题与中文标题一致",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "美团创始人王兴：创业需要好奇和自我推动能力",
+          "url": "https://www.163.com/money/article/6IIBCJSQ00254JIG.html",
+          "site": "网易财经",
+          "evidence": "https://www.163.com/money/article/6IIBCJSQ00254JIG.html",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "interview",
+          "title": "嘉宾：美团网创始人、CEO王兴（网易财经专题页，含访谈实录）",
+          "url": "https://money.163.com/special/wangxing/",
+          "site": "网易财经",
+          "evidence": "https://money.163.com/special/wangxing/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0008-c03",
+      "status": "found",
+      "note": "巴菲特 1998 年 10 月 15 日在佛罗里达大学商学院的演讲（Lecture at the University of Florida School of Business）。原书标注年份 1988 有误，摘录正文也写作 1998 年",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "Warren Buffett: Lecture at the University of Florida School of Business, October 15, 1998（文字稿 PDF）",
+          "url": "https://www.rbcpa.com/wp-content/uploads/2016/12/Buffett_UofFL_19981015.pdf",
+          "site": "rbcpa.com",
+          "evidence": "https://www.rbcpa.com/wp-content/uploads/2016/12/Buffett_UofFL_19981015.pdf",
+          "confidence": "high",
+          "note": "非官方转载的完整文字稿；含「买同学 10% 收入」思想实验等摘录内容"
+        },
+        {
+          "type": "video",
+          "title": "Warren Buffett | Lecture | University Of Florida | 1998",
+          "url": "https://www.youtube.com/watch?app=desktop&v=7Z6x-Ov1smU",
+          "site": "youtube.com",
+          "evidence": "https://www.youtube.com/watch?app=desktop&v=7Z6x-Ov1smU",
+          "confidence": "medium",
+          "note": "演讲录像，非官方上传；未打开核对"
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "venkatesh-rao",
+      "note": "Ribbonfarm 博客（2007–2024，现已归档）作者；本批中 vol0077-c07 实为客座作者 Kevin Simler 所写",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Venkatesh Rao 个人网站",
+          "url": "https://venkateshrao.com/",
+          "site": "venkateshrao.com",
+          "evidence": "https://venkateshrao.com/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "website",
+          "title": "Ribbonfarm 博客归档",
+          "url": "https://ribbonfarm.com/archive/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://ribbonfarm.com/archive/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "website",
+          "title": "Contraptions Newsletter（前身为 Breaking Smart、Ribbonfarm Studio）",
+          "url": "https://contraptions.venkateshrao.com/",
+          "site": "contraptions.venkateshrao.com",
+          "evidence": "https://contraptions.venkateshrao.com/about",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "visakan-veerasamy",
+      "note": null,
+      "sources": [
+        {
+          "type": "website",
+          "title": "Visakan Veerasamy 个人网站",
+          "url": "https://visakanv.com/",
+          "site": "visakanv.com",
+          "evidence": "https://visakanv.com/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "website",
+          "title": "Frame Studies（Visakan Veerasamy 的 Substack）",
+          "url": "https://visakanv.substack.com/",
+          "site": "visakanv.substack.com",
+          "evidence": "https://visakanv.substack.com/p/are-you-serious",
+          "confidence": "medium",
+          "note": "个人网站称其 Substack 名为 Frame Studies"
+        },
+        {
+          "type": "book",
+          "title": "Friendly Ambitious Nerd（自出版电子书，2020）",
+          "url": "https://www.visakanv.com/blog/friendly-ambitious-nerd/",
+          "site": "visakanv.com",
+          "evidence": "https://www.visakanv.com/blog/friendly-ambitious-nerd/",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "w-chan-kim",
+      "note": null,
+      "sources": [
+        {
+          "type": "website",
+          "title": "W. Chan Kim — INSEAD 教职页面",
+          "url": "https://www.insead.edu/faculty/w-chan-kim",
+          "site": "insead.edu",
+          "evidence": "https://www.insead.edu/faculty/w-chan-kim",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "website",
+          "title": "W. Chan Kim — Blue Ocean Strategy 官网作者页",
+          "url": "https://www.blueoceanstrategy.com/authors/w-chan-kim/",
+          "site": "blueoceanstrategy.com",
+          "evidence": "https://www.blueoceanstrategy.com/authors/w-chan-kim/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "Blue Ocean Strategy（《蓝海战略》，与 Renée Mauborgne 合著，Harvard Business School Press，2005）",
+          "url": null,
+          "site": null,
+          "evidence": "https://hbr.org/2014/05/a-new-blue-ocean",
+          "confidence": "medium",
+          "note": "HBR 文章提到该书 2005 年由 Harvard Business School Press 出版"
+        }
+      ]
+    },
+    {
+      "author_id": "wang-xing",
+      "note": null,
+      "sources": [
+        {
+          "type": "website",
+          "title": "王兴 (美团) — 中文维基百科",
+          "url": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%85%B4_(%E7%BE%8E%E5%9B%A2)",
+          "site": "zh.wikipedia.org",
+          "evidence": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%85%B4_(%E7%BE%8E%E5%9B%A2)",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "website",
+          "title": "Wang Xing — English Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Wang_Xing",
+          "site": "en.wikipedia.org",
+          "evidence": "https://en.wikipedia.org/wiki/Wang_Xing",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "warren-buffett",
+      "note": null,
+      "sources": [
+        {
+          "type": "website",
+          "title": "Berkshire Hathaway 致股东信（Shareholder Letters）",
+          "url": "https://berkshirehathaway.com/letters/letters.html",
+          "site": "berkshirehathaway.com",
+          "evidence": "https://berkshirehathaway.com/letters/letters.html",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

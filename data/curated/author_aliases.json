@@ -1,0 +1,948 @@
+{
+ "raw_splits": {
+  "William Oncken, Jr and Donald L. Wass": [
+   "William Oncken Jr.",
+   "Donald L. Wass"
+  ],
+  "Alex Soojung and Kim Pang": [
+   "Alex Soojung-Kim Pang"
+  ],
+  "Kate McKay and Brett": [
+   "Kate McKay",
+   "Brett McKay"
+  ],
+  "苏世民 沈南鹏": [
+   "苏世民",
+   "沈南鹏"
+  ],
+  "Howard Schubiner、Richard Schwartz and Ronald Siegel": [
+   "Howard Schubiner",
+   "Richard Schwartz",
+   "Ronald Siegel"
+  ]
+ },
+ "authors": [
+  {
+   "id": "ouranswers-editors",
+   "name": "参考答案编辑部",
+   "name_en": "OurAnswers Editorial",
+   "kind": "organization",
+   "aliases": [
+    "参考答案"
+   ]
+  },
+  {
+   "id": "paul-graham",
+   "name": "保罗·格雷厄姆",
+   "name_en": "Paul Graham",
+   "kind": "person",
+   "aliases": [
+    "PG"
+   ]
+  },
+  {
+   "id": "kevin-kelly",
+   "name": "凯文·凯利",
+   "name_en": "Kevin Kelly",
+   "kind": "person",
+   "aliases": [
+    "KK"
+   ]
+  },
+  {
+   "id": "bertrand-russell",
+   "name": "伯特兰·罗素",
+   "name_en": "Bertrand Russell",
+   "kind": "person",
+   "aliases": [
+    "伯兰特·罗素",
+    "罗素"
+   ]
+  },
+  {
+   "id": "charlie-munger",
+   "name": "查理·芒格",
+   "name_en": "Charlie Munger",
+   "kind": "person",
+   "aliases": [
+    "芒格"
+   ]
+  },
+  {
+   "id": "jeff-bezos",
+   "name": "杰夫·贝索斯",
+   "name_en": "Jeff Bezos",
+   "kind": "person",
+   "aliases": [
+    "贝索斯",
+    "杰夫·贝佐斯",
+    "贝佐斯"
+   ]
+  },
+  {
+   "id": "steve-jobs",
+   "name": "史蒂夫·乔布斯",
+   "name_en": "Steve Jobs",
+   "kind": "person",
+   "aliases": [
+    "乔布斯"
+   ]
+  },
+  {
+   "id": "elon-musk",
+   "name": "埃隆·马斯克",
+   "name_en": "Elon Musk",
+   "kind": "person",
+   "aliases": [
+    "马斯克"
+   ]
+  },
+  {
+   "id": "richard-hamming",
+   "name": "理查德·汉明",
+   "name_en": "Richard Hamming",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "richard-feynman",
+   "name": "理查德·费曼",
+   "name_en": "Richard Feynman",
+   "kind": "person",
+   "aliases": [
+    "费曼"
+   ]
+  },
+  {
+   "id": "richard-dawkins",
+   "name": "理查德·道金斯",
+   "name_en": "Richard Dawkins",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "ray-dalio",
+   "name": "瑞·达利欧",
+   "name_en": "Ray Dalio",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "naval-ravikant",
+   "name": "纳瓦尔",
+   "name_en": "Naval Ravikant",
+   "kind": "person",
+   "aliases": [
+    "纳瓦尔·拉维坎特"
+   ]
+  },
+  {
+   "id": "herbert-simon",
+   "name": "赫伯特·西蒙",
+   "name_en": "Herbert A. Simon",
+   "kind": "person",
+   "aliases": [
+    "Herbert Simon"
+   ]
+  },
+  {
+   "id": "alan-kay",
+   "name": "艾伦·凯",
+   "name_en": "Alan Kay",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "peter-drucker",
+   "name": "彼得·德鲁克",
+   "name_en": "Peter Drucker",
+   "kind": "person",
+   "aliases": [
+    "德鲁克"
+   ]
+  },
+  {
+   "id": "peter-kaufman",
+   "name": "彼得·考夫曼",
+   "name_en": "Peter Kaufman",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "andrew-abbott",
+   "name": "安德鲁·阿伯特",
+   "name_en": "Andrew Abbott",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "andrew-solomon",
+   "name": "安德鲁·所罗门",
+   "name_en": "Andrew Solomon",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "brene-brown",
+   "name": "布琳·布朗",
+   "name_en": "Brené Brown",
+   "kind": "person",
+   "aliases": [
+    "Brene Brown"
+   ]
+  },
+  {
+   "id": "randy-pausch",
+   "name": "兰迪·波许",
+   "name_en": "Randy Pausch",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "donella-meadows",
+   "name": "多内拉·梅多斯",
+   "name_en": "Donella Meadows",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "marc-andreessen",
+   "name": "马克·安德森",
+   "name_en": "Marc Andreessen",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "zhang-yiming",
+   "name": "张一鸣",
+   "name_en": "Zhang Yiming",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "allen-zhang",
+   "name": "张小龙",
+   "name_en": "Allen Zhang",
+   "kind": "person",
+   "aliases": [
+    "Zhang Xiaolong"
+   ]
+  },
+  {
+   "id": "li-xiang",
+   "name": "李想",
+   "name_en": "Li Xiang",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "xiang-biao",
+   "name": "项飙",
+   "name_en": "Xiang Biao",
+   "kind": "person",
+   "aliases": [
+    "项飚"
+   ]
+  },
+  {
+   "id": "chen-jiaying",
+   "name": "陈嘉映",
+   "name_en": "Chen Jiaying",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "steven-pinker",
+   "name": "史蒂芬·平克",
+   "name_en": "Steven Pinker",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "david-graeber",
+   "name": "大卫·格雷伯",
+   "name_en": "David Graeber",
+   "kind": "person",
+   "aliases": [
+    "大卫 · 格雷伯"
+   ]
+  },
+  {
+   "id": "daniel-kahneman",
+   "name": "丹尼尔·卡尼曼",
+   "name_en": "Daniel Kahneman",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "george-soros",
+   "name": "乔治·索罗斯",
+   "name_en": "George Soros",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "isaiah-berlin",
+   "name": "以赛亚·伯林",
+   "name_en": "Isaiah Berlin",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "fu-sheng",
+   "name": "傅盛",
+   "name_en": "Fu Sheng",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "claude-shannon",
+   "name": "克劳德·香农",
+   "name_en": "Claude Shannon",
+   "kind": "person",
+   "aliases": [
+    "香农"
+   ]
+  },
+  {
+   "id": "italo-calvino",
+   "name": "伊塔洛·卡尔维诺",
+   "name_en": "Italo Calvino",
+   "kind": "person",
+   "aliases": [
+    "卡尔维诺"
+   ]
+  },
+  {
+   "id": "carl-rogers",
+   "name": "卡尔·罗杰斯",
+   "name_en": "Carl Rogers",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "wu-guosheng",
+   "name": "吴国盛",
+   "name_en": "Wu Guosheng",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "friedrich-hayek",
+   "name": "弗里德里希·哈耶克",
+   "name_en": "Friedrich Hayek",
+   "kind": "person",
+   "aliases": [
+    "哈耶克"
+   ]
+  },
+  {
+   "id": "santiago-ramon-y-cajal",
+   "name": "圣地亚哥·拉蒙·卡哈尔",
+   "name_en": "Santiago Ramón y Cajal",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "nassim-taleb",
+   "name": "纳西姆·塔勒布",
+   "name_en": "Nassim Nicholas Taleb",
+   "kind": "person",
+   "aliases": [
+    "塔勒布"
+   ]
+  },
+  {
+   "id": "david-foster-wallace",
+   "name": "大卫·福斯特·华莱士",
+   "name_en": "David Foster Wallace",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "j-robert-oppenheimer",
+   "name": "罗伯特·奥本海默",
+   "name_en": "J. Robert Oppenheimer",
+   "kind": "person",
+   "aliases": [
+    "奥本海默"
+   ]
+  },
+  {
+   "id": "mencius",
+   "name": "孟子",
+   "name_en": "Mencius",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "warren-buffett",
+   "name": "沃伦·巴菲特",
+   "name_en": "Warren Buffett",
+   "kind": "person",
+   "aliases": [
+    "巴菲特"
+   ]
+  },
+  {
+   "id": "blaise-pascal",
+   "name": "布莱兹·帕斯卡尔",
+   "name_en": "Blaise Pascal",
+   "kind": "person",
+   "aliases": [
+    "帕斯卡尔"
+   ]
+  },
+  {
+   "id": "frank-slootman",
+   "name": "弗兰克·斯洛特曼",
+   "name_en": "Frank Slootman",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "erich-fromm",
+   "name": "埃里希·弗洛姆",
+   "name_en": "Erich Fromm",
+   "kind": "person",
+   "aliases": [
+    "弗洛姆"
+   ]
+  },
+  {
+   "id": "friedrich-nietzsche",
+   "name": "弗里德里希·尼采",
+   "name_en": "Friedrich Nietzsche",
+   "kind": "person",
+   "aliases": [
+    "尼采"
+   ]
+  },
+  {
+   "id": "freeman-dyson",
+   "name": "弗里曼·戴森",
+   "name_en": "Freeman Dyson",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "zhang-kaifu",
+   "name": "张凯夫",
+   "name_en": "Zhang Kaifu",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "morris-chang",
+   "name": "张忠谋",
+   "name_en": "Morris Chang",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "drew-houston",
+   "name": "德鲁·休斯顿",
+   "name_en": "Drew Houston",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "dai-jinhua",
+   "name": "戴锦华",
+   "name_en": "Dai Jinhua",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "mark-zuckerberg",
+   "name": "马克·扎克伯格",
+   "name_en": "Mark Zuckerberg",
+   "kind": "person",
+   "aliases": [
+    "扎克伯格"
+   ]
+  },
+  {
+   "id": "li-ka-shing",
+   "name": "李嘉诚",
+   "name_en": "Li Ka-shing",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "yi-fu-tuan",
+   "name": "段义孚",
+   "name_en": "Yi-Fu Tuan",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "duan-yongping",
+   "name": "段永平",
+   "name_en": "Duan Yongping",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "bill-gates",
+   "name": "比尔·盖茨",
+   "name_en": "Bill Gates",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "wang-xing",
+   "name": "王兴",
+   "name_en": "Wang Xing",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "qu-fang",
+   "name": "瞿芳",
+   "name_en": "Qu Fang",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "kazuo-inamori",
+   "name": "稻盛和夫",
+   "name_en": "Kazuo Inamori",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "robert-cialdini",
+   "name": "罗伯特·西奥迪尼",
+   "name_en": "Robert B. Cialdini",
+   "kind": "person",
+   "aliases": [
+    "罗伯特·B·西奥迪尼"
+   ]
+  },
+  {
+   "id": "ronald-w-dworkin",
+   "name": "罗纳德·W·德沃金",
+   "name_en": "Ronald W. Dworkin",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "ronald-coase",
+   "name": "罗纳德·科斯",
+   "name_en": "Ronald Coase",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "stephen-schwarzman",
+   "name": "苏世民",
+   "name_en": "Stephen A. Schwarzman",
+   "kind": "person",
+   "aliases": [
+    "Stephen Schwarzman"
+   ]
+  },
+  {
+   "id": "neil-shen",
+   "name": "沈南鹏",
+   "name_en": "Neil Shen",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "junichiro-tanizaki",
+   "name": "谷崎润一郎",
+   "name_en": "Jun'ichirō Tanizaki",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "mike-cannon-brookes",
+   "name": "迈克·坎农-布鲁克斯",
+   "name_en": "Mike Cannon-Brookes",
+   "kind": "person",
+   "aliases": [
+    "迈克·坎农·布鲁克斯"
+   ]
+  },
+  {
+   "id": "michael-porter",
+   "name": "迈克尔·波特",
+   "name_en": "Michael Porter",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "lei-jun",
+   "name": "雷军",
+   "name_en": "Lei Jun",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "marshall-mcluhan",
+   "name": "马歇尔·麦克卢汉",
+   "name_en": "Marshall McLuhan",
+   "kind": "person",
+   "aliases": [
+    "麦克卢汉"
+   ]
+  },
+  {
+   "id": "jensen-huang",
+   "name": "黄仁勋",
+   "name_en": "Jensen Huang",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "e-m-forster",
+   "name": "E. M. 福斯特",
+   "name_en": "E. M. Forster",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "shuji-nakamura",
+   "name": "中村修二",
+   "name_en": "Shuji Nakamura",
+   "kind": "person",
+   "aliases": [
+    "中村彦二"
+   ]
+  },
+  {
+   "id": "alex-danco",
+   "name": "Alex Danco",
+   "name_en": "Alex Danco",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "dan-wang",
+   "name": "Dan Wang",
+   "name_en": "Dan Wang",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "luis-von-ahn",
+   "name": "Luis von Ahn",
+   "name_en": "Luis von Ahn",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "eliezer-yudkowsky",
+   "name": "Eliezer Yudkowsky",
+   "name_en": "Eliezer Yudkowsky",
+   "kind": "person",
+   "aliases": [
+    "Eliezer S. Yudkowsky"
+   ]
+  },
+  {
+   "id": "kevin-simler",
+   "name": "Kevin Simler",
+   "name_en": "Kevin Simler",
+   "kind": "person",
+   "aliases": [
+    "Kevin Simle"
+   ]
+  },
+  {
+   "id": "alex-soojung-kim-pang",
+   "name": "Alex Soojung-Kim Pang",
+   "name_en": "Alex Soojung-Kim Pang",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "john-s-hammond",
+   "name": "John S. Hammond",
+   "name_en": "John S. Hammond",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "john-gardner",
+   "name": "John W. Gardner",
+   "name_en": "John W. Gardner",
+   "kind": "person",
+   "aliases": [
+    "John gardner"
+   ]
+  },
+  {
+   "id": "nabeel-qureshi",
+   "name": "Nabeel S. Qureshi",
+   "name_en": "Nabeel S. Qureshi",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "andy-masley",
+   "name": "Andy Masley",
+   "name_en": "Andy Masley",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "dan-falk",
+   "name": "Dan Falk",
+   "name_en": "Dan Falk",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "visakan-veerasamy",
+   "name": "Visakan Veerasamy",
+   "name_en": "Visakan Veerasamy",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "anne-laure-le-cunff",
+   "name": "Anne-Laure Le Cunff",
+   "name_en": "Anne-Laure Le Cunff",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "clay-christensen",
+   "name": "Clayton Christensen",
+   "name_en": "Clayton Christensen",
+   "kind": "person",
+   "aliases": [
+    "Clay Christensen"
+   ]
+  },
+  {
+   "id": "arthur-schopenhauer",
+   "name": "亚瑟·叔本华",
+   "name_en": "Arthur Schopenhauer",
+   "kind": "person",
+   "aliases": [
+    "叔本华"
+   ]
+  },
+  {
+   "id": "plato",
+   "name": "柏拉图",
+   "name_en": "Plato",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "christopher-alexander",
+   "name": "克里斯托弗·亚历山大",
+   "name_en": "Christopher Alexander",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "stanley-kubrick",
+   "name": "斯坦利·库布里克",
+   "name_en": "Stanley Kubrick",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "susan-sontag",
+   "name": "苏珊·桑塔格",
+   "name_en": "Susan Sontag",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "william-oncken-jr",
+   "name": "William Oncken Jr.",
+   "name_en": "William Oncken Jr.",
+   "kind": "person",
+   "aliases": []
+  },
+  {
+   "id": "farnam-street",
+   "name": "Farnam Street",
+   "name_en": "Farnam Street",
+   "kind": "publication",
+   "aliases": [
+    "fs.blog"
+   ]
+  },
+  {
+   "id": "37signals",
+   "name": "37signals",
+   "name_en": "37signals",
+   "kind": "organization",
+   "aliases": [
+    "37Signals"
+   ]
+  },
+  {
+   "id": "alan-jacobs",
+   "name": "Alan Jacobs",
+   "name_en": "Alan Jacobs",
+   "kind": "person",
+   "aliases": [
+    "ayjay"
+   ]
+  },
+  {
+   "id": "gurwinder-bhogal",
+   "name": "Gurwinder Bhogal",
+   "name_en": "Gurwinder Bhogal",
+   "kind": "person",
+   "aliases": [
+    "Gurwinder"
+   ]
+  },
+  {
+   "id": "haseeb-qureshi",
+   "name": "Haseeb Qureshi",
+   "name_en": "Haseeb Qureshi",
+   "kind": "person",
+   "aliases": [
+    "Haseeb"
+   ]
+  },
+  {
+   "id": "conor-barnes",
+   "name": "Conor Barnes",
+   "name_en": "Conor Barnes",
+   "kind": "person",
+   "aliases": [
+    "Ideopunk"
+   ]
+  },
+  {
+   "id": "mario-gabriele",
+   "name": "Mario Gabriele",
+   "name_en": "Mario Gabriele",
+   "kind": "person",
+   "aliases": [
+    "Mario"
+   ]
+  },
+  {
+   "id": "ozy-brennan",
+   "name": "Ozy Brennan",
+   "name_en": "Ozy Brennan",
+   "kind": "person",
+   "aliases": [
+    "Ozymandias"
+   ]
+  },
+  {
+   "id": "sascha-fast",
+   "name": "Sascha Fast",
+   "name_en": "Sascha Fast",
+   "kind": "person",
+   "aliases": [
+    "Sascha"
+   ]
+  },
+  {
+   "id": "shawn-wang",
+   "name": "Shawn Wang（swyx）",
+   "name_en": "Shawn Wang",
+   "kind": "person",
+   "aliases": [
+    "swyx"
+   ]
+  },
+  {
+   "id": "graydon-hoare",
+   "name": "Graydon Hoare",
+   "name_en": "Graydon Hoare",
+   "kind": "person",
+   "aliases": [
+    "graydon"
+   ]
+  },
+  {
+   "id": "abram-demski",
+   "name": "Abram Demski",
+   "name_en": "Abram Demski",
+   "kind": "person",
+   "aliases": [
+    "abramdemski"
+   ]
+  },
+  {
+   "id": "jakub-jilek",
+   "name": "Jakub Jílek",
+   "name_en": "Jakub Jílek",
+   "kind": "person",
+   "aliases": [
+    "Jakub Jalek"
+   ]
+  },
+  {
+   "id": "scott-young",
+   "name": "Scott H. Young",
+   "name_en": "Scott H. Young",
+   "kind": "person",
+   "aliases": [
+    "Scott Young"
+   ]
+  },
+  {
+   "id": "george-kedenburg",
+   "name": "George Kedenburg III",
+   "name_en": "George Kedenburg III",
+   "kind": "person",
+   "aliases": [
+    "George Kedenburg"
+   ]
+  },
+  {
+   "id": "first-round-review",
+   "name": "First Round Review",
+   "name_en": "First Round Review",
+   "kind": "publication",
+   "aliases": []
+  },
+  {
+   "id": "applied-divinity-studies",
+   "name": "Applied Divinity Studies",
+   "name_en": "Applied Divinity Studies",
+   "kind": "publication",
+   "aliases": []
+  }
+ ],
+ "former_ids": {
+  "john-paul": "j-p-koning",
+  "dann-lu": "dan-luu",
+  "tempo": "venkatesh-rao",
+  "jakeup": "jacob-falkovich",
+  "neil-right": "neil-kakkar",
+  "alex": "alex-mccann",
+  "tim": "tim-francis",
+  "camille": "camille-ricketts",
+  "colossus": "patrick-oshaughnessy",
+  "sascha": "sascha-fast",
+  "mario": "mario-gabriele",
+  "ayjay": "alan-jacobs",
+  "gurwinder": "gurwinder-bhogal",
+  "haseeb": "haseeb-qureshi",
+  "ideopunk": "conor-barnes",
+  "ozymandias": "ozy-brennan",
+  "swyx": "shawn-wang",
+  "graydon": "graydon-hoare",
+  "abramdemski": "abram-demski",
+  "jakub-jalek": "jakub-jilek",
+  "the-white-house": null,
+  "christopher-d-green": null,
+  "raemon": null,
+  "kate-mckay": null,
+  "brett-mckay": null,
+  "cameron-allan-mckean": null,
+  "jimmy-wales": null,
+  "byrne-hobart": null,
+  "julian": null,
+  "ben": null,
+  "elizabeth-j-peterson": null
+ }
+}

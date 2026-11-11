@@ -1,0 +1,364 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0023-c04",
+      "status": "found",
+      "note": "英文原题 Solitude and Leadership，2009 年 10 月在西点军校对新生的演讲，2010 年 3 月刊于 The American Scholar",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "Solitude and Leadership",
+          "url": "https://theamericanscholar.org/solitude-and-leadership/",
+          "site": "theamericanscholar.org",
+          "evidence": "https://theamericanscholar.org/solitude-and-leadership/",
+          "confidence": "high",
+          "note": "页面标注 By William Deresiewicz | March 1, 2010，并说明为 2009 年 10 月西点军校演讲稿，开头与中文摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0083-c07",
+      "status": "found",
+      "note": "英文原题 The Disadvantages of an Elite Education，The American Scholar，2008 年 6 月",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Disadvantages of an Elite Education",
+          "url": "https://theamericanscholar.org/the-disadvantages-of-an-elite-education/",
+          "site": "theamericanscholar.org",
+          "evidence": "https://theamericanscholar.org/the-disadvantages-of-an-elite-education/",
+          "confidence": "high",
+          "note": "页面标注 By William Deresiewicz | June 1, 2008，开头水管工段落与中文摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0057-c03",
+      "status": "found",
+      "note": "2014 年 5 月 17 日德克萨斯大学奥斯汀分校毕业典礼演讲（俗称 Make Your Bed）",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "Adm. McRaven Urges Graduates to Find Courage to Change the World",
+          "url": "https://news.utexas.edu/2014/05/16/mcraven-urges-graduates-to-find-courage-to-change-the-world/",
+          "site": "news.utexas.edu",
+          "evidence": "https://news.utexas.edu/2014/05/16/mcraven-urges-graduates-to-find-courage-to-change-the-world/",
+          "confidence": "high",
+          "note": "UT News 官方全文，开头介绍语与中文摘录一致"
+        },
+        {
+          "type": "video",
+          "title": "Admiral McRaven addresses the University of Texas at Austin Class of 2014",
+          "url": "https://www.youtube.com/watch?v=yaQZFhrW0fU",
+          "site": "youtube.com",
+          "evidence": "https://www.youtube.com/watch?v=yaQZFhrW0fU",
+          "confidence": "medium",
+          "note": "演讲视频，搜索结果含字幕文本"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0023-c07",
+      "status": "found",
+      "note": "英文原题 Management Time: Who's Got the Monkey?，Harvard Business Review 1974 年 11–12 月号，1999 年作为 HBR Classic 重刊",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Management Time: Who's Got the Monkey?",
+          "url": "https://hbr.org/1999/11/management-time-whos-got-the-monkey",
+          "site": "hbr.org",
+          "evidence": "https://hbr.org/1999/11/management-time-whos-got-the-monkey",
+          "confidence": "high",
+          "note": "开头 Why is it that managers are typically running out of time... 与中文摘录一致；作者 William Oncken, Jr. 与 Donald L. Wass 见 HBR Store 页面 https://store.hbr.org/product/management-time-who-s-got-the-monkey/99609"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0015-c07",
+      "status": "found",
+      "note": "吴国盛在博士生课堂上的讲演《技术的本质》（什么是技术 / 现代技术的本质 / 现代科学的技术本质），同题内容收入其讲演集《反思科学》；未找到最初发表页，以下为全文转载与收录书籍",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "技术的本质（吴国盛博士生课堂讲演，转载全文）",
+          "url": "http://www.etthink.com/thread-15525-1-1.html",
+          "site": "etthink.com",
+          "evidence": "http://www.etthink.com/thread-15525-1-1.html",
+          "confidence": "medium",
+          "note": "论坛转载，注明“以下内容转载自吴国盛老师在博士生课堂上的讲演《技术的本质》”，正文开头与中文摘录一致；非原始发表处"
+        },
+        {
+          "type": "book",
+          "title": "反思科学：名人演讲录（吴国盛，新世界出版社，2004）",
+          "url": "https://www.dushu.com/book/11143828/",
+          "site": "dushu.com",
+          "evidence": "http://blog.sina.com.cn/s/blog_51fdc06201009ss6.html",
+          "confidence": "medium",
+          "note": "目录含“技术哲学的基本问题：什么是技术 / 现代技术的本质 / 现代科学的技术本质”，与本文三部分结构一致；吴国盛新浪博客列出该书目录"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0027-c07",
+      "status": "found",
+      "note": "界面新闻·正午 2014 年 12 月 17 日项飚访谈，采访撰文郭玉洁",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "中国人像蜂鸟，振动翅膀悬在空中（项飚访谈）",
+          "url": "https://www.jiemian.com/article/215429.html",
+          "site": "jiemian.com",
+          "evidence": "https://www.jiemian.com/article/215429.html",
+          "confidence": "high",
+          "note": "页面署 2014年12月17日 郭玉洁 牛津，正文开头“早在北京大学念书时，项飚就是一个传奇”与中文摘录一致"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Xiang Biao"],
+        "evidence": "https://www.jiemian.com/article/215429.html",
+        "note": "项飙为受访者，采访撰文者为界面记者郭玉洁"
+      }
+    },
+    {
+      "article_id": "vol0034-c03",
+      "status": "found",
+      "note": "项飙《贴着地皮看世界》，原载《南风窗》2015 年第 10 期（2015-05-06），非 2018 年",
+      "sources": [
+        {
+          "type": "article",
+          "title": "贴着地皮看世界（《南风窗》）",
+          "url": "http://www.nfcmag.com/article/5546.html",
+          "site": "nfcmag.com",
+          "evidence": "https://doosho.com/cn/306/5",
+          "confidence": "medium",
+          "note": "链接见于《把自己作为方法》书后“项飙著述目录”：《贴着地皮看世界》，《南风窗》，2015年5月6日；该链接现已 404"
+        },
+        {
+          "type": "article",
+          "title": "贴着地皮看世界 - 南风窗2015年第10期（转载）",
+          "url": "https://www.gushidaquan.cc/renshenggushi/nanfengchuang/201510/32126.html",
+          "site": "gushidaquan.cc",
+          "evidence": "https://www.gushidaquan.cc/renshenggushi/nanfengchuang/201510/32126.html",
+          "confidence": "medium",
+          "note": "转载全文，开头“我对印度的研究究竟有什么价值？”与中文摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0094-c06",
+      "status": "not_found",
+      "note": "搜索了英文关键句（consciousness / raw sensory data / narrative layer / suffering self-made prison / lens peace happiness / Lego conscious 等）、作者名 Yanik 加 substack/medium/blog、正文引用的 Harry Mack、Mark Wiens、Sam Harris 视频组合，以及中文“参考周刊 Vol.94 You Are What You Read”，均未找到对应英文原文；Yanik Silver 博客主题相近但无证据表明为同一作者",
+      "sources": [],
+      "author_check": {
+        "status": "unknown",
+        "authors": [],
+        "evidence": "https://yaniksilver.com/category/happiness/page/3/",
+        "note": "作者仅署单名 Yanik，未能确认身份；搜索中出现的 Yanik Silver 无法与本文对应"
+      }
+    },
+    {
+      "article_id": "vol0086-c07",
+      "status": "found",
+      "note": "英文原题 What Is Entropy? A Measure of Just How Little We Really Know.，Quanta Magazine，2024-12-13",
+      "sources": [
+        {
+          "type": "article",
+          "title": "What Is Entropy? A Measure of Just How Little We Really Know.",
+          "url": "https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/",
+          "site": "quantamagazine.org",
+          "evidence": "https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/",
+          "confidence": "high",
+          "note": "页面署 By Zack Savitsky, December 13, 2024，导语与正文（Seth Lloyd 引语）与中文摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0017-c05",
+      "status": "found",
+      "note": "内容来自湖畔大学喜马拉雅 FM《湖畔三板斧》音频节目，笔记侠整理，2017 年 5 月发布（非 2009 年）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "天天和人谈市场，你可能根本不知道什么是市场",
+          "url": "https://36kr.com/p/1721600311297",
+          "site": "36kr.com",
+          "evidence": "https://36kr.com/p/1721600311297",
+          "confidence": "high",
+          "note": "编者按注明来自微信公众号“笔记侠”，内容来自湖畔大学喜马拉雅FM《湖畔三板斧》，作者张凯夫；正文开头与中文摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "天天和人谈市场，你可能根本不知道什么是市场（前瞻经济学人转载）",
+          "url": "https://t.qianzhan.com/daka/detail/170511-8d8f0868.html",
+          "site": "t.qianzhan.com",
+          "evidence": "https://t.qianzhan.com/daka/detail/170511-8d8f0868.html",
+          "confidence": "medium",
+          "note": "署张凯夫，2017-05-11，来源笔记侠"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0003-c08",
+      "status": "found",
+      "note": "央视财经《互联网时代》第二集《浪潮》播出期间王小丫专访张一鸣，2014-08-27",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "小丫专访张一鸣：我不是“新闻搬运工”",
+          "url": "https://jingji.cntv.cn/2014/08/27/ARTI1409120412396179.shtml",
+          "site": "jingji.cntv.cn",
+          "evidence": "https://jingji.cntv.cn/2014/08/27/ARTI1409120412396179.shtml",
+          "confidence": "high",
+          "note": "央视网原文，开头与中文摘录一致；“具体工作上有技巧和方法，但是理念错了就会偏离”见环球网同篇实录 https://tech.huanqiu.com/article/9CaKrnJFtQi"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Zhang Yiming"],
+        "evidence": "https://jingji.cntv.cn/2014/08/27/ARTI1409120412396179.shtml",
+        "note": "张一鸣为受访者，采访者为央视主持人王小丫"
+      }
+    },
+    {
+      "article_id": "vol0007-c07",
+      "status": "found",
+      "note": "张一鸣在源码资本 2017 年码荟年会上的演讲",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "张一鸣：做CEO要避免理性的自负｜码荟年会2017",
+          "url": "https://sourcecodecap.com/code-class-post/zhangyimingzuoceoyaobimianlixingdezifu/",
+          "site": "sourcecodecap.com",
+          "evidence": "https://sourcecodecap.com/code-class-post/zhangyimingzuoceoyaobimianlixingdezifu/",
+          "confidence": "high",
+          "note": "源码资本官网 2017-04-24 发布演讲全文，开头与中文摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0012-c06",
+      "status": "found",
+      "note": "张一鸣 2021 年 3 月 30 日字节跳动九周年演讲《平常心做非常事》",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "张一鸣：平常心做非常事｜字节跳动9周年演讲全文",
+          "url": "https://mp.weixin.qq.com/s/AgvuGQuHjstezvZAA7Wcpw",
+          "site": "mp.weixin.qq.com",
+          "evidence": "https://mp.weixin.qq.com/s/AgvuGQuHjstezvZAA7Wcpw",
+          "confidence": "high",
+          "note": "导语“在这个加速变化的世界中，为什么我们比以往更需要一颗平常心？”与中文摘录一致；公众号名称未在页面摘要中显示"
+        },
+        {
+          "type": "speech",
+          "title": "张一鸣最新演讲全文：平常心做非常事",
+          "url": "https://www.thepaper.cn/newsDetail_forward_11979231",
+          "site": "thepaper.cn",
+          "evidence": "https://www.thepaper.cn/newsDetail_forward_11979231",
+          "confidence": "medium",
+          "note": "澎湃号转载全文，2021-04-01"
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "william-deresiewicz",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Bill Deresiewicz 个人网站", "url": "https://billderesiewicz.com/", "site": "billderesiewicz.com", "evidence": "https://billderesiewicz.com/about", "confidence": "high", "note": null},
+        {"type": "book", "title": "Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life", "url": "https://billderesiewicz.com/books/excellent-sheep/", "site": "billderesiewicz.com", "evidence": "https://billderesiewicz.com/books/excellent-sheep/", "confidence": "high", "note": "中文译本信息未核对，故不附译名"}
+      ]
+    },
+    {
+      "author_id": "william-h-mcraven",
+      "note": null,
+      "sources": [
+        {"type": "book", "title": "Make Your Bed: Little Things That Can Change Your Life...And Maybe the World（Hachette Book Group）", "url": "https://shop.hachettebookgroup.com/products/make-your-bed-1", "site": "hachettebookgroup.com", "evidence": "https://shop.hachettebookgroup.com/products/make-your-bed-1", "confidence": "high", "note": "出版社页面，注明基于 2014 年 UT 毕业演讲；中文译本信息未核对，故不附译名"},
+        {"type": "website", "title": "William McRaven | LBJ School of Public Affairs 教授页", "url": "https://lbj.utexas.edu/mcraven-william", "site": "lbj.utexas.edu", "evidence": "https://lbj.utexas.edu/mcraven-william", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "william-james",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "William James（Stanford Encyclopedia of Philosophy 词条）", "url": "https://plato.stanford.edu/entries/james/", "site": "plato.stanford.edu", "evidence": "https://plato.stanford.edu/entries/james/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Pragmatism: A New Name for Some Old Ways of Thinking（《实用主义》，1907；第一讲即 The Present Dilemma in Philosophy）", "url": "https://www.gutenberg.org/ebooks/5116", "site": "gutenberg.org", "evidence": "https://www.gutenberg.org/ebooks/5116", "confidence": "high", "note": "其文章《哲学当前的困境》即此书第一讲"}
+      ]
+    },
+    {
+      "author_id": "william-oncken-jr",
+      "note": null,
+      "sources": [
+        {"type": "book", "title": "Managing Management Time: Who's Got the Monkey?（Prentice-Hall，1984）", "url": "https://openlibrary.org/books/OL2849434M/Managing_management_time", "site": "openlibrary.org", "evidence": "https://openlibrary.org/books/OL2849434M/Managing_management_time", "confidence": "high", "note": null},
+        {"type": "article", "title": "Management Time: Who's Got the Monkey?（与 Donald L. Wass 合著，HBR 1974）", "url": "https://hbr.org/1999/11/management-time-whos-got-the-monkey", "site": "hbr.org", "evidence": "https://store.hbr.org/product/management-time-who-s-got-the-monkey/99609", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "wu-guosheng",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "吴国盛 | 清华大学新雅书院教师页（含个人主页链接）", "url": "https://www.xyc.tsinghua.edu.cn/info/1260/2423.htm", "site": "xyc.tsinghua.edu.cn", "evidence": "https://www.xyc.tsinghua.edu.cn/info/1260/2423.htm", "confidence": "high", "note": null},
+        {"type": "website", "title": "吴国盛新浪博客", "url": "http://blog.sina.com.cn/wugshpku", "site": "blog.sina.com.cn", "evidence": "https://modernchina.org/scholars/wuguosheng", "confidence": "medium", "note": "博客地址见于近代中国网学者页"},
+        {"type": "book", "title": "《科学的历程》《技术哲学讲演录》（2009）", "url": null, "site": null, "evidence": "https://www.phil.tsinghua.edu.cn/info/1037/1220.htm", "confidence": "high", "note": "代表作见清华哲学系教师简介"}
+      ]
+    },
+    {
+      "author_id": "xiang-biao",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Biao Xiang | Max Planck Institute for Social Anthropology 所长页", "url": "https://www.eth.mpg.de/xiang", "site": "eth.mpg.de", "evidence": "https://www.eth.mpg.de/xiang", "confidence": "high", "note": null},
+        {"type": "book", "title": "《把自己作为方法：与项飙谈话》（项飙、吴琦，上海文艺出版社，2020）", "url": "https://book.douban.com/subject/35092383/", "site": "book.douban.com", "evidence": "https://book.douban.com/subject/35092383/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "yanik",
+      "note": "仅署单名 Yanik，未能确定身份，未找到可靠的作者级信息源（见 vol0094-c06 的搜索说明）",
+      "sources": []
+    },
+    {
+      "author_id": "yi-fu-tuan",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Yi-Fu Tuan 个人网站（yifutuan.org，含简历与 Dear Colleague 信件）", "url": "https://www.yifutuan.org/Tuan%20Curriculum%20Vitae%202013.pdf", "site": "yifutuan.org", "evidence": "https://www.yifutuan.org/Tuan%20Curriculum%20Vitae%202013.pdf", "confidence": "medium", "note": "实际见到的是站内简历 PDF，未打开站点首页"},
+        {"type": "book", "title": "Space and Place: The Perspective of Experience（《空间与地方：经验的视角》，University of Minnesota Press，1977；中译本中国人民大学出版社 2017）", "url": "https://www.upress.umn.edu/9780816638772/space-and-place/", "site": "upress.umn.edu", "evidence": "https://book.douban.com/subject/27031041/comments/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Yi-Fu Tuan（Wikipedia）", "url": "https://en.wikipedia.org/wiki/Yi-Fu_Tuan", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Yi-Fu_Tuan", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "zack-savitsky",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Zack Savitsky 个人网站", "url": "https://www.zacksavitsky.com/", "site": "zacksavitsky.com", "evidence": "https://www.zacksavitsky.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Zack Savitsky | Quanta Magazine 作者页", "url": "https://www.quantamagazine.org/authors/zack-savitsky/", "site": "quantamagazine.org", "evidence": "https://www.quantamagazine.org/authors/zack-savitsky/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "zhang-kaifu",
+      "note": "张凯夫（Kaifu Zhang），平台经济学学者，曾任卡内基梅隆大学、长江商学院助理教授，后任阿里巴巴副总裁",
+      "sources": [
+        {"type": "website", "title": "Kaifu Zhang - Google Scholar", "url": "https://scholar.google.com/citations?hl=en&user=e3gpYTYAAAAJ", "site": "scholar.google.com", "evidence": "https://scholar.google.com/citations?hl=en&user=e3gpYTYAAAAJ", "confidence": "high", "note": "研究方向 Two-sided markets / Internet platforms / e-commerce"},
+        {"type": "podcast", "title": "乱翻书 144. 对话张凯夫：当郭德纲开始说英语，AI将如何重塑全球商业？", "url": "https://www.xiaoyuzhoufm.com/episode/65559a4c51ba721857df32b5", "site": "xiaoyuzhoufm.com", "evidence": "https://www.xiaoyuzhoufm.com/episode/65559a4c51ba721857df32b5", "confidence": "medium", "note": "访谈节目，可作人物背景参考"}
+      ]
+    },
+    {
+      "author_id": "zhang-yiming",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Zhang Yiming（Wikipedia）", "url": "https://en.wikipedia.org/wiki/Zhang_Yiming", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Zhang_Yiming", "confidence": "high", "note": null},
+        {"type": "website", "title": "ByteDance About Us（创始人介绍）", "url": "https://www.bytedance.com/about/", "site": "bytedance.com", "evidence": "https://www.bytedance.com/about/", "confidence": "high", "note": null}
+      ]
+    }
+  ]
+}

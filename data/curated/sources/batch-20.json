@@ -1,0 +1,411 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0042-c07",
+      "status": "found",
+      "note": "英文原题 Moving from Blame to Accountability，The Systems Thinker Vol. 8 No. 1（1997 年 2 月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Moving from Blame to Accountability",
+          "url": "https://thesystemsthinker.com/moving-from-blame-to-accountability/",
+          "site": "thesystemsthinker.com",
+          "evidence": "https://thesystemsthinker.com/moving-from-blame-to-accountability/",
+          "confidence": "high",
+          "note": "页面署名 Marilyn Paul，开头“Whose fault is it? ... bookkeeper's fault”与译文一致"
+        },
+        {
+          "type": "article",
+          "title": "Moving from Blame to Accountability（The Systems Thinker V8 N1 PDF）",
+          "url": "https://thesystemsthinker.com/wp-content/uploads/pdfs/080101p.pdf",
+          "site": "thesystemsthinker.com",
+          "evidence": "https://thesystemsthinker.com/wp-content/uploads/pdfs/080101p.pdf",
+          "confidence": "high",
+          "note": "原刊 PDF 版"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0073-c08",
+      "status": "found",
+      "note": "英文原题 Where Do Great Ideas Come From?，The Generalist，2023-05-08",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Where Do Great Ideas Come From?",
+          "url": "https://thegeneralist.substack.com/p/where-do-great-ideas-come-from?s=r",
+          "site": "The Generalist",
+          "evidence": "https://thegeneralist.substack.com/p/where-do-great-ideas-come-from?s=r",
+          "confidence": "high",
+          "note": "署名 Mario Gabriele；“容忍失败”“初学者心态”“知识的负担”等要点与译文一致"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Mario Gabriele"],
+        "evidence": "https://thegeneralist.substack.com/p/where-do-great-ideas-come-from?s=r",
+        "note": "原书只标单名 Mario，全名 Mario Gabriele（The Generalist 创始人）"
+      }
+    },
+    {
+      "article_id": "vol0030-c04",
+      "status": "found",
+      "note": "英文原题 What Does Intellectual Humility Look Like?，Greater Good Magazine，2021-11-03",
+      "sources": [
+        {
+          "type": "article",
+          "title": "What Does Intellectual Humility Look Like?",
+          "url": "https://greatergood.berkeley.edu/article/item/what_does_intellectual_humility_look_like",
+          "site": "Greater Good Magazine (UC Berkeley)",
+          "evidence": "https://greatergood.berkeley.edu/article/item/what_does_intellectual_humility_look_like",
+          "confidence": "high",
+          "note": "署名 Mark Leary；开头“需要更多自信”及 4%/14%/82% 调查数据与译文一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0062-c05",
+      "status": "found",
+      "note": "英文原题 The Most Important Question of Your Life，作者博客文章，为《The Subtle Art of Not Giving a F*ck》节选的更新版",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Most Important Question of Your Life",
+          "url": "https://markmanson.net/question",
+          "site": "markmanson.net",
+          "evidence": "https://markmanson.net/question",
+          "confidence": "high",
+          "note": "开头“Everybody wants what feels good ... part like the Red Sea”与译文一致；文末注明节选自其书"
+        },
+        {
+          "type": "book",
+          "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life（HarperOne，2016）",
+          "url": "https://books.google.com/books/about/The_Subtle_Art_of_Not_Giving_a_F_ck.html?id=yng_CwAAQBAJ",
+          "site": "Google Books",
+          "evidence": "https://books.google.com/books/about/The_Subtle_Art_of_Not_Giving_a_F_ck.html?id=yng_CwAAQBAJ",
+          "confidence": "high",
+          "note": "推荐语所说的原书；对应章节 Choose Your Struggle"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0076-c06",
+      "status": "not_found",
+      "note": "搜索了 Mark Marchenko + pratfall effect / Frank Sinatra 帽子 / Sam Walton / 奥迪 SUV 三十岁自杀 / take yourself seriously 等组合，并查看其 Medium 主页（markmarchenko.medium.com）与 2016 年活跃的 General Writing (philosophy-logic) 专栏的检索结果，均未找到这篇 2016 年原文",
+      "sources": [],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0079-c04",
+      "status": "found",
+      "note": "书籍内容摘编：How to Lie with Maps（第二版，University of Chicago Press，1996）",
+      "sources": [
+        {
+          "type": "book",
+          "title": "How to Lie with Maps, 2nd ed.（University of Chicago Press，1996）",
+          "url": "https://books.google.com/books/about/How_to_Lie_with_Maps.html?id=Q8OHiOiYwYUC",
+          "site": "Google Books",
+          "evidence": "https://books.google.com/books/about/How_to_Lie_with_Maps.html?id=Q8OHiOiYwYUC",
+          "confidence": "high",
+          "note": "书介“maps lie. In fact, they must”与译文“地图造假不仅容易，而且必要”对应；年份 1996 与第二版一致"
+        },
+        {
+          "type": "book",
+          "title": "How to Lie with Maps（BiblioVault 出版信息页）",
+          "url": "https://www.bibliovault.org/BV.book.epl?ISBN=9780226534213",
+          "site": "BiblioVault (University of Chicago Press)",
+          "evidence": "https://www.bibliovault.org/BV.book.epl?ISBN=9780226534213",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0005-c09",
+      "status": "found",
+      "note": "Y Combinator《How to Build the Future》第一期，Sam Altman 访谈 Mark Zuckerberg（2016-08-16）",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "Mark Zuckerberg on How to Build the Future",
+          "url": "https://www.ycombinator.com/blog/mark-zuckerberg-future-interview",
+          "site": "Y Combinator",
+          "evidence": "https://www.ycombinator.com/blog/mark-zuckerberg-future-interview",
+          "confidence": "high",
+          "note": "YC 博客页署名 Sam Altman，2016-08-16，含访谈文字稿"
+        },
+        {
+          "type": "video",
+          "title": "Mark Zuckerberg : How to Build the Future",
+          "url": "https://www.youtube.com/watch?v=Lb4IcGF5iTQ",
+          "site": "YouTube (Y Combinator)",
+          "evidence": "https://www.youtube.com/watch?v=Lb4IcGF5iTQ",
+          "confidence": "high",
+          "note": "开场“why don't we start with just the early days of Facebook”与译文首问一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0020-c03",
+      "status": "found",
+      "note": "The Playboy Interview: Marshall McLuhan，《花花公子》1969 年 3 月号",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "The Playboy Interview: Marshall McLuhan（Playboy，March 1969）",
+          "url": "https://hannemyr.com/links_mcluhan/pb.html",
+          "site": "hannemyr.com",
+          "evidence": "https://hannemyr.com/links_mcluhan/pb.html",
+          "confidence": "high",
+          "note": "转载全文；首问“Marshall McLuhan, what are you doin'?”及“safe-cracker”比喻与译文一致"
+        },
+        {
+          "type": "interview",
+          "title": "The Playboy Interview: Marshall McLuhan（全文 PDF）",
+          "url": "https://www.cs.ucdavis.edu/~rogaway/classes/188/materials/mcluhan-full.pdf",
+          "site": "UC Davis",
+          "evidence": "https://www.cs.ucdavis.edu/~rogaway/classes/188/materials/mcluhan-full.pdf",
+          "confidence": "high",
+          "note": "注明出自 Playboy Magazine, March 1969"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0074-c05",
+      "status": "found",
+      "note": "英文原题 Fear and Anger Give Bad Advice，Mochary Method 教练课程文档",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Fear and Anger Give Bad Advice",
+          "url": "https://app.notion.com/p/Fear-and-Anger-Give-Bad-Advice-df420b5eba3840e881083887a25fa2a4",
+          "site": "Notion（Mochary Method Curriculum）",
+          "evidence": "https://app.notion.com/p/Fear-and-Anger-Give-Bad-Advice-df420b5eba3840e881083887a25fa2a4",
+          "confidence": "high",
+          "note": "开头“The essence of my coaching is to prove to you that when you feel fear or anger, your brain gives you bad advice”与译文逐句对应"
+        },
+        {
+          "type": "website",
+          "title": "Mochary Method Curriculum（课程目录，含 Fear and Anger give bad advice）",
+          "url": "https://github.com/zlatanpham/mochary-method-curriculum",
+          "site": "GitHub",
+          "evidence": "https://github.com/zlatanpham/mochary-method-curriculum",
+          "confidence": "medium",
+          "note": "第三方整理的课程目录，用于佐证该文属于 Mochary 课程"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0055-c07",
+      "status": "found",
+      "note": "英文原题 Shop Class as Soulcraft，The New Atlantis 第 13 期（2006 年夏季号）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Shop Class as Soulcraft: The case for the manual trades",
+          "url": "https://www.thenewatlantis.com/publications/shop-class-as-soulcraft",
+          "site": "The New Atlantis",
+          "evidence": "https://www.thenewatlantis.com/publications/shop-class-as-soulcraft",
+          "confidence": "high",
+          "note": "署名 Matthew B. Crawford；开头 Noel Dempsey 二手机床、“hide the works”与译文一致"
+        },
+        {
+          "type": "book",
+          "title": "Shop Class as Soulcraft: An Inquiry into the Value of Work（Penguin，2009）",
+          "url": null,
+          "site": null,
+          "evidence": "https://www.thenewatlantis.com/wp-content/uploads/legacy-pdfs/20090526_TNA13Crawford2009.pdf",
+          "confidence": "high",
+          "note": "原文页注明该文已扩展成书"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0082-c06",
+      "status": "found",
+      "note": "英文原题 Century-Scale Storage（副题 If you had to store something for 100 years, how would you do it?），哈佛法学院 Library Innovation Lab，2024 年 12 月",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Century-Scale Storage",
+          "url": "https://lil.law.harvard.edu/century-scale-storage/",
+          "site": "Library Innovation Lab, Harvard Law School",
+          "evidence": "https://lil.law.harvard.edu/century-scale-storage/",
+          "confidence": "high",
+          "note": "首节 The Building by the Plum Orchard（99 Notre Dame Avenue、IBM RAMAC）与译文一致"
+        },
+        {
+          "type": "article",
+          "title": "Century-Scale Storage（Longreads 推荐页）",
+          "url": "https://longreads.com/2024/12/31/century-scale-storage/",
+          "site": "Longreads",
+          "evidence": "https://longreads.com/2024/12/31/century-scale-storage/",
+          "confidence": "high",
+          "note": "确认作者 Maxwell Neely-Cohen 及发表机构"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0024-c06",
+      "status": "found",
+      "note": "英文原题 21 Questions from Canva's 10-year journey: Part two，Canva Newsroom，2023-09-07",
+      "sources": [
+        {
+          "type": "article",
+          "title": "21 Questions from Canva's 10-year journey: Part two",
+          "url": "https://www.canva.com/newsroom/news/melanie-perkins-21-questions-part-2/",
+          "site": "Canva Newsroom",
+          "evidence": "https://www.canva.com/newsroom/news/melanie-perkins-21-questions-part-2/",
+          "confidence": "high",
+          "note": "开头“Five years ago, I wrote a post in an online startup forum (Sydney Startups)”与译文一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0093-c08",
+      "status": "found",
+      "note": "《孟子·公孙丑上》原文（附白话译文为周刊自译）",
+      "sources": [
+        {
+          "type": "book",
+          "title": "《孟子·公孙丑上》（中国哲学书电子化计划）",
+          "url": "https://ctext.org/mengzi/gong-sun-chou-i/zhs",
+          "site": "ctext.org",
+          "evidence": "https://ctext.org/mengzi/gong-sun-chou-i/zhs",
+          "confidence": "high",
+          "note": "首章“公孙丑问曰：夫子当路于齐，管仲、晏子之功，可复许乎？”与摘录一致"
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "marilyn-paul",
+      "note": "组织行为学博士（耶鲁），组织顾问、Bridgeway Partners 联合创始人",
+      "sources": [
+        {"type": "website", "title": "Marilyn Paul 个人网站", "url": "http://marilynpaul.com/", "site": "marilynpaul.com", "evidence": "https://leadx.org/articles/127-paul/", "confidence": "high", "note": null},
+        {"type": "book", "title": "It's Hard to Make a Difference When You Can't Find Your Keys（Viking/Penguin，2003）", "url": null, "site": null, "evidence": "https://www.aevitascreative.com/client/marilyn-paul", "confidence": "high", "note": null},
+        {"type": "book", "title": "An Oasis in Time: How a Day of Rest Can Save Your Life（Rodale）", "url": null, "site": null, "evidence": "https://bridgewaypartners.com/about/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "mario",
+      "note": "全名 Mario Gabriele，Newsletter The Generalist 创始人；kind 应为 person",
+      "sources": [
+        {"type": "website", "title": "The Generalist（Mario Gabriele 的 Newsletter）", "url": "https://www.generalist.com/about", "site": "generalist.com", "evidence": "https://www.generalist.com/about", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "mark-leary",
+      "note": "Mark R. Leary，杜克大学心理学与神经科学荣休教授，社会与人格心理学家",
+      "sources": [
+        {"type": "website", "title": "Mark Leary, Ph.D. 个人网站", "url": "https://sites.duke.edu/leary/", "site": "sites.duke.edu", "evidence": "https://sites.duke.edu/leary/home/about-mark/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Mark R. Leary | Scholars@Duke", "url": "https://scholars.duke.edu/person/leary", "site": "scholars.duke.edu", "evidence": "https://scholars.duke.edu/person/leary", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Curse of the Self: Self-awareness, Egotism, and the Quality of Human Life", "url": null, "site": null, "evidence": "https://scholars.duke.edu/person/leary", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "mark-manson",
+      "note": "博主、畅销书作家；kind 应为 person",
+      "sources": [
+        {"type": "website", "title": "Mark Manson 个人网站", "url": "https://markmanson.net/", "site": "markmanson.net", "evidence": "https://markmanson.net/question", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Subtle Art of Not Giving a F*ck（本刊推荐语译作《不在乎的微妙艺术》，HarperOne，2016）", "url": "https://books.google.com/books/about/The_Subtle_Art_of_Not_Giving_a_F_ck.html?id=yng_CwAAQBAJ", "site": "Google Books", "evidence": "https://books.google.com/books/about/The_Subtle_Art_of_Not_Giving_a_F_ck.html?id=yng_CwAAQBAJ", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "mark-marchenko",
+      "note": "写作者、语言教师，爱丁堡大学中世纪语言与文学硕士；2015–2016 年在 Medium 发表大量个人成长类文章。文章原文未找到，以下为同名作者的作者级页面",
+      "sources": [
+        {"type": "website", "title": "Mark Marchenko 个人网站", "url": "https://mmarchenko.cargo.site", "site": "mmarchenko.cargo.site", "evidence": "https://mmarchenko.cargo.site", "confidence": "medium", "note": "无法直接确认与 2016 年原文作者为同一人，但其 Medium 主页链接此站，且 2016 年在 Medium 写个人成长主题"},
+        {"type": "website", "title": "Mark Marchenko – Medium", "url": "https://markmarchenko.medium.com/", "site": "medium.com", "evidence": "https://medium.com/philosophy-logic/12-stoic-aphorisms-to-get-you-through-the-hardest-times-5a23ed80d7bb", "confidence": "medium", "note": "同名作者 2016 年在 Medium 专栏 General Writing 发文"},
+        {"type": "website", "title": "Mark Marchenko Newsletter（HEY World）", "url": "https://world.hey.com/mark.marchenko", "site": "world.hey.com", "evidence": "https://world.hey.com/mark.marchenko", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "mark-monmonier",
+      "note": "雪城大学 Maxwell 学院地理学杰出荣休教授，地图学家；kind 应为 person",
+      "sources": [
+        {"type": "website", "title": "Mark Monmonier 个人网站", "url": "https://www.markmonmonier.com/", "site": "markmonmonier.com", "evidence": "https://www.markmonmonier.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Mark Monmonier | Maxwell School, Syracuse University", "url": "https://www.maxwell.syr.edu/directory/mark-monmonier", "site": "maxwell.syr.edu", "evidence": "https://www.maxwell.syr.edu/directory/mark-monmonier", "confidence": "high", "note": null},
+        {"type": "book", "title": "How to Lie with Maps（University of Chicago Press，第二版 1996）", "url": "https://www.bibliovault.org/BV.book.epl?ISBN=9780226534213", "site": "BiblioVault", "evidence": "https://www.bibliovault.org/BV.book.epl?ISBN=9780226534213", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "mark-zuckerberg",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Mark Zuckerberg | Meta Leadership", "url": "https://www.meta.com/about/leadership/mark-zuckerberg/", "site": "meta.com", "evidence": "https://www.meta.com/about/leadership/mark-zuckerberg/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Mark Zuckerberg - Wikipedia", "url": "https://en.wikipedia.org/wiki/Mark_Zuckerberg", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Mark_Zuckerberg", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "marshall-mcluhan",
+      "note": null,
+      "sources": [
+        {"type": "book", "title": "Understanding Media: The Extensions of Man（《理解媒介：论人的延伸》，McGraw-Hill，1964）", "url": "https://en.wikipedia.org/wiki/Understanding_Media", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Understanding_Media", "confidence": "high", "note": null},
+        {"type": "website", "title": "Marshall McLuhan - Wikipedia", "url": "https://en.wikipedia.org/wiki/Marshall_McLuhan", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Marshall_McLuhan", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "mary-e-brunkow",
+      "note": "2025 年诺贝尔生理学或医学奖得主，系统生物学研究所（ISB）杰出研究员；kind 应为 person",
+      "sources": [
+        {"type": "website", "title": "Mary E. Brunkow – Facts – 2025 | NobelPrize.org", "url": "https://www.nobelprize.org/prizes/medicine/2025/brunkow/facts/", "site": "nobelprize.org", "evidence": "https://www.nobelprize.org/prizes/medicine/2025/brunkow/facts/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Mary Brunkow, PhD | Institute for Systems Biology", "url": "https://isbscience.org/people/mary-brunkow-phd/", "site": "isbscience.org", "evidence": "https://isbscience.org/people/mary-brunkow-phd/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "matt-mochary",
+      "note": "硅谷 CEO 教练，Mochary Method 创始人；kind 应为 person",
+      "sources": [
+        {"type": "website", "title": "Matt Mochary | Mochary Method", "url": "https://www.mocharymethod.com/team/matt-mochary", "site": "mocharymethod.com", "evidence": "https://www.mocharymethod.com/team/matt-mochary", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Great CEO Within: The Tactical Guide to Company Building（Mochary Films，2019）", "url": "https://www.amazon.com/Great-CEO-Within-Tactical-Building/dp/0578599287", "site": "Amazon", "evidence": "https://books.google.com/books/about/The_Great_CEO_Within.html?id=Y3abywEACAAJ", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "matthew-b-crawford",
+      "note": "政治哲学博士（芝加哥大学）、摩托车修理工，弗吉尼亚大学文化高级研究所高级研究员；kind 应为 person",
+      "sources": [
+        {"type": "website", "title": "Matthew B. Crawford 个人网站", "url": "http://www.matthewbcrawford.com/", "site": "matthewbcrawford.com", "evidence": "https://www.goodreads.com/author/show/2847553.Matthew_B_Crawford", "confidence": "medium", "note": null},
+        {"type": "website", "title": "Archedelia（Matthew B. Crawford 的 Substack）", "url": "https://mcrawford.substack.com/p/welcome-to-archedelia", "site": "mcrawford.substack.com", "evidence": "https://mcrawford.substack.com/p/welcome-to-archedelia", "confidence": "high", "note": null},
+        {"type": "book", "title": "Shop Class as Soulcraft: An Inquiry into the Value of Work（Penguin，2009）", "url": null, "site": null, "evidence": "https://iasculture.org/fellow/matthew-crawford-2/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "maxwell-neely-cohen",
+      "note": "作家，曾任哈佛法学院 Library Innovation Lab 研究员，小说 Echo of the Boom 作者；kind 应为 person",
+      "sources": [
+        {"type": "website", "title": "Maxwell Neely-Cohen 个人网站", "url": "https://maxy.world/index.html", "site": "maxy.world", "evidence": "https://maxy.world/index.html", "confidence": "high", "note": null},
+        {"type": "book", "title": "Echo of the Boom（小说，2014）", "url": "https://www.goodreads.com/author/show/7280254.Maxwell_Neely_Cohen", "site": "Goodreads", "evidence": "https://www.goodreads.com/author/show/7280254.Maxwell_Neely_Cohen", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "melanie-perkins",
+      "note": "Canva 联合创始人兼 CEO；kind 应为 person",
+      "sources": [
+        {"type": "website", "title": "Founder musings | Canva Newsroom（Melanie Perkins 文章合集）", "url": "https://www.canva.com/newsroom/news/tag/founder-musings/", "site": "canva.com", "evidence": "https://www.canva.com/newsroom/news/tag/founder-musings/", "confidence": "medium", "note": null},
+        {"type": "website", "title": "Melanie Perkins - Wikipedia", "url": "https://en.wikipedia.org/wiki/Melanie_Perkins", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Melanie_Perkins", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "mencius",
+      "note": null,
+      "sources": [
+        {"type": "book", "title": "《孟子》（中国哲学书电子化计划全文）", "url": "https://ctext.org/mengzi/gong-sun-chou-i/zhs", "site": "ctext.org", "evidence": "https://ctext.org/mengzi/gong-sun-chou-i/zhs", "confidence": "high", "note": null},
+        {"type": "website", "title": "Mencius (Stanford Encyclopedia of Philosophy)", "url": "https://plato.stanford.edu/entries/mencius/", "site": "plato.stanford.edu", "evidence": "https://plato.stanford.edu/entries/mencius/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Mencius - Wikipedia", "url": "https://en.wikipedia.org/wiki/Mencius", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Mencius", "confidence": "high", "note": null}
+      ]
+    }
+  ]
+}

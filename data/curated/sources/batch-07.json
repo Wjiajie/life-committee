@@ -1,0 +1,733 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0085-c04",
+      "status": "found",
+      "note": "英文原题 Parkinson's Law，C. Northcote Parkinson 1955 年 11 月 19 日发表于 The Economist；开头老太太寄明信片的段落与摘录逐句对应",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Parkinson's Law (The Economist, Nov 19th 1955)",
+          "url": "https://www.economist.com/news/1955/11/19/parkinsons-law",
+          "site": "economist.com",
+          "evidence": "https://www.economist.com/news/1955/11/19/parkinsons-law",
+          "confidence": "high",
+          "note": "经济学人官网页面，可能有付费墙；编者按注明作者为 C. Northcote Parkinson"
+        },
+        {
+          "type": "article",
+          "title": "Parkinson's Law（The Economist 原文 PDF 存档）",
+          "url": "https://www.conniff.com/wp-content/uploads/Parkinsons-Law-The-Economist.pdf",
+          "site": "conniff.com",
+          "evidence": "https://www.conniff.com/wp-content/uploads/Parkinsons-Law-The-Economist.pdf",
+          "confidence": "high",
+          "note": "第三方存档的全文 PDF，正文与中文译文开头一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0015-c06",
+      "status": "found",
+      "note": "原始出处为智族 GQ「GQ报道」2021 年 9 月 10 日（教师节）发布的对谈，原题《对话戴锦华：时代的变化太剧烈，不存在人生导师的位置》，由 GQ 报道编辑靳锦、康堤对谈；同期有播客「智族Talk」第 034 期。中文标题为书中改写",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "对话戴锦华：时代的变化太剧烈，不存在人生导师的位置（GQ报道 文字稿转载）",
+          "url": "http://wzr-share.wzqmt.com/top/folder17/2021-09-10/oP592TTmR5capX4P.html",
+          "site": "wzr-share.wzqmt.com",
+          "evidence": "http://wzr-share.wzqmt.com/top/folder17/2021-09-10/oP592TTmR5capX4P.html",
+          "confidence": "high",
+          "note": "转载页，正文首节「做一个老师，只能求诸于己，而不是教化于人」及靳锦提问与摘录逐字一致；GQ报道微信原文链接未找到"
+        },
+        {
+          "type": "podcast",
+          "title": "【034】对话戴锦华：时代的变化太剧烈，不存在人生导师的位置 - 智族Talk",
+          "url": "https://www.xiaoyuzhoufm.com/episode/613a16d89f0d73e73a39d39a",
+          "site": "xiaoyuzhoufm.com",
+          "evidence": "https://www.xiaoyuzhoufm.com/episode/613a16d89f0d73e73a39d39a",
+          "confidence": "high",
+          "note": "同一次对谈的音频版，主播靳锦、康堤"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Dai Jinhua"],
+        "evidence": "http://wzr-share.wzqmt.com/top/folder17/2021-09-10/oP592TTmR5capX4P.html",
+        "note": "访谈稿：戴锦华为受访者，提问者为 GQ 报道编辑靳锦、康堤"
+      }
+    },
+    {
+      "article_id": "vol0005-c06",
+      "status": "found",
+      "note": "英文原题 Brain Dump: How I Stop Being Overwhelmed (Simple Exercise)",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Brain Dump: How I Stop Being Overwhelmed (Simple Exercise)",
+          "url": "https://dansilvestre.com/brain-dump/",
+          "site": "dansilvestre.com",
+          "evidence": "https://dansilvestre.com/brain-dump/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0006-c06",
+      "status": "found",
+      "note": "英文原题 How to Make Smarter Decisions by Designing Your Defaults",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to Make Smarter Decisions by Designing Your Defaults",
+          "url": "https://dansilvestre.com/make-smarter-decisions/",
+          "site": "dansilvestre.com",
+          "evidence": "https://dansilvestre.com/make-smarter-decisions/",
+          "confidence": "high",
+          "note": "页面署名 written by Dan Silvestre，开头「90% of your daily decisions happen automatically」与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0061-c04",
+      "status": "found",
+      "note": "英文原题 Violence and the Sacred: College as an incubator of Girardian terror（2017）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Violence and the Sacred: College as an incubator of Girardian terror",
+          "url": "https://danwang.co/college-girardian-terror/",
+          "site": "danwang.co",
+          "evidence": "https://danwang.co/college-girardian-terror/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0074-c03",
+      "status": "found",
+      "note": "英文原题 How Technology Grows (a restatement of definite optimism)，2018 年 7 月 24 日",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How Technology Grows (a restatement of definite optimism)",
+          "url": "https://danwang.co/how-technology-grows/",
+          "site": "danwang.co",
+          "evidence": "https://danwang.co/how-technology-grows/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0068-c07",
+      "status": "found",
+      "note": "英文原题 Do Men Suck at Friendship?，Daniel Duane 发表于 Men's Journal（2014 年 4 月），HuffPost 转载题为 Why Men Are Bad At Friendship (And What To Do About It)；书中标注年份 2017 与原文发表时间不符",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Do Men Suck at Friendship? (Men's Journal)",
+          "url": "http://www.mensjournal.com/magazine/do-men-suck-at-friendship-20140422",
+          "site": "mensjournal.com",
+          "evidence": "https://www.reddit.com/r/TrueReddit/comments/26pki3/do_men_suck_at_friendship/",
+          "confidence": "medium",
+          "note": "原始链接见于 Reddit 帖子，直接打开返回 403，未能核对页面"
+        },
+        {
+          "type": "article",
+          "title": "Why Men Are Bad At Friendship (And What To Do About It)（By Daniel Duane for Men's Journal）",
+          "url": "https://www.huffpost.com/entry/men-and-friendship_n_5575178",
+          "site": "huffpost.com",
+          "evidence": "https://www.huffpost.com/entry/men-and-friendship_n_5575178",
+          "confidence": "high",
+          "note": "转载全文，male deficit model、朋友 Matt 搬去西雅图等内容与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0017-c06",
+      "status": "found",
+      "note": "原文为 Sriram Krishnan 的 Newsletter「The Observer Effect」第二期访谈 Daniel Ek（2020 年 10 月）",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "The Observer Effect – Daniel Ek",
+          "url": "https://www.theobservereffect.org/daniel.html",
+          "site": "theobservereffect.org",
+          "evidence": "https://theblindmachine.com/daniel-ek/",
+          "confidence": "medium",
+          "note": "原文链接见于转载页与 Techmeme，直接打开返回 500，未能核对"
+        },
+        {
+          "type": "interview",
+          "title": "The Observer Effect – Daniel Ek（全文转载）",
+          "url": "https://blakeir.com/the-observer-effect-daniel-ek",
+          "site": "blakeir.com",
+          "evidence": "https://blakeir.com/the-observer-effect-daniel-ek",
+          "confidence": "high",
+          "note": "转载全文，「6:30 起床……10:30 工作日才真正开始」及 Company Bets 等内容与摘录一致"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Daniel Ek"],
+        "evidence": "https://www.upcarta.com/resources/3021-the-observer-effect-daniel-ek",
+        "note": "访谈稿：Daniel Ek 为受访者，采访者为 Sriram Krishnan"
+      }
+    },
+    {
+      "article_id": "vol0067-c07",
+      "status": "found",
+      "note": "英文原题 The Mundanity of Excellence: An Ethnographic Report on Stratification and Olympic Swimmers，Sociological Theory 7(1), 1989",
+      "sources": [
+        {
+          "type": "paper",
+          "title": "The Mundanity of Excellence: An Ethnographic Report on Stratification and Olympic Swimmers (Sociological Theory, 1989)",
+          "url": "https://doi.org/10.2307/202063",
+          "site": "doi.org",
+          "evidence": "https://doi.org/10.2307/202063",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "paper",
+          "title": "The Mundanity of Excellence（Hamilton College 提供的全文 PDF）",
+          "url": "https://academics.hamilton.edu/documents/themundanityofexcellence.pdf",
+          "site": "academics.hamilton.edu",
+          "evidence": "https://academics.hamilton.edu/documents/themundanityofexcellence.pdf",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0045-c05",
+      "status": "found",
+      "note": "英文原题 What Makes a Leader?，Harvard Business Review 2004 年 1 月号（经典重刊，初刊于 1998 年 HBR）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "What Makes a Leader? (Harvard Business Review, January 2004)",
+          "url": "https://hbr.org/2004/01/what-makes-a-leader",
+          "site": "hbr.org",
+          "evidence": "https://hbr.org/2004/01/what-makes-a-leader",
+          "confidence": "high",
+          "note": "HBR 商店页说明 Goleman 1998 年首次在 HBR 发表此文"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0053-c04",
+      "status": "found",
+      "note": "英文原题 Mastering Depression and Living the Life You Were Meant to Live，2018 年 6 月 29 日发表于 Medium 出版物 The Mission",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Mastering Depression and Living the Life You Were Meant to Live",
+          "url": "https://medium.com/the-mission/mastering-depression-and-living-the-life-you-were-meant-to-live-a9b4e357ddd9",
+          "site": "medium.com",
+          "evidence": "https://medium.com/the-mission/mastering-depression-and-living-the-life-you-were-meant-to-live-a9b4e357ddd9",
+          "confidence": "high",
+          "note": "开头「if it helps even a single person」与推荐语引述一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0054-c03",
+      "status": "found",
+      "note": "英文原题 Mastering Depression and Living the Life You Were Meant to Live — Part Two，2020 年 2 月 16 日",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Mastering Depression and Living the Life You Were Meant to Live — Part Two",
+          "url": "https://medium.com/@dan.jeffries/mastering-depression-and-living-the-life-you-were-meant-to-live-part-two-ca714408ecb6",
+          "site": "medium.com",
+          "evidence": "https://medium.com/@dan.jeffries/mastering-depression-and-living-the-life-you-were-meant-to-live-part-two-ca714408ecb6",
+          "confidence": "high",
+          "note": "「Would I talk to my best friend the way I talked to myself?」与推荐语一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0016-c05",
+      "status": "found",
+      "note": "出自 2021 年 9 月 22 日湛庐文化与百度财经等主办的「远离噪声，做聪明的决策者——对话诺贝尔经济学奖得主丹尼尔·卡尼曼暨《噪声》新书发布会」直播，对谈者为清华大学社会科学学院院长彭凯平；文章标题即活动名",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "彭凯平对话诺贝尔奖得主丹尼尔·卡尼曼：独立、审慎和自律是对抗决策噪声的三大法宝",
+          "url": "https://www.sss.tsinghua.edu.cn/info/1074/5176.htm",
+          "site": "sss.tsinghua.edu.cn",
+          "evidence": "https://www.sss.tsinghua.edu.cn/info/1074/5176.htm",
+          "confidence": "high",
+          "note": "清华大学社会科学学院整理的发布会对谈文字稿"
+        },
+        {
+          "type": "interview",
+          "title": "彭凯平对话丹尼尔·卡尼曼：哪里有判断，哪里就有噪声（湛庐文化公众号）",
+          "url": "http://mp.weixin.qq.com/s/Irwau-f5JLoM1sUl7o3x2A",
+          "site": "mp.weixin.qq.com",
+          "evidence": "http://mp.weixin.qq.com/s/Irwau-f5JLoM1sUl7o3x2A",
+          "confidence": "high",
+          "note": "主办方湛庐文化发布的直播内容整理，注明来源于 2021 年 9 月 22 日新书发布会"
+        },
+        {
+          "type": "speech",
+          "title": "对话诺贝尔经济学奖得主丹尼尔·卡尼曼：远离噪声，做聪明的决策者（活动预告）",
+          "url": "https://news.mbalib.com/story/252431",
+          "site": "news.mbalib.com",
+          "evidence": "https://news.mbalib.com/story/252431",
+          "confidence": "high",
+          "note": "活动预告页，确认活动名称与时间"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Daniel Kahneman"],
+        "evidence": "https://www.sss.tsinghua.edu.cn/info/1074/5176.htm",
+        "note": "对谈稿：卡尼曼为主讲嘉宾，对谈者为彭凯平（另有西博尼等嘉宾参与发布会）"
+      }
+    },
+    {
+      "article_id": "vol0014-c04",
+      "status": "found",
+      "note": "英文原题 Willingness to look stupid，作者应为 Dan Luu（danluu.com，2021 年 10 月），原书「Dann Lu」为误拼",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Willingness to look stupid",
+          "url": "https://danluu.com/look-stupid/",
+          "site": "danluu.com",
+          "evidence": "https://danluu.com/look-stupid/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {
+        "status": "corrected",
+        "authors": ["Dan Luu"],
+        "evidence": "https://danluu.com/look-stupid/",
+        "note": "原标注 Dann Lu 为 Dan Luu 的误拼；文章发表在其个人博客 danluu.com"
+      }
+    },
+    {
+      "article_id": "vol0019-c06",
+      "status": "found",
+      "note": "英文原题 How America Got Mean（The Atlantic 2023 年 9 月号，网络版 2023 年 8 月 14 日，页面标题 Why Americans Are So Awful to One Another）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How America Got Mean",
+          "url": "https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/",
+          "site": "theatlantic.com",
+          "evidence": "https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0064-c07",
+      "status": "found",
+      "note": "英文原题 You Might Be a Late Bloomer（The Atlantic，2024 年 6 月 26 日），开篇塞尚段落与摘录一致",
+      "sources": [
+        {
+          "type": "article",
+          "title": "You Might Be a Late Bloomer",
+          "url": "https://www.theatlantic.com/ideas/archive/2024/06/successs-late-bloomers-motivation/678798/",
+          "site": "theatlantic.com",
+          "evidence": "https://www.theatlantic.com/ideas/archive/2024/06/successs-late-bloomers-motivation/678798/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "cyril-northcote-parkinson",
+      "note": "英国海军史学家（1909–1993），已故，无个人网站",
+      "sources": [
+        {
+          "type": "website",
+          "title": "C. Northcote Parkinson - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/C._Northcote_Parkinson",
+          "site": "en.wikipedia.org",
+          "evidence": "https://en.wikipedia.org/wiki/C._Northcote_Parkinson",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "Parkinson's Law, or The Pursuit of Progress（《帕金森定律》，John Murray，1958；美国版 Houghton Mifflin，1957）",
+          "url": "https://archive.org/details/parkinsonslaworp0000cnor",
+          "site": "archive.org",
+          "evidence": "https://archive.org/details/parkinsonslaworp0000cnor",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "dai-jinhua",
+      "note": "北京大学中文系教授、电影与文化研究中心主任",
+      "sources": [
+        {
+          "type": "website",
+          "title": "导师名录-戴锦华（北京大学元培学院）",
+          "url": "https://yuanpei.pku.edu.cn/ypds/dsfc/93yuanpei499320.htm",
+          "site": "yuanpei.pku.edu.cn",
+          "evidence": "https://yuanpei.pku.edu.cn/ypds/dsfc/93yuanpei499320.htm",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "website",
+          "title": "戴锦华 - 维基百科",
+          "url": "https://zh.wikipedia.org/wiki/%E6%88%B4%E9%94%A6%E5%8D%8E",
+          "site": "zh.wikipedia.org",
+          "evidence": "https://zh.wikipedia.org/wiki/%E6%88%B4%E9%94%A6%E5%8D%8E",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "《雾中风景：中国电影文化1978—1998》（北京大学出版社）",
+          "url": "https://book.douban.com/subject/26882468/",
+          "site": "book.douban.com",
+          "evidence": "https://book.douban.com/subject/26882468/",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "dan-falk",
+      "note": "多伦多科学记者、作家、广播人",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Dan Falk 个人网站",
+          "url": "https://danfalk.ca/about/",
+          "site": "danfalk.ca",
+          "evidence": "https://danfalk.ca/about/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "In Search of Time: Journeys along a Curious Dimension（《寻找时间》）",
+          "url": "https://danfalk.ca/in-search-of-time-journeys-along-a-curious-dimension/",
+          "site": "danfalk.ca",
+          "evidence": "https://danfalk.ca/in-search-of-time-journeys-along-a-curious-dimension/",
+          "confidence": "high",
+          "note": "中文译名为推测，未查到正式中译本"
+        }
+      ]
+    },
+    {
+      "author_id": "dan-silvestre",
+      "note": "效率教练、写作者",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Dan Silvestre 个人网站与博客",
+          "url": "https://dansilvestre.com/",
+          "site": "dansilvestre.com",
+          "evidence": "https://dansilvestre.com/about/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "website",
+          "title": "One Productivity（Dan Silvestre 的 Substack Newsletter）",
+          "url": "https://oneproductivity.substack.com/",
+          "site": "oneproductivity.substack.com",
+          "evidence": "https://oneproductivity.substack.com/",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "dan-wang",
+      "note": "科技分析师、作家",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Dan Wang 个人网站（年度信与长文）",
+          "url": "https://danwang.co/",
+          "site": "danwang.co",
+          "evidence": "https://danwang.co/breakneck/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "Breakneck: China's Quest to Engineer the Future（W. W. Norton，2025）",
+          "url": "https://wwnorton.com/books/9781324106036/",
+          "site": "wwnorton.com",
+          "evidence": "https://wwnorton.com/books/9781324106036/",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "daniel-duane",
+      "note": "作家、记者（Men's Journal、纽约时报杂志等撰稿人），现亦为心理咨询师",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Daniel Duane 个人网站：作品与发表列表",
+          "url": "https://danielduanetherapy.com/publications",
+          "site": "danielduanetherapy.com",
+          "evidence": "https://danielduanetherapy.com/publications",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "Caught Inside: A Surfer's Year on the California Coast（1996）",
+          "url": "https://www.goodreads.com/author/list/1234.Daniel_Duane",
+          "site": "goodreads.com",
+          "evidence": "https://www.goodreads.com/author/list/1234.Daniel_Duane",
+          "confidence": "high",
+          "note": "Goodreads 作者作品列表页"
+        },
+        {
+          "type": "book",
+          "title": "How to Cook Like a Man: A Memoir of Cookbook Obsession（Bloomsbury，2012）",
+          "url": "https://www.publishersweekly.com/pw/by-topic/authors/interviews/article/51187-cookbook-obsession-pw-talks-with-daniel-duane.html",
+          "site": "publishersweekly.com",
+          "evidence": "https://www.publishersweekly.com/pw/by-topic/authors/interviews/article/51187-cookbook-obsession-pw-talks-with-daniel-duane.html",
+          "confidence": "medium",
+          "note": "链接为 Publishers Weekly 对该书的作者访谈，非出版社书页"
+        }
+      ]
+    },
+    {
+      "author_id": "daniel-ek",
+      "note": "Spotify 创始人兼执行董事长（2025 年底卸任 CEO）",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Daniel Ek - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Daniel_Ek",
+          "site": "en.wikipedia.org",
+          "evidence": "https://en.wikipedia.org/wiki/Daniel_Ek",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "website",
+          "title": "Spotify Investors - Governance（Daniel Ek 简介）",
+          "url": "https://investors.spotify.com/governance/default.aspx",
+          "site": "investors.spotify.com",
+          "evidence": "https://investors.spotify.com/governance/default.aspx",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "daniel-f-chambliss",
+      "note": "Hamilton College 社会学荣休教授",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Daniel F. Chambliss 个人主页（Hamilton College）",
+          "url": "https://people.hamilton.edu/daniel-chambliss/bio",
+          "site": "people.hamilton.edu",
+          "evidence": "https://people.hamilton.edu/daniel-chambliss/bio",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "How College Works（与 Christopher G. Takacs 合著，Harvard University Press，2014）",
+          "url": "https://www.hup.harvard.edu/books/9780674979802",
+          "site": "hup.harvard.edu",
+          "evidence": "https://www.hup.harvard.edu/books/9780674979802",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "Champions: The Making of Olympic Swimmers（William Morrow，1988）",
+          "url": null,
+          "site": null,
+          "evidence": "https://www.hamilton.edu/academics/our-faculty/directory/faculty-detail/daniel-chambliss",
+          "confidence": "high",
+          "note": "见 Hamilton College 教师页著作列表"
+        }
+      ]
+    },
+    {
+      "author_id": "daniel-goleman",
+      "note": "心理学家、科学记者",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Daniel Goleman 官方网站",
+          "url": "https://www.danielgoleman.info/",
+          "site": "danielgoleman.info",
+          "evidence": "https://www.danielgoleman.info/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "Emotional Intelligence: Why It Can Matter More Than IQ（《情商》，Bantam Books，1995）",
+          "url": "https://www.danielgoleman.info/books/emotional-intelligence/",
+          "site": "danielgoleman.info",
+          "evidence": "https://search.worldcat.org/title/Emotional-intelligence-:-why-it-can-matter-more-than-IQ./oclc/576242569",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "daniel-jeffries",
+      "note": "作家、未来学者，Kentauros AI CEO",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Future History（Daniel Jeffries 的 Substack Newsletter）",
+          "url": "https://danieljeffries.substack.com/",
+          "site": "danieljeffries.substack.com",
+          "evidence": "https://danieljeffries.substack.com/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "website",
+          "title": "Daniel Jeffries 的 Medium 主页",
+          "url": "https://medium.com/@dan.jeffries",
+          "site": "medium.com",
+          "evidence": "https://medium.com/@dan.jeffries/mastering-depression-and-living-the-life-you-were-meant-to-live-part-two-ca714408ecb6",
+          "confidence": "medium",
+          "note": "主页地址由其文章 URL 的作者路径得出，未单独打开主页"
+        }
+      ]
+    },
+    {
+      "author_id": "daniel-kahneman",
+      "note": "心理学家，2002 年诺贝尔经济学奖得主（1934–2024）",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Daniel Kahneman - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Daniel_Kahneman",
+          "site": "en.wikipedia.org",
+          "evidence": "https://en.wikipedia.org/wiki/Daniel_Kahneman?wprov=sfti1",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "Thinking, Fast and Slow（《思考，快与慢》，Farrar, Straus and Giroux，2011）",
+          "url": "https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow",
+          "site": "en.wikipedia.org",
+          "evidence": "https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "Noise: A Flaw in Human Judgment（《噪声：人类判断的缺陷》，与 Olivier Sibony、Cass R. Sunstein 合著，2021）",
+          "url": null,
+          "site": null,
+          "evidence": "https://en.wikipedia.org/wiki/Daniel_Kahneman?wprov=sfti1",
+          "confidence": "high",
+          "note": "维基百科著作列表；中译本书名见 https://doosho.com/yi/482/5/19"
+        }
+      ]
+    },
+    {
+      "author_id": "dann-lu",
+      "note": "正确姓名为 Dan Luu（程序员、技术博主），原书误拼为 Dann Lu",
+      "sources": [
+        {
+          "type": "website",
+          "title": "danluu.com（Dan Luu 个人博客）",
+          "url": "https://danluu.com/",
+          "site": "danluu.com",
+          "evidence": "https://danluu.com/about/",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "david-brooks",
+      "note": "The Atlantic 撰稿人，曾任《纽约时报》专栏作家 22 年",
+      "sources": [
+        {
+          "type": "website",
+          "title": "David Brooks - The Atlantic 作者页",
+          "url": "https://www.theatlantic.com/author/david-brooks/",
+          "site": "theatlantic.com",
+          "evidence": "https://www.theatlantic.com/author/david-brooks/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen（Random House，2023）",
+          "url": "https://books.google.com/books/about/How_to_Know_a_Person.html?id=U6asEAAAQBAJ",
+          "site": "books.google.com",
+          "evidence": "https://books.google.com/books/about/How_to_Know_a_Person.html?id=U6asEAAAQBAJ",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "The Road to Character（《品格之路》，Random House，2015）",
+          "url": null,
+          "site": null,
+          "evidence": "https://jackson.yale.edu/directory/david-brooks",
+          "confidence": "high",
+          "note": "见耶鲁 Jackson School 简介著作列表"
+        }
+      ]
+    },
+    {
+      "author_id": "david-c-krakauer",
+      "note": "圣塔菲研究所（SFI）所长、复杂系统教授",
+      "sources": [
+        {
+          "type": "website",
+          "title": "David C. Krakauer 个人网站",
+          "url": "https://davidckrakauer.com/sfi",
+          "site": "davidckrakauer.com",
+          "evidence": "https://davidckrakauer.com/sfi",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "website",
+          "title": "David Krakauer | Santa Fe Institute",
+          "url": "https://www.santafe.edu/people/profile/david-krakauer",
+          "site": "santafe.edu",
+          "evidence": "https://www.santafe.edu/people/profile/david-krakauer",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

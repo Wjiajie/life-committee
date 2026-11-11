@@ -1,0 +1,524 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0083-c04",
+      "status": "found",
+      "note": "内容为 Huberman Lab 播客第 1 期 How Your Nervous System Works & Changes（2021-01-04，YouTube 现标题 How Your Brain Works & Changes）的中文转写，开场白与摘录逐句吻合",
+      "sources": [
+        {
+          "type": "video",
+          "title": "How Your Brain Works & Changes（Huberman Lab Podcast #1，原题 How Your Nervous System Works & Changes）",
+          "url": "https://www.youtube.com/watch?v=H-XfCl-HpRM",
+          "site": "youtube.com",
+          "evidence": "https://www.youtube.com/watch?v=H-XfCl-HpRM",
+          "confidence": "high",
+          "note": "打开页面核对：字幕开头为 Welcome to the Huberman Lab Podcast ... I'm Andrew Huberman"
+        },
+        {
+          "type": "podcast",
+          "title": "How Your Nervous System Works & Changes | Huberman Lab Podcast #1",
+          "url": "https://ai.hubermanlab.com/hubermanlab/d/1698bfb6-c7f1-11ed-8d98-3b57d00b9fc6",
+          "site": "ai.hubermanlab.com",
+          "evidence": "https://ai.hubermanlab.com/hubermanlab/d/1698bfb6-c7f1-11ed-8d98-3b57d00b9fc6",
+          "confidence": "medium",
+          "note": "Huberman Lab 官方 AI 站点的单集页，显示 Published Jan 4, 2021；hubermanlab.com 上未找到第 1 期完整版单集页"
+        }
+      ],
+      "author_check": {
+        "status": "corrected",
+        "authors": ["Andrew Huberman"],
+        "evidence": "https://www.youtube.com/watch?v=H-XfCl-HpRM",
+        "note": "原书标注 Thomas Waschenfelder，但正文是 Andrew Huberman 本人的播客口述（「大家好，我是安德鲁·胡伯曼」）；Thomas Waschenfelder 是 Wealest 站长/编剧，与该节目无关联证据，可能是中文转载时误标了整理者或来源"
+      }
+    },
+    {
+      "article_id": "vol0008-c05",
+      "status": "found",
+      "note": "英文原题 The Throughput of Learning，最早于 2017-01-31 作为客座文章发表在 Ribbonfarm，后转载到 Forte Labs 博客",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Throughput of Learning",
+          "url": "https://fortelabs.com/blog/the-throughput-of-learning/",
+          "site": "fortelabs.com",
+          "evidence": "https://fortelabs.com/blog/the-throughput-of-learning/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "article",
+          "title": "The Throughput of Learning（Ribbonfarm 首发版）",
+          "url": "https://ribbonfarm.com/2017/01/31/the-throughput-of-learning/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://ribbonfarm.com/2017/01/31/the-throughput-of-learning/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0067-c06",
+      "status": "found",
+      "note": "英文原题 A Framework of Experimental Habit Formation（Ribbonfarm，2016-04-21），Forte Labs 版题为 Experimental Habit Formation",
+      "sources": [
+        {
+          "type": "article",
+          "title": "A Framework of Experimental Habit Formation",
+          "url": "https://ribbonfarm.com/2016/04/21/a-framework-of-experimental-habit-formation/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://ribbonfarm.com/2016/04/21/a-framework-of-experimental-habit-formation/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "article",
+          "title": "Experimental Habit Formation",
+          "url": "https://fortelabs.com/blog/experimental-habit-formation/",
+          "site": "fortelabs.com",
+          "evidence": "https://fortelabs.com/blog/experimental-habit-formation/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0085-c06",
+      "status": "found",
+      "note": "对应 Tiago Forte 的 Theory of Constraints 系列开篇 Theory of Constraints 101: Applying the Principles of Flow to Knowledge Work（2016-09-29），中文「上篇」汇编了该系列前几篇",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Theory of Constraints 101: Applying the Principles of Flow to Knowledge Work",
+          "url": "https://fortelabs.com/blog/theory-of-constraints-101/",
+          "site": "fortelabs.com",
+          "evidence": "https://fortelabs.com/blog/theory-of-constraints-101/",
+          "confidence": "high",
+          "note": "开篇「我见过的最强大的行动框架」「每个系统都存在一个比其他瓶颈更紧的约束」等句与原文一致"
+        },
+        {
+          "type": "article",
+          "title": "Theory of Constraints 105: Drum-Buffer-Rope",
+          "url": "https://fortelabs.com/blog/theory-of-constraints-105-drum-buffer-rope/",
+          "site": "fortelabs.com",
+          "evidence": "https://fortelabs.com/blog/theory-of-constraints-105-drum-buffer-rope/",
+          "confidence": "medium",
+          "note": "下篇开头提到「上一小节介绍了鼓-缓冲-绳（DBR）」，推断上篇收录了本篇"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0085-c07",
+      "status": "found",
+      "note": "下篇从「6. DBR 在微软的应用」开始，对应 Theory of Constraints 106: DBR at Microsoft 及该系列后续各篇",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Theory of Constraints 106: DBR at Microsoft",
+          "url": "https://fortelabs.com/blog/theory-of-constraints-106-dbr-at-microsoft/",
+          "site": "fortelabs.com",
+          "evidence": "https://fortelabs.com/blog/theory-of-constraints-106-dbr-at-microsoft/",
+          "confidence": "high",
+          "note": "Dragos Dumitriu 扭转微软 XIT 团队的案例与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "Theory of Constraints 105: Drum-Buffer-Rope at Microsoft（Praxis/Medium 版）",
+          "url": "https://medium.com/praxis-blog/theory-of-constraints-105-drum-buffer-rope-at-microsoft-fda187c6d1d9",
+          "site": "medium.com",
+          "evidence": "https://medium.com/praxis-blog/theory-of-constraints-105-drum-buffer-rope-at-microsoft-fda187c6d1d9",
+          "confidence": "medium",
+          "note": "同一篇在 Tiago Forte 的 Praxis 博客上的早期版本"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0092-c07",
+      "status": "found",
+      "note": "英文原题 The Holy Grail of Self-Improvement，Ribbonfarm 首发于 2016-03-24，Forte Labs 版发布于 2016-04-21",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Holy Grail of Self-Improvement",
+          "url": "https://fortelabs.com/blog/the-holy-grail-of-self-improvement/",
+          "site": "fortelabs.com",
+          "evidence": "https://fortelabs.com/blog/the-holy-grail-of-self-improvement/",
+          "confidence": "high",
+          "note": "Neo-Pavlovian Behaviorism、Pavlok 等段落与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "The Holy Grail of Self-Improvement（Ribbonfarm 首发版）",
+          "url": "https://ribbonfarm.com/2016/03/24/the-holy-grail-of-self-improvement/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://ribbonfarm.com/2016/03/24/the-holy-grail-of-self-improvement/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0078-c08",
+      "status": "found",
+      "note": "英文原题 360 Delegation（Profit Factory 博客，2016-01-24），开头「我最痛恨两件事：浪费和装逼（waste and entitlement）」及 ACME 铁砧、威利狼的例子逐句吻合",
+      "sources": [
+        {
+          "type": "article",
+          "title": "360 Delegation",
+          "url": "https://profitfactory.com/360delegation/",
+          "site": "profitfactory.com",
+          "evidence": "https://profitfactory.com/360delegation/",
+          "confidence": "high",
+          "note": "页面署名 Published by Tim，评论区由 Timothy Francis 回复"
+        }
+      ],
+      "author_check": {
+        "status": "corrected",
+        "authors": ["Tim Francis"],
+        "evidence": "https://profitfactory.com/360delegation/",
+        "note": "原书只标注单名 Tim；原文发表在 Tim Francis 创办的 Profit Factory，文中称「这是我发明的工具」，评论区作者以 Timothy Francis 身份回复；另见 https://mm.hlprotools.com/p/cheating-way-success 称该概念学自 Tim Francis"
+      }
+    },
+    {
+      "article_id": "vol0001-c07",
+      "status": "found",
+      "note": "英文原题 How to Pick a Career (That Actually Fits You)，Wait But Why，2018-04-11",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to Pick a Career (That Actually Fits You)",
+          "url": "https://waitbutwhy.com/2018/04/picking-career.html",
+          "site": "waitbutwhy.com",
+          "evidence": "https://waitbutwhy.com/2018/04/picking-career.html",
+          "confidence": "high",
+          "note": "开头「社会就像过年缠着你的叔叔（great uncle）」与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0003-c05",
+      "status": "found",
+      "note": "英文原题 What Makes You You?，Wait But Why，2014-12-12",
+      "sources": [
+        {
+          "type": "article",
+          "title": "What Makes You You?",
+          "url": "https://waitbutwhy.com/2014/12/what-makes-you-you.html",
+          "site": "waitbutwhy.com",
+          "evidence": "https://waitbutwhy.com/2014/12/what-makes-you-you.html",
+          "confidence": "high",
+          "note": "Body Theory 段落与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0006-c05",
+      "status": "found",
+      "note": "英文原题 How to Pick Your Life Partner（Wait But Why 两篇连载，2014-02），中文为两部分合译",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to Pick Your Life Partner – Part 1",
+          "url": "https://waitbutwhy.com/2014/02/pick-life-partner.html",
+          "site": "waitbutwhy.com",
+          "evidence": "https://waitbutwhy.com/2014/02/pick-life-partner.html",
+          "confidence": "medium",
+          "note": "搜索结果中标题与站点吻合，未打开全文"
+        },
+        {
+          "type": "article",
+          "title": "How to Pick Your Life Partner – Part 2",
+          "url": "https://waitbutwhy.com/2014/02/pick-life-partner-part-2.html",
+          "site": "waitbutwhy.com",
+          "evidence": "https://waitbutwhy.com/2014/02/pick-life-partner-part-2.html",
+          "confidence": "high",
+          "note": "推荐语引用的「20,000 个不起眼的周三」出自本篇，署名 Tim Urban，2014-02-13"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0024-c07",
+      "status": "found",
+      "note": "英文原题 Taming the Mammoth: Why You Should Stop Caring What Other People Think，Wait But Why，2014-06-13",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Taming the Mammoth: Why You Should Stop Caring What Other People Think",
+          "url": "https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html",
+          "site": "waitbutwhy.com",
+          "evidence": "https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html",
+          "confidence": "high",
+          "note": "开头二年级女孩 Alana 的故事与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0032-c03",
+      "status": "found",
+      "note": "英文原题 Why Procrastinators Procrastinate，Wait But Why，2013-10-30",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Why Procrastinators Procrastinate",
+          "url": "https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html",
+          "site": "waitbutwhy.com",
+          "evidence": "https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html",
+          "confidence": "high",
+          "note": "中文为该篇及续篇的合译，开头字典释义 pro-cras-ti-na-tion 一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0045-c04",
+      "status": "found",
+      "note": "英文原题 Your Family: Past, Present, and Future，Wait But Why，2014-01-28",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Your Family: Past, Present, and Future",
+          "url": "https://waitbutwhy.com/2014/01/your-family-past-present-and-future.html",
+          "site": "waitbutwhy.com",
+          "evidence": "https://waitbutwhy.com/2014/01/your-family-past-present-and-future.html",
+          "confidence": "high",
+          "note": "开头 89 岁祖母 Nana 一段与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0060-c03",
+      "status": "found",
+      "note": "Sriram Krishnan 主持的访谈栏目 The Observer Effect 第三期，受访者 Tobi Lütke，2020-12-16 发布；原站已下线，引用 Internet Archive 存档",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "The Observer Effect – Tobi Lütke",
+          "url": "https://web.archive.org/web/20201216171520/https:/www.theobservereffect.org/tobi.html",
+          "site": "theobservereffect.org（web.archive.org 存档）",
+          "evidence": "https://web.archive.org/web/20201216171520/https:/www.theobservereffect.org/tobi.html",
+          "confidence": "high",
+          "note": "「On a Typical Day」「注意力是我最宝贵的资源」等与摘录一致"
+        },
+        {
+          "type": "interview",
+          "title": "The Observer Effect – Tobi Lütke（转载）",
+          "url": "https://blakeir.com/the-observer-effect-tobi-ltke",
+          "site": "blakeir.com",
+          "evidence": "https://blakeir.com/the-observer-effect-tobi-ltke",
+          "confidence": "medium",
+          "note": "全文转载"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Tobi Lütke"],
+        "evidence": "https://web.archive.org/web/20201216171520/https:/www.theobservereffect.org/tobi.html",
+        "note": "Tobi Lütke 为受访者，采访者为 Sriram Krishnan"
+      }
+    },
+    {
+      "article_id": "vol0077-c06",
+      "status": "found",
+      "note": "英文原题 The Real Value of Money，Tom Morgan 的 Newsletter The Leading Edge，2024-11-18，附与 Nadja Taranczewski 的播客对谈",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Real Value of Money",
+          "url": "https://newsletter.theleading-edge.org/p/the-real-value-of-money",
+          "site": "newsletter.theleading-edge.org",
+          "evidence": "https://newsletter.theleading-edge.org/p/the-real-value-of-money",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "podcast",
+          "title": "The Real Value of Money – with Nadja Taranczewski（The Leading Edge 播客）",
+          "url": "https://podcasts.apple.com/us/podcast/the-real-value-of-money-with-nadja-taranczewski/id1684256267?i=1000677327881",
+          "site": "podcasts.apple.com",
+          "evidence": "https://podcasts.apple.com/us/podcast/the-real-value-of-money-with-nadja-taranczewski/id1684256267?i=1000677327881",
+          "confidence": "high",
+          "note": "原书正文中的苹果播客链接，页面显示 2024-11-18、50 分钟"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0010-c05",
+      "status": "found",
+      "note": "英文原题 Manage Your Energy, Not Your Time，《哈佛商业评论》2007 年 10 月刊，作者 Tony Schwartz 与 Catherine McCarthy",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Manage Your Energy, Not Your Time",
+          "url": "https://hbr.org/2007/10/manage-your-energy-not-your-time",
+          "site": "hbr.org",
+          "evidence": "https://hbr.org/2007/10/manage-your-energy-not-your-time",
+          "confidence": "high",
+          "note": "开头安永合伙人 Steve Wanner 的例子与摘录一致"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Tony Schwartz", "Catherine McCarthy"],
+        "evidence": "https://hbr.org/2007/10/manage-your-energy-not-your-time",
+        "note": "Tony Schwartz 归属正确，原文另有合著者 Catherine McCarthy"
+      }
+    },
+    {
+      "article_id": "vol0092-c05",
+      "status": "found",
+      "note": "英文原题 How to live an intellectually rich life，Utsav Mamoria 的 Substack「Tumse Na Ho Paayega」，2025-03-17",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to live an intellectually rich life",
+          "url": "https://utsavmamoria.substack.com/p/how-to-live-an-intellectually-rich",
+          "site": "utsavmamoria.substack.com",
+          "evidence": "https://utsavmamoria.substack.com/p/how-to-live-an-intellectually-rich",
+          "confidence": "high",
+          "note": "维基百科首链通往 Philosophy、Nuclear Gandhi 等段落与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0012-c03",
+      "status": "found",
+      "note": "英文原题 As We May Think，《大西洋月刊》1945 年 7 月号",
+      "sources": [
+        {
+          "type": "article",
+          "title": "As We May Think",
+          "url": "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/",
+          "site": "theatlantic.com",
+          "evidence": "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "thomas-waschenfelder",
+      "note": "Los Angeles 编剧/制片人、Wealest 站长；本批唯一归属文章实为 Andrew Huberman 的播客，该归属疑似误标",
+      "sources": [
+        {"type": "website", "title": "Wealest（Thomas Waschenfelder 创办的财富思维资料站）", "url": "https://www.wealest.com/aboutus", "site": "wealest.com", "evidence": "https://www.wealest.com/aboutus", "confidence": "medium", "note": null},
+        {"type": "website", "title": "Thomas Waschenfelder 个人主页（Gumroad，介绍 Newsletter The Leverage Creator）", "url": "https://twaschenfelder.gumroad.com/", "site": "gumroad.com", "evidence": "https://twaschenfelder.gumroad.com/", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "tiago-forte",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Forte Labs（Tiago Forte 的公司与博客）", "url": "https://fortelabs.com/", "site": "fortelabs.com", "evidence": "https://fortelabs.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Building a Second Brain（《打造第二大脑》，Simon Element，2022）", "url": "https://www.simonandschuster.com/books/Building-a-Second-Brain/Tiago-Forte/9781982167387", "site": "simonandschuster.com", "evidence": "https://www.simonandschuster.com/books/Building-a-Second-Brain/Tiago-Forte/9781982167387", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "tim",
+      "note": "原书单名 Tim，经核为 Profit Factory 创始人 Tim Francis（见 vol0078-c08 的 author_check）",
+      "sources": [
+        {"type": "website", "title": "Tim Francis | Profit Factory（作者简介页）", "url": "https://profitfactory.com/about/timfrancis/", "site": "profitfactory.com", "evidence": "https://profitfactory.com/about/timfrancis/", "confidence": "medium", "note": null},
+        {"type": "website", "title": "Tim Francis 个人网站", "url": "https://realtimfrancis.com/", "site": "realtimfrancis.com", "evidence": "https://realtimfrancis.com/", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "tim-brown",
+      "note": "IDEO 前 CEO、现任全球荣誉主席",
+      "sources": [
+        {"type": "website", "title": "Tim Brown | IDEO 领导层页面", "url": "https://www.ideo.com/leaders/tim-brown", "site": "ideo.com", "evidence": "https://www.ideo.com/leaders/tim-brown", "confidence": "medium", "note": null},
+        {"type": "book", "title": "Change by Design（《IDEO，设计改变一切》，Harper Business，2009）", "url": "https://www.harpercollins.co.nz/9780061937743/change-by-design/", "site": "harpercollins.co.nz", "evidence": "https://www.harpercollins.co.nz/9780061937743/change-by-design/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "tim-cahill",
+      "note": "美国旅行作家，早年任《滚石》编辑与撰稿人，Outside 杂志创刊编辑",
+      "sources": [
+        {"type": "website", "title": "Tim Cahill (writer) - Wikipedia", "url": "https://en.wikipedia.org/wiki/Tim_Cahill_(writer)", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Tim_Cahill_(writer)", "confidence": "medium", "note": null},
+        {"type": "book", "title": "Jaguars Ripped My Flesh（1987）", "url": null, "site": null, "evidence": "https://www.encyclopedia.com/arts/culture-magazines/cahill-tim", "confidence": "medium", "note": "代表作之一，另有 Buried Dreams（1986）、Road Fever（1991）"}
+      ]
+    },
+    {
+      "author_id": "tim-ingold",
+      "note": "英国人类学家，阿伯丁大学社会人类学荣休教授",
+      "sources": [
+        {"type": "website", "title": "Professor Timothy Ingold | University of Aberdeen", "url": "https://www.abdn.ac.uk/people/tim.ingold?count=100", "site": "abdn.ac.uk", "evidence": "https://www.abdn.ac.uk/people/tim.ingold?count=100", "confidence": "medium", "note": null},
+        {"type": "book", "title": "Anthropology: Why It Matters（《人类学为什么重要》，Polity，2018）", "url": "https://abdn.elsevierpure.com/en/publications/anthropology-why-it-matters/", "site": "abdn.elsevierpure.com", "evidence": "https://abdn.elsevierpure.com/en/publications/anthropology-why-it-matters/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "tim-urban",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Wait But Why（Tim Urban 的长文博客）", "url": "https://waitbutwhy.com/", "site": "waitbutwhy.com", "evidence": "https://waitbutwhy.com/about", "confidence": "high", "note": null},
+        {"type": "book", "title": "What's Our Problem?: A Self-Help Book for Societies（Wait But Why，2023）", "url": "https://books.google.com/books/about/What_s_Our_Problem.html?id=Yk-tEAAAQBAJ", "site": "books.google.com", "evidence": "https://books.google.com/books/about/What_s_Our_Problem.html?id=Yk-tEAAAQBAJ", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "tobi-lutke",
+      "note": "Shopify 联合创始人兼 CEO",
+      "sources": [
+        {"type": "website", "title": "Tobi Lütke 个人博客 Too-biased（About）", "url": "https://tobi.lutke.com/pages/about", "site": "tobi.lutke.com", "evidence": "https://tobi.lutke.com/pages/about", "confidence": "medium", "note": null},
+        {"type": "website", "title": "Tobias Lütke - Wikipedia", "url": "https://en.wikipedia.org/wiki/Tobias_L%C3%BCtke", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Tobias_L%C3%BCtke", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "tom-morgan",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "The Leading Edge（Tom Morgan 的 Newsletter）", "url": "https://newsletter.theleading-edge.org/", "site": "newsletter.theleading-edge.org", "evidence": "https://newsletter.theleading-edge.org/", "confidence": "high", "note": null},
+        {"type": "website", "title": "The Leading Edge 社群官网", "url": "https://www.theleading-edge.org/", "site": "theleading-edge.org", "evidence": "https://www.theleading-edge.org/", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "tomas-pueyo",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Uncharted Territories（Tomas Pueyo 的 Newsletter）", "url": "https://unchartedterritories.tomaspueyo.com/", "site": "unchartedterritories.tomaspueyo.com", "evidence": "https://unchartedterritories.tomaspueyo.com/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "tony-schwartz",
+      "note": "The Energy Project 创始人兼 CEO",
+      "sources": [
+        {"type": "website", "title": "Tony Schwartz Biography | The Energy Project", "url": "https://theenergyproject.com/about-us/tony-schwartz-bio/", "site": "theenergyproject.com", "evidence": "https://theenergyproject.com/about-us/tony-schwartz-bio/", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Power of Full Engagement（《精力管理》，与 Jim Loehr 合著，Free Press，2003）", "url": "https://www.simonandschuster.com/authors/Tony-Schwartz/17102938", "site": "simonandschuster.com", "evidence": "https://www.simonandschuster.com/authors/Tony-Schwartz/17102938", "confidence": "medium", "note": "链接为出版社作者页，列有该书"}
+      ]
+    },
+    {
+      "author_id": "tyler-cowen",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Marginal Revolution（Tyler Cowen 与 Alex Tabarrok 合办的博客）", "url": "https://marginalrevolution.com/", "site": "marginalrevolution.com", "evidence": "https://marginalrevolution.com/", "confidence": "high", "note": null},
+        {"type": "podcast", "title": "Conversations with Tyler", "url": "https://conversationswithtyler.com/", "site": "conversationswithtyler.com", "evidence": "https://conversationswithtyler.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Tyler Cowen 个人网站", "url": "https://tylercowen.com/", "site": "tylercowen.com", "evidence": "https://tylercowen.com/", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "utsav-mamoria",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Tumse Na Ho Paayega（Utsav Mamoria 的 Substack）", "url": "https://utsavmamoria.substack.com/", "site": "utsavmamoria.substack.com", "evidence": "https://utsavmamoria.substack.com/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "vannevar-bush",
+      "note": "美国工程师、二战时期科学研究与发展办公室（OSRD）主任，已故（1890–1974）",
+      "sources": [
+        {"type": "website", "title": "Vannevar Bush - Wikipedia", "url": "https://en.wikipedia.org/wiki/Vannevar_Bush", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Vannevar_Bush", "confidence": "high", "note": null},
+        {"type": "website", "title": "Vannevar Bush | Lemelson-MIT", "url": "https://lemelson.mit.edu/resources/vannevar-bush", "site": "lemelson.mit.edu", "evidence": "https://lemelson.mit.edu/resources/vannevar-bush", "confidence": "medium", "note": null}
+      ]
+    }
+  ]
+}

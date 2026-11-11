@@ -1,0 +1,452 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0046-c04",
+      "status": "found",
+      "note": "英文原题 What Makes Us Happy?，The Atlantic 2009 年 6 月号封面文章，记述哈佛格兰特研究与 George Vaillant",
+      "sources": [
+        {
+          "type": "article",
+          "title": "What Makes Us Happy?",
+          "url": "https://www.theatlantic.com/magazine/archive/2009/06/what-makes-us-happy/307439/",
+          "site": "theatlantic.com",
+          "evidence": "https://www.theatlantic.com/magazine/archive/2009/06/what-makes-us-happy/307439/",
+          "confidence": "high",
+          "note": "搜索结果展示了页面正文：By Joshua Wolf Shenk, June 2009 Issue，268 名哈佛男生、George Vaillant"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0094-c05",
+      "status": "not_found",
+      "note": "按摘录回译的关键句（买对的书就能成为理想的自己、数字仓鼠/知识囤积、\"真正读者\"标准与女性阅读、read like a writer）及作者名 Jovana 搜索 Substack，未找到对应原文。疑似候选：Croatia 作者 Jovana 的 Substack「Highbrow & Lowkey / Constant Learner」（https://highbrowlowkey.substack.com，2025 年创刊、写文学评论与阅读），但无法打开其文章列表核对，不作为出处提交。",
+      "sources": [],
+      "author_check": {
+        "status": "unknown",
+        "authors": [],
+        "evidence": "https://sidestack.io/directory/substack/highbrowlowkey",
+        "note": "原书只标单名 Jovana，未能定位原文，作者身份无法核实"
+      }
+    },
+    {
+      "article_id": "vol0082-c05",
+      "status": "found",
+      "note": "英文原题 Signaling as a Service，julian.digital，2020-03-28",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Signaling as a Service",
+          "url": "https://julian.digital/2020/03/28/signaling-as-a-service/",
+          "site": "julian.digital",
+          "evidence": "https://julian.digital/2020/03/28/signaling-as-a-service/",
+          "confidence": "high",
+          "note": "开头即「One of the best books I have read in the last few years is The Elephant in the Brain」，与摘录一致"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Julian Lehr"],
+        "evidence": "https://www.colemanm.org/post/signaling-as-a-service/",
+        "note": "原书只标 julian；julian.digital 是 Julian Lehr 的博客（其 Substack julianlehr.substack.com 署名 julian.digital），Coleman McCormick 转引时写明「Great post from Julian Lehr」"
+      }
+    },
+    {
+      "article_id": "vol0003-c04",
+      "status": "found",
+      "note": "英文原题 What are mental models? Here's how to actually use them.（julian.com/blog/mental-model-examples）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "What are mental models? Here's how to actually use them.",
+          "url": "https://www.julian.com/blog/mental-model-examples",
+          "site": "julian.com",
+          "evidence": "https://www.julian.com/blog/mental-model-examples",
+          "confidence": "high",
+          "note": "已打开核对：火箭发动机（系统）/火箭燃料（决策）例子、One Level Higher、Theory of Constraints、First Principles、Regret Minimization、Pareto、ICE、Eisenhower Matrix，文末署名 —Julian Shapiro"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Julian Shapiro"],
+        "evidence": "https://www.julian.com/blog/mental-model-examples",
+        "note": "原书只标 Julian；原文页面文末署名 Julian Shapiro"
+      }
+    },
+    {
+      "article_id": "vol0029-c04",
+      "status": "found",
+      "note": "英文原题 Vanity metrics: How to pick better life goals（julian.com），三个框架 The Goal Path / The Ability Spectrum / The Virtue Spectrum 与摘录一致",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Vanity metrics: How to pick better life goals",
+          "url": "https://www.julian.com/blog/vanity-metrics",
+          "site": "julian.com",
+          "evidence": "https://corpus.blog/blogs/julian.com",
+          "confidence": "medium",
+          "note": "该 URL 出现在 corpus.blog 的 julian.com 文章索引与 eapl.me 链接列表中；本次直接抓取返回 404，未能打开核对，可能已改版或下线"
+        },
+        {
+          "type": "article",
+          "title": "Vanity metrics: How to pick better life goals（Blog Dice 转载全文）",
+          "url": "https://blogdice.com/articles/julian-shapiro/blog-vanity-metrics/",
+          "site": "blogdice.com",
+          "evidence": "https://blogdice.com/articles/julian-shapiro/blog-vanity-metrics/",
+          "confidence": "medium",
+          "note": "第三方聚合页，署名 Julian Shapiro，正文含三个框架；仅在原站不可访问时作参考"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0078-c04",
+      "status": "found",
+      "note": "英文原题 Life's Stories（The Atlantic，2015-08-10，网页标题 Story of My Life: How Narrative Creates Personality）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Life's Stories: How you arrange the plot points of your life into a narrative can shape who you are",
+          "url": "https://www.theatlantic.com/health/archive/2015/08/life-stories-narrative-psychology-redemption-mental-health/400796/",
+          "site": "theatlantic.com",
+          "evidence": "https://www.theatlantic.com/health/archive/2015/08/life-stories-narrative-psychology-redemption-mental-health/400796/",
+          "confidence": "high",
+          "note": "搜索结果展示了正文：By Julie Beck, August 10, 2015，开头即 Paul Murray《Skippy Dies》中 Howard 的段落"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0065-c07",
+      "status": "found",
+      "note": "《阴翳礼赞》（陰翳礼讃 In'ei Raisan，1933 年随笔），书籍/长文节选；英译本 In Praise of Shadows",
+      "sources": [
+        {
+          "type": "book",
+          "title": "In Praise of Shadows（《阴翳礼赞》，Thomas J. Harper & Edward G. Seidensticker 译，Leete's Island Books，1977）",
+          "url": "https://www.amazon.com/Praise-Shadows-Junichiro-Tanizaki/dp/0918172020",
+          "site": "amazon.com",
+          "evidence": "https://www.amazon.com/Praise-Shadows-Junichiro-Tanizaki/dp/0918172020",
+          "confidence": "high",
+          "note": "搜索结果展示了出版信息：Leete's Island Books，1977，ISBN 978-0918172020"
+        },
+        {
+          "type": "website",
+          "title": "In Praise of Shadows — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/In_Praise_of_Shadows",
+          "site": "en.wikipedia.org",
+          "evidence": "https://en.wikipedia.org/wiki/In_Praise_of_Shadows",
+          "confidence": "high",
+          "note": "条目说明原作 1933 年在日本发表，含各英译版本"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0066-c04",
+      "status": "found",
+      "note": "英文原题 Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes（arXiv:0812.4360，2008/2009）",
+      "sources": [
+        {
+          "type": "paper",
+          "title": "Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes",
+          "url": "https://arxiv.org/abs/0812.4360",
+          "site": "arxiv.org",
+          "evidence": "https://arxiv.org/abs/0812.4360",
+          "confidence": "high",
+          "note": "摘要「data becomes temporarily interesting ... once he learns to predict or compress the data in a better way」与中文摘要逐句对应"
+        },
+        {
+          "type": "paper",
+          "title": "Driven by Compression Progress（作者主页 PDF 版）",
+          "url": "https://people.idsia.ch/~juergen/driven2009.pdf",
+          "site": "people.idsia.ch",
+          "evidence": "https://people.idsia.ch/~juergen/driven2009.pdf",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0070-c03",
+      "status": "found",
+      "note": "英文原题 The Diary Habit，Art of Manliness「Manvotional」栏目 2013-09-13 发布；正文实为 Arnold Bennett《Self and Self-Management: Essays on Existing》（1918）中的随笔，McKay 夫妇只写了编者按",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Diary Habit by Arnold Bennett | Manvotional",
+          "url": "https://www.artofmanliness.com/character/self-improvement/the-diary-habit/",
+          "site": "artofmanliness.com",
+          "evidence": "https://www.artofmanliness.com/character/self-improvement/the-diary-habit/",
+          "confidence": "high",
+          "note": "已打开核对：By Brett & Kate McKay, September 13, 2013；编者按写明「The following excerpt comes from Bennett's Self and Self-Management: Essays on Existing, which was published in 1918」；第 I 节「a strange quality of the written word ... superstitious dread of writing」与摘录一致"
+        },
+        {
+          "type": "book",
+          "title": "Self and Self-Management: Essays on Existing（Arnold Bennett，1918）",
+          "url": "http://www.columbia.edu/cu/lweb/digital/collections/cul/texts/ldpd_6352584_000/ldpd_6352584_000.pdf",
+          "site": "columbia.edu",
+          "evidence": "http://www.columbia.edu/cu/lweb/digital/collections/cul/texts/ldpd_6352584_000/ldpd_6352584_000.pdf",
+          "confidence": "medium",
+          "note": "哥伦比亚大学图书馆数字化 PDF，搜索结果显示其中「THE DIARY HABIT」章节原文"
+        }
+      ],
+      "author_check": {
+        "status": "corrected",
+        "authors": ["Arnold Bennett"],
+        "evidence": "https://www.artofmanliness.com/character/self-improvement/the-diary-habit/",
+        "note": "原书标注 Kate McKay and Brett：二人是 Art of Manliness 上发布该节选的编者（写了编者按），正文作者为 Arnold Bennett"
+      }
+    },
+    {
+      "article_id": "vol0027-c06",
+      "status": "found",
+      "note": "稻盛和夫 2019 年 7 月 17–18 日在横滨第 27 届盛和塾世界大会上的最后一次塾长讲话「如何讲述哲学」；中文原创译稿，未找到日文官方全文页",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "第27届盛和塾世界大会稻盛塾长讲话全文",
+          "url": "https://www.163.com/dy/article/EKL8J7P20514EL4A.html",
+          "site": "163.com",
+          "evidence": "https://www.163.com/dy/article/EKL8J7P20514EL4A.html",
+          "confidence": "high",
+          "note": "搜索结果展示正文：「这是最后一次了。在这次大会结束前，我想以'如何讲述哲学'为题，发表讲话」，与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "洞见|\"经营之神\"稻盛和夫的告别演讲：企业家哲学打造法",
+          "url": "https://www.thepaper.cn/newsDetail_forward_4002351",
+          "site": "thepaper.cn",
+          "evidence": "https://www.thepaper.cn/newsDetail_forward_4002351",
+          "confidence": "medium",
+          "note": "澎湃新闻报道，写明 2019 年 7 月 17–18 日横滨、4800 名塾生"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0052-c06",
+      "status": "found",
+      "note": "英文原题 How We Make Sense of Time（Scientific American，2016-11-01），开头即与尤普诺人 Danda 在瓜村山坡上的访谈；原书标 2024 年，与原刊年份不符",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How We Make Sense of Time",
+          "url": "https://www.scientificamerican.com/article/how-we-make-sense-of-time/",
+          "site": "scientificamerican.com",
+          "evidence": "https://www.scientificamerican.com/article/how-we-make-sense-of-time/",
+          "confidence": "high",
+          "note": "抓取页面核对：November 1, 2016，By Kensy Cooperrider & Rafael Núñez；Danda 解释「昨天/明天」的手势、换朝向后手势反转"
+        }
+      ],
+      "author_check": {
+        "status": "corrected",
+        "authors": ["Kensy Cooperrider", "Rafael Núñez"],
+        "evidence": "https://www.scientificamerican.com/article/how-we-make-sense-of-time/",
+        "note": "原文为两人合著，原书只标了 Kensy Cooperrider；第一作者归属无误，补充合著者 Rafael Núñez"
+      }
+    },
+    {
+      "article_id": "vol0004-c03",
+      "status": "found",
+      "note": "凯文·凯利 2020 年 10 月在东钱湖教育论坛的演讲（下一个 5000 天的 12 个必然趋势），在中国发表，未找到英文原稿，给出中文整理稿",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "凯文·凯利：下一个5000天的12个大趋势",
+          "url": "https://news.qq.com/rain/a/20220217A01AEF00",
+          "site": "news.qq.com",
+          "evidence": "https://news.qq.com/rain/a/20220217A01AEF00",
+          "confidence": "high",
+          "note": "正文写明「凯文·凯利在2020年10月举办的东钱湖教育论坛上发表了演讲」，正文首句「跟30年后的我们相比，现在的我们就是一无所知」与摘录一致"
+        },
+        {
+          "type": "speech",
+          "title": "凯文·凯利：下一个5000天的12个必然趋势（美中科教 公众号）",
+          "url": "https://mp.weixin.qq.com/s/eLvH23PTV5rw0CKbC8HpuA",
+          "site": "mp.weixin.qq.com",
+          "evidence": "https://mp.weixin.qq.com/s/eLvH23PTV5rw0CKbC8HpuA",
+          "confidence": "high",
+          "note": "标题与本文完全一致，同为演讲整理稿"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0011-c03",
+      "status": "found",
+      "note": "英文原题 1,000 True Fans（2008 年原文的 2016 修订版，收入 Tim Ferriss《Tools of Titans》）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "1,000 True Fans",
+          "url": "https://kk.org/thetechnium/1000-true-fans/",
+          "site": "kk.org",
+          "evidence": "https://kk.org/thetechnium/1000-true-fans/",
+          "confidence": "high",
+          "note": "开头编者按「This is an edited, updated version of an essay I wrote in 2008 ... appears in Tim Ferriss' new book, Tools of Titans」与中文开头一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0017-c04",
+      "status": "found",
+      "note": "英文原题 Better Than Free（The Technium，2008-01-31）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Better Than Free",
+          "url": "https://kk.org/thetechnium/better-than-fre/",
+          "site": "kk.org",
+          "evidence": "https://kk.org/thetechnium/better-than-fre/",
+          "confidence": "high",
+          "note": "搜索结果展示正文：「The internet is a copy machine ... these copies are not just cheap, they are free」及八种 generatives，与摘录一致；页首注明作者另有 Substack 修订版"
+        },
+        {
+          "type": "article",
+          "title": "Better Than Free（Substack 修订版）",
+          "url": "https://kevinkelly.substack.com/p/better-than-free",
+          "site": "kevinkelly.substack.com",
+          "evidence": "https://kk.org/thetechnium/better-than-fre/",
+          "confidence": "high",
+          "note": "作者后来的精简修订版，非本书所据 2008 原版"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0021-c05",
+      "status": "found",
+      "note": "英文原题 How to Eat an Elephant, One Atomic Concept at a Time（kwokchain，2021-02-05），副标题 How Figma and Canva are taking on Adobe—and winning",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to Eat an Elephant, One Atomic Concept at a Time",
+          "url": "https://kwokchain.com/2021/02/05/atomic-concepts/",
+          "site": "kwokchain.com",
+          "evidence": "https://kwokchain.com/2021/02/05/atomic-concepts/",
+          "confidence": "high",
+          "note": "搜索结果展示正文，作者 Kevin，February 5, 2021；Photoshop/Figma/Sketch/Canva 原子概念论述与摘录一致"
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "joshua-wolf-shenk",
+      "note": "美国作家、随笔作者，The Moth 创始顾问",
+      "sources": [
+        {"type": "website", "title": "Joshua Wolf Shenk 个人网站", "url": "https://www.shenk.net/", "site": "shenk.net", "evidence": "https://www.shenk.net/", "confidence": "high", "note": "页面提到其 Atlantic 封面文章 What Makes Us Happy? 与 Substack 通讯 The Syndactyly Missives"},
+        {"type": "book", "title": "Lincoln's Melancholy: How Depression Challenged a President and Fueled His Greatness（Houghton Mifflin，2005）", "url": "https://www.shenk.net/lincolnsmelancholy", "site": "shenk.net", "evidence": "https://www.shenk.net/lincolnsmelancholy", "confidence": "high", "note": null},
+        {"type": "book", "title": "Powers of Two: How Relationships Drive Creativity（Eamon Dolan Books / Houghton Mifflin Harcourt，2014）", "url": "https://www.shenk.net/powersoftwo", "site": "shenk.net", "evidence": "https://www.shenk.net/powersoftwo", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "jovana",
+      "note": "只有单名，对应文章原文未找到，无法确定是哪位 Jovana。疑似候选为 Substack「Highbrow & Lowkey / Constant Learner」作者 Jovana（克罗地亚，2025 年创刊，写阅读与文学评论），未核实，不提交为信息源。",
+      "sources": []
+    },
+    {
+      "author_id": "julian-lehr",
+      "note": "德国柏林的产品/科技写作者，曾在 Linear、Stripe 任职",
+      "sources": [
+        {"type": "website", "title": "julian.digital（Julian Lehr 博客）", "url": "https://julian.digital/", "site": "julian.digital", "evidence": "https://julian.digital/", "confidence": "high", "note": "文章列表含 Signaling as a service"},
+        {"type": "website", "title": "julian.digital — About", "url": "https://julian.digital/about/", "site": "julian.digital", "evidence": "https://julian.digital/about/", "confidence": "high", "note": null},
+        {"type": "website", "title": "julian.digital Substack（Julian Lehr）", "url": "https://substack.com/@julianlehr", "site": "substack.com", "evidence": "https://substack.com/@julianlehr", "confidence": "high", "note": "Substack 资料页将 julian.digital 与 Julian Lehr 对应"}
+      ]
+    },
+    {
+      "author_id": "julian-shapiro",
+      "note": "美国创业者、投资人、写作者，著有 julian.com 系列手册（Writing、Growth、Muscle 等）",
+      "sources": [
+        {"type": "website", "title": "Julian Shapiro 个人网站 julian.com", "url": "https://www.julian.com/", "site": "julian.com", "evidence": "https://www.julian.com/", "confidence": "high", "note": "「I write handbooks to hold myself accountable to mastering hard skills」"}
+      ]
+    },
+    {
+      "author_id": "julie-beck",
+      "note": "The Atlantic 撰稿人、前 Family 栏目主编，「The Friendship Files」创办者",
+      "sources": [
+        {"type": "website", "title": "Julie Beck — The Atlantic 作者页", "url": "https://www.theatlantic.com/author/julie-beck/", "site": "theatlantic.com", "evidence": "https://www.theatlantic.com/author/julie-beck/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Julie Beck 个人网站", "url": "https://www.juliebeck.net/", "site": "juliebeck.net", "evidence": "https://www.juliebeck.net/", "confidence": "high", "note": "著有 The Friends We Made Along the Way（Thesis 出版）"},
+        {"type": "website", "title": "Thoughts I Had Along the Way（Julie Beck 通讯）", "url": "https://julieebeck.beehiiv.com/about", "site": "julieebeck.beehiiv.com", "evidence": "https://julieebeck.beehiiv.com/about", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "junichiro-tanizaki",
+      "note": "日本小说家（1886–1965），唯美派代表",
+      "sources": [
+        {"type": "website", "title": "Jun'ichirō Tanizaki — Wikipedia", "url": "https://en.wikipedia.org/wiki/Jun%27ichir%C5%8D_Tanizaki", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Jun%27ichir%C5%8D_Tanizaki", "confidence": "high", "note": null},
+        {"type": "website", "title": "谷崎潤一郎 — 日本国立国会图书馆「近代日本人の肖像」", "url": "https://www.ndl.go.jp/portrait/e/datas/6058/", "site": "ndl.go.jp", "evidence": "https://www.ndl.go.jp/portrait/e/datas/6058/", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Makioka Sisters（《细雪》，Edward Seidensticker 英译，Alfred A. Knopf，1957）", "url": "https://en.wikipedia.org/wiki/The_Makioka_Sisters", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/The_Makioka_Sisters", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "jurgen-schmidhuber",
+      "note": "德国计算机科学家，IDSIA 科学主任、KAUST AI Initiative 主任，NNAISENSE 联合创始人",
+      "sources": [
+        {"type": "website", "title": "Jürgen Schmidhuber 个人主页（IDSIA）", "url": "https://people.idsia.ch/~juergen/", "site": "people.idsia.ch", "evidence": "https://people.idsia.ch/~juergen/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Formal Theory of Creativity, Fun, and Intrinsic Motivation（作者专题页）", "url": "https://people.idsia.ch/~juergen/creativity.html", "site": "people.idsia.ch", "evidence": "https://people.idsia.ch/%7Ejuergen/creativity.html", "confidence": "high", "note": "与「压缩推动进步」同主题的作者自编资料页"}
+      ]
+    },
+    {
+      "author_id": "kaj-sotala",
+      "note": "芬兰写作者，曾为 MIRI 等机构做研究，现为情绪教练与 Substack 作者",
+      "sources": [
+        {"type": "website", "title": "Kaj's Substack", "url": "https://kajsotala.substack.com/", "site": "kajsotala.substack.com", "evidence": "https://kajsotala.substack.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Kaj_Sotala — LessWrong 个人页", "url": "https://www.lesswrong.com/users/kaj_sotala", "site": "lesswrong.com", "evidence": "https://www.lesswrong.com/users/kaj_sotala", "confidence": "high", "note": "其 The Felt Sense: What, Why and How 一文即发表于 LessWrong"}
+      ]
+    },
+    {
+      "author_id": "karri-saarinen",
+      "note": "芬兰设计师，Linear 联合创始人兼 CEO，曾任 Airbnb 首席设计师、Coinbase 设计负责人",
+      "sources": [
+        {"type": "website", "title": "Karri Saarinen 个人网站", "url": "https://karrisaarinen.com/", "site": "karrisaarinen.com", "evidence": "https://karrisaarinen.com/", "confidence": "high", "note": null},
+        {"type": "social", "title": "Karri Saarinen — LinkedIn", "url": "https://linkedin.com/in/karrisaarinen", "site": "linkedin.com", "evidence": "https://linkedin.com/in/karrisaarinen", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "kate-mckay",
+      "note": "与丈夫 Brett McKay 共同经营 The Art of Manliness；本批唯一相关文章正文实为 Arnold Bennett 所写，McKay 夫妇为发布编者",
+      "sources": [
+        {"type": "article", "title": "Bringing Back Manliness（BYU Magazine 对 Brett 与 Kate McKay 的介绍，The Art of Manliness 创办者）", "url": "https://magazine.byu.edu/article/brining-back-manliness/", "site": "magazine.byu.edu", "evidence": "https://magazine.byu.edu/article/brining-back-manliness/", "confidence": "high", "note": "提到二人合著 The Art of Manliness 与 Manvotionals 两本书"},
+        {"type": "website", "title": "Behind the Scenes of Who We Are and How We Work（Dying Breed，Brett & Kate McKay 的 Substack 自我介绍）", "url": "https://www.dyingbreed.net/p/behind-the-scenes-of-who-we-are-and", "site": "dyingbreed.net", "evidence": "https://www.dyingbreed.net/p/behind-the-scenes-of-who-we-are-and", "confidence": "high", "note": "署名 Brett McKay and Kate McKay，2025-01-01"}
+      ]
+    },
+    {
+      "author_id": "kazuo-inamori",
+      "note": "京瓷、KDDI 创始人，曾主持日航重建，盛和塾塾长（1932–2022）",
+      "sources": [
+        {"type": "website", "title": "稲盛和夫 オフィシャルサイト（京瓷）", "url": "https://www.kyocera.co.jp/inamori/", "site": "kyocera.co.jp", "evidence": "https://www.kyocera.co.jp/inamori/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Official Site of Kazuo Inamori（英文版）", "url": "https://global.kyocera.com/inamori/", "site": "global.kyocera.com", "evidence": "https://global.kyocera.com/inamori/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "kensy-cooperrider",
+      "note": "认知科学家，研究手势、时间概念与语言文化；播客 Many Minds 主持人",
+      "sources": [
+        {"type": "website", "title": "Kensy Cooperrider 个人网站", "url": "http://kensycooperrider.com/", "site": "kensycooperrider.com", "evidence": "http://kensycooperrider.com/", "confidence": "high", "note": null},
+        {"type": "podcast", "title": "Many Minds（Kensy Cooperrider 主持，DISI）", "url": "https://disi.org/manyminds/", "site": "disi.org", "evidence": "https://disi.org/manyminds/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Kensy Cooperrider — Aeon 作者页", "url": "https://aeon.co/users/kensy-cooperrider", "site": "aeon.co", "evidence": "https://aeon.co/users/kensy-cooperrider", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "kevin-kelly",
+      "note": "《连线》创始主编，科技作家",
+      "sources": [
+        {"type": "website", "title": "Kevin Kelly 个人网站 kk.org（书目页）", "url": "https://kk.org/books", "site": "kk.org", "evidence": "https://kk.org/books", "confidence": "high", "note": "站内另有博客 The Technium"},
+        {"type": "book", "title": "The Inevitable（《必然》，2016）", "url": "https://kk.org/books/the-inevitable/", "site": "kk.org", "evidence": "https://kk.org/books/the-inevitable/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "kevin-kwok",
+      "note": "投资人、写作者，前 Greylock Partners，2024 年加入 Sutter Hill Ventures",
+      "sources": [
+        {"type": "website", "title": "kwokchain（Kevin Kwok 博客）", "url": "https://kwokchain.com/", "site": "kwokchain.com", "evidence": "https://kwokchain.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "kwokchain — About", "url": "https://kwokchain.com/about/", "site": "kwokchain.com", "evidence": "https://kwokchain.com/about/", "confidence": "high", "note": null}
+      ]
+    }
+  ]
+}

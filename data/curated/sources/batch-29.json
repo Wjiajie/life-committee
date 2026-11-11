@@ -1,0 +1,484 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0034-c07",
+      "status": "found",
+      "note": "英文原题 The Complete Guide to Memory，发表于 2019 年 2 月（原书标注 2017 年有误）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Complete Guide to Memory",
+          "url": "https://www.scotthyoung.com/blog/2019/02/15/memory/",
+          "site": "scotthyoung.com",
+          "evidence": "https://www.scotthyoung.com/blog/2019/02/15/memory/",
+          "confidence": "high",
+          "note": "正文写明与 Jakub Jilek 合作完成；结尾“Summary of Key Methods”与摘录的编码/存储/检索要点一致"
+        }
+      ],
+      "author_check": {
+        "status": "corrected",
+        "authors": ["Scott H. Young", "Jakub Jílek"],
+        "evidence": "https://www.scotthyoung.com/blog/2019/02/15/memory/",
+        "note": "作者无误，但合著者名字原书拼成 Jakub Jalek，原文为 Jakub Jilek（Jílek，UCL 认知科学硕士）；属拼写更正"
+      }
+    },
+    {
+      "article_id": "vol0050-c06",
+      "status": "found",
+      "note": "英文原题 Mastering Linear Algebra in 10 Days: Astounding Experiments in Ultra-Learning，Scott Young 在 Cal Newport 博客 Study Hacks 的客座文章（2012-10-26），内文小标题 How I Tamed MIT's Computer Science Curriculum",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Mastering Linear Algebra in 10 Days: Astounding Experiments in Ultra-Learning",
+          "url": "https://calnewport.com/mastering-linear-algebra-in-10-days-astounding-experiments-in-ultra-learning/",
+          "site": "calnewport.com（Study Hacks）",
+          "evidence": "https://calnewport.com/mastering-linear-algebra-in-10-days-astounding-experiments-in-ultra-learning/",
+          "confidence": "high",
+          "note": "页面注明“a detailed guest post, written by Scott”，Coverage / Practice / Insight 三阶段与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0019-c07",
+      "status": "found",
+      "note": "TED2003 演讲 How to get your ideas to spread",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "How to get your ideas to spread（TED2003）",
+          "url": "https://www.ted.com/talks/seth_godin_how_to_get_your_ideas_to_spread",
+          "site": "ted.com",
+          "evidence": "https://www.ted.com/talks/seth_godin_how_to_get_your_ideas_to_spread",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0076-c07",
+      "status": "found",
+      "note": "英文原题 Let's stop calling them 'soft skills'，2017-01-31 发表于 Medium 刊物 It's Your Turn",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Let's stop calling them 'soft skills'",
+          "url": "https://itsyourturnblog.com/lets-stop-calling-them-soft-skills-9cc27ec09ecb",
+          "site": "It's Your Turn（Medium）",
+          "evidence": "https://itsyourturnblog.com/lets-stop-calling-them-soft-skills-9cc27ec09ecb",
+          "confidence": "high",
+          "note": "开头 Ty Cobb 段落与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "Let's stop calling them \"soft skills\" — and call them \"real skills\" instead",
+          "url": "https://ideas.ted.com/soft-skills-and-real-skills/",
+          "site": "ideas.ted.com",
+          "evidence": "https://ideas.ted.com/soft-skills-and-real-skills/",
+          "confidence": "high",
+          "note": "2023 年 TED Ideas 转载的修订版"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0028-c04",
+      "status": "found",
+      "note": "中文网文，最早见于 2015 年（界面 JMedia、上海电机学院科研处 2015-07-16、凤凰财经 2015-08-24 等转载，来源标注「左思右想」）。开头引述的是中村修二 2015 年 1 月在东京驻日外国记者协会记者会上的发言（Science 有英文报道），正文长篇评论则出自中文作者之手",
+      "sources": [
+        {
+          "type": "article",
+          "title": "【JMedia】诺贝尔奖得主：东亚教育浪费了太多生命",
+          "url": "https://www.jiemian.com/article/887630.html",
+          "site": "界面新闻",
+          "evidence": "https://www.jiemian.com/article/887630.html",
+          "confidence": "high",
+          "note": "小标题「一、东亚教育：效率低下，所有人都深受其苦」与原书一致；文末注明来源：左思右想"
+        },
+        {
+          "type": "article",
+          "title": "诺奖得主中村修二：东亚教育问题的根源在哪？",
+          "url": "https://finance.ifeng.com/a/20150824/13929094_0.shtml",
+          "site": "凤凰财经",
+          "evidence": "https://finance.ifeng.com/a/20150824/13929094_0.shtml",
+          "confidence": "high",
+          "note": "2015-08-24 转载，署名“作者：中村修二”"
+        },
+        {
+          "type": "interview",
+          "title": "Nobel laureate Shuji Nakamura is still angry at Japan（Science 对 2015 年 1 月记者会的报道）",
+          "url": "https://www.science.org/content/article/nobel-laureate-shuji-nakamura-still-angry-japan",
+          "site": "science.org",
+          "evidence": "https://www.science.org/content/article/nobel-laureate-shuji-nakamura-still-angry-japan",
+          "confidence": "high",
+          "note": "中村修二原话：“I think the Asian educational system is a waste of time.”"
+        }
+      ],
+      "author_check": {
+        "status": "unknown",
+        "authors": ["Shuji Nakamura"],
+        "evidence": "https://www.science.org/content/article/nobel-laureate-shuji-nakamura-still-angry-japan",
+        "note": "原书「中村彦二」是「中村修二」的笔误。多家中文转载署名中村修二，但他在记者会上只有几句简短批评；正文讨论普鲁士教育、科举、泰罗制，还写了“对于中国来说……”“我依然记得高中老师……”之类的话，显然出自中文评论作者，真实作者未能查到"
+      }
+    },
+    {
+      "article_id": "vol0055-c05",
+      "status": "found",
+      "note": "英文原题 Are We Still Thinking?（The world's slow move from dialogue to media），2021-01-19",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Are We Still Thinking?",
+          "url": "https://map.simonsarris.com/p/are-we-still-thinking",
+          "site": "The Map is Mostly Water（Substack）",
+          "evidence": "https://map.simonsarris.com/p/are-we-still-thinking",
+          "confidence": "high",
+          "note": "含“To lay a single cobblestone path is to have more virtue than attending a hundred protests”一句"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0065-c04",
+      "status": "found",
+      "note": "英文原题 The Most Precious Resource is Agency，2021-07-01；后改写为 School is Not Enough 发表于 Palladium",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Most Precious Resource is Agency",
+          "url": "https://map.simonsarris.com/p/the-most-precious-resource-is-agency",
+          "site": "The Map is Mostly Water（Substack）",
+          "evidence": "https://map.simonsarris.com/p/the-most-precious-resource-is-agency",
+          "confidence": "high",
+          "note": "开头“The world is a very malleable place”及达·芬奇、迪士尼、纳博科夫、卡内基段落与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "School is Not Enough",
+          "url": "https://map.simonsarris.com/p/school-is-not-enough",
+          "site": "The Map is Mostly Water（Substack）",
+          "evidence": "https://map.simonsarris.com/p/school-is-not-enough",
+          "confidence": "high",
+          "note": "作者基于本文的改写扩充版"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0015-c03",
+      "status": "found",
+      "note": "TEDxPugetSound 2009 演讲 How great leaders inspire action",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "How great leaders inspire action（TEDxPugetSound 2009）",
+          "url": "https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action",
+          "site": "ted.com",
+          "evidence": "https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "video",
+          "title": "How Great Leaders Inspire Action | Simon Sinek | TED",
+          "url": "https://www.youtube.com/watch?v=qp0HIF3SfI4",
+          "site": "YouTube（TED 官方频道）",
+          "evidence": "https://www.youtube.com/watch?v=qp0HIF3SfI4",
+          "confidence": "high",
+          "note": "文字稿中苹果营销信息的例子与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0014-c07",
+      "status": "found",
+      "note": "2020-04-23 红杉资本沈南鹏与黑石集团苏世民的视频直播对话（抖音、今日头条）；中文报道附对话全文",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "投资圈“顶流”红杉沈南鹏对话黑石苏世民：五大看点都在这里了！（附对话全文）",
+          "url": "https://www.nbd.com.cn/articles/2020-04-23/1427993.html",
+          "site": "每日经济新闻",
+          "evidence": "https://www.nbd.com.cn/articles/2020-04-23/1427993.html",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "interview",
+          "title": "沈南鹏对话苏世民：顶级投资家的成功秘诀、机会判断和对年轻人的建议",
+          "url": "https://finance.sina.cn/2020-04-24/detail-iircuyvh9533169.d.html?vt=4",
+          "site": "《中国企业家》杂志（新浪财经）",
+          "evidence": "https://finance.sina.cn/2020-04-24/detail-iircuyvh9533169.d.html?vt=4",
+          "confidence": "high",
+          "note": "导语与原书推荐语列出的话题（疫后投资机会、创业者品质、黑石 700 笔投资仅一笔破产）一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0030-c05",
+      "status": "found",
+      "note": "英文原题 Seeking the Productive Life: Some Details of My Personal Infrastructure，2019-02-21",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Seeking the Productive Life: Some Details of My Personal Infrastructure",
+          "url": "https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/",
+          "site": "Stephen Wolfram Writings",
+          "evidence": "https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/",
+          "confidence": "high",
+          "note": "开头小节 The Pursuit of Productivity 与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0042-c05",
+      "status": "found",
+      "note": "TED AI 2023（2023-10-17，旧金山）演讲 How to Think Computationally about AI, the Universe and Everything；作者博客发布了文字稿",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "How to Think Computationally about AI, the Universe and Everything（演讲文字稿）",
+          "url": "https://writings.stephenwolfram.com/2023/10/how-to-think-computationally-about-ai-the-universe-and-everything/",
+          "site": "Stephen Wolfram Writings",
+          "evidence": "https://writings.stephenwolfram.com/2023/10/how-to-think-computationally-about-ai-the-universe-and-everything/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "video",
+          "title": "How to think computationally about AI, the universe and everything（TEDAI 2023）",
+          "url": "https://www.ted.com/talks/stephen_wolfram_how_to_think_computationally_about_ai_the_universe_and_everything",
+          "site": "ted.com",
+          "evidence": "https://www.ted.com/talks/stephen_wolfram_how_to_think_computationally_about_ai_the_universe_and_everything",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0006-c03",
+      "status": "found",
+      "note": "《花花公子》1985 年 2 月号访谈 Playboy Interview: Steven Jobs，采访者 David Sheff",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "Playboy Interview: Steven Jobs（Playboy，1985 年 2 月）",
+          "url": "https://www.davidsheff.com/steve-jobs",
+          "site": "davidsheff.com（采访者个人网站）",
+          "evidence": "https://www.davidsheff.com/steve-jobs",
+          "confidence": "high",
+          "note": "导语“If anyone can be said to represent the spirit of an entrepreneurial generation...”与摘录一致"
+        },
+        {
+          "type": "interview",
+          "title": "Playboy Interview: Steve Jobs (1985)",
+          "url": "https://longreads.com/2009/01/01/playboy-interview-steve-jobs-1985/",
+          "site": "Longreads",
+          "evidence": "https://longreads.com/2009/01/01/playboy-interview-steve-jobs-1985/",
+          "confidence": "medium",
+          "note": "转载页，标注 David Sheff | Playboy | February 1, 1985"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Steve Jobs"],
+        "evidence": "https://www.davidsheff.com/steve-jobs",
+        "note": "原书只标「乔布斯」；乔布斯是受访者，采访者为 David Sheff"
+      }
+    },
+    {
+      "article_id": "vol0025-c03",
+      "status": "found",
+      "note": "1995 年 Robert X. Cringely 为 PBS 纪录片《书呆子的胜利》（Triumph of the Nerds）所做的采访，2011 年以 Steve Jobs: The Lost Interview 之名发布",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "Steve Jobs: The Lost Interview（访谈文字稿）",
+          "url": "https://www.danielscrivner.com/steve-jobs-the-lost-interview/",
+          "site": "danielscrivner.com",
+          "evidence": "https://www.danielscrivner.com/steve-jobs-the-lost-interview/",
+          "confidence": "high",
+          "note": "含 Cringely 开场白（16 年前、导演 Paul Sen 在车库找到录像带）和“我总问为什么”的段落，与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "The Lost Interview: Steve Jobs Tells Us What Really Matters",
+          "url": "https://www.forbes.com/sites/stevedenning/2011/11/17/the-lost-interview-steve-jobs-tells-us-what-really-matters/",
+          "site": "Forbes",
+          "evidence": "https://www.forbes.com/sites/stevedenning/2011/11/17/the-lost-interview-steve-jobs-tells-us-what-really-matters/",
+          "confidence": "medium",
+          "note": "引用了访谈中“Good artists copy. Great artists steal.”一段"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Steve Jobs"],
+        "evidence": "https://www.danielscrivner.com/steve-jobs-the-lost-interview/",
+        "note": "原书只标「乔布斯」；乔布斯是受访者，采访者为 Robert X. Cringely"
+      }
+    },
+    {
+      "article_id": "vol0012-c07",
+      "status": "found",
+      "note": "英文原题 Do It Now，2005-11-28",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Do It Now",
+          "url": "https://stevepavlina.com/blog/2005/11/do-it-now/",
+          "site": "stevepavlina.com",
+          "evidence": "https://stevepavlina.com/blog/2005/11/do-it-now/",
+          "confidence": "high",
+          "note": "开头“三个学期毕业”“每周 250 小时”与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0035-c04",
+      "status": "found",
+      "note": "Big Think 讲座视频 Steven Pinker: Linguistics as a Window to Understanding the Brain（约 1 小时）；中文正文开头“我叫史蒂芬·平克，是哈佛大学的心理学教授……接下来的一小时里”与讲稿逐句对应",
+      "sources": [
+        {
+          "type": "video",
+          "title": "Steven Pinker: Linguistics as a Window to Understanding the Brain | Big Think",
+          "url": "https://www.youtube.com/watch?v=Q-B_ONJIEcE",
+          "site": "YouTube（Big Think）",
+          "evidence": "https://www.youtube.com/watch?v=Q-B_ONJIEcE",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "speech",
+          "title": "Steven Pinker Discusses Linguistics as a Window to Understanding the Brain (Transcript)",
+          "url": "https://singjupost.com/steven-pinker-discusses-linguistics-window-understanding-brain-transcript/",
+          "site": "The Singju Post",
+          "evidence": "https://singjupost.com/steven-pinker-discusses-linguistics-window-understanding-brain-transcript/",
+          "confidence": "medium",
+          "note": "第三方整理的文字稿"
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "scott-young",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Scott H. Young 个人网站与博客", "url": "https://www.scotthyoung.com/", "site": "scotthyoung.com", "evidence": "https://www.scotthyoung.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Ultralearning（《超级学习者》，Harper Business，2019）", "url": "https://www.scotthyoung.com/blog/ultralearning/", "site": "scotthyoung.com", "evidence": "https://www.harvard.com/book/9780062852687", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "seth-godin",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Seth's Blog", "url": "https://seths.blog/", "site": "seths.blog", "evidence": "https://seths.blog/books/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Purple Cow（《紫牛》，2003）", "url": "https://seths.blog/books/", "site": "seths.blog", "evidence": "https://seths.blog/2007/03/purple_cow_redu/", "confidence": "high", "note": "作者官网书目页"}
+      ]
+    },
+    {
+      "author_id": "shimon-sakaguchi",
+      "note": "坂口志文，大阪大学免疫学前沿研究中心特聘教授，2025 年诺贝尔生理学或医学奖得主（调节性 T 细胞）",
+      "sources": [
+        {"type": "website", "title": "SAKAGUCHI Shimon Nobel Prize Laureate (Physiology or Medicine)（大阪大学）", "url": "https://www.osaka-u.ac.jp/en/research/nobelprize/sakaguchi/top", "site": "osaka-u.ac.jp", "evidence": "https://www.osaka-u.ac.jp/en/research/nobelprize/sakaguchi/top", "confidence": "high", "note": null},
+        {"type": "website", "title": "Shimon Sakaguchi – Facts – 2025（NobelPrize.org）", "url": "https://www.nobelprize.org/prizes/medicine/2025/sakaguchi/facts/", "site": "nobelprize.org", "evidence": "https://www.nobelprize.org/prizes/medicine/2025/sakaguchi/facts/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "shuji-nakamura",
+      "note": "原书写作「中村彦二」，为中村修二之误",
+      "sources": [
+        {"type": "website", "title": "Shuji Nakamura（UC Santa Barbara 教职页）", "url": "https://www.ucsb.edu/about/faculty-and-alumni/shuji-nakamura", "site": "ucsb.edu", "evidence": "https://www.ucsb.edu/about/faculty-and-alumni/shuji-nakamura", "confidence": "high", "note": null},
+        {"type": "website", "title": "Shuji Nakamura – Facts – 2014（NobelPrize.org）", "url": "https://www.nobelprize.org/prizes/physics/2014/nakamura/facts/", "site": "nobelprize.org", "evidence": "https://www.nobelprize.org/prizes/physics/2014/nakamura/facts/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "simon-sarris",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "The Map is Mostly Water（Simon Sarris 的 Newsletter）", "url": "https://map.simonsarris.com/", "site": "map.simonsarris.com", "evidence": "https://map.simonsarris.com/about", "confidence": "high", "note": null},
+        {"type": "website", "title": "Simon Sarris 个人网站", "url": "https://simonsarris.com/", "site": "simonsarris.com", "evidence": "https://simonsarris.com/writing", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "simon-sinek",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Simon Sinek 官网（The Optimism Company）", "url": "https://simonsinek.com/", "site": "simonsinek.com", "evidence": "https://simonsinek.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Start with Why（《从“为什么”开始》，Portfolio，2009）", "url": "https://simonsinek.com/books/start-with-why", "site": "simonsinek.com", "evidence": "https://simonsinek.com/books/start-with-why", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "sonal-chokshi",
+      "note": "a16z（Andreessen Horowitz）编辑，2014–2022 年任 a16z Podcast 主理人，现为 a16z Frontier 主编",
+      "sources": [
+        {"type": "website", "title": "Sonal Chokshi（a16z Frontier 团队页）", "url": "https://a16zfrontier.com/team/sonal-chokshi/", "site": "a16zfrontier.com", "evidence": "https://a16zfrontier.com/team/sonal-chokshi/", "confidence": "high", "note": null},
+        {"type": "interview", "title": "How technological progress leads to economic growth, an interview with 2025 Nobel Prize winner Joel Mokyr", "url": "https://a16zfrontier.com/posts/article/joel-mokyr-tech-progress-economic-growth/", "site": "a16zfrontier.com", "evidence": "https://a16zfrontier.com/posts/article/joel-mokyr-tech-progress-economic-growth/", "confidence": "high", "note": "对应其名下文章《2025 年诺贝尔奖得主乔尔·莫基尔访谈》，原为 2016 年 11 月 a16z Podcast 访谈"}
+      ]
+    },
+    {
+      "author_id": "stanley-kubrick",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Stanley Kubrick（Wikipedia）", "url": "https://en.wikipedia.org/wiki/Stanley_Kubrick", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Stanley_Kubrick", "confidence": "high", "note": null},
+        {"type": "interview", "title": "November 27, 1965: A Rare Recording of Stanley Kubrick's Most Revealing Interview（Jeremy Bernstein 访谈录音）", "url": "https://www.themarginalian.org/2013/11/27/jeremy-bernstein-stanley-kubrick-interview/", "site": "The Marginalian", "evidence": "https://www.themarginalian.org/2013/11/27/jeremy-bernstein-stanley-kubrick-interview/", "confidence": "medium", "note": "对应其名下文章《库布里克与杰里米·伯恩斯坦访谈》；访谈用于 1966-11-12《纽约客》人物稿 How About a Little Game?"}
+      ]
+    },
+    {
+      "author_id": "stefano-zorzi",
+      "note": "常驻哥本哈根的创业者，在 Ribbonfarm 发表客座文章，另有个人博客 The Hiding Hand（未找到其网址）",
+      "sources": [
+        {"type": "website", "title": "Stefano Zorzi（Ribbonfarm 作者页）", "url": "https://ribbonfarm.com/author/stefanozorzi/", "site": "ribbonfarm.com", "evidence": "https://ribbonfarm.com/author/stefanozorzi/", "confidence": "high", "note": null},
+        {"type": "article", "title": "The Unapologetic Case For Bullshit（2018-01-18）", "url": "https://ribbonfarm.com/2018/01/18/the-unapologetic-case-for-bullshit/", "site": "ribbonfarm.com", "evidence": "https://ribbonfarm.com/2018/01/18/the-unapologetic-case-for-bullshit/", "confidence": "high", "note": "对应其名下文章《为扯淡的辩护：一种创新的期权》（文中把扯淡称为 knowledge optionality）"}
+      ]
+    },
+    {
+      "author_id": "stephen-schwarzman",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Stephen A. Schwarzman（Blackstone 官网简介）", "url": "https://www.blackstone.com/people/stephen-a-schwarzman/", "site": "blackstone.com", "evidence": "https://www.blackstone.com/people/stephen-a-schwarzman/", "confidence": "high", "note": null},
+        {"type": "book", "title": "What It Takes: Lessons in the Pursuit of Excellence（《苏世民：我的经验与教训》，Simon & Schuster，2019）", "url": "https://www.simonandschuster.com/books/What-It-Takes/Stephen-A-Schwarzman/9781501158148", "site": "simonandschuster.com", "evidence": "https://www.simonandschuster.com/books/What-It-Takes/Stephen-A-Schwarzman/9781501158148", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "stephen-wolfram",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Stephen Wolfram 官方网站", "url": "https://www.stephenwolfram.com/", "site": "stephenwolfram.com", "evidence": "https://www.stephenwolfram.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Stephen Wolfram Writings（博客）", "url": "https://writings.stephenwolfram.com/", "site": "writings.stephenwolfram.com", "evidence": "https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/", "confidence": "high", "note": null},
+        {"type": "book", "title": "A New Kind of Science（《一种新科学》，Wolfram Media，2002）", "url": "https://www.wolfram-media.com/products/nks/", "site": "wolfram-media.com", "evidence": "https://www.wolfram-media.com/products/nks/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "steve-jobs",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "The Steve Jobs Archive（乔布斯档案馆）", "url": "https://stevejobsarchive.com/", "site": "stevejobsarchive.com", "evidence": "https://stevejobsarchive.com/about", "confidence": "high", "note": null},
+        {"type": "book", "title": "Make Something Wonderful: Steve Jobs in His Own Words（《做出非凡之物：乔布斯自述》，Steve Jobs Archive 编）", "url": "https://stevejobsarchive.com/publications", "site": "stevejobsarchive.com", "evidence": "https://stevejobsarchive.com/publications", "confidence": "high", "note": "乔布斯演讲、访谈与书信选集"}
+      ]
+    },
+    {
+      "author_id": "steve-pavlina",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Steve Pavlina 个人网站与博客", "url": "https://stevepavlina.com/", "site": "stevepavlina.com", "evidence": "https://stevepavlina.com/blog/2005/11/do-it-now/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Personal Development for Smart People（《聪明人的个人成长》，Hay House，2008）", "url": "https://stevepavlina.com/personal-development-for-smart-people/", "site": "stevepavlina.com", "evidence": "https://www.hayhouse.com/personal-development-for-smart-people-2", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "steven-pinker",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Steven Pinker 个人网站", "url": "https://stevenpinker.com/", "site": "stevenpinker.com", "evidence": "https://stevenpinker.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Language Instinct（《语言本能》，William Morrow，1994）", "url": "https://stevenpinker.com/publications/language-instinct-19942007", "site": "stevenpinker.com", "evidence": "https://stevenpinker.com/publications/language-instinct-19942007", "confidence": "high", "note": null}
+      ]
+    }
+  ]
+}

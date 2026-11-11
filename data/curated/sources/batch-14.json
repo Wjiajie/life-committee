@@ -1,0 +1,564 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0085-c05",
+      "status": "found",
+      "note": "英文原题 Speed matters: Why working quickly is more important than it seems（2015-07-26）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Speed matters: Why working quickly is more important than it seems",
+          "url": "http://jsomers.net/blog/speed-matters",
+          "site": "jsomers.net",
+          "evidence": "http://jsomers.net/blog/speed-matters",
+          "confidence": "high",
+          "note": "已打开核对：作者 James Somers，2015-07-26，正文与摘录逐段对应"
+        }
+      ]
+    },
+    {
+      "article_id": "vol0028-c06",
+      "status": "found",
+      "note": "英文原题 Iron: From mythical to mundane（2019-10-22）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Iron: From mythical to mundane",
+          "url": "https://blog.rootsofprogress.org/iron-from-mythical-to-mundane",
+          "site": "blog.rootsofprogress.org",
+          "evidence": "https://blog.rootsofprogress.org/iron-from-mythical-to-mundane",
+          "confidence": "high",
+          "note": "已打开核对：by Jason Crawford, October 22, 2019，开头段落与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "Iron: From mythical to mundane（Newsletter 版）",
+          "url": "https://newsletter.rootsofprogress.org/p/11990581_iron-from-mythical-to-mundane",
+          "site": "newsletter.rootsofprogress.org",
+          "evidence": "https://newsletter.rootsofprogress.org/p/11990581_iron-from-mythical-to-mundane",
+          "confidence": "medium",
+          "note": "同文的 Substack 镜像，来自搜索结果"
+        }
+      ]
+    },
+    {
+      "article_id": "vol0070-c04",
+      "status": "found",
+      "note": "英文原题 Cultivating a Jiu-Jitsu Mindset（2012，qaboom.com）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Cultivating a Jiu-Jitsu Mindset",
+          "url": "https://qaboom.com/cultivating-a-jiu-jitsu-mindset/",
+          "site": "qaboom.com",
+          "evidence": "https://qaboom.com/cultivating-a-jiu-jitsu-mindset/",
+          "confidence": "high",
+          "note": "Jason Ho 个人博客原文；“将时间和精力投入到能产生最大影响的地方”等句与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "Jason Ho on Cultivating a Jiu-Jitsu Mindset — Ribbonfarm",
+          "url": "https://ribbonfarm.com/2012/11/14/jason-ho-on-cultivating-a-jiu-jitsu-mindset/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://ribbonfarm.com/2012/11/14/jason-ho-on-cultivating-a-jiu-jitsu-mindset/",
+          "confidence": "medium",
+          "note": "2012-11-14 Venkatesh Rao 的推荐帖，佐证作者与年份"
+        }
+      ]
+    },
+    {
+      "article_id": "vol0070-c07",
+      "status": "found",
+      "note": "英文原题 How 'The Karate Kid' Ruined The Modern World（Cracked，2010-05-01），以笔名 David Wong 发表",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How 'The Karate Kid' Ruined The Modern World",
+          "url": "https://www.cracked.com/article_18544_how-the-karate-kid-ruined-modern-world.html",
+          "site": "cracked.com",
+          "evidence": "https://www.cracked.com/article_18544_how-the-karate-kid-ruined-modern-world.html",
+          "confidence": "high",
+          "note": "搜索结果显示全文：May 01, 2010，副题 Why Life is So Much Harder Than We Think, by Dr. David Wong，与摘录逐句对应"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Jason Pargin"],
+        "evidence": "https://jasonpargin.substack.com/p/i-was-david-wong",
+        "note": "Cracked 原文署名 David Wong，即 Jason Pargin 的笔名（本人在 Newsletter「I was David Wong」中说明），归属无误"
+      }
+    },
+    {
+      "article_id": "vol0074-c04",
+      "status": "found",
+      "note": "英文原题 The Eleven Laws of Showrunning（2016）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Eleven Laws of Showrunning (The Nice Version)",
+          "url": "https://okbjgm.weebly.com/uploads/3/1/5/0/31506003/11_laws_of_showrunning_nice_version.pdf",
+          "site": "okbjgm.weebly.com",
+          "evidence": "http://okbjgm.weebly.com/essays.html",
+          "confidence": "high",
+          "note": "作者个人网站 Essays 页提供的 PDF 原文；另有 mean version：https://okbjgm.weebly.com/uploads/3/1/5/0/31506003/11_laws_of_showrunning.pdf"
+        },
+        {
+          "type": "article",
+          "title": "Guest Blog: The Eleven Laws of Showrunning | Roadmap Writers",
+          "url": "https://www.roadmapwriters.com/blog/guest-blog-eleven-laws-showrunning",
+          "site": "roadmapwriters.com",
+          "evidence": "https://www.roadmapwriters.com/blog/guest-blog-eleven-laws-showrunning",
+          "confidence": "high",
+          "note": "作者授权转载的网页版，含十一条法则标题"
+        },
+        {
+          "type": "interview",
+          "title": "Q&A: The truth about show biz, according to Javier Grillo-Marxuach - Los Angeles Times",
+          "url": "https://www.latimes.com/entertainment/tv/showtracker/la-et-st-javier-grillo-marxuach-interview-eleven-laws-showrunning-20160201-column.html",
+          "site": "latimes.com",
+          "evidence": "https://www.latimes.com/entertainment/tv/showtracker/la-et-st-javier-grillo-marxuach-interview-eleven-laws-showrunning-20160201-column.html",
+          "confidence": "medium",
+          "note": "2016-02 洛杉矶时报访谈，佐证该文发表于 2016 年作者网站"
+        }
+      ]
+    },
+    {
+      "article_id": "vol0011-c07",
+      "status": "found",
+      "note": "亚马逊 1998 年致股东信（Letter to Shareholders, 1998）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Jeff Bezos's 1998 Amazon Shareholder Letter",
+          "url": "https://shareholderinbox.com/letters/amazon/1998",
+          "site": "shareholderinbox.com",
+          "evidence": "https://shareholderinbox.com/letters/amazon/1998",
+          "confidence": "medium",
+          "note": "股东信汇编站点"
+        },
+        {
+          "type": "paper",
+          "title": "1998 Amazon Shareholder Letter（PDF）",
+          "url": "https://www.bishoprockcap.com/assets/cdn.prod.website-files.com/5b7c186c36ef662dc0a4b05a/67aa71254cb570daf423c8c8_1998%20Amazon%20Shareholder%20Letter.pdf",
+          "site": "bishoprockcap.com",
+          "evidence": "https://www.bishoprockcap.com/assets/cdn.prod.website-files.com/5b7c186c36ef662dc0a4b05a/67aa71254cb570daf423c8c8_1998%20Amazon%20Shareholder%20Letter.pdf",
+          "confidence": "high",
+          "note": "全文 PDF：开头“The last 3½ years have been exciting... 6.2 million customers”及招聘三问与摘录一致，署名 Jeffrey P. Bezos"
+        },
+        {
+          "type": "website",
+          "title": "Amazon shareholder letters（官方股东信页）",
+          "url": "https://www.aboutamazon.com/about-us/shareholder-letters",
+          "site": "aboutamazon.com",
+          "evidence": "https://www.aboutamazon.com/about-us/shareholder-letters",
+          "confidence": "medium",
+          "note": "亚马逊官方股东信索引页（未单独列出 1998 年信）"
+        }
+      ]
+    },
+    {
+      "article_id": "vol0011-c08",
+      "status": "found",
+      "note": "亚马逊官方 Leadership Principles 页面；“We use our Leadership Principles every day...”一句与 amazon.jobs 页面一致",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Leadership Principles - Amazon Jobs",
+          "url": "https://amazon.jobs/content/en/our-workplace/leadership-principles",
+          "site": "amazon.jobs",
+          "evidence": "https://amazon.jobs/content/en/our-workplace/leadership-principles",
+          "confidence": "high",
+          "note": "搜索结果显示页面导语与 Customer Obsession 条目原文，与摘录英文完全一致"
+        },
+        {
+          "type": "website",
+          "title": "Amazon Leadership Principles - About Amazon",
+          "url": "https://www.aboutamazon.com/about-us/leadership-principles",
+          "site": "aboutamazon.com",
+          "evidence": "https://www.aboutamazon.com/about-us/leadership-principles",
+          "confidence": "high",
+          "note": "官方公司页面"
+        }
+      ],
+      "author_check": {
+        "status": "unknown",
+        "authors": ["Amazon"],
+        "evidence": "https://amazon.jobs/content/en/our-workplace/leadership-principles",
+        "note": "官方页面以公司名义发布，未署个人作者；原书将导语归于 Jeff Bezos 并标 1998 年，均无法从原页面核实"
+      }
+    },
+    {
+      "article_id": "vol0013-c05",
+      "status": "found",
+      "note": "Axel Springer CEO Mathias Döpfner 对 Bezos 的访谈（2018-04，柏林，Axel Springer Award），Business Insider 刊登文字稿",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "Jeff Bezos interview with Axel Springer CEO on Amazon, Blue Origin, family",
+          "url": "https://www.businessinsider.com/jeff-bezos-interview-axel-springer-ceo-amazon-trump-blue-origin-family-regulation-washington-post-2018-4",
+          "site": "businessinsider.com",
+          "evidence": "https://www.businessinsider.com/jeff-bezos-interview-axel-springer-ceo-amazon-trump-blue-origin-family-regulation-washington-post-2018-4",
+          "confidence": "high",
+          "note": "2018-04-28 文字稿，首问“投资银行家与企业家相反”的问答与摘录一致"
+        },
+        {
+          "type": "video",
+          "title": "Jeff Bezos Talks Amazon, Blue Origin, Family, And Wealth",
+          "url": "https://www.youtube.com/watch?v=SCpgKvZB_VQ",
+          "site": "youtube.com",
+          "evidence": "https://www.youtube.com/watch?v=SCpgKvZB_VQ",
+          "confidence": "medium",
+          "note": "访谈完整视频"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Jeff Bezos"],
+        "evidence": "https://www.businessinsider.com/jeff-bezos-interview-axel-springer-ceo-amazon-trump-blue-origin-family-regulation-washington-post-2018-4",
+        "note": "Bezos 为受访者，访谈者为 Mathias Döpfner"
+      }
+    },
+    {
+      "article_id": "vol0021-c07",
+      "status": "found",
+      "note": "内容出自 Bezos 2018-09-13 在华盛顿经济俱乐部与 David Rubenstein 的对谈（“少量高质量决策”“10 点开高智商会议”）；“不同意但承诺”“我早就说过了”等段落见 Invent and Wander 的 Decisions 一章",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "Jeff Bezos, CEO and Founder, Amazon — The Economic Club of Washington, D.C.（edited transcript, September 13, 2018）",
+          "url": "https://www.economicclub.org/sites/default/files/transcripts/Jeff_Bezos_Edited_Transcript.pdf",
+          "site": "economicclub.org",
+          "evidence": "https://www.economicclub.org/sites/default/files/transcripts/Jeff_Bezos_Edited_Transcript.pdf",
+          "confidence": "high",
+          "note": "已核对文字稿：含“you get paid to make a small number of high-quality decisions”和“that's a 10:00 meeting”原句"
+        },
+        {
+          "type": "video",
+          "title": "Jeff Bezos, CEO and Founder, Amazon（Economic Club of Washington 视频）",
+          "url": "https://www.youtube.com/watch?v=zN1PyNwjHpc",
+          "site": "youtube.com",
+          "evidence": "https://www.youtube.com/watch?v=zN1PyNwjHpc",
+          "confidence": "medium",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "Invent and Wander: The Collected Writings of Jeff Bezos（Harvard Business Review Press / PublicAffairs，2020），Decisions 一章",
+          "url": "https://www.oreilly.com/library/view/invent-and-wander/9781647820725/",
+          "site": "oreilly.com",
+          "evidence": "https://www.dailymail.com/news/article-8981947/Jeff-Bezos-reveals-gets-eight-hours-sleep-makes-three-decisions-day.html",
+          "confidence": "medium",
+          "note": "Daily Mail 摘录该书时同时引用了高质量决策、10 点会议与 disagree and commit（“I will never tell you I told you so”），与摘录要点吻合"
+        }
+      ]
+    },
+    {
+      "article_id": "vol0027-c03",
+      "status": "found",
+      "note": "原文为 Recode/Vox 的口述史长文 How Amazon created the Prime membership program（2019-05-03），作者 Jason Del Rey，Bezos 是被讲述对象而非作者",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How Amazon created the Prime membership program（The making of Amazon Prime, the internet's most successful and devastating membership program）",
+          "url": "https://www.vox.com/recode/2019/5/3/18511544/amazon-prime-oral-history-jeff-bezos-one-day-shipping",
+          "site": "vox.com",
+          "evidence": "https://www.vox.com/recode/2019/5/3/18511544/amazon-prime-oral-history-jeff-bezos-one-day-shipping",
+          "confidence": "high",
+          "note": "已获取全文：署名 by Jason Del Rey；由多位亚马逊员工与高管口述，含“四周→六周”上线、Futurama 项目等情节"
+        }
+      ],
+      "author_check": {
+        "status": "corrected",
+        "authors": ["Jason Del Rey"],
+        "evidence": "https://www.vox.com/recode/2019/5/3/18511544/amazon-prime-oral-history-jeff-bezos-one-day-shipping",
+        "note": "原书标注作者为杰夫·贝佐斯，实为 Recode 记者 Jason Del Rey 撰写的口述史"
+      }
+    },
+    {
+      "article_id": "vol0091-c09",
+      "status": "found",
+      "note": "NVIDIA GTC 2025 主题演讲（2025-03-18，San Jose），会话编号 S72484",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "GTC 2025 Keynote S72484 | NVIDIA On-Demand",
+          "url": "https://www.nvidia.com/en-us/on-demand/session/gtc25-s72484/",
+          "site": "nvidia.com",
+          "evidence": "https://www.nvidia.com/en-us/on-demand/session/gtc25-s72484/",
+          "confidence": "high",
+          "note": "官方回放页，主讲 Jensen Huang；字幕开头“welcome to GTC... bring you to NVIDIA's headquarters”与摘录一致"
+        },
+        {
+          "type": "video",
+          "title": "GTC March 2025 Keynote with NVIDIA CEO Jensen Huang",
+          "url": "https://www.youtube.com/watch?v=_waPvOwL9Z8",
+          "site": "youtube.com",
+          "evidence": "https://www.youtube.com/watch?v=_waPvOwL9Z8",
+          "confidence": "high",
+          "note": "NVIDIA 官方视频（含中文字幕），GeForce 5090、AI 预测 15 个像素等内容与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "GTC 2025 – Announcements and Live Updates | NVIDIA Blog",
+          "url": "https://blogs.nvidia.com/blog/nvidia-keynote-at-gtc-2025-ai-news-live-updates/",
+          "site": "blogs.nvidia.com",
+          "evidence": "https://blogs.nvidia.com/blog/nvidia-keynote-at-gtc-2025-ai-news-live-updates/",
+          "confidence": "medium",
+          "note": "官方博客要点汇总"
+        }
+      ]
+    },
+    {
+      "article_id": "vol0029-c07",
+      "status": "found",
+      "note": "英文原题 The New New Moats（Greylock Greymatter，2023-06-21）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The New New Moats",
+          "url": "https://greylock.com/blog/the-new-new-moats/",
+          "site": "greylock.com",
+          "evidence": "https://greylock.com/blog/the-new-new-moats/",
+          "confidence": "high",
+          "note": "已获取全文：Author: Jerry Chen, Partner；开头“Six years ago I published 'The New Moats'...”与摘录一致"
+        },
+        {
+          "type": "podcast",
+          "title": "Jerry Chen | The New New Moats - Greymatter",
+          "url": "https://podcasts.apple.com/us/podcast/jerry-chen-the-new-new-moats/id1089013200?i=1000618002291",
+          "site": "podcasts.apple.com",
+          "evidence": "https://podcasts.apple.com/us/podcast/jerry-chen-the-new-new-moats/id1089013200?i=1000618002291",
+          "confidence": "medium",
+          "note": "配套播客"
+        }
+      ]
+    },
+    {
+      "article_id": "vol0061-c06",
+      "status": "found",
+      "note": "英文原题 Trial and Error, Part 1（Reaction Wheel，2022-08-04），作者是 Jerry Neumann 而非 Jerry Chen",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Trial and Error, Part 1",
+          "url": "https://reactionwheel.net/2022/08/trial-and-error-part-1.html",
+          "site": "reactionwheel.net",
+          "evidence": "https://reactionwheel.net/2022/08/trial-and-error-part-1.html",
+          "confidence": "high",
+          "note": "已获取全文：August 4, 2022, Jerry Neumann；“you observe, you deduce, you induce, and you create new observations”与摘录“观察、推理、归纳和创造新的观察机会”对应。作者后来在文首加注称此文发表过早"
+        }
+      ],
+      "author_check": {
+        "status": "corrected",
+        "authors": ["Jerry Neumann"],
+        "evidence": "https://reactionwheel.net/2022/08/trial-and-error-part-1.html",
+        "note": "原书标注 Jerry Chen；原文发表于 Jerry Neumann 的博客 Reaction Wheel，署名 Jerry Neumann"
+      }
+    },
+    {
+      "article_id": "vol0068-c04",
+      "status": "found",
+      "note": "英文原题 Addressing Uncertainty, an overview（Reaction Wheel，2022-02-17）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Addressing Uncertainty, an overview",
+          "url": "https://reactionwheel.net/2022/02/addressing-uncertainty-an-overview.html",
+          "site": "reactionwheel.net",
+          "evidence": "https://reactionwheel.net/2022/02/addressing-uncertainty-an-overview.html",
+          "confidence": "high",
+          "note": "已获取全文：February 17, 2022, Jerry Neumann；risk vs uncertainty、“action a leads to action b leads to action c”等段落与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "Addressing Uncertainty, an overview（Substack 版）",
+          "url": "https://reactionwheel.substack.com/p/addressing-uncertainty-an-overview",
+          "site": "reactionwheel.substack.com",
+          "evidence": "https://reactionwheel.substack.com/p/addressing-uncertainty-an-overview",
+          "confidence": "medium",
+          "note": "同文镜像"
+        }
+      ]
+    },
+    {
+      "article_id": "vol0068-c05",
+      "status": "found",
+      "note": "英文原题 A Taxonomy of Moats（Reaction Wheel，2019-09-19）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "A Taxonomy of Moats",
+          "url": "https://reactionwheel.net/2019/09/a-taxonomy-of-moats.html",
+          "site": "reactionwheel.net",
+          "evidence": "https://reactionwheel.net/2019/09/a-taxonomy-of-moats.html",
+          "confidence": "high",
+          "note": "已获取全文：September 19, 2019, Jerry Neumann；四类来源（state, know-how, scale, system rigidity）与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "A Taxonomy of Moats（Substack 版）",
+          "url": "https://reactionwheel.substack.com/p/a-taxonomy-of-moats",
+          "site": "reactionwheel.substack.com",
+          "evidence": "https://reactionwheel.substack.com/p/a-taxonomy-of-moats",
+          "confidence": "medium",
+          "note": "同文镜像（2023 年重发）"
+        }
+      ]
+    },
+    {
+      "article_id": "vol0031-c06",
+      "status": "found",
+      "note": "英文原题 Grow the Puzzle Around You（2018，YC Female Founders Conference 演讲及配套文章）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Grow the Puzzle Around You",
+          "url": "https://foundersatwork.posthaven.com/grow-the-puzzle-around-you/",
+          "site": "foundersatwork.posthaven.com",
+          "evidence": "https://foundersatwork.posthaven.com/grow-the-puzzle-around-you/",
+          "confidence": "high",
+          "note": "作者博客原文：开头“In 2005, I cofounded Y Combinator... funded 1867 startups”与摘录一致"
+        },
+        {
+          "type": "speech",
+          "title": "Jessica Livingston Shares 9 Things She Learned From Founding YC",
+          "url": "https://www.ycombinator.com/blog/jessica-livingston-shares-9-things-she-learned-from-founding-yc",
+          "site": "ycombinator.com",
+          "evidence": "https://www.ycombinator.com/blog/jessica-livingston-shares-9-things-she-learned-from-founding-yc",
+          "confidence": "high",
+          "note": "2018-07-11 YC 官方博客发布的演讲视频与文字稿"
+        }
+      ]
+    },
+    {
+      "article_id": "vol0074-c07",
+      "status": "found",
+      "note": "英文原题 Three Waypoints On The Journey（Conscious Leadership Group 博客，2022-11）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Three Waypoints On The Journey",
+          "url": "https://conscious.is/blog/3-waypoints-on-the-journey/",
+          "site": "conscious.is",
+          "evidence": "https://conscious.is/blog/3-waypoints-on-the-journey/",
+          "confidence": "high",
+          "note": "已获取全文：Nov 2022；三阶段（Improving the Personality / Becoming an Un-believer / Discovering There is No Me）及“ME 的感觉”段落与摘录一致，文中自述“a Jim Dethmer, who lives in Chicago”"
+        }
+      ]
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "james-somers",
+      "note": "写作者、程序员，《纽约客》撰稿人",
+      "sources": [
+        {"type": "website", "title": "James Somers 个人网站", "url": "https://jsomers.net/", "site": "jsomers.net", "evidence": "https://jsomers.net/", "confidence": "high", "note": null},
+        {"type": "website", "title": "James Somers | The New Yorker 作者页", "url": "https://www.newyorker.com/contributors/james-somers", "site": "newyorker.com", "evidence": "https://www.newyorker.com/contributors/james-somers", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "janani-ramanathan",
+      "note": "世界艺术与科学学院（WAAS）秘书长，印度 Mother's Service Society 高级研究员；本批无其文章，其《连接：文明发展的关键》很可能对应 Cadmus 期刊 Human Connectivity: The Key to Progress（2016）",
+      "sources": [
+        {"type": "paper", "title": "Human Connectivity: The Key to Progress（Cadmus Journal，2016）", "url": "https://www.cadmusjournal.org/node/584", "site": "cadmusjournal.org", "evidence": "https://www.cadmusjournal.org/node/584", "confidence": "high", "note": "代表作，作者页署名 Janani Ramanathan"},
+        {"type": "website", "title": "Janani Ramanathan - The POP Movement 团队介绍", "url": "https://thepopmovement.org/team/janani-ramanathan/", "site": "thepopmovement.org", "evidence": "https://thepopmovement.org/team/janani-ramanathan/", "confidence": "medium", "note": "个人简介页"}
+      ]
+    },
+    {
+      "author_id": "jason-crawford",
+      "note": "Roots of Progress Institute 创始人",
+      "sources": [
+        {"type": "website", "title": "Roots of Progress Institute（Jason Crawford 成员页）", "url": "https://rootsofprogress.org/member/jason-crawford/", "site": "rootsofprogress.org", "evidence": "https://rootsofprogress.org/member/jason-crawford/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Jason Crawford 个人网站", "url": "https://jasoncrawford.org/", "site": "jasoncrawford.org", "evidence": "https://jasoncrawford.org/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "jason-ho",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "The Blog of Jason Ho（qaboom.com）", "url": "https://qaboom.com/", "site": "qaboom.com", "evidence": "https://qaboom.com/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "jason-pargin",
+      "note": "曾以笔名 David Wong 任 Cracked.com 编辑",
+      "sources": [
+        {"type": "website", "title": "Jason \"David Wong\" Pargin 官网", "url": "https://johndiesattheend.com/", "site": "johndiesattheend.com", "evidence": "https://johndiesattheend.com/about-me/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Jason Pargin's Newsletter（Substack）", "url": "https://jasonpargin.substack.com/", "site": "jasonpargin.substack.com", "evidence": "https://jasonpargin.substack.com/p/i-was-david-wong", "confidence": "high", "note": null},
+        {"type": "book", "title": "John Dies at the End", "url": "https://johndiesattheend.com/john-dies-end/", "site": "johndiesattheend.com", "evidence": "https://johndiesattheend.com/john-dies-end/", "confidence": "high", "note": "代表作，已改编为电影"}
+      ]
+    },
+    {
+      "author_id": "javier-grillo-marxuach",
+      "note": "电视编剧、制片人（《迷失》《黑水晶：抗战纪元》）",
+      "sources": [
+        {"type": "website", "title": "The Grillo-Marxuach Experimental Design Bureau（个人网站）", "url": "http://okbjgm.weebly.com/", "site": "okbjgm.weebly.com", "evidence": "http://okbjgm.weebly.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Shoot This One / Shoot That One（随笔集）", "url": null, "site": null, "evidence": "http://okbjgm.weebly.com/", "confidence": "medium", "note": "个人网站列出的两本随笔集，后者收录 The Eleven Laws of Showrunning 的 mean version"}
+      ]
+    },
+    {
+      "author_id": "jeff-bezos",
+      "note": null,
+      "sources": [
+        {"type": "book", "title": "Invent and Wander: The Collected Writings of Jeff Bezos（Harvard Business Review Press，2020）", "url": "https://books.google.com/books/about/Invent_and_Wander.html?id=XPjrDwAAQBAJ", "site": "books.google.com", "evidence": "https://books.google.com/books/about/Invent_and_Wander.html?id=XPjrDwAAQBAJ", "confidence": "high", "note": "收录全部股东信与演讲访谈"},
+        {"type": "website", "title": "Amazon shareholder letters（亚马逊官方股东信）", "url": "https://www.aboutamazon.com/about-us/shareholder-letters", "site": "aboutamazon.com", "evidence": "https://www.aboutamazon.com/about-us/shareholder-letters", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "jensen-huang",
+      "note": "NVIDIA 创始人兼 CEO",
+      "sources": [
+        {"type": "website", "title": "Jensen Huang - NVIDIA 官方简介", "url": "https://www.nvidia.com/en-us/about-nvidia/board-of-directors/jensen-huang/", "site": "nvidia.com", "evidence": "https://www.nvidia.com/en-us/about-nvidia/board-of-directors/jensen-huang/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Jensen Huang Author Page | NVIDIA Blog", "url": "https://blogs.nvidia.com/blog/author/jen-hsun-huang/", "site": "blogs.nvidia.com", "evidence": "https://blogs.nvidia.com/blog/author/jen-hsun-huang/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "jeremy-bernstein",
+      "note": "理论物理学家、科普作家，1961–1995 年任《纽约客》专职作者（1929–2025）；本批无其文章，其库布里克访谈可能出自 1965–66 年为《纽约客》特稿所做的录音访谈，特稿为 How About a Little Game?",
+      "sources": [
+        {"type": "website", "title": "Jeremy Bernstein - Wikipedia", "url": "https://en.wikipedia.org/wiki/Jeremy_Bernstein", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Jeremy_Bernstein", "confidence": "high", "note": null},
+        {"type": "article", "title": "How About a Little Game?（The New Yorker，1966-11-12，库布里克特稿）", "url": "https://www.newyorker.com/magazine/1966/11/12/how-about-a-little-game", "site": "newyorker.com", "evidence": "https://www.newyorker.com/magazine/1966/11/12/how-about-a-little-game", "confidence": "high", "note": "代表作，By Jeremy Bernstein"}
+      ]
+    },
+    {
+      "author_id": "jerry-chen",
+      "note": "Greylock 合伙人；注意本批「何为试错？」实为 Jerry Neumann 所作",
+      "sources": [
+        {"type": "website", "title": "Jerry Chen - Greylock 团队页", "url": "https://greylock.com/team/jerry-chen/", "site": "greylock.com", "evidence": "https://greylock.com/team/jerry-chen/", "confidence": "high", "note": null},
+        {"type": "article", "title": "The New New Moats（Greylock，2023）", "url": "https://greylock.com/blog/the-new-new-moats/", "site": "greylock.com", "evidence": "https://greylock.com/blog/the-new-new-moats/", "confidence": "high", "note": "代表作，延续 2017 年 The New Moats"}
+      ]
+    },
+    {
+      "author_id": "jerry-neumann",
+      "note": "风险投资人（Neu Venture Capital），曾在哥伦比亚大学工学院教授创业课",
+      "sources": [
+        {"type": "website", "title": "Reaction Wheel（Jerry Neumann 博客）", "url": "https://reactionwheel.net/about", "site": "reactionwheel.net", "evidence": "https://reactionwheel.net/about", "confidence": "high", "note": null},
+        {"type": "book", "title": "Founder vs Investor（与 Elizabeth Zalman 合著，HarperCollins，2023）", "url": null, "site": null, "evidence": "https://reactionwheel.net/about", "confidence": "medium", "note": "About 页提到与 Liz Zalman 合著此书；出版社与年份来自其 LinkedIn 简介"}
+      ]
+    },
+    {
+      "author_id": "jessica-livingston",
+      "note": "Y Combinator 联合创始人",
+      "sources": [
+        {"type": "website", "title": "Jessica Livingston 博客（foundersatwork.posthaven.com）", "url": "https://foundersatwork.posthaven.com/", "site": "foundersatwork.posthaven.com", "evidence": "https://foundersatwork.posthaven.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Founders at Work: Stories of Startups' Early Days（Apress，2007）", "url": "https://www.foundersatwork.com/", "site": "foundersatwork.com", "evidence": "https://books.google.com/books?id=oFTYD9IHX5YC", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "jim-dethmer",
+      "note": "Conscious Leadership Group 联合创始人、教练",
+      "sources": [
+        {"type": "website", "title": "Conscious Leadership Group 博客", "url": "https://conscious.is/blog/", "site": "conscious.is", "evidence": "https://conscious.is/blog/", "confidence": "high", "note": "博客文章均署 Co-Founder + Coach，Conscious Leadership Group"},
+        {"type": "book", "title": "The 15 Commitments of Conscious Leadership（与 Diana Chapman、Kaley Klemp 合著，2015）", "url": "https://conscious.is/book/", "site": "conscious.is", "evidence": "https://books.google.com/books/about/The_15_Commitments_of_Conscious_Leadersh.html?id=8JsKogEACAAJ", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "jimmy-soni",
+      "note": "传记作家；本批无其文章，其 Aeon 文章对应 How a polymath transformed our understanding of information（The bit bomb，与 Rob Goodman 合著，2017）",
+      "sources": [
+        {"type": "book", "title": "A Mind at Play: How Claude Shannon Invented the Information Age（与 Rob Goodman 合著，Simon & Schuster，2017）", "url": "https://jimmysoni.com/books/a-mind-at-play", "site": "jimmysoni.com", "evidence": "https://www.simonandschuster.com/books/A-Mind-at-Play/Jimmy-Soni/9781476766690", "confidence": "high", "note": null},
+        {"type": "website", "title": "Jimmy Soni | Aeon 作者页", "url": "https://aeon.co/users/jimmy-soni", "site": "aeon.co", "evidence": "https://aeon.co/users/jimmy-soni", "confidence": "high", "note": null}
+      ]
+    }
+  ]
+}

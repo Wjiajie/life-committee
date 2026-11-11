@@ -1,0 +1,706 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0061-c03",
+      "status": "found",
+      "note": "英文原题 Secrets about People: A Short and Dangerous Introduction to René Girard（2019-04-28 发于作者博客，Newsletter 版 2019-04-21）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Secrets about People: A Short and Dangerous Introduction to René Girard",
+          "url": "https://alexdanco.com/2019/04/28/secrets-about-people-a-short-and-dangerous-introduction-to-rene-girard/",
+          "site": "alexdanco.com",
+          "evidence": "https://alexdanco.com/2019/04/28/secrets-about-people-a-short-and-dangerous-introduction-to-rene-girard/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "article",
+          "title": "Snippets 2, Episode 1.（Secrets about People: an introduction to Rene Girard，Newsletter 版）",
+          "url": "https://danco.substack.com/p/snippets-2-episode-1",
+          "site": "danco.substack.com",
+          "evidence": "https://danco.substack.com/p/snippets-2-episode-1",
+          "confidence": "high",
+          "note": "同文的 Substack Newsletter 版本"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0080-c04",
+      "status": "found",
+      "note": "英文原题 Dancoland（2021-08-21 合集版；Newsletter 上分为 Part 1–4 连载，开头的学生梦境与摘录逐句吻合，「Order is Chaos」为文中第一条规则）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Dancoland",
+          "url": "https://alexdanco.com/2021/08/21/dancoland/",
+          "site": "alexdanco.com",
+          "evidence": "https://alexdanco.com/2021/08/21/dancoland/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "article",
+          "title": "Dancoland, Part One",
+          "url": "https://danco.substack.com/p/dancoland-part-one",
+          "site": "danco.substack.com",
+          "evidence": "https://danco.substack.com/p/dancoland-part-one",
+          "confidence": "high",
+          "note": "Newsletter 连载第一部分（2021-07-18）"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0063-c05",
+      "status": "found",
+      "note": "英文原题 The Age of Average（作者网站，2023 年 3 月发布；原书标注 2024 年）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The age of average",
+          "url": "https://www.alexmurrell.co.uk/articles/the-age-of-average",
+          "site": "alexmurrell.co.uk",
+          "evidence": "https://www.alexmurrell.co.uk/articles/the-age-of-average",
+          "confidence": "high",
+          "note": "发布时间 2023 年 3 月见作者 Newsletter：https://alexmurrell.substack.com/p/alex-murrell-edition-007"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0086-c06",
+      "status": "found",
+      "note": "英文原题 What Is Noise?（The New Yorker，2024-04-22 期，网络版 2024-04-15）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "What Is Noise?",
+          "url": "https://www.newyorker.com/magazine/2024/04/22/what-is-noise",
+          "site": "The New Yorker",
+          "evidence": "https://www.newyorker.com/magazine/2024/04/22/what-is-noise",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0033-c03",
+      "status": "found",
+      "note": "英文原题 How to rest well（Psyche Guides）；「人们对休息的态度已经改变」与亚里士多德一段逐句吻合",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to rest well and enjoy a more creative, sustainable life",
+          "url": "https://psyche.co/guides/how-to-rest-well-and-enjoy-a-more-creative-sustainable-life",
+          "site": "Psyche",
+          "evidence": "https://psyche.co/guides/how-to-rest-well-and-enjoy-a-more-creative-sustainable-life",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0040-c08",
+      "status": "found",
+      "note": "英文原题 Darwin Was a Slacker and You Should Be Too（Nautilus，2017-03-28）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Darwin Was a Slacker and You Should Be Too",
+          "url": "https://nautil.us/darwin-was-a-slacker-and-you-should-be-too-236532",
+          "site": "Nautilus",
+          "evidence": "https://nautil.us/darwin-was-a-slacker-and-you-should-be-too-236532",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Alex Soojung-Kim Pang"],
+        "evidence": "https://nautil.us/darwin-was-a-slacker-and-you-should-be-too-236532",
+        "note": "原书标注「Alex Soojung and Kim Pang」系将一人误拆为两人，原文署名为 Alex Soojung-Kim Pang 一人"
+      }
+    },
+    {
+      "article_id": "vol0059-c04",
+      "status": "found",
+      "note": "英文原题 Improving Ourselves to Death（The New Yorker「A Critic at Large」，2018-01-15 期）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Improving Ourselves to Death",
+          "url": "https://www.newyorker.com/magazine/2018/01/15/improving-ourselves-to-death",
+          "site": "The New Yorker",
+          "evidence": "https://www.newyorker.com/magazine/2018/01/15/improving-ourselves-to-death",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0036-c07",
+      "status": "found",
+      "note": "英文原题 The Effects on Cognition of Sleeping 4 Hours per Night for 12-14 Days: a Pre-Registered Self-Experiment（2020）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Effects on Cognition of Sleeping 4 Hours per Night for 12-14 Days: a Pre-Registered Self-Experiment",
+          "url": "https://guzey.com/science/sleep/14-day-sleep-deprivation-self-experiment/",
+          "site": "guzey.com",
+          "evidence": "https://guzey.com/science/sleep/14-day-sleep-deprivation-self-experiment/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0083-c05",
+      "status": "found",
+      "note": "Lenny's Podcast 访谈：Scripts for difficult conversations（2025-01-05），开场对话与摘录逐句吻合",
+      "sources": [
+        {
+          "type": "podcast",
+          "title": "Scripts for difficult conversations: Giving hard feedback, navigating defensiveness, the three questions you should end every meeting with, more | Alisa Cohn (executive coach)",
+          "url": "https://www.lennysnewsletter.com/p/scripts-for-difficult-conversations-alisa-cohn",
+          "site": "Lenny's Newsletter",
+          "evidence": "https://www.lennysnewsletter.com/p/scripts-for-difficult-conversations-alisa-cohn",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "video",
+          "title": "Scripts for navigating difficult conversations | Alisa Cohn (executive coach)",
+          "url": "https://www.youtube.com/watch?v=bvF0ZM8DjuI",
+          "site": "YouTube",
+          "evidence": "https://www.youtube.com/watch?v=bvF0ZM8DjuI",
+          "confidence": "high",
+          "note": "视频版，含逐字稿"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Alisa Cohn", "Lenny Rachitsky"],
+        "evidence": "https://www.lennysnewsletter.com/p/scripts-for-difficult-conversations-alisa-cohn",
+        "note": "Alisa Cohn 为嘉宾，Lenny Rachitsky 为主持人"
+      }
+    },
+    {
+      "article_id": "vol0027-c04",
+      "status": "found",
+      "note": "英文原题 How an 18th-Century Philosopher Helped Solve My Midlife Crisis（The Atlantic，2015 年 10 月号）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How an 18th-Century Philosopher Helped Solve My Midlife Crisis",
+          "url": "https://www.theatlantic.com/magazine/archive/2015/10/how-david-hume-helped-me-solve-my-midlife-crisis/403195/",
+          "site": "The Atlantic",
+          "evidence": "https://www.theatlantic.com/magazine/archive/2015/10/how-david-hume-helped-me-solve-my-midlife-crisis/403195/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0003-c07",
+      "status": "found",
+      "note": "《腾讯月刊》2013 年张小龙专访《产品之上的世界观》，原刊为腾讯内刊，网络未见原刊页面，以下为腾讯科技转载后的媒体页面",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "专访张小龙：产品之上的世界观",
+          "url": "https://www.yicai.com/news/2607527.html",
+          "site": "第一财经（来源：腾讯月刊，2013-04-07）",
+          "evidence": "https://www.yicai.com/news/2607527.html",
+          "confidence": "high",
+          "note": "转载自《腾讯月刊》"
+        },
+        {
+          "type": "interview",
+          "title": "张小龙腾讯内刊专访，谈微信产品观、国际化、团队管理……",
+          "url": "https://www.pingwest.com/a/11682",
+          "site": "品玩 PingWest（2013-04-03）",
+          "evidence": "https://www.pingwest.com/a/11682",
+          "confidence": "high",
+          "note": "含专访问答正文"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0026-c04",
+      "status": "found",
+      "note": "张小龙 2012-07-24 在腾讯大讲堂的约 8 小时内部讲座《微信背后的产品观》的现场速记；原讲座视频与 PPT 存于腾讯内部平台，未公开。后由电子工业出版社 2021 年整理出版成书",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "产品观（转载财经网张小龙讲座速记全文）",
+          "url": "https://m.xiaohuasheng.cn/blog/e971d9ba107548c0",
+          "site": "小花生",
+          "evidence": "https://m.xiaohuasheng.cn/blog/e971d9ba107548c0",
+          "confidence": "high",
+          "note": "开头「今天很感谢大家从这么远的地方跑到广州来」及苹果单按钮问答与摘录逐句吻合；该页注明转自 http://industry.caijing.com.cn/2012-07-28/111978644.html"
+        },
+        {
+          "type": "speech",
+          "title": "张小龙演讲全文：如何把产品做简单",
+          "url": "https://www.tmtpost.com/497929.html",
+          "site": "钛媒体（2012-07-31）",
+          "evidence": "https://www.tmtpost.com/497929.html",
+          "confidence": "high",
+          "note": "同一讲座的另一份速记整理稿"
+        },
+        {
+          "type": "book",
+          "title": "《微信背后的产品观》（张小龙 编著，电子工业出版社，2021，ISBN 978-7-121-40252-4）",
+          "url": null,
+          "site": null,
+          "evidence": "https://www.scribd.com/document/712178665/%E5%BE%AE%E4%BF%A1%E8%83%8C%E5%90%8E%E7%9A%84%E4%BA%A7%E5%93%81%E8%A7%82",
+          "confidence": "medium",
+          "note": "出版信息取自该文档中的图书在版编目数据，未找到出版社官方页面"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0044-c04",
+      "status": "found",
+      "note": "英文原题 How to kick ass at a new skill you're not wildly passionate about（Stacking the Bricks，2018-08-07）；七个步骤与摘录一一对应",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to kick ass at a new skill you're not wildly passionate about",
+          "url": "https://stackingthebricks.com/master-new-skills/",
+          "site": "Stacking the Bricks",
+          "evidence": "https://stackingthebricks.com/master-new-skills/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0032-c05",
+      "status": "found",
+      "note": "推断为 2017-11-30 在柏林 WZB（DFG「社会学知识的社会学」研究网络会议）的主题演讲 The Future of Expert Knowledge：演讲把 knowing 置于 knowledge 之上、指出「知识日益商品化，是结果而非过程」、论及联想式求知与「物作为求知者」，与推荐语吻合。摘录只有推荐语，未能逐句核对正文",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "The Future of Expert Knowledge - Lecture by Andrew Abbott",
+          "url": "https://www.youtube.com/watch?v=fSFkljMNegY",
+          "site": "YouTube（WZBlive）",
+          "evidence": "https://www.youtube.com/watch?v=fSFkljMNegY",
+          "confidence": "medium",
+          "note": "演讲视频与逐字稿"
+        },
+        {
+          "type": "speech",
+          "title": "The Future of Expert Knowledge（WZB 活动页）",
+          "url": "https://www.wzb.eu/en/events/the-future-of-expert-knowledge",
+          "site": "WZB Berlin Social Science Center",
+          "evidence": "https://www.wzb.eu/en/events/the-future-of-expert-knowledge",
+          "confidence": "medium",
+          "note": null
+        },
+        {
+          "type": "article",
+          "title": "专业知识的未来（刘文楠、周忆粟 译，载《清华社会学评论》第十二辑）",
+          "url": "https://zhouyisu.org/files/Abbott2017_ExpertKnowledge.pdf",
+          "site": "zhouyisu.org",
+          "evidence": "https://zhouyisu.org/files/Abbott2017_ExpertKnowledge.pdf",
+          "confidence": "medium",
+          "note": "已有中译本；备选出处为 2009 年演讲 The Future of Knowing（https://home.uchicago.edu/~aabbott/Papers/futurek.pdf），主题同为 knowing 与 knowledge 之别"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0039-c06",
+      "status": "found",
+      "note": "英文原题 The Aims of Education Address（芝加哥大学 2002-09-26 迎新演讲，致 2006 届）",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "Aims of Education Address 2002—Andrew Abbott",
+          "url": "https://college.uchicago.edu/student-life/aims-education-address-2002-andrew-abbott",
+          "site": "The College, University of Chicago",
+          "evidence": "https://college.uchicago.edu/student-life/aims-education-address-2002-andrew-abbott",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "speech",
+          "title": "The Aims of Education Address (for the class of 2006)",
+          "url": "https://www.ditext.com/abbott/abbott_aims.html",
+          "site": "ditext.com",
+          "evidence": "https://www.ditext.com/abbott/abbott_aims.html",
+          "confidence": "high",
+          "note": "演讲全文转载"
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "alex",
+      "note": "本批唯一文章《工作的消失：信仰已死，表演犹存》（vol0113-c03，目录日期 2025-08-29）对应 Alex McCann 的 Substack 文章 The death of the corporate job.（2025-08-29），作者全名应为 Alex McCann；文章级 author_check 需在处理 vol0113-c03 的批次中更正",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Still Wandering（Alex McCann 的 Substack Newsletter）",
+          "url": "https://thestillwandering.substack.com/about",
+          "site": "thestillwandering.substack.com",
+          "evidence": "https://thestillwandering.substack.com/about",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "article",
+          "title": "The death of the corporate job.",
+          "url": "https://thestillwandering.substack.com/p/the-death-of-the-corporate-job",
+          "site": "thestillwandering.substack.com",
+          "evidence": "https://thestillwandering.substack.com/p/the-death-of-the-corporate-job",
+          "confidence": "high",
+          "note": "署名 Alex McCann，2025-08-29；正文「信仰消散、结构仍在、我们都在表演」与中文标题吻合"
+        }
+      ]
+    },
+    {
+      "author_id": "alex-danco",
+      "note": null,
+      "sources": [
+        {
+          "type": "website",
+          "title": "Alex Danco's Newsletter（个人博客）",
+          "url": "https://alexdanco.com/",
+          "site": "alexdanco.com",
+          "evidence": "https://alexdanco.com/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "website",
+          "title": "Alex Danco's Newsletter（Substack）",
+          "url": "https://danco.substack.com/",
+          "site": "danco.substack.com",
+          "evidence": "https://alexdanco.com/",
+          "confidence": "medium",
+          "note": "博客首页标注订阅地址 danco.substack.com"
+        }
+      ]
+    },
+    {
+      "author_id": "alex-murrell",
+      "note": "英国广告策略人，Epoch 策略总监",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Alex Murrell 个人网站",
+          "url": "https://www.alexmurrell.co.uk/",
+          "site": "alexmurrell.co.uk",
+          "evidence": "https://www.alexmurrell.co.uk/",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "alex-ross",
+      "note": "《纽约客》撰稿人，1996–2026 年任该刊音乐评论家",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Alex Ross: The Rest Is Noise（个人博客）",
+          "url": "https://therestisnoise.com/",
+          "site": "therestisnoise.com",
+          "evidence": "https://therestisnoise.com/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "website",
+          "title": "Alex Ross — The New Yorker 作者页",
+          "url": "https://www.newyorker.com/contributors/alex-ross",
+          "site": "The New Yorker",
+          "evidence": "https://www.newyorker.com/contributors/alex-ross",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "The Rest Is Noise: Listening to the Twentieth Century（《余下只有噪音：聆听20世纪》，Farrar, Straus and Giroux，2007；中译本 郭建英 译）",
+          "url": "http://therestisnoise.com/what_is_this-2/",
+          "site": "therestisnoise.com",
+          "evidence": "https://ilixiangguo.com/book/book/view/id/2001",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "alex-soojung-kim-pang",
+      "note": null,
+      "sources": [
+        {
+          "type": "website",
+          "title": "Alex Soojung-Kim Pang 个人网站（About me）",
+          "url": "https://www.askpang.com/about-me",
+          "site": "askpang.com",
+          "evidence": "https://www.askpang.com/about-me",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "Rest: Why You Get More Done When You Work Less（Basic Books，2016）",
+          "url": null,
+          "site": null,
+          "evidence": "https://www.askpang.com/about-me",
+          "confidence": "high",
+          "note": "未核实中文译名"
+        },
+        {
+          "type": "book",
+          "title": "Shorter（Penguin UK 版）",
+          "url": "https://www.penguin.co.uk/books/314456/shorter-by-pang-alex-soojung-kim/9780241406786",
+          "site": "Penguin",
+          "evidence": "https://www.penguin.co.uk/books/314456/shorter-by-pang-alex-soojung-kim/9780241406786",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "alexander-rose",
+      "note": "Long Now 基金会创始执行主任（现为荣誉执行主任），万年钟项目负责人；注意与同名历史作家（Washington's Spies 作者）区分",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Alexander Rose — Long Now People",
+          "url": "https://longnow.org/people/zander/",
+          "site": "longnow.org",
+          "evidence": "https://longnow.org/people/zander/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "website",
+          "title": "RoseFutures.com（Alexander Rose 个人网站）",
+          "url": "https://rosefutures.com/",
+          "site": "rosefutures.com",
+          "evidence": "https://rosefutures.com/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "interview",
+          "title": "How to Create an Institution That Lasts 10,000 Years（Edge 对话，2019-04-24）",
+          "url": "https://edge.org/video/how-to-create-an-institution-that-lasts-10000-years",
+          "site": "Edge.org",
+          "evidence": "https://docslib.org/doc/4254223/how-to-create-an-institution-that-lasts-10-000-years-a-conversation-with-alexander-rose-4-24-19",
+          "confidence": "medium",
+          "note": "与其文章《如何为一个机构续命一万年》主题对应，可作该文出处线索"
+        }
+      ]
+    },
+    {
+      "author_id": "alexandra-schwartz",
+      "note": "《纽约客》特约撰稿人（staff writer）",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Alexandra Schwartz — The New Yorker 作者页",
+          "url": "https://www.newyorker.com/contributors/alexandra-schwartz",
+          "site": "The New Yorker",
+          "evidence": "https://www.newyorker.com/contributors/alexandra-schwartz",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "alexey-guzey",
+      "note": null,
+      "sources": [
+        {
+          "type": "website",
+          "title": "Alexey Guzey 个人网站",
+          "url": "https://guzey.com/",
+          "site": "guzey.com",
+          "evidence": "https://guzey.com/",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "alisa-cohn",
+      "note": "高管教练",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Alisa Cohn 个人网站",
+          "url": "https://www.alisacohn.com",
+          "site": "alisacohn.com",
+          "evidence": "https://www.lennysnewsletter.com/p/scripts-for-difficult-conversations-alisa-cohn",
+          "confidence": "medium",
+          "note": "网址取自 Lenny's Newsletter 节目页「Where to find Alisa Cohn」"
+        },
+        {
+          "type": "book",
+          "title": "From Start-Up to Grown-Up（2022 Independent Press Award 获奖作品）",
+          "url": null,
+          "site": null,
+          "evidence": "https://www.lennysnewsletter.com/p/scripts-for-difficult-conversations-alisa-cohn",
+          "confidence": "medium",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "alison-gopnik",
+      "note": "加州大学伯克利分校心理学与哲学教授",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Alison Gopnik 个人网站（Bio）",
+          "url": "https://www.alisongopnik.com/Alison_Gopnik_Bio.htm",
+          "site": "alisongopnik.com",
+          "evidence": "https://www.alisongopnik.com/Alison_Gopnik_Bio.htm",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "The Gardener and the Carpenter（《园丁与木匠》，Farrar, Straus and Giroux，2016；中译本 浙江人民出版社，2019）",
+          "url": "https://read.douban.com/ebook/122504487/",
+          "site": "豆瓣阅读",
+          "evidence": "https://read.douban.com/ebook/122504487/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "The Philosophical Baby（2009）",
+          "url": "https://www.alisongopnik.com/Alison_Gopnik_Books.htm",
+          "site": "alisongopnik.com",
+          "evidence": "https://www.alisongopnik.com/Alison_Gopnik_Books.htm",
+          "confidence": "high",
+          "note": "未核实中文译名"
+        }
+      ]
+    },
+    {
+      "author_id": "alkjash",
+      "note": "LessWrong 用户名 alkjash，个人博客 Radimentary；搜索摘要称其本名 Xiaoyu He，未在一手页面核实",
+      "sources": [
+        {
+          "type": "website",
+          "title": "alkjash — LessWrong 用户页",
+          "url": "https://www.lesswrong.com/users/alkjash",
+          "site": "LessWrong",
+          "evidence": "https://www.lesswrong.com/users/alkjash",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "website",
+          "title": "Radimentary（个人博客）",
+          "url": "https://radimentary.wordpress.com/",
+          "site": "radimentary.wordpress.com",
+          "evidence": "https://www.lesswrong.com/users/alkjash",
+          "confidence": "high",
+          "note": "LessWrong 上 Pain is not the unit of Effort 为该博客的链接帖：https://radimentary.wordpress.com/2020/11/24/pain-is-not-the-unit-of-effort/"
+        }
+      ]
+    },
+    {
+      "author_id": "allen-zhang",
+      "note": "腾讯高级执行副总裁、微信事业群总裁，Foxmail 与微信的开发者",
+      "sources": [
+        {
+          "type": "website",
+          "title": "张小龙 — 腾讯管理团队页",
+          "url": "https://www.tencent.com/zh-cn/team/zhang-xiaolong-allen-zhang/",
+          "site": "tencent.com",
+          "evidence": "https://www.tencent.com/zh-cn/team/zhang-xiaolong-allen-zhang/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "website",
+          "title": "张小龙 — 维基百科",
+          "url": "https://zh.wikipedia.org/zh-hans/%E5%BC%B5%E5%B0%8F%E9%BE%8D",
+          "site": "zh.wikipedia.org",
+          "evidence": "https://zh.wikipedia.org/zh-hans/%E5%BC%B5%E5%B0%8F%E9%BE%8D",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "《微信背后的产品观》（张小龙 编著，电子工业出版社，2021）",
+          "url": null,
+          "site": null,
+          "evidence": "https://www.scribd.com/document/712178665/%E5%BE%AE%E4%BF%A1%E8%83%8C%E5%90%8E%E7%9A%84%E4%BA%A7%E5%93%81%E8%A7%82",
+          "confidence": "medium",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "amy-hoy",
+      "note": "Noko（原 Freckle）联合创始人，与 Alex Hillman 合办 Stacking the Bricks",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Stacking the Bricks",
+          "url": "https://stackingthebricks.com/",
+          "site": "stackingthebricks.com",
+          "evidence": "https://stackingthebricks.com/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "Just F*cking Ship（Amy Hoy、Alex Hillman，电子书）",
+          "url": "https://stackingthebricks.com/sale/",
+          "site": "stackingthebricks.com",
+          "evidence": "https://stackingthebricks.com/sale/",
+          "confidence": "medium",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "andrew-abbott",
+      "note": "芝加哥大学社会学系 Gustavus F. and Ann M. Swift 杰出贡献教授",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Andrew Abbott's Biography（个人主页）",
+          "url": "http://home.uchicago.edu/aabbott/bionew2.html",
+          "site": "home.uchicago.edu",
+          "evidence": "http://home.uchicago.edu/aabbott/bionew2.html",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "The System of Professions: An Essay on the Division of Expert Labor（University of Chicago Press，1988；商务印书馆 2016 年出版中译本）",
+          "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo5965590.html",
+          "site": "University of Chicago Press",
+          "evidence": "https://home.uchicago.edu/~aabbott/Papers/sv.pdf",
+          "confidence": "high",
+          "note": "中译本信息取自作者简历"
+        }
+      ]
+    }
+  ]
+}

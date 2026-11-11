@@ -1,0 +1,465 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0080-c06",
+      "status": "found",
+      "note": "英文原题 Foundations: Why Britain has stagnated（2024 年 9 月，独立网站 ukfoundations.co 发布）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Foundations: Why Britain has stagnated",
+          "url": "https://ukfoundations.co/",
+          "site": "ukfoundations.co",
+          "evidence": "https://ukfoundations.co/",
+          "confidence": "high",
+          "note": "打开页面核对：标题一致，「Setting the scene」事实清单（能源价格翻三番、英法住房、核电、有轨电车、HS2、水库、希思罗）与译文逐条对应；页面正文未列署名，作者见 Policy Commons 条目与作者本人 Substack"
+        },
+        {
+          "type": "article",
+          "title": "Foundations: Why Britain has stagnated - by Ben Southwood",
+          "url": "https://www.bensouthwood.co.uk/p/foundations-why-britain-has-stagnated",
+          "site": "bensouthwood.co.uk",
+          "evidence": "https://www.bensouthwood.co.uk/p/foundations-why-britain-has-stagnated",
+          "confidence": "high",
+          "note": "Ben Southwood 2024-09-21 发文介绍与 Samuel Hughes、Sam Bowman 合写的这篇长文，并给出全文链接 ukfoundations.co"
+        },
+        {
+          "type": "article",
+          "title": "Foundations: Why Britain has stagnated | Policy Commons",
+          "url": "https://policycommons.net/artifacts/16507207/foundations/17392044/",
+          "site": "policycommons.net",
+          "evidence": "https://policycommons.net/artifacts/16507207/foundations/17392044/",
+          "confidence": "medium",
+          "note": "目录条目：2024-09-20，作者 Ben Southwood, Samuel Hughes, Sam Bowman"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0073-c07",
+      "status": "found",
+      "note": "英文原题 Aggregation Theory（Stratechery，2015-07-21）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Aggregation Theory",
+          "url": "https://stratechery.com/2015/aggregation-theory/",
+          "site": "stratechery.com",
+          "evidence": "https://stratechery.com/2015/aggregation-theory/",
+          "confidence": "high",
+          "note": "搜索结果展示页面正文：Tuesday, July 21, 2015；引用 Airbnb and the Internet Revolution、Netflix and the Conservation of Attractive Profits 等三篇，与正文中的参考链接一致；「供应商、分销商、消费者/用户」价值链论述与译文对应"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0093-c05",
+      "status": "found",
+      "note": "英文原题 Trade, Tariffs, and Tech（Stratechery，2025-04-07）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Trade, Tariffs, and Tech",
+          "url": "https://stratechery.com/2025/trade-tariffs-and-tech/",
+          "site": "stratechery.com",
+          "evidence": "https://stratechery.com/2025/trade-tariffs-and-tech/",
+          "confidence": "high",
+          "note": "搜索结果展示页面正文：Monday, April 7, 2025；开头「Pretend, if you can, that the last week didn’t happen... China invades Taiwan」与译文开头一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0076-c03",
+      "status": "found",
+      "note": "英文原题 Life Doesn’t Reward You for What You Know, But for What You Do（Medium / Thrive Global，2018-07-31）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Life Doesn’t Reward You for What You Know, But for What You Do",
+          "url": "https://medium.com/thrive-global/life-doesnt-reward-you-for-what-you-know-but-for-what-you-do-f05b80e9c710",
+          "site": "medium.com",
+          "evidence": "https://medium.com/thrive-global/life-doesnt-reward-you-for-what-you-know-but-for-what-you-do-f05b80e9c710",
+          "confidence": "high",
+          "note": "搜索结果展示页面正文：署名 Dr. Benjamin Hardy，Jul 31, 2018；小标题「The quality of input determines the quality of output」与译文「你输入的质量，决定了你输出的质量」一致，并引用 Napoleon Hill 的「知识只是潜在的力量」"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0093-c07",
+      "status": "found",
+      "note": "英文原题 Notable Quotables From THE BATTLE OF BRETTON WOODS（CFR 博客，2014-09-04），摘录自其著作 The Battle of Bretton Woods（2013）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Notable Quotables From THE BATTLE OF BRETTON WOODS",
+          "url": "https://www.cfr.org/articles/notable-quotables-battle-bretton-woods",
+          "site": "cfr.org",
+          "evidence": "https://www.cfr.org/articles/notable-quotables-battle-bretton-woods",
+          "confidence": "high",
+          "note": "页面元数据：作者 Benn Steil，datePublished 2014-09-04；凯恩斯论金本位（第 72 页）、「barbarous relic」（第 75-76 页）、1917 年致母亲信（第 70 页）等引语与译文顺序和页码一致"
+        },
+        {
+          "type": "book",
+          "title": "The Battle of Bretton Woods: John Maynard Keynes, Harry Dexter White, and the Making of a New World Order（Princeton University Press，2013）",
+          "url": "https://press.princeton.edu/books/hardcover/9780691149097/the-battle-of-bretton-woods",
+          "site": "press.princeton.edu",
+          "evidence": "https://press.princeton.edu/books/hardcover/9780691149097/the-battle-of-bretton-woods",
+          "confidence": "high",
+          "note": "引语所在原书的出版社页面"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0004-c05",
+      "status": "found",
+      "note": "出自 BBC 节目 Face to Face 对罗素的访谈（主持人 John Freeman，1959-03-04 首播）；最后一问的回答即「Love is wise, hatred is foolish」",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "Face to Face, Original: Bertrand Russell",
+          "url": "https://www.bbc.co.uk/programmes/p04qgxlv",
+          "site": "bbc.co.uk",
+          "evidence": "https://www.bbc.co.uk/programmes/p04qgxlv",
+          "confidence": "high",
+          "note": "BBC 节目页：Lord Russell discusses with John Freeman...（1959），首播 Wed 4 Mar 1959；页面引语「Now in his 87th year」与译文「两个月之后便是罗素的 87 岁生日」吻合"
+        },
+        {
+          "type": "article",
+          "title": "Love Is Wise, Hatred Is Foolish: Bertrand Russell’s Timeless Message to the Future",
+          "url": "https://www.themarginalian.org/2012/05/24/love-is-wise-hatred-is-foolish-bertrand-russell-1959/",
+          "site": "themarginalian.org",
+          "evidence": "https://www.themarginalian.org/2012/05/24/love-is-wise-hatred-is-foolish-bertrand-russell-1959/",
+          "confidence": "medium",
+          "note": "访谈最后一问回答的英文文字稿（二手转录）"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0021-c04",
+      "status": "found",
+      "note": "英文原题 In Praise of Idleness，首发于 Harper’s Magazine 1932 年 10 月号；输入中的 2020 年应为译文/推送年份而非原作年份",
+      "sources": [
+        {
+          "type": "article",
+          "title": "In Praise of Idleness",
+          "url": "https://harpers.org/archive/1932/10/in-praise-of-idleness/",
+          "site": "harpers.org",
+          "evidence": "https://harpers.org/archive/1932/10/in-praise-of-idleness/",
+          "confidence": "high",
+          "note": "Harper’s 存档页，by Bertrand Russell；开头「Satan finds some mischief still for idle hands to do」及那不勒斯十二个乞丐的故事与译文一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0046-c03",
+      "status": "found",
+      "note": "英文原题 What Desires Are Politically Important?（1950-12-11 诺贝尔文学奖演讲）",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "Bertrand Russell – Nobel Lecture: What Desires Are Politically Important?",
+          "url": "https://www.nobelprize.org/prizes/literature/1950/russell/lecture/",
+          "site": "nobelprize.org",
+          "evidence": "https://www.nobelprize.org/prizes/literature/1950/russell/lecture/",
+          "confidence": "high",
+          "note": "诺贝尔官网全文：Nobel Lecture, December 11, 1950；「All human activity is prompted by desire」、primary/secondary 两类欲望（占有欲、竞争心、虚荣心、权力欲）与译文要点一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0035-c06",
+      "status": "found",
+      "note": "英文原题 Discovering Your Authentic Leadership（Harvard Business Review，2007 年 2 月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Discovering Your Authentic Leadership",
+          "url": "https://hbr.org/2007/02/discovering-your-authentic-leadership",
+          "site": "hbr.org",
+          "evidence": "https://hbr.org/2007/02/discovering-your-authentic-leadership",
+          "confidence": "high",
+          "note": "HBR 页面署名 Bill George, Peter Sims, Andrew N. McLean and Diana Mayer；摘要（访谈 125 位领导者、「1,000 多项研究」）与译文一致"
+        },
+        {
+          "type": "paper",
+          "title": "Discovering Your Authentic Leadership（HBR 重印本 R0702H PDF）",
+          "url": "https://projects.iq.harvard.edu/files/wappp/files/discovering_your_authentic_leadership21.pdf",
+          "site": "projects.iq.harvard.edu",
+          "evidence": "https://projects.iq.harvard.edu/files/wappp/files/discovering_your_authentic_leadership21.pdf",
+          "confidence": "high",
+          "note": "全文开头「During the past 50 years, leadership scholars have conducted more than 1,000 studies」与译文正文开头一致"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Bill George"],
+        "evidence": "https://hbr.org/2007/02/discovering-your-authentic-leadership",
+        "note": "Bill George 为第一作者，归属无误；原文另有合著者 Peter Sims、Andrew N. McLean、Diana Mayer"
+      }
+    },
+    {
+      "article_id": "vol0008-c08",
+      "status": "found",
+      "note": "英文原题 The Parable of the Sadhu，原载 HBR 1983 年 9-10 月号，1997 年 5-6 月作为 HBR Classic 重刊（附作者新评论）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Parable of the Sadhu",
+          "url": "https://hbr.org/1997/05/the-parable-of-the-sadhu",
+          "site": "hbr.org",
+          "evidence": "https://hbr.org/1997/05/the-parable-of-the-sadhu",
+          "confidence": "high",
+          "note": "HBR 页面：by Bowen H. McCoy，From the Magazine (May–June 1997)"
+        },
+        {
+          "type": "paper",
+          "title": "The parable of the Sadhu. 1983.（PubMed 条目）",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10167597",
+          "site": "pubmed.ncbi.nlm.nih.gov",
+          "evidence": "https://pubmed.ncbi.nlm.nih.gov/10167597",
+          "confidence": "high",
+          "note": "说明本文首发于 1983 年 9-10 月号、1997 年重刊为 HBR Classic"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0013-c04",
+      "status": "found",
+      "note": "英文原题 Product Management Mental Models for Everyone（The Black Box of Product Management，2018-08-19）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Product Management Mental Models for Everyone",
+          "url": "https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b",
+          "site": "blackboxofpm.com",
+          "evidence": "https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b",
+          "confidence": "high",
+          "note": "搜索结果展示正文：署名 Brandon Chu，Aug 19, 2018；开头「Mental models are simple expressions of complex processes or relationships」及帕累托原则示例、三大类结构与译文一致"
+        },
+        {
+          "type": "article",
+          "title": "Product Management Mental Models for Everyone · Brandon Chu",
+          "url": "https://brandonmchu.com/blog/2018-08-19-product-management-mental-models-for-everyone",
+          "site": "brandonmchu.com",
+          "evidence": "https://brandonmchu.com/blog/2018-08-19-product-management-mental-models-for-everyone",
+          "confidence": "high",
+          "note": "作者个人网站上的同文存档"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0033-c07",
+      "status": "found",
+      "note": "英文原题 Ruthless Prioritization（The Black Box of Product Management，2017-03-06）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Ruthless Prioritization",
+          "url": "https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9",
+          "site": "blackboxofpm.com",
+          "evidence": "https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9",
+          "confidence": "high",
+          "note": "搜索结果展示正文：署名 Brandon Chu，Mar 6, 2017；项目间/项目内两类优先级、ROI 与依赖/时间线/团队构成三项约束与译文一致"
+        },
+        {
+          "type": "article",
+          "title": "Ruthless Prioritization · Brandon Chu",
+          "url": "https://brandonmchu.com/blog/2017-03-06-ruthless-prioritization",
+          "site": "brandonmchu.com",
+          "evidence": "https://brandonmchu.com/blog/2017-03-06-ruthless-prioritization",
+          "confidence": "high",
+          "note": "作者个人网站上的同文存档"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0010-c07",
+      "status": "found",
+      "note": "英文原题 The power of vulnerability（TEDxHouston 演讲，2010 年 6 月）",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "The power of vulnerability",
+          "url": "https://www.ted.com/talks/brene_brown_the_power_of_vulnerability",
+          "site": "ted.com",
+          "evidence": "https://www.ted.com/talks/brene_brown_the_power_of_vulnerability",
+          "confidence": "high",
+          "note": "TED 页面：Brené Brown | TEDxHouston • June 2010；简介「studies human connection -- our ability to empathize, belong, love」与推荐语一致"
+        },
+        {
+          "type": "video",
+          "title": "The power of vulnerability | Brené Brown | TEDxHouston",
+          "url": "https://www.youtube.com/watch?v=X4Qm9cGRub0",
+          "site": "youtube.com",
+          "evidence": "https://www.youtube.com/watch?v=X4Qm9cGRub0",
+          "confidence": "medium",
+          "note": "TEDx 官方上传视频及字幕稿"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0049-c05",
+      "status": "found",
+      "note": "英文原题 The Anatomy of Trust（2015 年在 UCLA Royce Hall 为 Oprah 的 SuperSoul Sessions 所作演讲）；输入中的 2005 年与原始出处不符，应为 2015 年",
+      "sources": [
+        {
+          "type": "video",
+          "title": "SuperSoul Sessions: The Anatomy of Trust",
+          "url": "https://brenebrown.com/videos/anatomy-trust-video/",
+          "site": "brenebrown.com",
+          "evidence": "https://brenebrown.com/videos/anatomy-trust-video/",
+          "confidence": "high",
+          "note": "作者官网视频页，日期 November 1, 2015；介绍 BRAVING 七要素（Boundaries, Reliability, Accountability, Vault, Integrity, Nonjudgment, Generosity）"
+        },
+        {
+          "type": "podcast",
+          "title": "The Anatomy of Trust（Unlocking Us 播客，含演讲全文）",
+          "url": "https://brenebrown.com/podcast/the-anatomy-of-trust/",
+          "site": "brenebrown.com",
+          "evidence": "https://brenebrown.com/podcast/the-anatomy-of-trust/",
+          "confidence": "high",
+          "note": "文字稿含女儿 Ellen 与「弹珠罐」故事、BRAVING 模型，与译文一致"
+        },
+        {
+          "type": "speech",
+          "title": "\"The Anatomy of Trust\" by Brené Brown speech transcript",
+          "url": "https://jamesclear.com/great-speeches/the-anatomy-of-trust-by-brene-brown",
+          "site": "jamesclear.com",
+          "evidence": "https://jamesclear.com/great-speeches/the-anatomy-of-trust-by-brene-brown",
+          "confidence": "medium",
+          "note": "第三方整理的演讲文字稿，注明 2015 年 UCLA Royce Hall"
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "ben-horowitz",
+      "note": "Andreessen Horowitz 联合创始人",
+      "sources": [
+        {"type": "website", "title": "Ben Horowitz – Andreessen Horowitz 作者页", "url": "https://a16z.com/author/ben-horowitz/", "site": "a16z.com", "evidence": "https://a16z.com/author/ben-horowitz/", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Hard Thing About Hard Things（《创业维艰》，2014）", "url": "https://a16z.com/books/the-hard-thing-about-hard-things/", "site": "a16z.com", "evidence": "https://a16z.com/books/the-hard-thing-about-hard-things/", "confidence": "high", "note": null},
+        {"type": "book", "title": "What You Do Is Who You Are（《你所做即你所是》，HarperCollins，2019）", "url": "https://books.google.com/books/about/What_You_Do_Is_Who_You_Are_How_to_Create.html?id=PMCQDwAAQBAJ", "site": "books.google.com", "evidence": "https://books.google.com/books/about/What_You_Do_Is_Who_You_Are_How_to_Create.html?id=PMCQDwAAQBAJ", "confidence": "high", "note": "讨论企业文化，与本书收录的「文化是每一个决策的总和」主题相关"}
+      ]
+    },
+    {
+      "author_id": "ben-southwood",
+      "note": "Works in Progress 杂志联合创始人、执行主编",
+      "sources": [
+        {"type": "website", "title": "Ben Southwood 个人主页", "url": "https://about.bensouthwood.co.uk/", "site": "about.bensouthwood.co.uk", "evidence": "https://about.bensouthwood.co.uk/", "confidence": "high", "note": "自述合著 The Housing Theory of Everything、Foundations: Why Britain Has Stagnated"},
+        {"type": "website", "title": "Ben Southwood 的 Substack", "url": "https://www.bensouthwood.co.uk/", "site": "bensouthwood.co.uk", "evidence": "https://www.bensouthwood.co.uk/p/foundations-why-britain-has-stagnated", "confidence": "high", "note": null},
+        {"type": "website", "title": "Ben Southwood – Works in Progress 作者页", "url": "https://worksinprogress.co/our-authors/ben-southwood/", "site": "worksinprogress.co", "evidence": "https://worksinprogress.co/our-authors/ben-southwood/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "ben-thompson",
+      "note": "科技商业分析 Newsletter Stratechery 作者",
+      "sources": [
+        {"type": "website", "title": "Stratechery by Ben Thompson", "url": "https://stratechery.com/", "site": "stratechery.com", "evidence": "https://stratechery.com/about/", "confidence": "high", "note": null},
+        {"type": "website", "title": "About – Stratechery（作者介绍）", "url": "https://stratechery.com/about/", "site": "stratechery.com", "evidence": "https://stratechery.com/about/", "confidence": "high", "note": "自 2013 年撰写 Stratechery，曾任职 Apple、Microsoft、Automattic"}
+      ]
+    },
+    {
+      "author_id": "benjamin-hardy",
+      "note": "组织心理学家、畅销书作者",
+      "sources": [
+        {"type": "website", "title": "Dr. Benjamin Hardy 个人网站", "url": "https://www.benjaminhardy.com/books", "site": "benjaminhardy.com", "evidence": "https://www.benjaminhardy.com/books", "confidence": "high", "note": "书目页"},
+        {"type": "website", "title": "Benjamin Hardy 的 Medium 主页", "url": "https://medium.com/@benjaminhardy", "site": "medium.com", "evidence": "https://medium.com/@benjaminhardy", "confidence": "medium", "note": null},
+        {"type": "book", "title": "Willpower Doesn't Work: Discover the Hidden Keys to Success（2018）", "url": "https://www.benjaminhardy.com/books", "site": "benjaminhardy.com", "evidence": "https://medium.com/@benjaminhardy/books", "confidence": "high", "note": "未核实中文版译名"}
+      ]
+    },
+    {
+      "author_id": "benn-steil",
+      "note": "美国外交关系委员会（CFR）国际经济部主任、高级研究员",
+      "sources": [
+        {"type": "website", "title": "Benn Steil – Council on Foreign Relations 专家页", "url": "https://www.cfr.org/experts/benn-steil", "site": "cfr.org", "evidence": "https://www.cfr.org/experts/benn-steil", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Battle of Bretton Woods（《布雷顿森林货币战》，Princeton University Press，2013）", "url": "https://press.princeton.edu/books/hardcover/9780691149097/the-battle-of-bretton-woods", "site": "press.princeton.edu", "evidence": "https://press.princeton.edu/books/hardcover/9780691149097/the-battle-of-bretton-woods", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Marshall Plan: Dawn of the Cold War（2018）", "url": null, "site": null, "evidence": "https://www.cfr.org/experts/benn-steil", "confidence": "high", "note": "CFR 专家页列出；未核实中文版译名"}
+      ]
+    },
+    {
+      "author_id": "bertrand-russell",
+      "note": "英国哲学家、逻辑学家，1950 年诺贝尔文学奖得主",
+      "sources": [
+        {"type": "website", "title": "Bertrand Russell (Stanford Encyclopedia of Philosophy)", "url": "https://plato.stanford.edu/entries/russell/", "site": "plato.stanford.edu", "evidence": "https://plato.stanford.edu/entries/russell/", "confidence": "high", "note": null},
+        {"type": "book", "title": "A History of Western Philosophy（《西方哲学史》，1945）", "url": null, "site": null, "evidence": "https://plato.stanford.edu/entries/russell/", "confidence": "high", "note": "SEP 条目列为其两部畅销代表作之一"},
+        {"type": "book", "title": "In Praise of Idleness and Other Essays（《赞美闲散》，1935）", "url": null, "site": null, "evidence": "https://harpers.org/archive/1932/10/in-praise-of-idleness/", "confidence": "medium", "note": "同名文章 1932 年首发于 Harper’s，后收入 1935 年同名文集；文集出版年份为常识性补充，未打开出版信息页核对"}
+      ]
+    },
+    {
+      "author_id": "bill-gates",
+      "note": "微软联合创始人、盖茨基金会联合主席",
+      "sources": [
+        {"type": "website", "title": "Gates Notes（Bill Gates 个人网站）", "url": "https://www.gatesnotes.com/home", "site": "gatesnotes.com", "evidence": "https://www.gatesnotes.com/home", "confidence": "high", "note": null},
+        {"type": "book", "title": "Source Code: My Beginnings（《源代码：我的起点》，2025）", "url": null, "site": null, "evidence": "https://www.gatesnotes.com/home", "confidence": "medium", "note": "Gates Notes 首页称 Source Code 为其第一部回忆录；中文译名为常见译法"}
+      ]
+    },
+    {
+      "author_id": "bill-george",
+      "note": "美敦力前董事长兼 CEO，哈佛商学院教授",
+      "sources": [
+        {"type": "website", "title": "Bill George 个人网站", "url": "https://billgeorge.org/", "site": "billgeorge.org", "evidence": "https://billgeorge.org/", "confidence": "high", "note": null},
+        {"type": "book", "title": "True North: Discover Your Authentic Leadership（《真北》，与 Peter Sims 合著，2007）", "url": "https://billgeorge.org/article/true-north-discover-your-authentic-leadership/", "site": "billgeorge.org", "evidence": "https://www.hbs.edu/rethinking-the-mba/docs/harvard-business-school-authentic-leadership-development-syllabus-fall-2009.pdf", "confidence": "high", "note": "链接为作者官网关于该书主题的演讲稿；HBS 课程大纲列出 George, B. with Sims, P. True North"}
+      ]
+    },
+    {
+      "author_id": "blaise-pascal",
+      "note": "17 世纪法国数学家、物理学家、哲学家",
+      "sources": [
+        {"type": "website", "title": "Blaise Pascal (Stanford Encyclopedia of Philosophy)", "url": "https://plato.stanford.edu/entries/pascal/", "site": "plato.stanford.edu", "evidence": "https://plato.stanford.edu/entries/pascal/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Pensées（《思想录》，1670 年身后出版）", "url": null, "site": null, "evidence": "https://plato.stanford.edu/entries/pascal/", "confidence": "high", "note": "SEP 条目说明其文学地位主要来自身后出版的 Pensées"}
+      ]
+    },
+    {
+      "author_id": "bowen-h-mccoy",
+      "note": "Bowen H. \"Buzz\" McCoy，摩根士丹利前合伙人、房地产金融负责人，商业伦理讲师",
+      "sources": [
+        {"type": "book", "title": "Living Into Leadership: A Journey in Ethics（Stanford University Press，2007）", "url": "https://sup.org/books/business/living-leadership", "site": "sup.org", "evidence": "https://sup.org/books/business/living-leadership", "confidence": "high", "note": "收录 The Parable of the Sadhu 的缩略版；暂未见中文版"},
+        {"type": "article", "title": "Remembering Bowen “Buzz” McCoy: The Conscience of Capital Markets（Urban Land Magazine）", "url": "https://urbanland.uli.org/issues-trends/remembering-bowen-buzz-mccoy-the-conscience-of-capital-markets", "site": "urbanland.uli.org", "evidence": "https://urbanland.uli.org/issues-trends/remembering-bowen-buzz-mccoy-the-conscience-of-capital-markets", "confidence": "medium", "note": "生平纪念文章；未找到个人网站"}
+      ]
+    },
+    {
+      "author_id": "brandon-chu",
+      "note": "前 Shopify 产品副总裁",
+      "sources": [
+        {"type": "website", "title": "Brandon Chu 个人网站（Writing）", "url": "https://brandonmchu.com/blog", "site": "brandonmchu.com", "evidence": "https://brandonmchu.com/blog", "confidence": "high", "note": null},
+        {"type": "website", "title": "The Black Box of Product Management（作者主办的 Medium 刊物）", "url": "https://blackboxofpm.com/archive", "site": "blackboxofpm.com", "evidence": "https://blackboxofpm.com/archive", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "brene-brown",
+      "note": "休斯顿大学研究教授，研究羞耻感、脆弱与勇气",
+      "sources": [
+        {"type": "website", "title": "Brené Brown 个人网站", "url": "https://brenebrown.com/", "site": "brenebrown.com", "evidence": "https://brenebrown.com/book/daring-greatly/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Daring Greatly（《脆弱的力量》，Avery/Penguin，2012）", "url": "https://brenebrown.com/book/daring-greatly/", "site": "brenebrown.com", "evidence": "https://www.penguinrandomhouse.com/books/600469/daring-greatly-by-brene-brown/", "confidence": "high", "note": "中文译名为常见译法"}
+      ]
+    },
+    {
+      "author_id": "bret-victor",
+      "note": "交互设计师、Dynamicland 创始人，曾在 Apple 设计早期 iPad 界面概念",
+      "sources": [
+        {"type": "website", "title": "Bret Victor 个人网站 worrydream.com", "url": "https://worrydream.com/", "site": "worrydream.com", "evidence": "https://worrydream.com/", "confidence": "high", "note": "列有 2012 年演讲 Inventing on Principle"},
+        {"type": "video", "title": "Bret Victor - Inventing on Principle（CUSEC 2012）", "url": "https://archive.org/details/vimeo-36579366", "site": "archive.org", "evidence": "https://archive.org/details/vimeo-36579366", "confidence": "high", "note": "代表性演讲，对应本书收录的「发明的准则」"}
+      ]
+    },
+    {
+      "author_id": "brett-mckay",
+      "note": "The Art of Manliness 创始人兼主编",
+      "sources": [
+        {"type": "website", "title": "Brett McKay 个人网站", "url": "https://brettmckay.com/", "site": "brettmckay.com", "evidence": "https://brettmckay.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "The Art of Manliness", "url": "https://www.artofmanliness.com/podcast/", "site": "artofmanliness.com", "evidence": "https://www.artofmanliness.com/podcast/", "confidence": "high", "note": "播客页含作者介绍"}
+      ]
+    }
+  ]
+}

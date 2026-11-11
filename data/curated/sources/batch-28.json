@@ -1,0 +1,471 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0057-c04",
+      "status": "found",
+      "note": "英文原题 The Notecard System: The Key For Remembering, Organizing And Using Everything You Read，开头提及 LifeHacker 采访，与摘录一致",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Notecard System: The Key For Remembering, Organizing And Using Everything You Read",
+          "url": "https://ryanholiday.net/the-notecard-system-the-key-for-remembering-organizing-and-using-everything-you-read/",
+          "site": "ryanholiday.net",
+          "evidence": "https://ryanholiday.net/the-notecard-system-the-key-for-remembering-organizing-and-using-everything-you-read/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Ryan Holiday"], "evidence": "https://ryanholiday.net/the-notecard-system-the-key-for-remembering-organizing-and-using-everything-you-read/", "note": null}
+    },
+    {
+      "article_id": "vol0006-c07",
+      "status": "found",
+      "note": "英文原题 Advice for ambitious 19 year olds（Sam Altman 博客，2013 年 6 月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Advice for ambitious 19 year olds",
+          "url": "https://blog.samaltman.com/advice-for-ambitious-19-year-olds",
+          "site": "blog.samaltman.com",
+          "evidence": "https://blog.samaltman.com/advice-for-ambitious-19-year-olds",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Sam Altman"], "evidence": "https://blog.samaltman.com/advice-for-ambitious-19-year-olds", "note": null}
+    },
+    {
+      "article_id": "vol0041-c09",
+      "status": "found",
+      "note": "英文原题 Super successful companies（Sam Altman 博客，2014 年 1 月 15 日；书中标注年份 2016 有误）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Super successful companies",
+          "url": "https://blog.samaltman.com/super-successful-companies",
+          "site": "blog.samaltman.com",
+          "evidence": "https://blog.samaltman.com/super-successful-companies",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Sam Altman"], "evidence": "https://blog.samaltman.com/super-successful-companies", "note": null}
+    },
+    {
+      "article_id": "vol0100-c02",
+      "status": "found",
+      "note": "英文原题 In the Laboratory with Agassiz（又名 Look at Your Fish!），1874 年 4 月 4 日以 \"A Former Pupil\" 名义匿名刊于 Every Saturday",
+      "sources": [
+        {
+          "type": "article",
+          "title": "In the Laboratory With Agassiz",
+          "url": "https://philosophy.lander.edu/intro/introbook2.1/x426.html",
+          "site": "philosophy.lander.edu",
+          "evidence": "https://philosophy.lander.edu/intro/introbook2.1/x426.html",
+          "confidence": "high",
+          "note": "全文转载页；开头“十五年前我走进阿加西教授的实验室”与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "In the laboratory with Agassiz（Every Saturday, 1874-04-04；HathiTrust 数字化本）",
+          "url": "https://dp.la/item/8b3326aaf5c8e362cbabe03140aaa514",
+          "site": "dp.la",
+          "evidence": "https://as.amphilsoc.org/repositories/2/digital_objects/101830",
+          "confidence": "medium",
+          "note": "原始刊载信息：Every Saturday 1874 年 4 月 4 日"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Samuel H. Scudder"], "evidence": "https://www.thoughtco.com/look-at-your-fish-by-scudder-1690049", "note": "原刊匿名署 A Former Pupil，后公认作者为 Samuel Hubbard Scudder"}
+    },
+    {
+      "article_id": "vol0018-c06",
+      "status": "found",
+      "note": "出自卡哈尔 1897 年著作《Reglas y consejos sobre investigación científica》（英译 Advice for a Young Investigator）第五章 Diseases of the Will",
+      "sources": [
+        {
+          "type": "book",
+          "title": "Chapter V. Diseases of the will — Reglas y consejos sobre investigación científica",
+          "url": "https://www.santiagoramonycajal.org/en/obras/reglas-y-consejos/capitulo-v/",
+          "site": "santiagoramonycajal.org",
+          "evidence": "https://www.santiagoramonycajal.org/en/obras/reglas-y-consejos/capitulo-v/",
+          "confidence": "high",
+          "note": "章节英译全文，分类（空想家、嗜书者、仪器崇拜者、自大狂、格格不入者、理论家）与摘录一致"
+        },
+        {
+          "type": "book",
+          "title": "Advice for a Young Investigator（Neely Swanson & Larry W. Swanson 英译，MIT Press，1999/2004）",
+          "url": "https://mitpress.mit.edu/9780262681506/advice-for-a-young-investigator/",
+          "site": "mitpress.mit.edu",
+          "evidence": "https://mitpress.mit.edu/9780262681506/advice-for-a-young-investigator/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Santiago Ramón y Cajal"], "evidence": "https://www.santiagoramonycajal.org/en/obras/reglas-y-consejos/capitulo-v/", "note": null}
+    },
+    {
+      "article_id": "vol0076-c05",
+      "status": "found",
+      "note": "英文原题 Do You Take Yourself Seriously?（Medium，2016 年 6 月 6 日；同年 8 月转载于 HuffPost）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Do You Take Yourself Seriously?",
+          "url": "https://medium.com/more-or-less/do-you-take-yourself-seriously-704418a5f614",
+          "site": "medium.com",
+          "evidence": "https://medium.com/more-or-less/do-you-take-yourself-seriously-704418a5f614",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "article",
+          "title": "Do You Take Yourself Seriously?（HuffPost 转载）",
+          "url": "https://www.huffpost.com/entry/do-you-take-yourself-seriously_b_575ef025e4b079c7cee605d3",
+          "site": "huffpost.com",
+          "evidence": "https://www.huffpost.com/entry/do-you-take-yourself-seriously_b_575ef025e4b079c7cee605d3",
+          "confidence": "medium",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Sarah Cooper"], "evidence": "https://medium.com/more-or-less/do-you-take-yourself-seriously-704418a5f614", "note": null}
+    },
+    {
+      "article_id": "vol0066-c05",
+      "status": "found",
+      "note": "英文原题 Cartographic Compression（Ribbonfarm，2015 年 9 月 3 日）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Cartographic Compression",
+          "url": "https://ribbonfarm.com/2015/09/03/cartographic-compression/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://ribbonfarm.com/2015/09/03/cartographic-compression/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Sarah Perry"], "evidence": "https://ribbonfarm.com/2015/09/03/cartographic-compression/", "note": null}
+    },
+    {
+      "article_id": "vol0089-c05",
+      "status": "found",
+      "note": "英文原题 Tendrils of Mess in our Brains（Ribbonfarm，2017 年 1 月 5 日）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Tendrils of Mess in our Brains",
+          "url": "https://ribbonfarm.com/2017/01/05/tendrils-of-mess-in-our-brains/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://ribbonfarm.com/2017/01/05/tendrils-of-mess-in-our-brains/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Sarah Perry"], "evidence": "https://ribbonfarm.com/2017/01/05/tendrils-of-mess-in-our-brains/", "note": null}
+    },
+    {
+      "article_id": "vol0014-c03",
+      "status": "found",
+      "note": "英文原题 How to Increase Knowledge Productivity: Combine the Zettelkasten Method and Building a Second Brain（zettelkasten.de，2023 年 6 月 26 日）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to Increase Knowledge Productivity: Combine the Zettelkasten Method and Building a Second Brain",
+          "url": "https://zettelkasten.de/posts/building-a-second-brain-and-zettelkasten/",
+          "site": "zettelkasten.de",
+          "evidence": "https://zettelkasten.de/posts/building-a-second-brain-and-zettelkasten/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Sascha Fast"], "evidence": "https://zettelkasten.de/posts/introducing-sascha/", "note": "原文署名 by Sascha；作者在 zettelkasten.de 自我介绍中注明全名 Sascha Fast"}
+    },
+    {
+      "article_id": "vol0057-c06",
+      "status": "found",
+      "note": "英文原题 What does a batsman see?（The Cricket Monthly，2018 年 3 月 7 日）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "What does a batsman see?",
+          "url": "https://www.thecricketmonthly.com/story/1136242/what-does-a-batsman-see",
+          "site": "thecricketmonthly.com",
+          "evidence": "https://www.thecricketmonthly.com/story/1136242/what-does-a-batsman-see",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["SB Tang"], "evidence": "https://www.thecricketmonthly.com/story/1136242/what-does-a-batsman-see", "note": "原文署名 SB Tang"}
+    },
+    {
+      "article_id": "vol0086-c05",
+      "status": "found",
+      "note": "英文原题 Who Can Name the Bigger Number?（Scott Aaronson，1999）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Who Can Name the Bigger Number?",
+          "url": "https://scottaaronson.com/writings/bignumbers.html",
+          "site": "scottaaronson.com",
+          "evidence": "https://web.archive.org/web/20060409141108/http:/www.scottaaronson.com/writings/bignumbers.html",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Scott Aaronson"], "evidence": "https://web.archive.org/web/20060409141108/http:/www.scottaaronson.com/writings/bignumbers.html", "note": null}
+    },
+    {
+      "article_id": "vol0030-c07",
+      "status": "found",
+      "note": "出自 Scott Adams《How to Fail at Almost Everything and Still Win Big》（2013）第六章 Goals Versus Systems；摘录中温德姆小镇、卖车给姐姐换单程机票、飞机上遇到螺丝公司 CEO 等细节与该书一致。同一故事的精简版刊于 WSJ 文章 Scott Adams' Secret of Success: Failure（2013-10）",
+      "sources": [
+        {
+          "type": "book",
+          "title": "How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life（Portfolio/Penguin，2013），第六章 Goals Versus Systems",
+          "url": "https://books.google.com/books/about/How_to_Fail_at_Almost_Everything_and_Sti.html?id=sSwEAQAAQBAJ",
+          "site": "books.google.com",
+          "evidence": "https://growthabit.com/how-to-fail-at-almost-everything-and-still-win-big-book-summary-review-notes/",
+          "confidence": "medium",
+          "note": "章节目录见 evidence 页"
+        },
+        {
+          "type": "article",
+          "title": "Scott Adams' Secret of Success: Failure",
+          "url": "https://www.wsj.com/articles/SB10001424052702304626104579121813075903866",
+          "site": "wsj.com",
+          "evidence": "https://www.wsj.com/articles/SB10001424052702304626104579121813075903866",
+          "confidence": "medium",
+          "note": "WSJ 书摘版，包含飞机上遇到 CEO 与 goals are for losers 段落，但未含摘录开头的温德姆、卖车细节"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Scott Adams"], "evidence": "https://www.wsj.com/articles/SB10001424052702304626104579121813075903866", "note": null}
+    },
+    {
+      "article_id": "vol0024-c03",
+      "status": "found",
+      "note": "英文原题 Varieties Of Argumentative Experience（Slate Star Codex，2018 年 5 月 8 日）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Varieties Of Argumentative Experience",
+          "url": "https://slatestarcodex.com/2018/05/08/varieties-of-argumentative-experience/",
+          "site": "slatestarcodex.com",
+          "evidence": "https://slatestarcodex.com/2018/05/08/varieties-of-argumentative-experience/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Scott Alexander"], "evidence": "https://slatestarcodex.com/2018/05/08/varieties-of-argumentative-experience/", "note": null}
+    },
+    {
+      "article_id": "vol0047-c04",
+      "status": "found",
+      "note": "英文原题 Are wireheads happy?（LessWrong，2010 年 1 月 1 日，原以 Yvain 名义发表）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Are wireheads happy?",
+          "url": "https://www.lesswrong.com/posts/HmfxSWnqnK265GEFM/are-wireheads-happy",
+          "site": "lesswrong.com",
+          "evidence": "https://www.lesswrong.com/posts/HmfxSWnqnK265GEFM/are-wireheads-happy",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Scott Alexander"], "evidence": "https://www.lesswrong.com/posts/HmfxSWnqnK265GEFM/are-wireheads-happy", "note": null}
+    },
+    {
+      "article_id": "vol0048-c07",
+      "status": "found",
+      "note": "英文原题 Should You Reverse Any Advice You Hear?（Slate Star Codex，2014 年 3 月 24 日）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Should You Reverse Any Advice You Hear?",
+          "url": "https://slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear/",
+          "site": "slatestarcodex.com",
+          "evidence": "https://slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Scott Alexander"], "evidence": "https://slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear/", "note": null}
+    },
+    {
+      "article_id": "vol0071-c07",
+      "status": "found",
+      "note": "英文原题 …And I Show You How Deep The Rabbit Hole Goes（Slate Star Codex，2015 年 6 月 2 日），八种颜色药丸的短篇小说",
+      "sources": [
+        {
+          "type": "article",
+          "title": "…And I Show You How Deep The Rabbit Hole Goes",
+          "url": "https://slatestarcodex.com/2015/06/02/and-i-show-you-how-deep-the-rabbit-hole-goes/",
+          "site": "slatestarcodex.com",
+          "evidence": "https://slatestarcodex.com/2015/06/02/and-i-show-you-how-deep-the-rabbit-hole-goes/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Scott Alexander"], "evidence": "https://slatestarcodex.com/2015/06/02/and-i-show-you-how-deep-the-rabbit-hole-goes/", "note": null}
+    },
+    {
+      "article_id": "vol0081-c04",
+      "status": "found",
+      "note": "英文原题 Meditations On Moloch（Slate Star Codex，2014 年 7 月 30 日）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Meditations On Moloch",
+          "url": "https://slatestarcodex.com/2014/07/30/meditations-on-moloch/",
+          "site": "slatestarcodex.com",
+          "evidence": "https://slatestarcodex.com/2014/07/30/meditations-on-moloch/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Scott Alexander"], "evidence": "https://slatestarcodex.com/2014/07/30/meditations-on-moloch/", "note": null}
+    },
+    {
+      "article_id": "vol0084-c04",
+      "status": "found",
+      "note": "英文原题 Book Review: Seeing Like A State（Slate Star Codex，2017 年 3 月 16 日）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Book Review: Seeing Like A State",
+          "url": "https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/",
+          "site": "slatestarcodex.com",
+          "evidence": "https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Scott Alexander"], "evidence": "https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/", "note": null}
+    },
+    {
+      "article_id": "vol0087-c06",
+      "status": "found",
+      "note": "英文原题 Epistemic Learned Helplessness；2013 年 1 月首发于作者 LiveJournal 博客，2019 年 6 月 3 日以 [REPOST] 重发于 Slate Star Codex",
+      "sources": [
+        {
+          "type": "article",
+          "title": "[REPOST] Epistemic Learned Helplessness",
+          "url": "https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/",
+          "site": "slatestarcodex.com",
+          "evidence": "https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Scott Alexander"], "evidence": "https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/", "note": null}
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "ryan-holiday",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Ryan Holiday 个人网站", "url": "https://ryanholiday.net/", "site": "ryanholiday.net", "evidence": "https://ryanholiday.net/", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Obstacle Is the Way（Portfolio，2014）", "url": "https://en.wikipedia.org/wiki/The_Obstacle_Is_the_Way", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/The_Obstacle_Is_the_Way", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "sam-altman",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Sam Altman 博客", "url": "https://blog.samaltman.com/", "site": "blog.samaltman.com", "evidence": "https://blog.samaltman.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "How to Start a Startup（Sam Altman 主持的斯坦福创业课）", "url": "https://startupclass.samaltman.com/lists/readings/", "site": "startupclass.samaltman.com", "evidence": "https://startupclass.samaltman.com/lists/readings/", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "sam-bowman",
+      "note": "英国经济学写作者，Works in Progress 编辑，《英国为何停滞不前？》(Foundations: Why Britain has stagnated) 合著者之一",
+      "sources": [
+        {"type": "website", "title": "Sam Bowman 个人主页", "url": "https://about.sambowman.co/", "site": "about.sambowman.co", "evidence": "https://about.sambowman.co/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Consumer Surplus（Sam Bowman 的 Substack Newsletter）", "url": "https://www.sambowman.co/", "site": "sambowman.co", "evidence": "https://www.sambowman.co/p/foundations-why-britain-has-stagnated", "confidence": "high", "note": null},
+        {"type": "website", "title": "Works in Progress 作者页：Sam Bowman", "url": "https://worksinprogress.co/our-authors/sam-bowman/", "site": "worksinprogress.co", "evidence": "https://worksinprogress.co/our-authors/sam-bowman/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "samuel-h-scudder",
+      "note": "美国昆虫学家、古生物学家（1837–1911），曾师从路易·阿加西",
+      "sources": [
+        {"type": "website", "title": "Samuel Hubbard Scudder - Wikipedia", "url": "https://en.wikipedia.org/wiki/Samuel_Hubbard_Scudder", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Samuel_Hubbard_Scudder", "confidence": "high", "note": null},
+        {"type": "book", "title": "Butterflies of the Eastern United States and Canada（1888–1889，三卷本）", "url": null, "site": null, "evidence": "https://www.encyclopedia.com/people/science-and-technology/zoology-biographies/samuel-hubbard-scudder", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "samuel-hughes",
+      "note": "英国哲学研究者、住房与城市政策作者，Works in Progress 编辑，《英国为何停滞不前？》合著者之一",
+      "sources": [
+        {"type": "website", "title": "Works in Progress 作者页：Samuel Hughes", "url": "https://worksinprogress.co/our-authors/samuel-hughes/", "site": "worksinprogress.co", "evidence": "https://worksinprogress.co/our-authors/samuel-hughes/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Samuel Hughes - Centre for Policy Studies", "url": "https://cps.org.uk/our-team/samuel-hughes/", "site": "cps.org.uk", "evidence": "https://cps.org.uk/our-team/samuel-hughes/", "confidence": "high", "note": null},
+        {"type": "article", "title": "Foundations: Why Britain has stagnated（与 Ben Southwood、Sam Bowman 合著，2024）", "url": "https://ukfoundations.co/", "site": "ukfoundations.co", "evidence": "https://policycommons.net/artifacts/16507207/foundations/17392044/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "santiago-ramon-y-cajal",
+      "note": "西班牙神经科学家，1906 年诺贝尔生理学或医学奖得主",
+      "sources": [
+        {"type": "website", "title": "Santiago Ramón y Cajal - Wikipedia", "url": "https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal", "confidence": "high", "note": null},
+        {"type": "book", "title": "Advice for a Young Investigator（西文原著 Reglas y consejos sobre investigación científica，1897；MIT Press 英译本）", "url": "https://mitpress.mit.edu/9780262681506/advice-for-a-young-investigator/", "site": "mitpress.mit.edu", "evidence": "https://mitpress.mit.edu/9780262681506/advice-for-a-young-investigator/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Santiago Ramón y Cajal 著作在线文库", "url": "https://www.santiagoramonycajal.org/en/obras/reglas-y-consejos/capitulo-v/", "site": "santiagoramonycajal.org", "evidence": "https://www.santiagoramonycajal.org/en/obras/reglas-y-consejos/capitulo-v/", "confidence": "medium", "note": "仅核对了该站的章节页面"}
+      ]
+    },
+    {
+      "author_id": "sarah-cooper",
+      "note": "美国喜剧演员、作家，前 Google 设计师",
+      "sources": [
+        {"type": "website", "title": "Sarah Cooper - Wikipedia（官网 sarahcpr.com）", "url": "https://en.wikipedia.org/wiki/Sarah_Cooper", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Sarah_Cooper", "confidence": "high", "note": null},
+        {"type": "book", "title": "100 Tricks to Appear Smart in Meetings（Andrews McMeel，2016）", "url": "https://www.simonandschuster.com/authors/Sarah-Cooper/2094155807", "site": "simonandschuster.com", "evidence": "https://www.simonandschuster.com/authors/Sarah-Cooper/2094155807", "confidence": "medium", "note": "链接为出版方作者页"}
+      ]
+    },
+    {
+      "author_id": "sarah-perry",
+      "note": "Ribbonfarm 特约编辑，关注仪式与社会行为",
+      "sources": [
+        {"type": "website", "title": "Sarah Perry — Ribbonfarm 作者页", "url": "https://ribbonfarm.com/author/sarahperry/", "site": "ribbonfarm.com", "evidence": "https://ribbonfarm.com/author/sarahperry/", "confidence": "high", "note": "作者页注明她另有博客 The View from Hell"},
+        {"type": "book", "title": "Every Cradle Is a Grave: Rethinking the Ethics of Birth and Suicide（Nine-Banded Books，2013）", "url": "https://www.ninebandedbooks.com/shop/book/every-cradle-is-a-grave-rethinking-the-ethics-of-birth-and-suicide/", "site": "ninebandedbooks.com", "evidence": "https://www.ninebandedbooks.com/shop/book/every-cradle-is-a-grave-rethinking-the-ethics-of-birth-and-suicide/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "sascha",
+      "note": "全名 Sascha Fast，zettelkasten.de 联合作者（与 Christian Tietze），写作者与教练",
+      "sources": [
+        {"type": "website", "title": "About Sascha • Zettelkasten Method", "url": "https://zettelkasten.de/authors/sascha/", "site": "zettelkasten.de", "evidence": "https://zettelkasten.de/authors/sascha/", "confidence": "high", "note": null},
+        {"type": "article", "title": "Call Me Ishmael – Introducing Sascha（自述全名 Sascha Fast）", "url": "https://zettelkasten.de/posts/introducing-sascha/", "site": "zettelkasten.de", "evidence": "https://zettelkasten.de/posts/introducing-sascha/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "sb-tang",
+      "note": "澳大利亚板球作者，为 The Cricket Monthly 撰写特稿",
+      "sources": [
+        {"type": "website", "title": "A Straight Bat（SB Tang 的板球博客）", "url": "https://astraightbat.wordpress.com/", "site": "astraightbat.wordpress.com", "evidence": "https://astraightbat.wordpress.com/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "scott-aaronson",
+      "note": "理论计算机科学家，量子计算研究者",
+      "sources": [
+        {"type": "website", "title": "Shtetl-Optimized（Scott Aaronson 博客）", "url": "https://scottaaronson.blog/", "site": "scottaaronson.blog", "evidence": "https://scottaaronson.blog/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Quantum Computing Since Democritus（Cambridge University Press，2013）", "url": "https://physicstoday.aip.org/reviews/quantum-computing-since-democritus", "site": "physicstoday.aip.org", "evidence": "https://physicstoday.aip.org/reviews/quantum-computing-since-democritus", "confidence": "medium", "note": "链接为 Physics Today 书评页"}
+      ]
+    },
+    {
+      "author_id": "scott-adams",
+      "note": "《呆伯特》(Dilbert) 漫画作者",
+      "sources": [
+        {"type": "website", "title": "Scott Adams - Wikipedia", "url": "https://en.wikipedia.org/wiki/Scott_Adams", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Scott_Adams", "confidence": "high", "note": null},
+        {"type": "book", "title": "How to Fail at Almost Everything and Still Win Big（Portfolio，2013）", "url": "https://en.wikipedia.org/wiki/How_to_Fail_at_Almost_Everything_and_Still_Win_Big", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/How_to_Fail_at_Almost_Everything_and_Still_Win_Big", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "scott-alexander",
+      "note": "精神科医生、博主，Slate Star Codex / Astral Codex Ten 作者",
+      "sources": [
+        {"type": "website", "title": "Astral Codex Ten（Scott Alexander 现博客/Newsletter）", "url": "https://www.astralcodexten.com/", "site": "astralcodexten.com", "evidence": "https://www.astralcodexten.com/about", "confidence": "high", "note": null},
+        {"type": "website", "title": "Slate Star Codex（旧博客存档）", "url": "https://slatestarcodex.com/", "site": "slatestarcodex.com", "evidence": "https://slatestarcodex.com/", "confidence": "high", "note": null}
+      ]
+    }
+  ]
+}

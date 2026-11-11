@@ -1,0 +1,336 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0013-c06",
+      "status": "found",
+      "note": "英文原题 Depression, the secret we share（TEDxMet 演讲，2013 年 10 月）",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "Depression, the secret we share",
+          "url": "https://www.ted.com/talks/andrew_solomon_depression_the_secret_we_share",
+          "site": "ted.com",
+          "evidence": "https://www.ted.com/talks/andrew_solomon_depression_the_secret_we_share",
+          "confidence": "high",
+          "note": "TED 页面：Andrew Solomon, October 2013；简介引语「The opposite of depression is not happiness, but vitality」与译文一致"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Andrew Solomon"], "evidence": "https://www.ted.com/talks/andrew_solomon_depression_the_secret_we_share", "note": null}
+    },
+    {
+      "article_id": "vol0021-c06",
+      "status": "found",
+      "note": "英文原题 Why books don’t work（2019）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Why books don’t work",
+          "url": "https://andymatuschak.org/books/",
+          "site": "andymatuschak.org",
+          "evidence": "https://andymatuschak.org/books/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Andy Matuschak"], "evidence": "https://andymatuschak.org/books/", "note": null}
+    },
+    {
+      "article_id": "vol0066-c03",
+      "status": "found",
+      "note": "英文原题 The Egg，2009-08-15 首发于作者网站 Galactanet",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Egg",
+          "url": "https://www.galactanet.com/oneoff/theegg.html",
+          "site": "galactanet.com",
+          "evidence": "https://www.galactanet.com/oneoff/theegg.html",
+          "confidence": "high",
+          "note": "搜索结果展示了页面全文，署名 By: Andy Weir，开头与译文一致"
+        },
+        {
+          "type": "website",
+          "title": "The Egg (Weir short story) - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Egg_(Weir_short_story)",
+          "site": "en.wikipedia.org",
+          "evidence": "https://en.wikipedia.org/wiki/The_Egg_(Weir_short_story)",
+          "confidence": "high",
+          "note": "说明首发日期与 30 多种语言译本"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Andy Weir"], "evidence": "https://www.galactanet.com/oneoff/theegg.html", "note": null}
+    },
+    {
+      "article_id": "vol0028-c05",
+      "status": "found",
+      "note": "英文原题 Design Better Habits, Routines, and Rituals with the Intentionality Curve（Ness Labs，2023-10）；中文「有意识曲线」即 Intentionality Curve",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Design Better Habits, Routines, and Rituals with the Intentionality Curve",
+          "url": "https://nesslabs.com/habits-routines-rituals-intentionality-curve",
+          "site": "nesslabs.com",
+          "evidence": "https://nesslabs.com/habits-routines-rituals-intentionality-curve",
+          "confidence": "high",
+          "note": "搜索结果展示正文与署名 Anne-Laure Le Cunff，开头（铺床、咖啡、羊角面包、40%）与译文一致"
+        },
+        {
+          "type": "article",
+          "title": "Ness Labs: The Intentionality Curve",
+          "url": "https://newsletter.nesslabs.com/posts/ness-labs-the-intentionality-curve",
+          "site": "newsletter.nesslabs.com",
+          "evidence": "https://newsletter.nesslabs.com/posts/ness-labs-the-intentionality-curve",
+          "confidence": "medium",
+          "note": "同文的 Newsletter 版本"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Anne-Laure Le Cunff"], "evidence": "https://nesslabs.com/habits-routines-rituals-intentionality-curve", "note": null}
+    },
+    {
+      "article_id": "vol0042-c03",
+      "status": "found",
+      "note": "英文原题 Why Women Still Can’t Have It All（The Atlantic，2012 年 7/8 月刊）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Why Women Still Can’t Have It All",
+          "url": "https://www.theatlantic.com/magazine/archive/2012/07/why-women-still-cant-have-it-all/309020/",
+          "site": "theatlantic.com",
+          "evidence": "https://www.theatlantic.com/magazine/archive/2012/07/why-women-still-cant-have-it-all/309020/",
+          "confidence": "high",
+          "note": "搜索结果显示 By Anne-Marie Slaughter, July/August 2012 Issue；直接打开页面超时"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Anne-Marie Slaughter"], "evidence": "https://www.theatlantic.com/magazine/archive/2012/07/why-women-still-cant-have-it-all/309020/", "note": null}
+    },
+    {
+      "article_id": "vol0064-c03",
+      "status": "found",
+      "note": "英文原题 Use This Equation to Determine, Diagnose, and Repair Trust（First Round Review，2018-03-15）",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "Use This Equation to Determine, Diagnose, and Repair Trust",
+          "url": "https://review.firstround.com/use-this-equation-to-determine-diagnose-and-repair-trust/",
+          "site": "review.firstround.com",
+          "evidence": "https://review.firstround.com/use-this-equation-to-determine-diagnose-and-repair-trust/",
+          "confidence": "high",
+          "note": "正文开头（下属不和、eBay/SurveyMonkey/TaskRabbit/Zendesk/Earnin 履历、高管教练、The Trust Equation 一书）与译文逐句对应"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Anne Raimondi"], "evidence": "https://review.firstround.com/use-this-equation-to-determine-diagnose-and-repair-trust/", "note": "原文是 First Round Review 编辑部以第三人称撰写的专访稿，观点与框架出自 Anne Raimondi，无个人署名作者；按受访者归属可接受"}
+    },
+    {
+      "article_id": "vol0063-c07",
+      "status": "found",
+      "note": "译文对应网页 SCHOPENHAUER'S 38 STRATAGEMS, OR 38 WAYS TO WIN AN ARGUMENT（mnei.nl），该页摘自 John Boswell 与 Dan Starer 的 Numerical Lists You Never Knew or Once Knew and Probably Forget；底本是叔本华《The Art of Controversy》1896 年 T. Bailey Saunders 英译本。原书标注年份 1986 与叔本华无关，疑为摘录来源书的年份或笔误",
+      "sources": [
+        {
+          "type": "article",
+          "title": "SCHOPENHAUER'S 38 STRATAGEMS, OR 38 WAYS TO WIN AN ARGUMENT",
+          "url": "https://www.mnei.nl/schopenhauer/38-stratagems.htm",
+          "site": "mnei.nl",
+          "evidence": "https://www.mnei.nl/schopenhauer/38-stratagems.htm",
+          "confidence": "high",
+          "note": "开头介绍（1788-1860、1896 年首次英译）与 38 条措辞与译文逐条对应"
+        },
+        {
+          "type": "book",
+          "title": "The Art of Controversy and Other Posthumous Papers（T. Bailey Saunders 译，Swan Sonnenschein，1896）",
+          "url": "https://en.wikisource.org/wiki/The_Art_of_Controversy",
+          "site": "en.wikisource.org",
+          "evidence": "https://en.wikisource.org/wiki/The_Art_of_Controversy_and_Other_Posthumous_Papers",
+          "confidence": "high",
+          "note": "德文原题 Eristische Dialektik: Die Kunst, Recht zu behalten"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Arthur Schopenhauer"], "evidence": "https://en.wikisource.org/wiki/The_Art_of_Controversy", "note": "38 条策略出自叔本华；译文所据的英文摘编页由第三方整理"}
+    },
+    {
+      "article_id": "vol0036-c06",
+      "status": "found",
+      "note": "英文原题 Slow Ideas（The New Yorker，2013-07-29 刊，网络版 2013-07-22）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Slow Ideas",
+          "url": "https://www.newyorker.com/magazine/2013/07/29/slow-ideas",
+          "site": "newyorker.com",
+          "evidence": "https://www.newyorker.com/magazine/2013/07/29/slow-ideas",
+          "confidence": "high",
+          "note": "搜索结果显示 By Atul Gawande；开头（麻醉与消毒、Morton、Bigelow、1846-10-16）与译文一致"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Atul Gawande"], "evidence": "https://www.newyorker.com/magazine/2013/07/29/slow-ideas", "note": null}
+    },
+    {
+      "article_id": "vol0038-c05",
+      "status": "found",
+      "note": "英文原题 Personal Best（The New Yorker，2011-10-03 刊，网络标题 The Coach in the Operating Room）。原书标注年份 2021 有误，应为 2011",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Personal Best",
+          "url": "https://www.newyorker.com/magazine/2011/10/03/personal-best",
+          "site": "newyorker.com",
+          "evidence": "https://www.newyorker.com/magazine/2011/10/03/personal-best",
+          "confidence": "high",
+          "note": "搜索结果显示 By Atul Gawande, September 26, 2011；插图 Barry Blitt、开头「当了八年外科医生」与译文一致"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Atul Gawande"], "evidence": "https://www.newyorker.com/magazine/2011/10/03/personal-best", "note": null}
+    },
+    {
+      "article_id": "vol0075-c05",
+      "status": "found",
+      "note": "英文原题 Becoming a magician（Autotranslucence 博客，2018-03-30）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Becoming a magician",
+          "url": "https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/",
+          "site": "autotranslucence.wordpress.com",
+          "evidence": "https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/",
+          "confidence": "high",
+          "note": "搜索结果展示正文：十二个孩子、八边形房子等开头与译文一致"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Autotranslucence"], "evidence": "https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/", "note": "Autotranslucence 是博客笔名，博客自有页面未披露真实姓名（见 https://quotewise.io/q/b9hwz5/）"}
+    },
+    {
+      "article_id": "vol0084-c07",
+      "status": "found",
+      "note": "英文原题 the attention cottage（The Homebound Symphony 博客，2024-05-22）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "the attention cottage",
+          "url": "https://blog.ayjay.org/the-attention-cottage/",
+          "site": "blog.ayjay.org",
+          "evidence": "https://blog.ayjay.org/the-attention-cottage/",
+          "confidence": "high",
+          "note": "搜索结果展示正文：context collapse、attentional commons、Ted Gioia、memory palace、E. B. White 船屋等与译文逐段对应"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Alan Jacobs"], "evidence": "https://blog.ayjay.org/about/", "note": "ayjay 是 Alan Jacobs（贝勒大学人文学教授）的网名与博客域名；归属对象正确，建议作者显示名用 Alan Jacobs"}
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "andrew-huberman",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Huberman Lab 官网", "url": "https://www.hubermanlab.com/", "site": "hubermanlab.com", "evidence": "https://www.hubermanlab.com/", "confidence": "high", "note": null},
+        {"type": "podcast", "title": "Huberman Lab Podcast", "url": "https://www.hubermanlab.com/podcast", "site": "hubermanlab.com", "evidence": "https://www.hubermanlab.com/podcast", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "andrew-solomon",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Andrew Solomon 个人网站", "url": "https://andrewsolomon.com/", "site": "andrewsolomon.com", "evidence": "https://andrewsolomon.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Noonday Demon: An Atlas of Depression（Scribner，2001；中文版原书推荐语称《走出抑郁》）", "url": "https://andrewsolomon.com/books/the-noonday-demon/", "site": "andrewsolomon.com", "evidence": "https://andrewsolomon.com/books/the-noonday-demon/", "confidence": "high", "note": "2001 年美国国家图书奖非虚构类、2002 年普利策奖决选"}
+      ]
+    },
+    {
+      "author_id": "andy-masley",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Andy Masley — Writing", "url": "https://andymasley.com/writing/", "site": "andymasley.com", "evidence": "https://andymasley.com/writing/", "confidence": "high", "note": "个人网站文章目录"},
+        {"type": "article", "title": "Strategies for learning（Substack Newsletter，2024-11-21）", "url": "https://blog.andymasley.com/p/strategies-for-learning", "site": "blog.andymasley.com", "evidence": "https://blog.andymasley.com/p/strategies-for-learning", "confidence": "high", "note": "即「学习的策略」原文，也代表其 Substack Newsletter"}
+      ]
+    },
+    {
+      "author_id": "andy-matuschak",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Andy Matuschak 个人网站", "url": "https://andymatuschak.org/", "site": "andymatuschak.org", "evidence": "https://andymatuschak.org/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Andy’s working notes（公开工作笔记）", "url": "https://notes.andymatuschak.org/", "site": "notes.andymatuschak.org", "evidence": "https://notes.andymatuschak.org/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "andy-weir",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Andy Weir 作者官网", "url": "https://andyweirauthor.com/", "site": "andyweirauthor.com", "evidence": "https://andyweirauthor.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Galactanet 作品页（The Egg 等短篇）", "url": "https://galactanet.com/writing.html", "site": "galactanet.com", "evidence": "https://galactanet.com/writing.html", "confidence": "high", "note": "作者早期个人网站"},
+        {"type": "book", "title": "The Martian（《火星救援》，Crown，2014）", "url": null, "site": null, "evidence": "https://en.wikipedia.org/wiki/Andy_Weir", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "anne-laure-le-cunff",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Ness Labs（作者创办的网站与 Newsletter）", "url": "https://nesslabs.com/", "site": "nesslabs.com", "evidence": "https://nesslabs.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Tiny Experiments: How to Live Freely in a Goal-Obsessed World（Penguin，2025）", "url": "https://www.penguinrandomhouse.com/books/737291/tiny-experiments-by-anne-laure-le-cunff/", "site": "penguinrandomhouse.com", "evidence": "https://www.penguinrandomhouse.com/books/737291/tiny-experiments-by-anne-laure-le-cunff/", "confidence": "high", "note": "中文译名未核实"}
+      ]
+    },
+    {
+      "author_id": "anne-marie-slaughter",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Anne-Marie Slaughter 个人网站（普林斯顿）", "url": "https://slaughter.scholar.princeton.edu/", "site": "slaughter.scholar.princeton.edu", "evidence": "https://slaughter.scholar.princeton.edu/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Unfinished Business: Women, Men, Work, Family（Random House，2015）", "url": "https://www.newamerica.org/insights/unfinished-business/", "site": "newamerica.org", "evidence": "https://www.newamerica.org/insights/unfinished-business/", "confidence": "high", "note": "由《为什么女性仍然无法拥有一切》扩展成书；中文译名未核实"}
+      ]
+    },
+    {
+      "author_id": "anne-raimondi",
+      "note": "无个人网站；以下为介绍其履历与观点的页面",
+      "sources": [
+        {"type": "social", "title": "Anne Raimondi - LinkedIn", "url": "https://linkedin.com/in/anneraimondi", "site": "linkedin.com", "evidence": "https://linkedin.com/in/anneraimondi", "confidence": "medium", "note": "前 Asana COO、斯坦福 GSB 讲师"},
+        {"type": "podcast", "title": "From exec roles to board seats — Anne Raimondi’s leadership lessons for the startup C-Suite（First Round Review 播客）", "url": "https://review.firstround.com/podcast/from-exec-roles-to-board-seats-anne-raimondis-leadership-lessons-for-the-startup-c-suite/", "site": "review.firstround.com", "evidence": "https://review.firstround.com/podcast/from-exec-roles-to-board-seats-anne-raimondis-leadership-lessons-for-the-startup-c-suite/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "arthur-schopenhauer",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Arthur Schopenhauer - Wikipedia", "url": "https://en.wikipedia.org/wiki/Arthur_Schopenhauer", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Arthur_Schopenhauer", "confidence": "high", "note": null},
+        {"type": "book", "title": "The World as Will and Representation（Die Welt als Wille und Vorstellung，《作为意志和表象的世界》，1818/1819）", "url": "https://en.wikipedia.org/wiki/The_World_as_Will_and_Representation", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/The_World_as_Will_and_Representation", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Art of Being Right / The Art of Controversy（Eristische Dialektik，38 种辩论策略）", "url": "https://en.wikipedia.org/wiki/The_Art_of_Being_Right", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/The_Art_of_Being_Right", "confidence": "high", "note": "中文译名未核实"}
+      ]
+    },
+    {
+      "author_id": "atul-gawande",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Atul Gawande 个人网站", "url": "https://atulgawande.com/", "site": "atulgawande.com", "evidence": "https://atulgawande.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Being Mortal（《最好的告别》，2014）", "url": "https://atulgawande.com/book/being-mortal/", "site": "atulgawande.com", "evidence": "https://atulgawande.com/book/being-mortal/", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Checklist Manifesto（《清单革命》，2009）", "url": null, "site": null, "evidence": "https://atulgawande.com/books/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "autotranslucence",
+      "note": "笔名博客作者，真实姓名未公开",
+      "sources": [
+        {"type": "website", "title": "Autotranslucence 博客", "url": "https://autotranslucence.wordpress.com/", "site": "autotranslucence.wordpress.com", "evidence": "https://autotranslucence.wordpress.com/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "ayjay",
+      "note": "ayjay 即 Alan Jacobs（贝勒大学荣誉学院人文学教授）",
+      "sources": [
+        {"type": "website", "title": "The Homebound Symphony（Alan Jacobs 博客）— about", "url": "https://blog.ayjay.org/about/", "site": "blog.ayjay.org", "evidence": "https://blog.ayjay.org/about/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Alan Jacobs, Ph.D. — Baylor Honors College", "url": "https://honors.baylor.edu/person/alan-jacobs-phd", "site": "honors.baylor.edu", "evidence": "https://honors.baylor.edu/person/alan-jacobs-phd", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Pleasures of Reading in an Age of Distraction", "url": null, "site": null, "evidence": "https://blog.ayjay.org/reverting-to-type/", "confidence": "medium", "note": "博客中作者自述此书；出版信息未核对"}
+      ]
+    },
+    {
+      "author_id": "barry-schwartz",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Barry Schwartz — Swarthmore College", "url": "https://www.swarthmore.edu/profile/barry-schwartz", "site": "swarthmore.edu", "evidence": "https://www.swarthmore.edu/profile/barry-schwartz", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Paradox of Choice（《选择的悖论》，2004）", "url": null, "site": null, "evidence": "https://www.ted.com/speakers/barry_schwartz", "confidence": "medium", "note": null},
+        {"type": "speech", "title": "The paradox of choice（TEDGlobal 2005）", "url": "https://www.ted.com/talks/barry_schwartz_the_paradox_of_choice", "site": "ted.com", "evidence": "https://www.ted.com/talks/barry_schwartz_the_paradox_of_choice", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "ben",
+      "note": "「Ben」合并了两位不同作者：「寻找异常值」是 Ben Kuhn 的 Searching for outliers（benkuhn.net，2022-03）；「回溯机器」是 LessWrong 用户 Ben（ben-lang）的 The Redaction Machine（2022-09-20）。建议拆分为两个作者条目",
+      "sources": [
+        {"type": "website", "title": "benkuhn.net（Ben Kuhn 个人博客）", "url": "https://www.benkuhn.net/", "site": "benkuhn.net", "evidence": "https://www.benkuhn.net/outliers/", "confidence": "high", "note": "对应「寻找异常值」"},
+        {"type": "website", "title": "Ben — LessWrong 用户主页", "url": "https://www.lesswrong.com/users/ben-lang", "site": "lesswrong.com", "evidence": "https://www.lesswrong.com/posts/CKgPFHoWFkviYz7CB/the-redaction-machine", "confidence": "high", "note": "对应「回溯机器」（The Redaction Machine）；真实全名未核实"}
+      ]
+    }
+  ]
+}

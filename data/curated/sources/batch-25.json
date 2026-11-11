@@ -1,0 +1,588 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0001-c06",
+      "status": "found",
+      "note": "节选自 Paul Graham《How to Make Wealth》（2004年5月）中「Measurement and Leverage」一节，该文收入《Hackers & Painters》第6章；原书标注的 2011 年对应中译本《黑客与画家》出版年份",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to Make Wealth",
+          "url": "http://paulgraham.com/wealth.html",
+          "site": "paulgraham.com",
+          "evidence": "http://paulgraham.com/wealth.html",
+          "confidence": "high",
+          "note": "页面含「Measurement and Leverage」小节，与摘录「要致富，你需要两样东西：可测量性和可放大性」对应"
+        },
+        {
+          "type": "book",
+          "title": "Hackers & Painters: Big Ideas from the Computer Age（《黑客与画家》，O'Reilly，2004），第6章 How to Make Wealth",
+          "url": "https://www.oreilly.com/library/view/hackers-painters/0596006624/",
+          "site": "oreilly.com",
+          "evidence": "https://www.oreilly.com/library/view/hackers-painters/0596006624/",
+          "confidence": "medium",
+          "note": "搜索结果中目录显示「6. How to Make Wealth」"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0003-c06",
+      "status": "found",
+      "note": "英文原题 How to Think for Yourself（2020年11月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to Think for Yourself",
+          "url": "http://paulgraham.com/think.html",
+          "site": "paulgraham.com",
+          "evidence": "http://paulgraham.com/think.html",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0006-c04",
+      "status": "found",
+      "note": "英文原题 Beyond Smart（2021年10月）；原书标注 Tim Urban（2014）有误",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Beyond Smart",
+          "url": "http://paulgraham.com/smart.html",
+          "site": "paulgraham.com",
+          "evidence": "http://paulgraham.com/smart.html",
+          "confidence": "high",
+          "note": "正文开头「If you asked people what was special about Einstein…」与摘录逐句对应"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Paul Graham"],
+        "evidence": "http://paulgraham.com/smart.html",
+        "note": "现有归属 Paul Graham 正确；原书标注的 Tim Urban 及 2014 年均有误，原文发表于 2021年10月"
+      }
+    },
+    {
+      "article_id": "vol0007-c04",
+      "status": "found",
+      "note": "英文原题 How to Write Usefully（2020年2月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to Write Usefully",
+          "url": "http://paulgraham.com/useful.html",
+          "site": "paulgraham.com",
+          "evidence": "http://paulgraham.com/useful.html",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0010-c06",
+      "status": "found",
+      "note": "英文原题 How to Lose Time and Money（2010年7月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to Lose Time and Money",
+          "url": "http://paulgraham.com/selfindulgence.html",
+          "site": "paulgraham.com",
+          "evidence": "http://paulgraham.com/selfindulgence.html",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0016-c06",
+      "status": "found",
+      "note": "英文原题 Maker's Schedule, Manager's Schedule（2009年7月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Maker's Schedule, Manager's Schedule",
+          "url": "http://paulgraham.com/makersschedule.html",
+          "site": "paulgraham.com",
+          "evidence": "http://paulgraham.com/makersschedule.html",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0032-c04",
+      "status": "found",
+      "note": "英文原题 The Lesson to Unlearn（2019年12月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Lesson to Unlearn",
+          "url": "http://paulgraham.com/lesson.html",
+          "site": "paulgraham.com",
+          "evidence": "http://paulgraham.com/lesson.html",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0034-c04",
+      "status": "found",
+      "note": "英文原题 How to Get Startup Ideas（2012年11月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to Get Startup Ideas",
+          "url": "http://paulgraham.com/startupideas.html",
+          "site": "paulgraham.com",
+          "evidence": "http://paulgraham.com/startupideas.html",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0036-c04",
+      "status": "found",
+      "note": "英文原题 Startup = Growth（2012年9月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Startup = Growth",
+          "url": "http://paulgraham.com/growth.html",
+          "site": "paulgraham.com",
+          "evidence": "http://paulgraham.com/growth.html",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0039-c03",
+      "status": "found",
+      "note": "英文原题 Life is Short（2016年1月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Life is Short",
+          "url": "http://paulgraham.com/vb.html",
+          "site": "paulgraham.com",
+          "evidence": "http://paulgraham.com/vb.html",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0040-c03",
+      "status": "found",
+      "note": "英文原题 How to Do What You Love（2006年1月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to Do What You Love",
+          "url": "http://paulgraham.com/love.html",
+          "site": "paulgraham.com",
+          "evidence": "http://paulgraham.com/love.html",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0051-c03",
+      "status": "found",
+      "note": "英文原题 Taste for Makers（2002年2月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Taste for Makers",
+          "url": "http://paulgraham.com/taste.html",
+          "site": "paulgraham.com",
+          "evidence": "http://paulgraham.com/taste.html",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0063-c06",
+      "status": "found",
+      "note": "英文原题 Early Work（2020年10月）；推荐语中乔布斯演讲稿的内容为编者所加，不在原文中",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Early Work",
+          "url": "http://paulgraham.com/early.html",
+          "site": "paulgraham.com",
+          "evidence": "http://paulgraham.com/early.html",
+          "confidence": "high",
+          "note": "开篇即「the fear of making something lame」，与标题「克服对做出糟糕作品的恐惧」对应"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0068-c03",
+      "status": "found",
+      "note": "英文原题 Cities and Ambition（2008年5月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Cities and Ambition",
+          "url": "http://paulgraham.com/cities.html",
+          "site": "paulgraham.com",
+          "evidence": "http://paulgraham.com/cities.html",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0041-c04",
+      "status": "found",
+      "note": "Big Think 视频 What is life?（YouTube 标题 The 5 core principles of life | Nobel Prize-winner Paul Nurse）的文字稿译文",
+      "sources": [
+        {
+          "type": "video",
+          "title": "What is life? — Paul Nurse（Big Think，含文字稿）",
+          "url": "https://bigthink.com/series/the-big-think-interview/what-is-life-410130/",
+          "site": "bigthink.com",
+          "evidence": "https://bigthink.com/series/the-big-think-interview/what-is-life-410130/",
+          "confidence": "high",
+          "note": "文字稿「My name is Paul Nurse… I've just written a book- it's my first book」及酵母段落与摘录逐句对应"
+        },
+        {
+          "type": "video",
+          "title": "The 5 core principles of life | Nobel Prize-winner Paul Nurse",
+          "url": "https://www.youtube.com/watch?v=5EwVBC3VsRA",
+          "site": "youtube.com",
+          "evidence": "https://www.youtube.com/watch?v=5EwVBC3VsRA",
+          "confidence": "medium",
+          "note": "搜索结果中的视频转写与 Big Think 文字稿一致，未直接打开视频页"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0008-c07",
+      "status": "found",
+      "note": "英文原题 Managing Oneself，《哈佛商业评论》1999年3-4月首发，2005年1月重刊，2008年出版 HBR Classics 单行本（对应原书标注 2008 年）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Managing Oneself",
+          "url": "https://hbr.org/2005/01/managing-oneself",
+          "site": "hbr.org",
+          "evidence": "https://hbr.org/2005/01/managing-oneself",
+          "confidence": "medium",
+          "note": "搜索结果显示标题与作者 Peter F. Drucker，未直接打开页面"
+        },
+        {
+          "type": "book",
+          "title": "Managing Oneself（Harvard Business Review Classics，2008）",
+          "url": "https://store.hbr.org/product/managing-oneself-harvard-business-review-classics/2312",
+          "site": "store.hbr.org",
+          "evidence": "https://store.hbr.org/product/managing-oneself-harvard-business-review-classics/2312",
+          "confidence": "medium",
+          "note": "出版日期 2008年1月7日"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0026-c07",
+      "status": "found",
+      "note": "英文原题 The Post-Capitalist Executive: An Interview with Peter F. Drucker，T. George Harris 采访，《哈佛商业评论》1993年5-6月",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "The Post-Capitalist Executive: An Interview with Peter F. Drucker",
+          "url": "https://hbr.org/1993/05/the-post-capitalist-executive-an-interview-with-peter-f-drucker",
+          "site": "hbr.org",
+          "evidence": "https://hbr.org/1993/05/the-post-capitalist-executive-an-interview-with-peter-f-drucker",
+          "confidence": "medium",
+          "note": "搜索结果显示 by T George Harris, From the Magazine (May–June 1993)；采访者为 T. George Harris，受访者为德鲁克"
+        },
+        {
+          "type": "paper",
+          "title": "The post-capitalist executive. Interview by T George Harris.（PubMed 记录）",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/10126150",
+          "site": "pubmed.ncbi.nlm.nih.gov",
+          "evidence": "https://pubmed.ncbi.nlm.nih.gov/10126150",
+          "confidence": "medium",
+          "note": "摘要提及 Post-Capitalist Society 与「information is replacing authority」"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0049-c03",
+      "status": "found",
+      "note": "Peter Kaufman 演讲 The Multidisciplinary Approach to Thinking，2018年3月29日于加州州立理工大学波莫纳分校经济学社",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "Peter Kaufman on The Multidisciplinary Approach to Thinking: Transcript",
+          "url": "https://latticeworkinvesting.com/2018/04/06/peter-kaufman-on-the-multidisciplinary-approach-to-thinking/",
+          "site": "latticeworkinvesting.com",
+          "evidence": "https://latticeworkinvesting.com/2018/04/06/peter-kaufman-on-the-multidisciplinary-approach-to-thinking/",
+          "confidence": "high",
+          "note": "文字稿含维特根斯坦「To understand is to know what to do」与「井底之蛙」日本谚语，与摘录对应"
+        },
+        {
+          "type": "speech",
+          "title": "The Multidisciplinary Approach to Thinking（Farnam Street 转载，经作者书面授权）",
+          "url": "https://fs.blog/great-talks/multidisciplinary-approach-thinking-peter-kaufman/",
+          "site": "fs.blog",
+          "evidence": "https://fs.blog/great-talks/multidisciplinary-approach-thinking-peter-kaufman/",
+          "confidence": "high",
+          "note": "推荐语中对考夫曼的介绍（Glenair CEO、《穷查理宝典》编者）与该页导语一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0087-c04",
+      "status": "found",
+      "note": "英文原题 How to solve any problem?，SuperMemo Guru 系列文章",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to solve any problem?",
+          "url": "https://supermemo.guru/wiki/How_to_solve_any_problem%3F",
+          "site": "supermemo.guru",
+          "evidence": "https://supermemo.guru/wiki/How_to_solve_any_problem%3F",
+          "confidence": "high",
+          "note": "页面注明「This article by Dr Piotr Wozniak」，Problem solving 一节与摘录逐句对应"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0092-c04",
+      "status": "found",
+      "note": "柏拉图《理想国》第七卷 514a 起的洞穴寓言；中文译文措辞（如「把人类的天赋教育和教育缺失的状态做个比较」、整个洞口朝着光亮敞开、注引《奥德赛》第11卷489行）与 Paul Shorey 英译本吻合",
+      "sources": [
+        {
+          "type": "book",
+          "title": "Plato, Republic, Book 7, section 514a（Paul Shorey 英译，Perseus Digital Library）",
+          "url": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0168%3Abook%3D7%3Asection%3D514a",
+          "site": "perseus.tufts.edu",
+          "evidence": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0168%3Abook%3D7%3Asection%3D514a",
+          "confidence": "high",
+          "note": "开头「Next, said I, compare our nature in respect of education and its lack to such an experience as this」"
+        },
+        {
+          "type": "book",
+          "title": "The Republic of Plato/Book 7（Jowett 英译，Wikisource）",
+          "url": "https://en.wikisource.org/wiki/The_Republic_of_Plato/Book_7",
+          "site": "en.wikisource.org",
+          "evidence": "https://en.wikisource.org/wiki/The_Republic_of_Plato/Book_7",
+          "confidence": "high",
+          "note": "另一常用英译本，供对照"
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "paul-graham",
+      "note": null,
+      "sources": [
+        {
+          "type": "website",
+          "title": "Paul Graham 个人网站（Essays）",
+          "url": "http://paulgraham.com/articles.html",
+          "site": "paulgraham.com",
+          "evidence": "http://paulgraham.com/articles.html",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "Hackers & Painters: Big Ideas from the Computer Age（《黑客与画家》，O'Reilly，2004）",
+          "url": "https://www.oreilly.com/library/view/hackers-painters/0596006624/",
+          "site": "oreilly.com",
+          "evidence": "https://www.oreilly.com/library/view/hackers-painters/0596006624/",
+          "confidence": "medium",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "paul-nurse",
+      "note": "保罗·纳斯，英国遗传学家、细胞生物学家，2001年诺贝尔生理学或医学奖得主，曾任弗朗西斯·克里克研究所所长",
+      "sources": [
+        {
+          "type": "book",
+          "title": "What Is Life?: Understand Biology in Five Steps（《生命是什么？》，David Fickling Books，2020）",
+          "url": "https://www.davidficklingbooks.com/shop/ItemDetails.php?pubID=281",
+          "site": "davidficklingbooks.com",
+          "evidence": "https://www.davidficklingbooks.com/shop/ItemDetails.php?pubID=281",
+          "confidence": "medium",
+          "note": "出版社页面含作者简介"
+        },
+        {
+          "type": "interview",
+          "title": "Life is older, weirder, and more interconnected than we ever thought（Big Think 完整访谈）",
+          "url": "https://bigthink.com/series/full-interview/paul-nurse-life/",
+          "site": "bigthink.com",
+          "evidence": "https://bigthink.com/series/full-interview/paul-nurse-life/",
+          "confidence": "medium",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "peter-drucker",
+      "note": null,
+      "sources": [
+        {
+          "type": "website",
+          "title": "About Peter Drucker（Drucker Institute 官网）",
+          "url": "https://drucker.institute/about-peter-drucker/",
+          "site": "drucker.institute",
+          "evidence": "https://drucker.institute/about-peter-drucker/",
+          "confidence": "medium",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "The Effective Executive（《卓有成效的管理者》，1966）",
+          "url": "https://books.google.com/books/about/The_Effective_Executive.html?id=OhcZDAAAQBAJ",
+          "site": "books.google.com",
+          "evidence": "https://drucker.institute/books-by-peter-drucker/",
+          "confidence": "medium",
+          "note": "链接为 HarperCollins 2017 纪念版；出版年 1966 见 Drucker Institute 书目页"
+        }
+      ]
+    },
+    {
+      "author_id": "peter-howitt",
+      "note": "彼得·霍伊特，布朗大学经济学荣休教授，2025年诺贝尔经济学奖得主（与 Philippe Aghion 共享一半奖项，表彰创造性破坏的持续增长理论）",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Peter Howitt | Economics | Brown University",
+          "url": "https://economics.brown.edu/people/peter-howitt",
+          "site": "economics.brown.edu",
+          "evidence": "https://economics.brown.edu/people/peter-howitt",
+          "confidence": "medium",
+          "note": null
+        },
+        {
+          "type": "website",
+          "title": "Peter Howitt – Facts – 2025（NobelPrize.org）",
+          "url": "https://www.nobelprize.org/prizes/economic-sciences/2025/howitt/facts/",
+          "site": "nobelprize.org",
+          "evidence": "https://www.nobelprize.org/prizes/economic-sciences/2025/howitt/facts/",
+          "confidence": "medium",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "peter-kaufman",
+      "note": "Peter D. Kaufman，Glenair 公司董事长兼 CEO，《穷查理宝典》编者",
+      "sources": [
+        {
+          "type": "book",
+          "title": "Poor Charlie's Almanack: The Essential Wit and Wisdom of Charles T. Munger（《穷查理宝典》，Peter D. Kaufman 编，2005；Stripe Press 2023 新版）",
+          "url": "https://press.stripe.com/poor-charlies-almanack",
+          "site": "press.stripe.com",
+          "evidence": "https://press.stripe.com/poor-charlies-almanack",
+          "confidence": "high",
+          "note": "页面作者简介注明 Kaufman 为 Glenair 董事长兼 CEO"
+        },
+        {
+          "type": "speech",
+          "title": "The Multidisciplinary Approach to Thinking（Farnam Street Great Talks）",
+          "url": "https://fs.blog/great-talks/multidisciplinary-approach-thinking-peter-kaufman/",
+          "site": "fs.blog",
+          "evidence": "https://fs.blog/great-talks/multidisciplinary-approach-thinking-peter-kaufman/",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "philippe-aghion",
+      "note": "菲利普·阿吉翁，法兰西公学院、INSEAD 与伦敦政经学院教授，2025年诺贝尔经济学奖得主",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Philippe Aghion – Personal Site | INSEAD",
+          "url": "https://www.insead.edu/faculty-personal-site/philippe-aghion",
+          "site": "insead.edu",
+          "evidence": "https://www.insead.edu/faculty-personal-site/philippe-aghion",
+          "confidence": "medium",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "The Power of Creative Destruction: Economic Upheaval and the Wealth of Nations（《创造性破坏的力量》，与 Céline Antonin、Simon Bunel 合著，Harvard University Press）",
+          "url": "https://www.hup.harvard.edu/books/9780674292093",
+          "site": "hup.harvard.edu",
+          "evidence": "https://www.hup.harvard.edu/books/9780674292093",
+          "confidence": "medium",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "piotr-wozniak",
+      "note": "彼得·沃兹尼亚克，SuperMemo 与间隔重复算法的发明者",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Piotr Wozniak（supermemo.guru 个人页）",
+          "url": "https://supermemo.guru/wiki/Piotr_Wozniak",
+          "site": "supermemo.guru",
+          "evidence": "https://supermemo.guru/wiki/Piotr_Wozniak",
+          "confidence": "medium",
+          "note": "页面列出其主要文章，含 How to solve any problem?"
+        }
+      ]
+    },
+    {
+      "author_id": "plato",
+      "note": null,
+      "sources": [
+        {
+          "type": "website",
+          "title": "Plato（Stanford Encyclopedia of Philosophy，Richard Kraut 撰）",
+          "url": "https://plato.stanford.edu/entries/plato/",
+          "site": "plato.stanford.edu",
+          "evidence": "https://plato.stanford.edu/entries/plato/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "Republic（《理想国》），Paul Shorey 英译本",
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0168%3Abook%3D7%3Apage%3D514",
+          "site": "perseus.tufts.edu",
+          "evidence": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0168%3Abook%3D7%3Apage%3D514",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0042-c06",
+      "status": "found",
+      "note": "英文原题 Group Chat: The Best Way to Totally Stress Out Your Team（37signals 长文，Basecamp 站点有同文镜像）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Group Chat: The Best Way to Totally Stress Out Your Team",
+          "url": "https://37signals.com/group-chat-problems",
+          "site": "37signals.com",
+          "evidence": "https://37signals.com/group-chat-problems",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "article",
+          "title": "Group Chat: The Best Way to Totally Stress Out Your Team（Basecamp Guides 版）",
+          "url": "https://basecamp.com/guides/group-chat-problems",
+          "site": "basecamp.com",
+          "evidence": "https://basecamp.com/guides/group-chat-problems",
+          "confidence": "high",
+          "note": "同文另一发布页"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0024-c05",
+      "status": "found",
+      "note": "英文原题 The 40 Best Questions to Ask in an Interview — How to Go Deeper Than “What’s the Culture Like?”（First Round Review，2020-10-26）。正文提到的“去年那篇”是 2019 年的 40 Favorite Interview Questions，本文是其面向求职者的续篇",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The 40 Best Questions to Ask in an Interview — How to Go Deeper Than “What’s the Culture Like?”",
+          "url": "https://review.firstround.com/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like/",
+          "site": "review.firstround.com",
+          "evidence": "https://review.firstround.com/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like/",
+          "confidence": "high",
+          "note": "开篇段落与摘录逐句对应"
+        }
+      ],
+      "author_check": {
+        "status": "corrected",
+        "authors": ["First Round Review"],
+        "evidence": "https://review.firstround.com/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like/",
+        "note": "原书未标作者；原文为 First Round Review 编辑部署名的汇编文章，无个人署名"
+      }
+    },
+    {
+      "article_id": "vol0094-c07",
+      "status": "found",
+      "note": "英文原题 The Lost Art of Research as Leisure（Mariam Mahmoud，Kasurian，2025-03-09）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Lost Art of Research as Leisure",
+          "url": "https://www.kasurian.com/research-as-leisure/",
+          "site": "kasurian.com",
+          "evidence": "https://www.kasurian.com/research-as-leisure/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {
+        "status": "corrected",
+        "authors": ["Mariam Mahmoud"],
+        "evidence": "https://www.kasurian.com/research-as-leisure/",
+        "note": "原书未标作者；原文页面署名 Words — Mariam Mahmoud，The Browser 推荐也作同一署名（https://thebrowser.com/free/lost-history/）"
+      }
+    },
+    {
+      "article_id": "vol0043-c07",
+      "status": "found",
+      "note": "英文原题 Fix the machine, not the person（Raw Nerve 系列第 7 篇）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Fix the machine, not the person",
+          "url": "http://www.aaronsw.com/weblog/nummi",
+          "site": "aaronsw.com",
+          "evidence": "http://www.aaronsw.com/weblog/nummi",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0053-c06",
+      "status": "found",
+      "note": "英文原题 Entropy Explained, With Sheep（2016 年可交互科普文章）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Entropy Explained, With Sheep",
+          "url": "https://aatishb.com/entropy/",
+          "site": "aatishb.com",
+          "evidence": "https://aatishb.com/entropy/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0070-c06",
+      "status": "found",
+      "note": "英文原题 The Zettelkasten Method（LessWrong，2019-09-20）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Zettelkasten Method",
+          "url": "https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1",
+          "site": "lesswrong.com",
+          "evidence": "https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1",
+          "confidence": "high",
+          "note": "开篇 Conor White-Sullivan 一段与摘录一致"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Abram Demski"],
+        "evidence": "https://www.lesswrong.com/users/abramdemski",
+        "note": "abramdemski 是 Abram Demski 的 LessWrong 用户名，归属无误"
+      }
+    },
+    {
+      "article_id": "vol0060-c06",
+      "status": "found",
+      "note": "英文原题 On Progress and Historical Change（Ex Urbe 博客 2017-01-04；后刊于 KNOW 期刊 2017 年 Vol.1 No.2）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "On Progress and Historical Change",
+          "url": "https://www.exurbe.com/on-progress-and-historical-change/",
+          "site": "exurbe.com",
+          "evidence": "https://www.exurbe.com/on-progress-and-historical-change/",
+          "confidence": "high",
+          "note": "博客原文，开篇与摘录一致"
+        },
+        {
+          "type": "paper",
+          "title": "On Progress and Historical Change（KNOW: A Journal on the Formation of Knowledge, Vol.1 No.2, 2017）",
+          "url": "https://www.journals.uchicago.edu/doi/full/10.1086/693676",
+          "site": "journals.uchicago.edu",
+          "evidence": "https://www.journals.uchicago.edu/doi/full/10.1086/693676",
+          "confidence": "high",
+          "note": "期刊修订版"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0089-c06",
+      "status": "found",
+      "note": "英文原题 The Strategy of No Strategy（Ribbonfarm，2017-02-23）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Strategy of No Strategy",
+          "url": "https://ribbonfarm.com/2017/02/23/the-strategy-of-no-strategy/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://ribbonfarm.com/2017/02/23/the-strategy-of-no-strategy/",
+          "confidence": "high",
+          "note": "含 Kanjuro Shibata XX《圆相》配图与室友打游戏段落，与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0029-c06",
+      "status": "found",
+      "note": "英文原题 The Erosion of Deep Literacy（National Affairs，2020 年春季号）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Erosion of Deep Literacy",
+          "url": "https://nationalaffairs.com/publications/detail/the-erosion-of-deep-literacy",
+          "site": "nationalaffairs.com",
+          "evidence": "https://nationalaffairs.com/publications/detail/the-erosion-of-deep-literacy",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0037-c07",
+      "status": "found",
+      "note": "英文原题 Good conversations have lots of doorknobs（Experimental History，2022-02-23；2024-09-24 曾重发）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Good conversations have lots of doorknobs",
+          "url": "https://www.experimental-history.com/p/good-conversations-have-lots-of-doorknobs",
+          "site": "experimental-history.com",
+          "evidence": "https://www.experimental-history.com/p/good-conversations-have-lots-of-doorknobs",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0083-c06",
+      "status": "found",
+      "note": "英文原题 So you wanna de-bog yourself（Experimental History，2024-01-02）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "So you wanna de-bog yourself",
+          "url": "https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself",
+          "site": "experimental-history.com",
+          "evidence": "https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself",
+          "confidence": "high",
+          "note": "“照片提供：家父”、教人开飞机、沼泽三种力量等段落与摘录逐句对应"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0041-c07",
+      "status": "found",
+      "note": "Harper's 2021 年 7 月号节选 Breaking Points，出自 Liberties 2021 年春季号长文 Romance Without Love, Love Without Romance",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Breaking Points（Harper's Magazine，2021 年 7 月）",
+          "url": "https://harpers.org/archive/2021/07/breaking-points-agnes-callard/",
+          "site": "harpers.org",
+          "evidence": "https://harpers.org/archive/2021/07/breaking-points-agnes-callard/",
+          "confidence": "high",
+          "note": "中文版开头“本文节选自……刊载于 2021 年春季”与此节选版一致"
+        },
+        {
+          "type": "article",
+          "title": "Romance Without Love, Love Without Romance",
+          "url": "https://libertiesjournal.com/articles/romance-without-lovelove-without-romance/",
+          "site": "libertiesjournal.com",
+          "evidence": "https://libertiesjournal.com/articles/romance-without-lovelove-without-romance/",
+          "confidence": "high",
+          "note": "Liberties 全文原刊"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0049-c06",
+      "status": "found",
+      "note": "英文原题 Art Is for Seeing Evil（The Point，2022-07-15）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Art Is for Seeing Evil",
+          "url": "https://thepointmag.com/examined-life/art-is-for-seeing-evil/",
+          "site": "thepointmag.com",
+          "evidence": "https://thepointmag.com/examined-life/art-is-for-seeing-evil/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0013-c03",
+      "status": "found",
+      "note": "英文原题 Predicting the Future，Alan Kay 在第 20 届 Stanford Computer Forum 的讲话，刊于 Stanford Engineering Vol.1 No.1（1989 年秋）",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "Predicting The Future（By Alan C. Kay）",
+          "url": "https://www.ecotopia.com/webpress/futures.htm",
+          "site": "ecotopia.com",
+          "evidence": "https://www.ecotopia.com/webpress/futures.htm",
+          "confidence": "high",
+          "note": "讲话全文转载页；原刊 Stanford Engineering, Vol.1 No.1, Autumn 1989, pp.1–6（见 https://johngrib.github.io/wiki/clipping/predicting-the-future/）"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0017-c03",
+      "status": "found",
+      "note": "Alan Kay 为文集 The Future of Text（Frode Alexander Hegland 编，Future Text Publishing，2020）撰写的篇章 The Future Of Text",
+      "sources": [
+        {
+          "type": "book",
+          "title": "The Future of Text（Frode Alexander Hegland 编，Future Text Publishing，2020）中 Alan Kay 篇 The Future Of Text",
+          "url": "http://futuretextpublishing.com/download/Future_of_Text_Book_2020.pdf",
+          "site": "futuretextpublishing.com",
+          "evidence": "http://futuretextpublishing.com/download/Future_of_Text_Book_2020.pdf",
+          "confidence": "high",
+          "note": "PDF 中“Alan Kay The Future Of Text”一节以 exogenetics of language and culture 开篇，与摘要一致；文集免费公开"
+        },
+        {
+          "type": "website",
+          "title": "Future Text Publishing 目录页（Alan Kay | Something about The Future Of Text）",
+          "url": "https://futuretextpublishing.com/table-of-contents/",
+          "site": "futuretextpublishing.com",
+          "evidence": "https://futuretextpublishing.com/table-of-contents/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0027-c05",
+      "status": "found",
+      "note": "Fast Company 2017-09-15 刊发的 Alan Kay 采访，英文标题 The Father Of Mobile Computing Is Not Impressed，采访者 Brian Merchant",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "The Father Of Mobile Computing Is Not Impressed（Fast Company，Brian Merchant）",
+          "url": "https://www.fastcompany.com/40435064/what-alan-kay-thinks-about-the-iphone-and-technology-now",
+          "site": "fastcompany.com",
+          "evidence": "https://www.fastcompany.com/40435064/what-alan-kay-thinks-about-the-iphone-and-technology-now",
+          "confidence": "high",
+          "note": "开篇“You want to see some old media?”、布伦特伍德住宅、Bonnie MacBird 等与摘录一致"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Alan Kay"],
+        "evidence": "https://www.fastcompany.com/40435064/what-alan-kay-thinks-about-the-iphone-and-technology-now",
+        "note": "受访者为 Alan Kay，文章执笔者为 Fast Company 记者 Brian Merchant；按受访者归属可保留"
+      }
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "37signals",
+      "note": "Basecamp、HEY 的开发公司（Jason Fried 与 DHH 创办）",
+      "sources": [
+        {"type": "website", "title": "37signals 官网", "url": "https://37signals.com/00", "site": "37signals.com", "evidence": "https://37signals.com/00", "confidence": "high", "note": null},
+        {"type": "website", "title": "37signals Long Thoughts（长文合集）", "url": "https://37signals.com/thoughts", "site": "37signals.com", "evidence": "https://37signals.com/thoughts", "confidence": "high", "note": null},
+        {"type": "book", "title": "Books by 37signals（REWORK、It Doesn’t Have to Be Crazy at Work、Shape Up 等）", "url": "https://37signals.com/books", "site": "37signals.com", "evidence": "https://37signals.com/books", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "aaron-swartz",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Raw Thought：Aaron Swartz 博客", "url": "http://www.aaronsw.com/weblog/", "site": "aaronsw.com", "evidence": "http://www.aaronsw.com/weblog/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Aaron Swartz 个人网站", "url": "http://www.aaronsw.com/", "site": "aaronsw.com", "evidence": "http://www.aaronsw.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Aaron Swartz（Wikipedia）", "url": "https://en.wikipedia.org/wiki/Aaron_Swartz", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Aaron_Swartz", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "aatish-bhatia",
+      "note": "物理学博士、科学作者，2021–2025 年任《纽约时报》The Upshot 视觉记者",
+      "sources": [
+        {"type": "website", "title": "Aatish Bhatia 个人网站", "url": "https://aatishb.com/", "site": "aatishb.com", "evidence": "https://aatishb.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "About — Aatish Bhatia", "url": "https://aatishb.com/about/", "site": "aatishb.com", "evidence": "https://aatishb.com/about/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Aatish Bhatia —《纽约时报》作者页", "url": "https://www.nytimes.com/by/aatish-bhatia", "site": "nytimes.com", "evidence": "https://www.nytimes.com/by/aatish-bhatia", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "abramdemski",
+      "note": "本名 Abram Demski，AI 安全研究者（曾任职 MIRI Agent Foundations 团队）",
+      "sources": [
+        {"type": "website", "title": "abramdemski 的 LessWrong 主页", "url": "https://www.lesswrong.com/users/abramdemski", "site": "lesswrong.com", "evidence": "https://www.lesswrong.com/users/abramdemski", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "ada-palmer",
+      "note": "芝加哥大学历史学者、科幻作家，博客 Ex Urbe",
+      "sources": [
+        {"type": "website", "title": "Ada Palmer 个人网站", "url": "https://www.adapalmer.com/", "site": "adapalmer.com", "evidence": "https://www.adapalmer.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Terra Ignota 系列（首卷 Too Like the Lightning，2016）", "url": "https://www.adapalmer.com/series/terra-ignota/", "site": "adapalmer.com", "evidence": "https://www.adapalmer.com/series/terra-ignota/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Inventing the Renaissance: Myths of a Golden Age（2025）", "url": null, "site": null, "evidence": "https://www.adapalmer.com/about-ada-palmer/press-publicity/", "confidence": "medium", "note": "未找到单独书籍页，依据作者官网新闻资料页"}
+      ]
+    },
+    {
+      "author_id": "adam-elkus",
+      "note": "安全、技术与战略研究者",
+      "sources": [
+        {"type": "website", "title": "Adam Elkus 个人网站", "url": "https://adamelkus.com/", "site": "adamelkus.com", "evidence": "https://adamelkus.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Rethinking Security（Adam Elkus 博客）", "url": "https://rethinkingsecurity.tumblr.com/about", "site": "rethinkingsecurity.tumblr.com", "evidence": "https://rethinkingsecurity.tumblr.com/about", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "adam-garfinkle",
+      "note": "The American Interest 创刊主编",
+      "sources": [
+        {"type": "website", "title": "Adam Garfinkle — The American Interest 作者页", "url": "https://www.the-american-interest.com/v/adam-garfinkle/", "site": "the-american-interest.com", "evidence": "https://www.the-american-interest.com/v/adam-garfinkle/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Adam Garfinkle（Wikipedia）", "url": "https://en.wikipedia.org/wiki/Adam_Garfinkle", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Adam_Garfinkle", "confidence": "high", "note": null},
+        {"type": "book", "title": "Telltale Hearts: The Origins and Impact of the Vietnam Antiwar Movement（St. Martin's Press，1995）", "url": "https://openlibrary.org/books/OL1113729M/Telltale_hearts", "site": "openlibrary.org", "evidence": "https://openlibrary.org/books/OL1113729M/Telltale_hearts", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "adam-grant",
+      "note": "沃顿商学院组织心理学家",
+      "sources": [
+        {"type": "website", "title": "Adam Grant 个人网站", "url": "https://adamgrant.net/", "site": "adamgrant.net", "evidence": "https://adamgrant.net/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Give and Take（2013）", "url": "https://adamgrant.net/book/give-and-take/", "site": "adamgrant.net", "evidence": "https://adamgrant.net/book/give-and-take/", "confidence": "high", "note": "给予者、索取者与互惠者的理论出处"}
+      ]
+    },
+    {
+      "author_id": "adam-mastroianni",
+      "note": "心理学者，Substack 通讯 Experimental History 作者",
+      "sources": [
+        {"type": "website", "title": "Experimental History（Adam Mastroianni 的 Substack）", "url": "https://www.experimental-history.com/", "site": "experimental-history.com", "evidence": "https://www.experimental-history.com/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "adam-thirlwell",
+      "note": "英国小说家、评论家，The Paris Review 编辑",
+      "sources": [
+        {"type": "website", "title": "Adam Thirlwell 官网（作品页）", "url": "http://www.adamthirlwell.com/novels", "site": "adamthirlwell.com", "evidence": "http://www.adamthirlwell.com/novels", "confidence": "high", "note": null},
+        {"type": "website", "title": "Adam Thirlwell（Wikipedia）", "url": "https://en.wikipedia.org/wiki/Adam_Thirlwell", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Adam_Thirlwell", "confidence": "high", "note": null},
+        {"type": "website", "title": "Adam Thirlwell — Royal Society of Literature", "url": "https://rsliterature.org/fellows/adam-thirlwell/", "site": "rsliterature.org", "evidence": "https://rsliterature.org/fellows/adam-thirlwell/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "agnes-callard",
+      "note": "芝加哥大学哲学家",
+      "sources": [
+        {"type": "website", "title": "Agnes Callard 的 Substack", "url": "https://agnescallard.substack.com/", "site": "agnescallard.substack.com", "evidence": "https://agnescallard.substack.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Aspiration: The Agency of Becoming（Oxford University Press，2018）", "url": "https://academic.oup.com/book/4936", "site": "academic.oup.com", "evidence": "https://academic.oup.com/book/4936", "confidence": "high", "note": null},
+        {"type": "book", "title": "Open Socrates: The Case for a Philosophical Life（Norton，2025）", "url": null, "site": null, "evidence": "https://artshumanities.uchicago.edu/life-untimely-questions-qa-agnes-callard", "confidence": "medium", "note": "未打开出版社书页"}
+      ]
+    },
+    {
+      "author_id": "agnes-varda",
+      "note": "法国导演、摄影师（1928–2019）",
+      "sources": [
+        {"type": "website", "title": "Ciné-Tamaris：La bio d’Agnès（瓦尔达创办的制片公司官网）", "url": "https://cine-tamaris.fr/la-bio-dagnes/", "site": "cine-tamaris.fr", "evidence": "https://cine-tamaris.fr/la-bio-dagnes/", "confidence": "high", "note": null},
+        {"type": "video", "title": "Les Glaneurs et la Glaneuse（《拾穗者与我》，2000）", "url": "https://cine-tamaris.fr/agnes-varda/les-glaneurs-et-la-glaneuse-2000/", "site": "cine-tamaris.fr", "evidence": "https://cine-tamaris.fr/agnes-varda/les-glaneurs-et-la-glaneuse-2000/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Agnès Varda（Wikipedia）", "url": "https://en.wikipedia.org/wiki/Agn%C3%A8s_Varda", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Agn%C3%A8s_Varda", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "alan-kay",
+      "note": "计算机科学家，Smalltalk 与 Dynabook 构想者，2003 年图灵奖得主",
+      "sources": [
+        {"type": "website", "title": "Alan Kay（Wikipedia）", "url": "https://en.wikipedia.org/wiki/Alan_Kay", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Alan_Kay", "confidence": "high", "note": null},
+        {"type": "website", "title": "Viewpoints Research Institute（Alan Kay 创办，2018 年结束运营，站点存档）", "url": "https://www.vpri.org/", "site": "vpri.org", "evidence": "https://www.vpri.org/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "alan-watts",
+      "note": "英国哲学家、东方思想诠释者（1915–1973）",
+      "sources": [
+        {"type": "website", "title": "Alan Watts Org：About Alan Watts", "url": "https://alanwatts.org/biography", "site": "alanwatts.org", "evidence": "https://alanwatts.org/biography", "confidence": "high", "note": null},
+        {"type": "book", "title": "Alan Watts 著作列表（含 The Wisdom of Insecurity，1951；The Way of Zen，1957）", "url": "https://alanwatts.org/books-articles", "site": "alanwatts.org", "evidence": "https://alanwatts.org/books-articles", "confidence": "high", "note": null}
+      ]
+    }
+  ]
+}

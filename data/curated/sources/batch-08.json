@@ -1,0 +1,624 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0005-c04",
+      "status": "found",
+      "note": "英文原题 This Is Water，David Foster Wallace 2005 年 5 月 21 日 Kenyon College 毕业演讲",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "This Is Water (Kenyon College 2005 Commencement Address)",
+          "url": "https://www.kenyon.edu/news/archive/this-is-water/",
+          "site": "kenyon.edu",
+          "evidence": "https://www.kenyon.edu/news/archive/this-is-water/",
+          "confidence": "high",
+          "note": "Kenyon College 官方页面，节选版文字稿，署名 By David Foster Wallace"
+        },
+        {
+          "type": "speech",
+          "title": "Transcription of the 2005 Kenyon Commencement Address - May 21, 2005",
+          "url": "https://web.archive.org/web/20080213082423/http:/www.marginalia.org/dfw_kenyon_commencement.html",
+          "site": "web.archive.org",
+          "evidence": "https://web.archive.org/web/20080213082423/http:/www.marginalia.org/dfw_kenyon_commencement.html",
+          "confidence": "medium",
+          "note": "完整文字稿存档（含开场白），与中译全文开头的两条小鱼故事一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0005-c07",
+      "status": "found",
+      "note": "英文原题 On the Phenomenon of Bullshit Jobs: A Work Rant，原载 Strike! Magazine 第 3 期（2013 年 8 月）；原书标注 2018 年应为同名扩写书 Bullshit Jobs 的出版年，摘录正文与 2013 年文章逐句对应",
+      "sources": [
+        {
+          "type": "article",
+          "title": "On the Phenomenon of Bullshit Jobs: A Work Rant",
+          "url": "https://strikemag.org/bullshit-jobs",
+          "site": "strikemag.org",
+          "evidence": "https://strikemag.org/bullshit-jobs",
+          "confidence": "high",
+          "note": "开头“In the year 1930, John Maynard Keynes predicted…”与中译开头一致"
+        },
+        {
+          "type": "article",
+          "title": "On the Phenomenon of Bullshit Jobs: A Work Rant",
+          "url": "https://davidgraeber.org/articles/on-the-phenomenon-of-bullshit-jobs-a-work-rant/",
+          "site": "davidgraeber.org",
+          "evidence": "https://davidgraeber.org/articles/on-the-phenomenon-of-bullshit-jobs-a-work-rant/",
+          "confidence": "medium",
+          "note": "作者官网存档版"
+        },
+        {
+          "type": "book",
+          "title": "Bullshit Jobs: A Theory（《毫无意义的工作》，Simon & Schuster，2018）",
+          "url": "https://www.simonandschuster.com/books/Bullshit-Jobs/David-Graeber/9781501143335",
+          "site": "simonandschuster.com",
+          "evidence": "https://www.simonandschuster.com/books/Bullshit-Jobs/David-Graeber/9781501143335",
+          "confidence": "medium",
+          "note": "由该文扩写的书；推荐语“本书献给每一个想要实实在在工作的人”出自此书"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0033-c06",
+      "status": "found",
+      "note": "英文原题 Imitate, then Innovate",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Imitate, then Innovate",
+          "url": "https://perell.com/essay/imitate-then-innovate/",
+          "site": "perell.com",
+          "evidence": "https://perell.com/essay/imitate-then-innovate/",
+          "confidence": "high",
+          "note": "长文版；含 Originality Disease、near/far imitation、科比“偷动作”等内容，与推荐语一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0046-c07",
+      "status": "found",
+      "note": "英文原题 Peter Thiel's Religion（2019 年 8 月发表）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Peter Thiel's Religion",
+          "url": "https://perell.com/essay/peter-thiel/",
+          "site": "perell.com",
+          "evidence": "https://perell.com/essay/peter-thiel/",
+          "confidence": "high",
+          "note": "含“Rather than focusing on Thiel's actions, I've chosen to focus on his ideas”，与推荐语“我决定专注于他的思想，而非行为”一致；原书标注 2020 年与搜索摘要的 2019 年不一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0058-c04",
+      "status": "found",
+      "note": "英文原题 The Microwave Economy（2021 年 3 月 1 日）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Microwave Economy",
+          "url": "https://perell.com/essay/the-microwave-economy/",
+          "site": "perell.com",
+          "evidence": "https://perell.com/essay/the-microwave-economy/",
+          "confidence": "high",
+          "note": "开头“My life is better because of microwavable meals”与中译开头一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0071-c04",
+      "status": "found",
+      "note": "英文原题 Against 3X Speed（2021 年 9 月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Against 3X Speed",
+          "url": "https://perell.com/essay/against-3x-speed/",
+          "site": "perell.com",
+          "evidence": "https://perell.com/essay/against-3x-speed/",
+          "confidence": "high",
+          "note": "开头“Mike boastfully reads 100 books per year”与中译迈克的故事一致；“杯中注水法”即 Water in a Cup method"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0082-c04",
+      "status": "found",
+      "note": "英文原题 What the Hell is Going On?",
+      "sources": [
+        {
+          "type": "article",
+          "title": "What the Hell is Going On?",
+          "url": "https://perell.com/essay/what-the-hell-is-going-on/",
+          "site": "perell.com",
+          "evidence": "https://perell.com/essay/what-the-hell-is-going-on/",
+          "confidence": "high",
+          "note": "开头“Let's play a game… commerce, education, or politics”与中译开头一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0094-c04",
+      "status": "found",
+      "note": "英文原题 How I Choose What To Read",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How I Choose What To Read",
+          "url": "https://perell.com/essay/choose-reading/",
+          "site": "perell.com",
+          "evidence": "https://perell.com/essay/choose-reading/",
+          "confidence": "high",
+          "note": "开头引语“Reading books is the real-life version of collecting mushrooms in Super Mario”与中译一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0064-c04",
+      "status": "found",
+      "note": "英文原题 The Science of Having a Great Conversation（WIRED，2024 年 6 月 9 日），节选自 David Robson 的书 The Laws of Connection；中文标题取自书名",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Science of Having a Great Conversation",
+          "url": "https://www.wired.com/story/the-science-of-having-a-great-conversation-research-social-connection/",
+          "site": "wired.com",
+          "evidence": "https://www.wired.com/story/the-science-of-having-a-great-conversation-research-social-connection/",
+          "confidence": "high",
+          "note": "开头 Rebecca West《The Harsh Voice》引语、Hazlitt《On the Conversation of Authors》段落与中译一致"
+        },
+        {
+          "type": "book",
+          "title": "The Laws of Connection: 13 Social Strategies That Will Transform Your Life（Canongate，2024）",
+          "url": "https://canongate.co.uk/books/4891-the-laws-of-connection-13-social-strategies-that-will-transform-your-life/",
+          "site": "canongate.co.uk",
+          "evidence": "https://kottke.org/24/06/0044835-the-science-of-having-a",
+          "confidence": "medium",
+          "note": "kottke.org 注明该文 Excerpted from David Robson's The Laws of Connection；美版副题为 The Scientific Secrets of Building a Strong Social Network"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0071-c06",
+      "status": "found",
+      "note": "英文原题 Lessons from Keith Rabois Essay 3: How to be an Effective Executive（2019 年 2 月 24 日）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Lessons from Keith Rabois Essay 3: How to be an Effective Executive",
+          "url": "http://delian.io/lessons-3",
+          "site": "delian.io",
+          "evidence": "http://delian.io/lessons-3",
+          "confidence": "high",
+          "note": "摘要五点（Lead, don't manage / Understand your output / Focus on inputs / high leverage activities / Optimize your time）与中译观点高亮逐条对应"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": [
+          "Delian Asparouhov"
+        ],
+        "evidence": "http://delian.io/lessons-3",
+        "note": "文章由 Delian Asparouhov 撰写，内容整理自 Keith Rabois 对投资组合公司高管的讲话"
+      }
+    },
+    {
+      "article_id": "vol0062-c08",
+      "status": "found",
+      "note": "英文原题 Repetitive Stress（Longreads，2021 年 2 月 2 日）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Repetitive Stress: On injury, compensation, and living with pain",
+          "url": "https://longreads.com/2021/02/02/repetitive-stress/",
+          "site": "longreads.com",
+          "evidence": "https://longreads.com/2021/02/02/repetitive-stress/",
+          "confidence": "high",
+          "note": "开头三月右膝外侧疼痛、七月胫骨刺痛、骨软骨损伤的叙述与中译一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0021-c03",
+      "status": "found",
+      "note": "英文原题 Leverage Points: Places to Intervene in a System（Sustainability Institute，1999；短版载 Whole Earth 1997 年冬季号）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Leverage Points: Places to Intervene in a System",
+          "url": "https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/",
+          "site": "donellameadows.org",
+          "evidence": "https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "paper",
+          "title": "Leverage Points: Places to Intervene in a System（The Sustainability Institute，1999，PDF）",
+          "url": "https://donellameadows.org/wp-content/userfiles/Leverage_Points.pdf",
+          "site": "donellameadows.org",
+          "evidence": "https://donellameadows.org/wp-content/userfiles/Leverage_Points.pdf",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0041-c03",
+      "status": "found",
+      "note": "英文原题 Dancing With Systems（Whole Earth，2001 年冬季号；后收入 Thinking in Systems 第 7 章）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Dancing With Systems",
+          "url": "https://donellameadows.org/archives/dancing-with-systems/",
+          "site": "donellameadows.org",
+          "evidence": "https://donellameadows.org/archives/dancing-with-systems/",
+          "confidence": "high",
+          "note": "14 条“舞步”（Get the beat / Listen to the wisdom of the system / Expose your mental models…）与推荐语一致"
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "david-chapman",
+      "note": "AI 博士（MIT），写作 Meaningness 等网络书",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Meaningness（David Chapman 的网络书与写作总览）",
+          "url": "https://meaningness.com/about-my-sites",
+          "site": "meaningness.com",
+          "evidence": "https://meaningness.com/about-my-sites",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "website",
+          "title": "Meaningness Newsletter（Substack）",
+          "url": "https://meaningness.substack.com/about",
+          "site": "meaningness.substack.com",
+          "evidence": "https://meaningness.substack.com/about",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "Better without AI: How to Avert a Moderate Apocalypse... and Create a Future We Would Like（Cloud Pattern Press，2023）",
+          "url": "https://betterwithout.ai/about-me",
+          "site": "betterwithout.ai",
+          "evidence": "https://books.google.com/books/about/Better_Without_AI.html?id=mL9o0AEACAAJ",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "david-dunning",
+      "note": "社会心理学家，邓宁-克鲁格效应提出者之一",
+      "sources": [
+        {
+          "type": "website",
+          "title": "David Dunning（密歇根大学心理学系教师页）",
+          "url": "https://lsa.umich.edu/psych/people/faculty/ddunning.html",
+          "site": "lsa.umich.edu",
+          "evidence": "https://lsa.umich.edu/psych/people/faculty/ddunning.html",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "article",
+          "title": "We Are All Confident Idiots（Pacific Standard，2014）",
+          "url": "https://psmag.com/social-justice/confident-idiots-92793/",
+          "site": "psmag.com",
+          "evidence": "https://psmag.com/social-justice/confident-idiots-92793/",
+          "confidence": "high",
+          "note": "疑为《大卫·邓宁：我们都是自信的傻瓜》的原文"
+        }
+      ]
+    },
+    {
+      "author_id": "david-foster-wallace",
+      "note": null,
+      "sources": [
+        {
+          "type": "website",
+          "title": "David Foster Wallace（Wikipedia）",
+          "url": "https://en.wikipedia.org/wiki/David_Foster_Wallace",
+          "site": "en.wikipedia.org",
+          "evidence": "https://en.wikipedia.org/wiki/David_Foster_Wallace",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "Infinite Jest（《无尽的玩笑》，Little, Brown and Company，1996）",
+          "url": "https://en.wikipedia.org/wiki/Infinite_Jest",
+          "site": "en.wikipedia.org",
+          "evidence": "https://en.wikipedia.org/wiki/Infinite_Jest",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "david-graeber",
+      "note": "人类学家（1961–2020），伦敦政治经济学院教授",
+      "sources": [
+        {
+          "type": "website",
+          "title": "David Graeber 官网（著作档案）",
+          "url": "https://davidgraeber.org/books/",
+          "site": "davidgraeber.org",
+          "evidence": "https://davidgraeber.org/books/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "Bullshit Jobs: A Theory（《毫无意义的工作》，Simon & Schuster，2018）",
+          "url": "https://davidgraeber.org/books/bullshit-jobs/",
+          "site": "davidgraeber.org",
+          "evidence": "https://davidgraeber.org/books/bullshit-jobs/",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "david-harvey",
+      "note": "地理学家、马克思主义学者，纽约城市大学研究生中心杰出教授",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Reading Marx's Capital with David Harvey（David Harvey 官网）",
+          "url": "https://davidharvey.org/",
+          "site": "davidharvey.org",
+          "evidence": "https://davidharvey.org/about/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "A Companion to Marx's Capital（《跟大卫·哈维读〈资本论〉》，Verso，2010）",
+          "url": null,
+          "site": null,
+          "evidence": "https://davidharvey.org/reading-capital/",
+          "confidence": "medium",
+          "note": "官网课程页注明该系列讲座即此书底稿"
+        }
+      ]
+    },
+    {
+      "author_id": "david-manheim",
+      "note": "公共政策与风险研究者，ALTER 创始人，研究 Goodhart 定律与指标设计",
+      "sources": [
+        {
+          "type": "website",
+          "title": "David Manheim 个人网站",
+          "url": "https://davidmanheim.com/",
+          "site": "davidmanheim.com",
+          "evidence": "https://davidmanheim.com/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "paper",
+          "title": "Building Less Flawed Metrics: Dodging Goodhart and Campbell's Laws（2018）",
+          "url": "https://mpra.ub.uni-muenchen.de/98288/",
+          "site": "mpra.ub.uni-muenchen.de",
+          "evidence": "https://mpra.ub.uni-muenchen.de/98288/",
+          "confidence": "high",
+          "note": "与其文章《指标的霸权》主题相关的代表作"
+        }
+      ]
+    },
+    {
+      "author_id": "david-perell",
+      "note": "作家、播客主持人，写作课 Write of Passage 创办者",
+      "sources": [
+        {
+          "type": "website",
+          "title": "David Perell 个人网站",
+          "url": "https://perell.com/",
+          "site": "perell.com",
+          "evidence": "https://perell.com/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "podcast",
+          "title": "How I Write（David Perell 主持的播客）",
+          "url": "https://podcasts.apple.com/us/podcast/how-i-write/id1700171470",
+          "site": "podcasts.apple.com",
+          "evidence": "https://podcasts.apple.com/us/podcast/how-i-write/id1700171470",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "david-robson",
+      "note": "英国科学记者，曾任 New Scientist 编辑、BBC Future 资深记者",
+      "sources": [
+        {
+          "type": "website",
+          "title": "David Robson 个人网站",
+          "url": "https://davidrobson.me/about/",
+          "site": "davidrobson.me",
+          "evidence": "https://davidrobson.me/about/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "The Laws of Connection: 13 Social Strategies That Will Transform Your Life（Canongate，2024）",
+          "url": "https://canongate.co.uk/books/4891-the-laws-of-connection-13-social-strategies-that-will-transform-your-life/",
+          "site": "canongate.co.uk",
+          "evidence": "https://canongate.co.uk/books/4891-the-laws-of-connection-13-social-strategies-that-will-transform-your-life/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "The Intelligence Trap（《聪明的陷阱》，2019）",
+          "url": null,
+          "site": null,
+          "evidence": "https://davidrobson.me/about/",
+          "confidence": "medium",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "debbie-sorensen",
+      "note": "丹佛临床心理学家，ACT/CBT 治疗师，播客 Psychologists Off the Clock 联合主持",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Debbie Sorensen, PhD 个人网站",
+          "url": "https://www.drdebbiesorensen.com/",
+          "site": "drdebbiesorensen.com",
+          "evidence": "https://www.drdebbiesorensen.com/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "ACT for Burnout（职业倦怠主题著作）",
+          "url": null,
+          "site": null,
+          "evidence": "https://www.drdebbiesorensen.com/resources",
+          "confidence": "medium",
+          "note": "与其文章《如何摆脱职业倦怠》主题相关；另著有 ACT Daily Journal（与 Diana Hill 合著）"
+        }
+      ]
+    },
+    {
+      "author_id": "deborah-m-gordon",
+      "note": "斯坦福大学生物学教授，研究蚁群的集体行为",
+      "sources": [
+        {
+          "type": "website",
+          "title": "The Gordon Lab（Deborah M. Gordon 实验室主页）",
+          "url": "https://web.stanford.edu/~dmgordon/",
+          "site": "web.stanford.edu",
+          "evidence": "https://web.stanford.edu/~dmgordon/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "article",
+          "title": "Local links run the world（Aeon）",
+          "url": "https://aeon.co/essays/the-most-important-connection-in-any-network-is-the-local",
+          "site": "aeon.co",
+          "evidence": "https://aeon.co/essays/the-most-important-connection-in-any-network-is-the-local",
+          "confidence": "high",
+          "note": "疑为《本地连接推动世界运转》的原文"
+        },
+        {
+          "type": "book",
+          "title": "Ant Encounters: Interaction Networks and Colony Behavior（Princeton University Press，2010）",
+          "url": null,
+          "site": null,
+          "evidence": "https://web.stanford.edu/~dmgordon/research.html",
+          "confidence": "medium",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "delian-asparouhov",
+      "note": "风险投资人，Founders Fund 合伙人",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Delian Asparouhov 个人网站",
+          "url": "https://delian.io/",
+          "site": "delian.io",
+          "evidence": "https://delian.io/",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "devin-kelly",
+      "note": "纽约诗人、作家、教师，长跑及超马跑者",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Devin Kelly（Poets & Writers 作家名录）",
+          "url": "https://www.pw.org/directory/writers/devin_kelly",
+          "site": "pw.org",
+          "evidence": "https://www.pw.org/directory/writers/devin_kelly",
+          "confidence": "high",
+          "note": "名录中列出其个人网站域名 devingkelly.wordpress.com"
+        },
+        {
+          "type": "book",
+          "title": "Blood on Blood（诗集，Unknown Press，2016）",
+          "url": null,
+          "site": null,
+          "evidence": "https://www.pw.org/directory/writers/devin_kelly",
+          "confidence": "medium",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "donald-l-wass",
+      "note": "与 William Oncken, Jr. 合著 HBR 经典文章；未找到个人网站",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Management Time: Who's Got the Monkey?（Harvard Business Review，1974；1999 年再版）",
+          "url": "https://hbr.org/1999/11/management-time-whos-got-the-monkey",
+          "site": "hbr.org",
+          "evidence": "https://hbr.org/1999/11/management-time-whos-got-the-monkey",
+          "confidence": "high",
+          "note": "即《管理者的时间：谁在耍猴？》原文"
+        }
+      ]
+    },
+    {
+      "author_id": "donella-meadows",
+      "note": "系统动力学学者（1941–2001），《增长的极限》主要作者",
+      "sources": [
+        {
+          "type": "website",
+          "title": "The Donella Meadows Project（Dana's Writing）",
+          "url": "https://donellameadows.org/donella-meadows-legacy/danas-writing/",
+          "site": "donellameadows.org",
+          "evidence": "https://donellameadows.org/donella-meadows-legacy/danas-writing/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "Thinking in Systems: A Primer（《系统之美》，Chelsea Green，2008）",
+          "url": "https://catalog.hathitrust.org/Record/006795909",
+          "site": "catalog.hathitrust.org",
+          "evidence": "https://catalog.hathitrust.org/Record/006795909",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    }
+  ]
+}

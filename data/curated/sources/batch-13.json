@@ -1,0 +1,471 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0023-c05",
+      "status": "found",
+      "note": "英文原题 The Relativity of Wrong（Skeptical Inquirer，Vol. 14 No. 1，1989 年秋季号）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Relativity of Wrong",
+          "url": "https://skepticalinquirer.org/1989/10/the-relativity-of-wrong/",
+          "site": "skepticalinquirer.org",
+          "evidence": "https://skepticalinquirer.org/1989/10/the-relativity-of-wrong/",
+          "confidence": "high",
+          "note": "刊物官方存档页，署名 Isaac Asimov"
+        },
+        {
+          "type": "article",
+          "title": "Asimov - The Relativity of Wrong（全文转录）",
+          "url": "https://wcarss.ca/reading/relativity_of_wrong/",
+          "site": "wcarss.ca",
+          "evidence": "https://wcarss.ca/reading/relativity_of_wrong/",
+          "confidence": "high",
+          "note": "全文转录，开篇读者来信、1905–1916 相对论等段落与摘录逐句对应"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0053-c05",
+      "status": "found",
+      "note": "英文原题 The Modern Demonology（The Magazine of Fantasy and Science Fiction，1962 年 1 月；收入文集 View from a Height，1963；Asimov on Physics，1976）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Modern Demonology（全文）",
+          "url": "https://hermiene.net/essays-trans/modern_demonology.html",
+          "site": "hermiene.net",
+          "evidence": "https://hermiene.net/essays-trans/modern_demonology.html",
+          "confidence": "high",
+          "note": "全文转录，讨论熵、麦克斯韦妖、达尔文之妖，与摘录对应"
+        },
+        {
+          "type": "article",
+          "title": "Asimov Essays about physics：The Modern Demonology 条目（首发 F&SF 1962-01）",
+          "url": "http://www.asimovonline.com/oldsite/Essays/physics.html",
+          "site": "asimovonline.com",
+          "evidence": "http://www.asimovonline.com/oldsite/Essays/physics.html",
+          "confidence": "high",
+          "note": "阿西莫夫随笔目录，给出首发刊物与收录文集"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0018-c03",
+      "status": "found",
+      "note": "英文题 Why Read the Classics?（Patrick Creagh 译，The New York Review of Books，1986-10-09；意大利文原作 1981 年刊于 L'Espresso，后为文集 Perché leggere i classici，Mondadori，1991 的题名篇）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Why Read the Classics?",
+          "url": "https://www.nybooks.com/articles/1986/10/09/why-read-the-classics/",
+          "site": "nybooks.com",
+          "evidence": "https://www.nybooks.com/articles/1986/10/09/why-read-the-classics/",
+          "confidence": "high",
+          "note": "十四条“经典”定义与摘录一致"
+        },
+        {
+          "type": "book",
+          "title": "Why Read the Classics?（《为什么读经典》，Martin McLaughlin 英译，Houghton Mifflin Harcourt 版）",
+          "url": "https://books.google.com/books/about/Why_Read_the_Classics.html?id=pQabBQAAQBAJ",
+          "site": "books.google.com",
+          "evidence": "https://books.google.com/books/about/Why_Read_the_Classics.html?id=pQabBQAAQBAJ",
+          "confidence": "medium",
+          "note": "收录同名文章的文集"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0056-c05",
+      "status": "found",
+      "note": "英文原题 Motivation vs. Discipline: Which Helps You Go Further?（Durmonski.com）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Motivation vs. Discipline: Which Helps You Go Further?",
+          "url": "https://durmonski.com/self-improvement/motivation-vs-discipline/",
+          "site": "durmonski.com",
+          "evidence": "https://durmonski.com/self-improvement/motivation-vs-discipline/",
+          "confidence": "high",
+          "note": "开篇“There is something wrong with our society”与摘录对应；页面现显示日期 19/09/2024，与原书标注 2023 年不符，可能是更新日期"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0088-c04",
+      "status": "found",
+      "note": "英文原题 On Being the Right Size。中文译文连同编者注（“最初发表于 1928 年……2011/12/19 修正错字”）译自 UCLA 网络课程阅读材料页；该文实际首发于 Harper's Magazine 1926 年 3 月，收入 Possible Worlds and Other Essays（Chatto & Windus，1927）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Haldane, On Being the Right Size（UCLA IRL 阅读材料页，Web Archive 存档）",
+          "url": "https://web.archive.org/web/20180216202640/https:/irl.cs.ucla.edu/papers/right-size.html",
+          "site": "web.archive.org",
+          "evidence": "https://web.archive.org/web/20180216202640/https:/irl.cs.ucla.edu/papers/right-size.html",
+          "confidence": "high",
+          "note": "含与中文版一致的网络课程编者注及 12/19/2011 修订说明"
+        },
+        {
+          "type": "article",
+          "title": "On Being the Right Size（UCLA CS217 PDF 版）",
+          "url": "https://web.cs.ucla.edu/classes/cs217/RightSize.pdf",
+          "site": "web.cs.ucla.edu",
+          "evidence": "https://web.cs.ucla.edu/classes/cs217/RightSize.pdf",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "Possible Worlds and Other Essays（J. B. S. Haldane，Chatto & Windus，1927）",
+          "url": "https://www.fadedpage.com/link.php?file=20160325-a5.pdf",
+          "site": "fadedpage.com",
+          "evidence": "https://en.wikipedia.org/wiki/On_Being_the_Right_Size",
+          "confidence": "high",
+          "note": "收录本文的原始文集，目录第 18 页为 On Being the Right Size"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0014-c06",
+      "status": "found",
+      "note": "CBS 电视节目 See It Now（Edward R. Murrow 主持）1955-01-04 播出的奥本海默访谈，Transcript of a Conversation with Dr. J. Robert Oppenheimer",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "Edward R. Murrow Interviews Oppenheimer (\"See It Now\") — Transcript, January 4, 1955",
+          "url": "https://www.famous-trials.com/oppenheimer/2694-edward-r-murrow-interviews-oppenheimer-see-it-now",
+          "site": "famous-trials.com",
+          "evidence": "https://www.famous-trials.com/oppenheimer/2694-edward-r-murrow-interviews-oppenheimer-see-it-now",
+          "confidence": "high",
+          "note": "访谈文字稿"
+        },
+        {
+          "type": "interview",
+          "title": "Of Historical Note: Edward R. Murrow with J. Robert Oppenheimer",
+          "url": "https://www.ias.edu/ideas/2013/oppenheimer-of-historical-note",
+          "site": "ias.edu",
+          "evidence": "https://www.ias.edu/ideas/2013/oppenheimer-of-historical-note",
+          "confidence": "high",
+          "note": "普林斯顿高等研究院官方节选"
+        },
+        {
+          "type": "interview",
+          "title": "Oppenheimer, J. Robert -- Transcript of See It Now TV Program, January 4, 1955（IAS 档案馆条目）",
+          "url": "https://archives.ias.edu/repositories/2/archival_objects/50288",
+          "site": "archives.ias.edu",
+          "evidence": "https://archives.ias.edu/repositories/2/archival_objects/50288",
+          "confidence": "high",
+          "note": "档案目录条目，非全文"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0047-c06",
+      "status": "found",
+      "note": "英文原题 Against Victimhood（Putanumonit，2020-09-12；LessWrong 同步发布）。Jakeup 是作者 Jacob Falkovich 的网名",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Against Victimhood",
+          "url": "https://putanumonit.com/2020/09/12/against-victimhood/",
+          "site": "putanumonit.com",
+          "evidence": "https://putanumonit.com/2020/09/12/against-victimhood/",
+          "confidence": "high",
+          "note": "“base rate fallacy”“wronged, oppressed, attacked”等段落与中文译文对应"
+        },
+        {
+          "type": "article",
+          "title": "Against Victimhood（LessWrong 版，By Jacob Falkovich）",
+          "url": "https://www.lesswrong.com/posts/AjgiA6s3TEfxbndyj/against-victimhood",
+          "site": "lesswrong.com",
+          "evidence": "https://www.lesswrong.com/posts/AjgiA6s3TEfxbndyj/against-victimhood",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "article",
+          "title": "请远离“受害者心态”（中文译文，作者署名 Jakeup）",
+          "url": "https://read.mantaoshiguang.com/m25060401.html",
+          "site": "read.mantaoshiguang.com",
+          "evidence": "https://read.mantaoshiguang.com/m25060401.html",
+          "confidence": "high",
+          "note": "中文译文发布页，非原文"
+        }
+      ],
+      "author_check": {
+        "status": "corrected",
+        "authors": ["Jacob Falkovich"],
+        "evidence": "https://www.lesswrong.com/posts/AjgiA6s3TEfxbndyj/against-victimhood",
+        "note": "原书署名 Jakeup 为网名；LessWrong 版署名 Jacob Falkovich，Putanumonit 文中引用其推文署名为“Jakeup (@yashkaf)”（https://putanumonit.com/2023/02/11/building-and-entertaining-couples/）"
+      }
+    },
+    {
+      "article_id": "vol0028-c07",
+      "status": "found",
+      "note": "英文原题 The Ultimate Productivity Hack is Saying No（jamesclear.com）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Ultimate Productivity Hack is Saying No",
+          "url": "https://jamesclear.com/saying-no",
+          "site": "jamesclear.com",
+          "evidence": "https://jamesclear.com/saying-no",
+          "confidence": "high",
+          "note": "“there is no code faster than no code”等开篇段落与摘录逐句对应"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0037-c06",
+      "status": "found",
+      "note": "英文原题 Healthy Eating: The Beginner's Guide on How to Eat Healthy and Stick to It（jamesclear.com/eat-healthy）。该页现已只剩框架、不再显示正文，正文以 Web Archive 2020 年存档核对",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Healthy Eating: The Beginner's Guide on How to Eat Healthy and Stick to It",
+          "url": "https://jamesclear.com/eat-healthy",
+          "site": "jamesclear.com",
+          "evidence": "https://www.reddit.com/r/loseit/comments/5d4l40/article_james_clear_healthy_eating_the_beginners/",
+          "confidence": "medium",
+          "note": "原始地址；当前打开仅剩页面框架"
+        },
+        {
+          "type": "article",
+          "title": "Healthy Eating: The Beginner's Guide on How to Eat Healthy and Stick to It（Web Archive 存档）",
+          "url": "https://web.archive.org/web/2020/https://jamesclear.com/eat-healthy",
+          "site": "web.archive.org",
+          "evidence": "https://web.archive.org/web/2020/https://jamesclear.com/eat-healthy",
+          "confidence": "high",
+          "note": "存档正文含“I don't claim to have a perfect diet…”及 I. The Science of Healthy Eating 等目录，与摘录对应"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0039-c04",
+      "status": "found",
+      "note": "英文原题 Focus: The Ultimate Guide on How to Improve Focus and Concentration（jamesclear.com/focus）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Focus: The Ultimate Guide on How to Improve Focus and Concentration",
+          "url": "https://jamesclear.com/focus",
+          "site": "jamesclear.com",
+          "evidence": "https://jamesclear.com/focus",
+          "confidence": "high",
+          "note": "开篇段落及 Tim Ferriss 引语与摘录对应"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0054-c04",
+      "status": "found",
+      "note": "英文原题 The Value of Time: How Much is Your Time Really Worth?（jamesclear.com）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Value of Time: How Much is Your Time Really Worth?",
+          "url": "https://jamesclear.com/value-of-time",
+          "site": "jamesclear.com",
+          "evidence": "https://jamesclear.com/value-of-time",
+          "confidence": "high",
+          "note": "开篇“Not all uses of time are equal…”与摘录逐句对应"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0059-c07",
+      "status": "found",
+      "note": "英文原题 Procrastination: A Scientific Guide on How to Stop Procrastinating（jamesclear.com/procrastination，现页面标题为 A Brief Guide on How to Stop Procrastinating）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Procrastination: A Brief Guide on How to Stop Procrastinating",
+          "url": "https://jamesclear.com/procrastination",
+          "site": "jamesclear.com",
+          "evidence": "https://jamesclear.com/procrastination",
+          "confidence": "high",
+          "note": "“The purpose of this guide is to break down the science behind why we procrastinate…”与摘录对应"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0055-c03",
+      "status": "found",
+      "note": "英文原题 Your Life is Driven by Network Effects（NFX，2020 年 2 月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Your Life is Driven by Network Effects",
+          "url": "https://www.nfx.com/post/your-life-network-effects",
+          "site": "nfx.com",
+          "evidence": "https://www.nfx.com/post/your-life-network-effects",
+          "confidence": "high",
+          "note": "署名 James Currier，Feb 2020；家庭、高中、大学、第一份工作、婚姻、居住地等“人生十字路口”与摘录对应"
+        },
+        {
+          "type": "podcast",
+          "title": "The Founders' List: Your Life is Driven by Network Effects by James Currier（The NFX Podcast）",
+          "url": "https://podcasts.apple.com/us/podcast/the-nfx-podcast/id1456824325?i=1000473172383",
+          "site": "podcasts.apple.com",
+          "evidence": "https://podcasts.apple.com/us/podcast/the-nfx-podcast/id1456824325?i=1000473172383",
+          "confidence": "medium",
+          "note": "同文音频版"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0025-c04",
+      "status": "found",
+      "note": "英文原题 How the World Works（The Atlantic，1993 年 12 月号；节选自 Fallows 的书 Looking at the Sun）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How the World Works",
+          "url": "https://www.theatlantic.com/magazine/archive/1993/12/how-the-world-works/305854/",
+          "site": "theatlantic.com",
+          "evidence": "https://www.theatlantic.com/magazine/archive/1993/12/how-the-world-works/305854/",
+          "confidence": "high",
+          "note": "署名 James Fallows，December 1993 Issue"
+        },
+        {
+          "type": "article",
+          "title": "'How the World Works' article, from 1993.（作者 Substack 重刊全文）",
+          "url": "https://fallows.substack.com/p/how-the-world-works-article-from",
+          "site": "fallows.substack.com",
+          "evidence": "https://fallows.substack.com/p/how-the-world-works-article-from",
+          "confidence": "high",
+          "note": "2021-12-26 作者本人重刊"
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "isaac-asimov",
+      "note": "kind 应为 person（美国科幻作家、生物化学教授，1920–1992）",
+      "sources": [
+        {"type": "website", "title": "Isaac Asimov（维基百科）", "url": "https://en.wikipedia.org/wiki/Isaac_Asimov", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Isaac_Asimov", "confidence": "high", "note": null},
+        {"type": "website", "title": "Asimov Online：阿西莫夫随笔目录（F&SF 专栏等）", "url": "http://www.asimovonline.com/oldsite/Essays/f_and_sf_essays.html", "site": "asimovonline.com", "evidence": "http://www.asimovonline.com/oldsite/Essays/f_and_sf_essays.html", "confidence": "high", "note": "收录本批两篇随笔所在的 F&SF 专栏目录"},
+        {"type": "book", "title": "Foundation 系列（《基地》系列）", "url": null, "site": null, "evidence": "https://en.wikipedia.org/wiki/Isaac_Asimov", "confidence": "high", "note": "代表作，1966 年获雨果奖“最佳全系列”"}
+      ]
+    },
+    {
+      "author_id": "isaiah-berlin",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "The Isaiah Berlin Virtual Library（以赛亚·伯林文献库）", "url": "https://berlin.wolf.ox.ac.uk/", "site": "berlin.wolf.ox.ac.uk", "evidence": "https://berlin.wolf.ox.ac.uk/", "confidence": "high", "note": "伯林文学遗产信托维护，现与 Isaiah Berlin Online 并行"},
+        {"type": "book", "title": "The Hedgehog and the Fox: An Essay on Tolstoy's View of History（《刺猬与狐狸》，Weidenfeld and Nicolson，1953）", "url": "https://isaiah-berlin.wolfson.ox.ac.uk/node/4460", "site": "isaiah-berlin.wolfson.ox.ac.uk", "evidence": "https://isaiah-berlin.wolfson.ox.ac.uk/node/4460", "confidence": "high", "note": "Isaiah Berlin Online 书目条目"}
+      ]
+    },
+    {
+      "author_id": "italo-calvino",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Italo Calvino（维基百科）", "url": "https://en.wikipedia.org/wiki/Italo_Calvino", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Italo_Calvino", "confidence": "high", "note": null},
+        {"type": "book", "title": "Why Read the Classics?（《为什么读经典》，Perché leggere i classici，1991）", "url": "https://books.google.com/books/about/Why_Read_the_Classics.html?id=pQabBQAAQBAJ", "site": "books.google.com", "evidence": "https://books.google.com/books/about/Why_Read_the_Classics.html?id=pQabBQAAQBAJ", "confidence": "high", "note": null},
+        {"type": "book", "title": "Invisible Cities（《看不见的城市》，Le città invisibili，1972）", "url": null, "site": null, "evidence": "https://www.encyclopedia.com/people/literature-and-arts/italian-literature-biographies/italo-calvino", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "ivan-zhao",
+      "note": "kind 应为 person（Notion 联合创始人兼 CEO）",
+      "sources": [
+        {"type": "article", "title": "Steam, Steel, and Infinite Minds（Notion 官方博客，By Ivan Zhao，2025-12-22）", "url": "https://www.notion.com/blog/steam-steel-and-infinite-minds-ai", "site": "notion.com", "evidence": "https://www.notion.com/blog/steam-steel-and-infinite-minds-ai", "confidence": "high", "note": "与其名下文章《无尽心智：重塑组织与时代的新钢火》对应的英文原文，供该篇所在批次参考"},
+        {"type": "website", "title": "Ivan Zhao（Forbes 人物页）", "url": "https://www.forbes.com/profile/ivan-zhao/", "site": "forbes.com", "evidence": "https://www.forbes.com/profile/ivan-zhao/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "ivaylo-durmonski",
+      "note": "kind 应为 person（独立写作者，运营 Durmonski.com）",
+      "sources": [
+        {"type": "website", "title": "Durmonski.com（Ivaylo Durmonski 个人网站：文章、书摘与课程）", "url": "https://durmonski.com/", "site": "durmonski.com", "evidence": "https://durmonski.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "About Ivaylo Durmonski", "url": "https://durmonski.com/about/", "site": "durmonski.com", "evidence": "https://durmonski.com/about/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "j-b-s-haldane",
+      "note": "kind 应为 person（英国遗传学家、进化生物学家，1892–1964）",
+      "sources": [
+        {"type": "website", "title": "J. B. S. Haldane（维基百科）", "url": "https://en.wikipedia.org/wiki/J._B._S._Haldane", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/J._B._S._Haldane", "confidence": "high", "note": null},
+        {"type": "book", "title": "Possible Worlds and Other Essays（Chatto & Windus，1927）", "url": "https://www.fadedpage.com/link.php?file=20160325-a5.pdf", "site": "fadedpage.com", "evidence": "https://www.fadedpage.com/link.php?file=20160325-a5.pdf", "confidence": "high", "note": "代表性科普文集，收录 On Being the Right Size"}
+      ]
+    },
+    {
+      "author_id": "j-robert-oppenheimer",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "J. Robert Oppenheimer（普林斯顿高等研究院人物页，第三任院长 1947–1966）", "url": "https://www.ias.edu/scholars/j-robert-oppenheimer", "site": "ias.edu", "evidence": "https://www.ias.edu/scholars/j-robert-oppenheimer", "confidence": "high", "note": null},
+        {"type": "website", "title": "J. Robert Oppenheimer: Life, Work, and Legacy（IAS 专题）", "url": "https://www.ias.edu/oppenheimer-legacy", "site": "ias.edu", "evidence": "https://www.ias.edu/oppenheimer-legacy", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "jakeup",
+      "note": "Jakeup 是 Jacob Falkovich 的网名（X/Twitter 账号 @yashkaf），建议归并到 Jacob Falkovich 名下；kind 应为 person",
+      "sources": [
+        {"type": "website", "title": "Putanumonit（Jacob Falkovich 的博客，作者页）", "url": "https://putanumonit.com/author/putanumonit/", "site": "putanumonit.com", "evidence": "https://putanumonit.com/author/putanumonit/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Second Person（Jacob Falkovich 的 Substack，约会与关系专栏）", "url": "https://www.secondperson.dating/", "site": "secondperson.dating", "evidence": "https://www.secondperson.dating/", "confidence": "high", "note": "Jakeup 账号简介链接 secondperson.dating（https://nitter.gq/myhandle）"}
+      ]
+    },
+    {
+      "author_id": "jakub-jalek",
+      "note": "疑为 Jakub Jílek 的误拼：认知科学背景（UCL 认知与决策科学硕士），与 Scott H. Young 合著 The Complete Guide to Memory（2019），与其名下《记忆力提升指南》吻合；kind 应为 person",
+      "sources": [
+        {"type": "website", "title": "Jakub Jílek 个人网站（About）", "url": "https://jakub-jilek.com/about-me/", "site": "jakub-jilek.com", "evidence": "https://jakub-jilek.com/about-me/", "confidence": "high", "note": "页面列出 Scott H. Young and Jakub Jilek (2019) - The Complete Guide to Memory"},
+        {"type": "website", "title": "About Jakub Jílek（Scott H Young 网站作者页）", "url": "https://www.scotthyoung.com/blog/author-jakub-jilek/", "site": "scotthyoung.com", "evidence": "https://www.scotthyoung.com/blog/author-jakub-jilek/", "confidence": "high", "note": null},
+        {"type": "article", "title": "The Complete Guide to Memory（Scott H Young 与 Jakub Jílek 合著）", "url": "https://www.scotthyoung.com/blog/2019/02/15/memory/", "site": "scotthyoung.com", "evidence": "https://www.scotthyoung.com/blog/2019/02/15/memory/", "confidence": "high", "note": "可能就是《记忆力提升指南》的原文，供该篇所在批次核对"}
+      ]
+    },
+    {
+      "author_id": "james-a-lindsay",
+      "note": "kind 应为 person",
+      "sources": [
+        {"type": "website", "title": "New Discourses（James Lindsay 创办的网站，作者页）", "url": "https://newdiscourses.com/author/jameslindsay/", "site": "newdiscourses.com", "evidence": "https://newdiscourses.com/author/jameslindsay/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Cynical Theories（与 Helen Pluckrose 合著，Pitchstone，2020）", "url": "https://www.pitchstonebooks.com/catalog/cynical-theories", "site": "pitchstonebooks.com", "evidence": "https://www.pitchstonebooks.com/catalog/cynical-theories", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "james-carse",
+      "note": "全名 James P. Carse（纽约大学宗教史与宗教文学教授，1932–2020）；kind 应为 person",
+      "sources": [
+        {"type": "website", "title": "James P. Carse 官方网站", "url": "https://jamescarse.com/home/", "site": "jamescarse.com", "evidence": "https://jamescarse.com/home/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Finite and Infinite Games（《有限与无限的游戏》，The Free Press，1986）", "url": "https://jamescarse.com/books/finite-and-infinite-games/", "site": "jamescarse.com", "evidence": "https://jamescarse.com/books/finite-and-infinite-games/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "james-clear",
+      "note": "kind 应为 person",
+      "sources": [
+        {"type": "website", "title": "James Clear 个人网站（文章与 3-2-1 Newsletter）", "url": "https://jamesclear.com/", "site": "jamesclear.com", "evidence": "https://jamesclear.com/atomic-habits", "confidence": "high", "note": null},
+        {"type": "book", "title": "Atomic Habits（《掌控习惯》/《原子习惯》，Avery，2018）", "url": "https://jamesclear.com/atomic-habits", "site": "jamesclear.com", "evidence": "https://www.penguinrandomhouse.com/books/543993/atomic-habits-by-james-clear/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "james-currier",
+      "note": "kind 应为 person（NFX 联合创始人、合伙人）",
+      "sources": [
+        {"type": "website", "title": "James Currier（NFX 团队页）", "url": "https://www.nfx.com/team/james-currier", "site": "nfx.com", "evidence": "https://www.nfx.com/team/james-currier", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "james-fallows",
+      "note": "kind 应为 person（The Atlantic 长期撰稿人）",
+      "sources": [
+        {"type": "website", "title": "Breaking the News（James Fallows 的 Substack）", "url": "https://fallows.substack.com/", "site": "fallows.substack.com", "evidence": "https://fallows.substack.com/about", "confidence": "high", "note": null},
+        {"type": "book", "title": "Looking at the Sun: The Rise of the New East Asian Economic and Political System（Pantheon，1994）", "url": "https://www.penguinrandomhouse.com/books/47837/looking-at-the-sun-by-james-fallows/", "site": "penguinrandomhouse.com", "evidence": "https://www.kirkusreviews.com/book-reviews/james-fallows/looking-at-the-sun/", "confidence": "high", "note": "How the World Works 即节选自此书"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0064-c05",
+      "status": "found",
+      "note": "英文原题 100 Couples Share Their Secrets to a Successful Relationship（The Profile，2020-07-16 首发；2024-02-14 以 The Profile Classic 重发）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Profile Classic: 100 Couples Share Their Secrets to a Successful Relationship",
+          "url": "https://www.readtheprofile.com/p/the-profile-classic-100-couples-share",
+          "site": "readtheprofile.com",
+          "evidence": "https://www.readtheprofile.com/p/the-profile-classic-100-couples-share",
+          "confidence": "high",
+          "note": "2024-02-14 重发版，署名 Polina Pompliano；导语「Love is not just an emotion; it is a skill」与开篇「I’ve been a newlywed for exactly one week」与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "100 Couples Share Their Secrets to a Successful Relationship",
+          "url": "https://www.readtheprofile.com/p/100-couples-share-their-secrets-to",
+          "site": "readtheprofile.com",
+          "evidence": "https://www.readtheprofile.com/p/100-couples-share-their-secrets-to",
+          "confidence": "medium",
+          "note": "2020-07-16 首发版，搜索结果显示标题、作者与日期"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0016-c04",
+      "status": "found",
+      "note": "真格基金「真格老友记」栏目，真格基金创始合伙人兼 CEO 方爱之对话小红书创始人瞿芳，2020-05-12 发布",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "真格方爱之对话小红书创始人瞿芳：小红书没有边界 | 真格老友记",
+          "url": "http://t.cj.sina.cn/articles/view/2438039081/9151862901900nfsu",
+          "site": "新浪财经头条（真格基金账号）",
+          "evidence": "http://t.cj.sina.cn/articles/view/2438039081/9151862901900nfsu",
+          "confidence": "high",
+          "note": "真格基金账号 2020-05-12 发布，正文首段「小红书承载的是“生活在线化”」及方爱之提问与摘录一致"
+        },
+        {
+          "type": "interview",
+          "title": "真格方爱之对话小红书创始人瞿芳：小红书没有边界",
+          "url": "https://t.qianzhan.com/daka/detail/200512-aebba997.html",
+          "site": "前瞻经济学人",
+          "evidence": "https://t.qianzhan.com/daka/detail/200512-aebba997.html",
+          "confidence": "high",
+          "note": "转载，注明来源真格基金（ID：zhenfund）"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Qu Fang"],
+        "evidence": "http://t.cj.sina.cn/articles/view/2438039081/9151862901900nfsu",
+        "note": "访谈形式：受访者为瞿芳，提问者为真格基金方爱之，由真格基金发布"
+      }
+    },
+    {
+      "article_id": "vol0058-c07",
+      "status": "found",
+      "note": "英文原题 Rest Days vs Recovery Days（LessWrong，2019-03-19）；作者为 LessWrong 用户 Unreal，不是 Raemon（Raemon 只是该帖下的评论者）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Rest Days vs Recovery Days",
+          "url": "https://www.lesswrong.com/posts/ximou2kyQorm6MPjX/rest-days-vs-recovery-days",
+          "site": "lesswrong.com",
+          "evidence": "https://www.lesswrong.com/posts/ximou2kyQorm6MPjX/rest-days-vs-recovery-days",
+          "confidence": "high",
+          "note": "页面署名 By Unreal，2019-03-19；开头「Based on a comment I made on this EA Forum Post on Burnout」及相关链接 Sabbath hard and go home、Bottom-Up / Top-Down Implementation 与摘录一致"
+        }
+      ],
+      "author_check": {
+        "status": "corrected",
+        "authors": ["Unreal"],
+        "evidence": "https://www.lesswrong.com/posts/ximou2kyQorm6MPjX/rest-days-vs-recovery-days",
+        "note": "Unreal 为 LessWrong 用户名（化名，未查到实名）；Raemon 在该帖 2019-03-20 发表了评论，原书可能因此误标"
+      }
+    },
+    {
+      "article_id": "vol0011-c05",
+      "status": "found",
+      "note": "英文原题 How Superhuman Built an Engine to Find Product/Market Fit（First Round Review；Superhuman 博客 2018-11-27 同文）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How Superhuman Built an Engine to Find Product Market Fit",
+          "url": "https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/",
+          "site": "review.firstround.com",
+          "evidence": "https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/",
+          "confidence": "high",
+          "note": "Superhuman 创始人兼 CEO Rahul Vohra 撰文，2017 年夏 PMF 分数 22% 起步等内容与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "How Superhuman built an engine to find product-market fit",
+          "url": "https://blog.superhuman.com/how-superhuman-built-an-engine-to-find-product-market-fit/",
+          "site": "blog.superhuman.com",
+          "evidence": "https://blog.superhuman.com/how-superhuman-built-an-engine-to-find-product-market-fit/",
+          "confidence": "high",
+          "note": "Superhuman 官方博客版本，2018-11-27，Contributor: Rahul Vohra"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0056-c04",
+      "status": "found",
+      "note": "英文原题 Work Less, Make More, and Dominate Using the 80/20 Rule（I Will Teach You To Be Rich，2024-05-27 更新）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Work Less, Make More, and Dominate Using the 80/20 Rule",
+          "url": "https://www.iwillteachyoutoberich.com/how-to-apply-the-8020-rule-to-earn-more-work-less-and-dominate/",
+          "site": "iwillteachyoutoberich.com",
+          "evidence": "https://www.iwillteachyoutoberich.com/how-to-apply-the-8020-rule-to-earn-more-work-less-and-dominate/",
+          "confidence": "high",
+          "note": "署名 Ramit Sethi，Updated on May 27, 2024；第 4–7 节（砍掉 80% 工作、搬到生活成本更低处、理解他人动机、更灵活的工作 / ROWE）与摘录要点一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0022-c05",
+      "status": "found",
+      "note": "英文原题 How the Economic Machine Works（Ray Dalio 30 分钟动画视频，2013-09 发布；本文为视频内容的文字整理）",
+      "sources": [
+        {
+          "type": "video",
+          "title": "How the Economic Machine Works（Economic Principles 官方页面）",
+          "url": "https://www.economicprinciples.org/how-the-economic-machine-works",
+          "site": "economicprinciples.org",
+          "evidence": "https://www.economicprinciples.org/how-the-economic-machine-works",
+          "confidence": "high",
+          "note": "Ray Dalio 官方页面，介绍视频讲解信贷、利率、加杠杆与去杠杆，与摘录框架一致"
+        },
+        {
+          "type": "video",
+          "title": "How The Economic Machine Works by Ray Dalio（YouTube）",
+          "url": "https://www.youtube.com/watch?v=PHe0bXAIuk0",
+          "site": "youtube.com",
+          "evidence": "https://www.exploring-economics.org/en/discover/how-the-economic-machine-works/",
+          "confidence": "medium",
+          "note": "链接见 Exploring Economics 条目（Ray Dalio，Bridgewater Associates，2013，时长 30:59）；Ghostarchive 存档的视频说明另列中文版「经济这台机器是怎样运行的」https://www.youtube.com/watch?v=-ZbeYejg9Pk"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0030-c03",
+      "status": "found",
+      "note": "英文原题 Principles for Dealing with the Changing World Order by Ray Dalio（动画视频，2022 年 3 月发布；本文为视频文字版）",
+      "sources": [
+        {
+          "type": "video",
+          "title": "Principles for Dealing with the Changing World Order by Ray Dalio",
+          "url": "https://www.youtube.com/watch?v=xguam0TKMw8",
+          "site": "youtube.com",
+          "evidence": "https://www.youtube.com/watch?v=xguam0TKMw8",
+          "confidence": "high",
+          "note": "视频字幕开头「The times ahead will be radically different… roughly 50 years of global macroeconomic investing… last 500 years… Dutch, British, and US empires」与摘录逐句对应"
+        },
+        {
+          "type": "social",
+          "title": "Principles for Dealing with the Changing World Order by Ray Dalio（Ray Dalio 发布视频的 LinkedIn 帖子）",
+          "url": "https://www.linkedin.com/posts/raydalio_principles-for-dealing-with-the-changing-activity-6904916270068715520-e_cQ",
+          "site": "linkedin.com",
+          "evidence": "https://www.linkedin.com/posts/raydalio_principles-for-dealing-with-the-changing-activity-6904916270068715520-e_cQ",
+          "confidence": "medium",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0031-c04",
+      "status": "found",
+      "note": "费曼 1966-02-03 致 Koichi Mano 的信，收录于书信集 Perfectly Reasonable Deviations from the Beaten Track: The Letters of Richard P. Feynman（Basic Books，2005）",
+      "sources": [
+        {
+          "type": "book",
+          "title": "Perfectly Reasonable Deviations from the Beaten Track: The Letters of Richard P. Feynman（Michelle Feynman 编，Basic Books，2005）",
+          "url": "https://books.google.com/books?id=HpgNSVS6fUYC",
+          "site": "books.google.com",
+          "evidence": "https://books.google.com/books?id=HpgNSVS6fUYC",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "article",
+          "title": "Richard Feynman’s Letter on What Problems to Solve",
+          "url": "https://fs.blog/richard-feynman-what-problems-to-solve/",
+          "site": "fs.blog",
+          "evidence": "https://fs.blog/richard-feynman-what-problems-to-solve/",
+          "confidence": "high",
+          "note": "Farnam Street 转载全信并注明出自上述书信集；信文「Dear Koichi… The worthwhile problems are the ones you can really solve or help solve… A problem is grand in science…」与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0049-c04",
+      "status": "found",
+      "note": "英文原题 Learning to Learn（1995-03-28 美国海军研究生院课程 The Art of Doing Science and Engineering 开篇演讲）；输入 year 1955 应为 1995",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "“Learning to Learn” by Richard Hamming（演讲文字稿）",
+          "url": "https://jamesclear.com/great-speeches/learning-to-learn-by-richard-hamming",
+          "site": "jamesclear.com",
+          "evidence": "https://jamesclear.com/great-speeches/learning-to-learn-by-richard-hamming",
+          "confidence": "high",
+          "note": "背景注明 1995-03-28 于 Monterey 海军研究生院，为课程 The Art of Doing Science and Engineering 的导论"
+        },
+        {
+          "type": "video",
+          "title": "Hamming, Intro to The Art of Doing Science and Engineering: Learning to Learn (March 28, 1995)",
+          "url": "https://www.youtube.com/watch?v=AD4b-52jtos",
+          "site": "youtube.com",
+          "evidence": "https://www.youtube.com/watch?v=AD4b-52jtos",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "website",
+          "title": "Hamming on Hamming: Learning to Learn（NPS 课程录像索引）",
+          "url": "https://savage.nps.edu/hamming/HammingLearningToLearnRecovered/",
+          "site": "savage.nps.edu",
+          "evidence": "https://savage.nps.edu/hamming/HammingLearningToLearnRecovered/",
+          "confidence": "high",
+          "note": "列表中 28 March 1995 Orientation 一讲即本文"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0079-c07",
+      "status": "found",
+      "note": "英文原题 How Complex Systems Fail（Richard I. Cook，芝加哥大学 Cognitive Technologies Laboratory，1998 年起草的短论）",
+      "sources": [
+        {
+          "type": "paper",
+          "title": "How Complex Systems Fail (Being a Short Treatise on the Nature of Failure…)",
+          "url": "https://how.complexsystems.fail/",
+          "site": "how.complexsystems.fail",
+          "evidence": "https://how.complexsystems.fail/",
+          "confidence": "high",
+          "note": "署名 Richard I. Cook, MD；条目「Complex systems are intrinsically hazardous systems / heavily and successfully defended / Catastrophe requires multiple failures / run in degraded mode」与摘录逐条对应"
+        },
+        {
+          "type": "paper",
+          "title": "How Complex Systems Fail（Adaptive Capacity Labs PDF）",
+          "url": "https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf",
+          "site": "adaptivecapacitylabs.com",
+          "evidence": "https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf",
+          "confidence": "medium",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0070-c05",
+      "status": "found",
+      "note": "英文原题 How Different Cultures Understand Time（Business Insider，2014-06-01，节选自 Richard Lewis《When Cultures Collide》）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How Different Cultures Understand Time（Business Insider，Wayback Machine 存档）",
+          "url": "https://web.archive.org/web/20140603005839/https:/www.businessinsider.com/how-different-cultures-understand-time-2014-5",
+          "site": "businessinsider.com（web.archive.org 存档）",
+          "evidence": "https://web.archive.org/web/20140603005839/https:/www.businessinsider.com/how-different-cultures-understand-time-2014-5",
+          "confidence": "high",
+          "note": "署名 Richard Lewis, Richard Lewis Communications，2014-06-01；线性时间、多线程时间、循环时间及马达加斯加「未来从脑后流入」与摘录一致"
+        },
+        {
+          "type": "website",
+          "title": "Richard Lewis - Business Insider（作者页，列有本文）",
+          "url": "https://www.businessinsider.com/author/richard-lewis",
+          "site": "businessinsider.com",
+          "evidence": "https://www.businessinsider.com/author/richard-lewis",
+          "confidence": "medium",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0036-c05",
+      "status": "found",
+      "note": "英文原题 The Commonplace Book: How to Get Compound Interest on Your Ideas（Deep Dish，2020-07-04）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Commonplace Book: How to Get Compound Interest on Your Ideas",
+          "url": "https://thedeepdish.org/digital-commonplace-book/",
+          "site": "thedeepdish.org",
+          "evidence": "https://thedeepdish.org/digital-commonplace-book/",
+          "confidence": "high",
+          "note": "Richard Meadows 的博客；「银行账户 / 投资策略」类比及目录（Modern Commonplace Books、file drawer、Zettelkasten、Digital vs traditional tools、Roam）与摘录一致"
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "polina-pompliano",
+      "note": "Newsletter 作者，The Profile 创办人，曾任职 Fortune",
+      "sources": [
+        {"type": "website", "title": "The Profile（Polina Pompliano 的 Newsletter）关于页", "url": "https://www.readtheprofile.com/about", "site": "readtheprofile.com", "evidence": "https://www.readtheprofile.com/about", "confidence": "high", "note": null},
+        {"type": "book", "title": "Hidden Genius: The Secret Ways of Thinking That Power the World's Most Successful People（Harriman House，2023）", "url": "https://www.hiddengeniusbook.com/", "site": "hiddengeniusbook.com", "evidence": "https://www.readtheprofile.com/p/hidden-genius-book", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "qu-fang",
+      "note": "小红书联合创始人（英文名 Miranda Qu）",
+      "sources": [
+        {"type": "website", "title": "瞿芳 - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E7%9E%BF%E8%8A%B3", "site": "zh.wikipedia.org", "evidence": "https://zh.wikipedia.org/wiki/%E7%9E%BF%E8%8A%B3", "confidence": "high", "note": null},
+        {"type": "website", "title": "瞿芳 - 百度百科", "url": "https://baike.baidu.com/item/%E7%9E%BF%E8%8A%B3/22038407", "site": "baike.baidu.com", "evidence": "https://baike.baidu.com/item/%E7%9E%BF%E8%8A%B3/22038407", "confidence": "high", "note": null},
+        {"type": "website", "title": "小红书 - 关于我们（由毛文超和瞿芳于 2013 年创立）", "url": "https://www.xiaohongshu.com/protocols/about", "site": "xiaohongshu.com", "evidence": "https://www.xiaohongshu.com/protocols/about", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "raemon",
+      "note": "LessWrong 团队成员 / 版主（Raemon 为用户名）。注意：本批中归属给他的「恢复日和休息日」实为 Unreal 所写，见 vol0058-c07 的 author_check",
+      "sources": [
+        {"type": "website", "title": "Raemon - LessWrong 用户主页", "url": "https://www.lesswrong.com/users/raemon", "site": "lesswrong.com", "evidence": "https://www.lesswrong.com/users/raemon", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "rahul-vohra",
+      "note": "Superhuman 创始人兼 CEO，此前联合创办 Rapportive（2012 年被 LinkedIn 收购）",
+      "sources": [
+        {"type": "website", "title": "Rahul Vohra - about.me 个人页", "url": "https://about.me/rahulvohra", "site": "about.me", "evidence": "https://about.me/rahulvohra", "confidence": "high", "note": null},
+        {"type": "website", "title": "Rahul Vohra - First Round Review 作者页", "url": "https://review.firstround.com/articles/rahul-vohra/", "site": "review.firstround.com", "evidence": "https://review.firstround.com/articles/rahul-vohra/", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "ramit-sethi",
+      "note": "个人理财作者，I Will Teach You To Be Rich 网站与播客主理人",
+      "sources": [
+        {"type": "website", "title": "I Will Teach You To Be Rich（Ramit Sethi 的网站）", "url": "https://www.iwillteachyoutoberich.com/", "site": "iwillteachyoutoberich.com", "evidence": "https://books.google.com/books?hl=en&id=YtE6JJ78XLcC", "confidence": "high", "note": "Google Books 作者简介注明其网站为 iwillteachyoutoberich.com"},
+        {"type": "book", "title": "I Will Teach You To Be Rich（Workman Publishing，2009）", "url": "https://books.google.com/books?hl=en&id=YtE6JJ78XLcC", "site": "books.google.com", "evidence": "https://books.google.com/books?hl=en&id=YtE6JJ78XLcC", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "randy-pausch",
+      "note": "卡内基梅隆大学计算机科学教授，Entertainment Technology Center 联合创办人",
+      "sources": [
+        {"type": "website", "title": "Randy Pausch's Home Page（卡内基梅隆大学）", "url": "http://www.cs.cmu.edu/~pausch/", "site": "cs.cmu.edu", "evidence": "http://www.cs.cmu.edu/~pausch/", "confidence": "high", "note": "页面收录 Last Lecture 与弗吉尼亚大学 Time Management 演讲"},
+        {"type": "book", "title": "The Last Lecture（《最后的演讲》，与 Jeffrey Zaslow 合著，Hyperion，2008）", "url": "https://www.harvard.com/book/9781401323257", "site": "harvard.com", "evidence": "https://www.harvard.com/book/9781401323257", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "ray-dalio",
+      "note": "桥水基金（Bridgewater Associates）创始人",
+      "sources": [
+        {"type": "website", "title": "Principles by Ray Dalio（官方网站）", "url": "https://www.principles.com/", "site": "principles.com", "evidence": "https://www.principles.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Principles: Life and Work（《原则》，Simon & Schuster，2017）", "url": "https://www.simonandschuster.com/books/Principles/Ray-Dalio/Principles/9781501124051", "site": "simonandschuster.com", "evidence": "https://www.simonandschuster.com/books/Principles/Ray-Dalio/Principles/9781501124051", "confidence": "high", "note": null},
+        {"type": "website", "title": "Economic Principles（Ray Dalio 经济原理网站）", "url": "https://www.economicprinciples.org/how-the-economic-machine-works", "site": "economicprinciples.org", "evidence": "https://www.economicprinciples.org/how-the-economic-machine-works", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "renee-mauborgne",
+      "note": "INSEAD 战略学教授，与 W. Chan Kim 合著《蓝海战略》",
+      "sources": [
+        {"type": "website", "title": "Renée Mauborgne - Blue Ocean Strategy 官网作者页", "url": "https://www.blueoceanstrategy.com/authors/renee-mauborgne/", "site": "blueoceanstrategy.com", "evidence": "https://www.blueoceanstrategy.com/authors/renee-mauborgne/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Renée Mauborgne - INSEAD 教师页", "url": "https://www.insead.edu/faculty/renee-mauborgne", "site": "insead.edu", "evidence": "https://www.insead.edu/faculty/renee-mauborgne", "confidence": "high", "note": null},
+        {"type": "book", "title": "Blue Ocean Strategy（《蓝海战略》，与 W. Chan Kim 合著，Harvard Business Review Press）", "url": "https://www.blueoceanstrategy.com/", "site": "blueoceanstrategy.com", "evidence": "https://www.blueoceanstrategy.com/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "richard-dawkins",
+      "note": "英国演化生物学家、科普作家",
+      "sources": [
+        {"type": "website", "title": "Richard Dawkins 官方网站", "url": "https://richarddawkins.com/", "site": "richarddawkins.com", "evidence": "https://richarddawkins.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Selfish Gene（《自私的基因》，Oxford University Press，1976）", "url": "https://www.richarddawkins.com/books/book/the-selfish-gene", "site": "richarddawkins.com", "evidence": "https://www.richarddawkins.com/books/book/the-selfish-gene", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "richard-feynman",
+      "note": "美国理论物理学家，1965 年诺贝尔物理学奖得主",
+      "sources": [
+        {"type": "website", "title": "The Official Site of Richard Feynman（著作列表）", "url": "https://richardfeynman.com/works/popular.html", "site": "richardfeynman.com", "evidence": "https://richardfeynman.com/works/popular.html", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Feynman Lectures on Physics（《费曼物理学讲义》，加州理工学院在线版）", "url": "https://www.feynmanlectures.caltech.edu/I_90.html", "site": "feynmanlectures.caltech.edu", "evidence": "https://www.feynmanlectures.caltech.edu/I_90.html", "confidence": "high", "note": null},
+        {"type": "book", "title": "Perfectly Reasonable Deviations from the Beaten Track: The Letters of Richard P. Feynman（Basic Books，2005）", "url": "https://books.google.com/books?id=HpgNSVS6fUYC", "site": "books.google.com", "evidence": "https://books.google.com/books?id=HpgNSVS6fUYC", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "richard-hamming",
+      "note": "美国数学家、计算机科学家（1915–1998），1968 年图灵奖得主",
+      "sources": [
+        {"type": "book", "title": "The Art of Doing Science and Engineering: Learning to Learn（Stripe Press，2020；原版 1996）", "url": "https://press.stripe.com/the-art-of-doing-science-and-engineering", "site": "press.stripe.com", "evidence": "https://press.stripe.com/the-art-of-doing-science-and-engineering", "confidence": "high", "note": null},
+        {"type": "video", "title": "Hamming on Hamming: Learning to Learn（美国海军研究生院课程录像）", "url": "https://savage.nps.edu/hamming/HammingLearningToLearnRecovered/", "site": "savage.nps.edu", "evidence": "https://savage.nps.edu/hamming/HammingLearningToLearnRecovered/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "richard-i-cook",
+      "note": "麻醉医师、复杂系统安全研究者（1953–2022），Adaptive Capacity Labs 联合创办人",
+      "sources": [
+        {"type": "website", "title": "How Complex Systems Fail（Cook 代表作专页）", "url": "https://how.complexsystems.fail/", "site": "how.complexsystems.fail", "evidence": "https://how.complexsystems.fail/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Richard I. Cook, MD, 1953-2022（芝加哥大学讣告）", "url": "https://biologicalsciences.uchicago.edu/news/richard-cook-obituary", "site": "biologicalsciences.uchicago.edu", "evidence": "https://biologicalsciences.uchicago.edu/news/richard-cook-obituary", "confidence": "high", "note": null},
+        {"type": "website", "title": "Adaptive Capacity Labs 博客（含 Richard Cook 生平长文）", "url": "https://www.adaptivecapacitylabs.com/blog/", "site": "adaptivecapacitylabs.com", "evidence": "https://www.adaptivecapacitylabs.com/blog/", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "richard-lewis",
+      "note": "英国语言学家、跨文化沟通专家（Richard D. Lewis），Richard Lewis Communications 创办人，提出 Lewis Model",
+      "sources": [
+        {"type": "website", "title": "Our Founder Richard Lewis（CrossCulture / Richard Lewis Communications）", "url": "https://www.crossculture.com/about-us/our-founder-richard-lewis/", "site": "crossculture.com", "evidence": "https://www.crossculture.com/about-us/our-founder-richard-lewis/", "confidence": "high", "note": null},
+        {"type": "book", "title": "When Cultures Collide: Managing Successfully Across Cultures（Nicholas Brealey，1996）", "url": "https://books.google.com/books/about/When_Cultures_Collide.html?id=swmpAQAACAAJ", "site": "books.google.com", "evidence": "https://books.google.com/books/about/When_Cultures_Collide.html?id=swmpAQAACAAJ", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "richard-meadows",
+      "note": "财经专栏作者、投资者，博客 Deep Dish 作者",
+      "sources": [
+        {"type": "website", "title": "Deep Dish（Richard Meadows 的博客）", "url": "https://thedeepdish.org/", "site": "thedeepdish.org", "evidence": "https://thedeepdish.org/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Optionality: How to Survive and Thrive in a Volatile World（2020）", "url": "https://thedeepdish.org/optionality-book/", "site": "thedeepdish.org", "evidence": "https://thedeepdish.org/optionality-book/", "confidence": "high", "note": null}
+      ]
+    }
+  ]
+}

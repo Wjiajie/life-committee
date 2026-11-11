@@ -1,0 +1,300 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0093-c06",
+      "status": "found",
+      "note": "英文原题 Masters and Slaves of Money（2020-07-05），Medium 与 Substack 同文首发",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Masters and Slaves of Money",
+          "url": "https://breedlove22.medium.com/masters-and-slaves-of-money-255ecc93404f",
+          "site": "breedlove22.medium.com",
+          "evidence": "https://breedlove22.medium.com/masters-and-slaves-of-money-255ecc93404f",
+          "confidence": "high",
+          "note": "页面开头与摘录（aggry beads、奴隶珠）逐句对应，署名 Robert Breedlove，Jul 5, 2020"
+        },
+        {
+          "type": "article",
+          "title": "Masters and Slaves of Money - by Robert Breedlove",
+          "url": "https://breedlove22.substack.com/p/masters-and-slaves-of-money",
+          "site": "breedlove22.substack.com",
+          "evidence": "https://breedlove22.substack.com/p/masters-and-slaves-of-money",
+          "confidence": "high",
+          "note": "作者 Substack 上的同文版本"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Robert Breedlove"], "evidence": "https://breedlove22.medium.com/masters-and-slaves-of-money-255ecc93404f", "note": null}
+    },
+    {
+      "article_id": "vol0034-c06",
+      "status": "found",
+      "note": "英文原题 Harnessing the Science of Persuasion，Harvard Business Review 2001 年 10 月号",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Harnessing the Science of Persuasion",
+          "url": "https://hbr.org/2001/10/harnessing-the-science-of-persuasion",
+          "site": "hbr.org",
+          "evidence": "https://hbr.org/2001/10/harnessing-the-science-of-persuasion",
+          "confidence": "high",
+          "note": "署名 Robert B. Cialdini，From the Magazine (October 2001)；六大原则与摘录一致"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Robert B. Cialdini"], "evidence": "https://hbr.org/2001/10/harnessing-the-science-of-persuasion", "note": null}
+    },
+    {
+      "article_id": "vol0029-c05",
+      "status": "found",
+      "note": "英文原题 Why Should Anyone Be Led by You?，Harvard Business Review 2000 年 9–10 月号",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Why Should Anyone Be Led by You?",
+          "url": "https://hbr.org/2000/09/why-should-anyone-be-led-by-you",
+          "site": "hbr.org",
+          "evidence": "https://hbr.org/2000/09/why-should-anyone-be-led-by-you",
+          "confidence": "high",
+          "note": "署名 Robert Goffee and Gareth Jones；开头“让满屋子高管沉默”的问题与摘录一致（见 O'Reilly 收录版全文开头）"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Robert Goffee", "Gareth Jones"], "evidence": "https://hbr.org/2000/09/why-should-anyone-be-led-by-you", "note": null}
+    },
+    {
+      "article_id": "vol0038-c08",
+      "status": "found",
+      "note": "英文原题 Stock and flow，Snarkmarket 2010-01-18",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Stock and flow",
+          "url": "http://snarkmarket.com/2010/4890",
+          "site": "snarkmarket.com",
+          "evidence": "http://snarkmarket.com/2010/4890",
+          "confidence": "high",
+          "note": "页面标题 Stock and flow / Snarkmarket，日期 January 18, 2010，正文与摘录（机会成本、存量与流量）一致；评论区多处称作者为 Robin"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Robin Sloan"], "evidence": "https://kottke.org/10/01/stock-and-flow", "note": "kottke.org 与多处转引均写明作者 Robin Sloan"}
+    },
+    {
+      "article_id": "vol0033-c04",
+      "status": "found",
+      "note": "英文原题 The Nature of the Firm，Economica, New Series, Vol. 4, No. 16 (1937), pp. 386–405",
+      "sources": [
+        {
+          "type": "paper",
+          "title": "The Nature of the Firm（Economica, 1937）",
+          "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1468-0335.1937.tb00002.x",
+          "site": "onlinelibrary.wiley.com",
+          "evidence": "https://chicagounbound.uchicago.edu/journal_articles/3171/",
+          "confidence": "medium",
+          "note": "Wiley 页面仅在搜索结果中见到标题“The Nature of the Firm - Coase - 1937 - Economica”，未打开；Chicago Unbound 记录确认作者与刊期"
+        },
+        {
+          "type": "paper",
+          "title": "\"The Nature of the Firm\" by Ronald H. Coase（Chicago Unbound 记录）",
+          "url": "https://chicagounbound.uchicago.edu/journal_articles/3171/",
+          "site": "chicagounbound.uchicago.edu",
+          "evidence": "https://chicagounbound.uchicago.edu/journal_articles/3171/",
+          "confidence": "high",
+          "note": "引用格式：Ronald H. Coase, \"The Nature of the Firm,\" 4 Economica 386 (1937)"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Ronald H. Coase"], "evidence": "https://chicagounbound.uchicago.edu/journal_articles/3171/", "note": null}
+    },
+    {
+      "article_id": "vol0072-c04",
+      "status": "found",
+      "note": "英文原题 Things to Hang on Your Mental Mug Tree，Edge.org 的对话/讲述稿",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "Things to Hang on Your Mental Mug Tree",
+          "url": "https://edge.org/conversation/rory_sutherland-things-to-hang-on-your-mental-mug-tree",
+          "site": "edge.org",
+          "evidence": "https://edge.org/conversation/rory_sutherland-things-to-hang-on-your-mental-mug-tree",
+          "confidence": "high",
+          "note": "开篇“On a list of ten things that matter in terms of how you look at the world, satisficing would be number one”与摘录逐句对应；红牛、婚礼请柬例子均在文中。页面未显示发布日期"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Rory Sutherland"], "evidence": "https://edge.org/conversation/rory_sutherland-things-to-hang-on-your-mental-mug-tree", "note": null}
+    },
+    {
+      "article_id": "vol0057-c05",
+      "status": "found",
+      "note": "英文原题 The friendship problem（2023-11-24），Newsletter What Do We Do Now That We're Here?",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The friendship problem",
+          "url": "https://rojospinks.substack.com/p/the-friendship-problem",
+          "site": "rojospinks.substack.com",
+          "evidence": "https://rojospinks.substack.com/p/the-friendship-problem",
+          "confidence": "high",
+          "note": "署名 Rosie Spinks，Nov 24, 2023；“30 岁离开伦敦、有个蹒跚学步的孩子、遵循睡前例程”与摘录一致"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Rosie Spinks"], "evidence": "https://rojospinks.substack.com/p/the-friendship-problem", "note": null}
+    },
+    {
+      "article_id": "vol0059-c03",
+      "status": "found",
+      "note": "英文原题 A Lifetime of Systems Thinking，The Systems Thinker V10N5（1999），据 Ackoff 80 岁生日会议演讲整理",
+      "sources": [
+        {
+          "type": "article",
+          "title": "A Lifetime of Systems Thinking",
+          "url": "https://thesystemsthinker.com/a-lifetime-of-systems-thinking/",
+          "site": "thesystemsthinker.com",
+          "evidence": "https://thesystemsthinker.com/a-lifetime-of-systems-thinking/",
+          "confidence": "high",
+          "note": "署名 Russell Ackoff；开篇“When one reaches 80 … my bag of wisbits is empty”与摘录一致"
+        },
+        {
+          "type": "speech",
+          "title": "The Systems Thinker V10N5（PDF，编者按注明源自 Villanova University 演讲）",
+          "url": "https://thesystemsthinker.com/wp-content/uploads/pdfs/100501pk.pdf",
+          "site": "thesystemsthinker.com",
+          "evidence": "https://thesystemsthinker.com/wp-content/uploads/pdfs/100501pk.pdf",
+          "confidence": "high",
+          "note": "编者按：This article is drawn from a speech given by Russell Ackoff in March at Villanova University"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Russell L. Ackoff"], "evidence": "https://thesystemsthinker.com/a-lifetime-of-systems-thinking/", "note": null}
+    },
+    {
+      "article_id": "vol0051-c05",
+      "status": "found",
+      "note": "英文原题 Where Do Prices Come From?，Econlib 专栏 2007-06-04",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Where Do Prices Come From?",
+          "url": "https://www.econlib.org/library/Columns/y2007/Robertsprices.html",
+          "site": "econlib.org",
+          "evidence": "https://www.econlib.org/library/Columns/y2007/Robertsprices.html",
+          "confidence": "high",
+          "note": "署名 Russell Roberts，Jun 4 2007；题记“Prices adjust. They're not fixed.”与摘录一致"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Russell Roberts"], "evidence": "https://www.econlib.org/library/Columns/y2007/Robertsprices.html", "note": null}
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "richard-robson",
+      "note": "墨尔本大学化学家，2025 年诺贝尔化学奖得主（金属有机框架 MOF）",
+      "sources": [
+        {"type": "website", "title": "Richard Robson – Facts – 2025（诺贝尔奖官网）", "url": "https://www.nobelprize.org/prizes/chemistry/2025/robson/facts/", "site": "nobelprize.org", "evidence": "https://www.nobelprize.org/prizes/chemistry/2025/robson/facts/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Professor Richard Robson wins Nobel Prize in Chemistry（墨尔本大学新闻）", "url": "https://www.unimelb.edu.au/newsroom/news/2025/october/professor-richard-robson-wins-nobel-prize-in-chemistry", "site": "unimelb.edu.au", "evidence": "https://www.unimelb.edu.au/newsroom/news/2025/october/professor-richard-robson-wins-nobel-prize-in-chemistry", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "richard-schwartz",
+      "note": "Richard C. Schwartz，内在家庭系统（IFS）疗法创始人",
+      "sources": [
+        {"type": "website", "title": "Dr. Richard C. Schwartz 个人网站", "url": "https://richardschwartzphd.com/about/", "site": "richardschwartzphd.com", "evidence": "https://richardschwartzphd.com/about/", "confidence": "high", "note": null},
+        {"type": "website", "title": "IFS Institute：Richard C. Schwartz, Ph.D. 简介", "url": "https://ifs-institute.com/about-us/richard-c-schwartz-phd", "site": "ifs-institute.com", "evidence": "https://ifs-institute.com/about-us/richard-c-schwartz-phd", "confidence": "high", "note": null},
+        {"type": "book", "title": "No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model（Sounds True，2021）", "url": "https://ifs-institute.com/nobadparts", "site": "ifs-institute.com", "evidence": "https://ifs-institute.com/nobadparts", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "rob-goodman",
+      "note": "政治学者、传记作者，与 Jimmy Soni 合著香农传记",
+      "sources": [
+        {"type": "website", "title": "Rob Goodman | Aeon 作者页", "url": "https://aeon.co/users/rob-goodman", "site": "aeon.co", "evidence": "https://aeon.co/users/rob-goodman", "confidence": "high", "note": null},
+        {"type": "book", "title": "A Mind at Play: How Claude Shannon Invented the Information Age（与 Jimmy Soni 合著，Simon & Schuster，2017）", "url": "https://www.simonandschuster.com/books/A-Mind-at-Play/Jimmy-Soni/9781476766690", "site": "simonandschuster.com", "evidence": "https://www.simonandschuster.com/books/A-Mind-at-Play/Jimmy-Soni/9781476766690", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "robert-breedlove",
+      "note": "比特币领域作者、播客主持人，前对冲基金经理",
+      "sources": [
+        {"type": "website", "title": "The Freedom Analects（Robert Breedlove 的 Substack）", "url": "https://breedlove22.substack.com/", "site": "breedlove22.substack.com", "evidence": "https://breedlove22.substack.com/about", "confidence": "high", "note": null},
+        {"type": "podcast", "title": "The \"What is Money?\" Show", "url": "https://www.whatismoneypodcast.com/", "site": "whatismoneypodcast.com", "evidence": "https://podcasts.apple.com/us/podcast/the-what-is-money-show/id1541404400", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "robert-cialdini",
+      "note": "社会心理学家，说服与影响力研究",
+      "sources": [
+        {"type": "website", "title": "Robert Cialdini 官网（Cialdini Institute）", "url": "https://cialdini.com/", "site": "cialdini.com", "evidence": "https://cialdini.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Influence: The Psychology of Persuasion（《影响力》，William Morrow，1984；新增订版 Harper Business，2021）", "url": "https://cialdini.com/books/influence", "site": "cialdini.com", "evidence": "https://cialdini.com/books/influence", "confidence": "high", "note": null},
+        {"type": "website", "title": "INFLUENCE AT WORK", "url": "https://www.influenceatwork.com/", "site": "influenceatwork.com", "evidence": "https://www.influenceatwork.com/", "confidence": "high", "note": "Cialdini 创办的培训与演讲机构"}
+      ]
+    },
+    {
+      "author_id": "robert-goffee",
+      "note": "伦敦商学院组织行为学荣休教授",
+      "sources": [
+        {"type": "website", "title": "Rob Goffee | London Business School 教师页", "url": "https://www.london.edu/faculty-and-research/faculty-profiles/g/goffee-r", "site": "london.edu", "evidence": "https://www.london.edu/faculty-and-research/faculty-profiles/g/goffee-r", "confidence": "high", "note": null},
+        {"type": "website", "title": "Rob Goffee（Wikipedia）", "url": "https://en.wikipedia.org/wiki/Rob_Goffee", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Rob_Goffee", "confidence": "high", "note": "注明与 Gareth Jones 合著畅销书 Why Should Anyone Be Led by You?"}
+      ]
+    },
+    {
+      "author_id": "robin-sloan",
+      "note": "小说家、Newsletter 作者",
+      "sources": [
+        {"type": "website", "title": "Robin Sloan 个人网站与 Newsletter", "url": "https://www.robinsloan.com/", "site": "robinsloan.com", "evidence": "https://www.robinsloan.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Mr. Penumbra's 24-Hour Bookstore（首部长篇小说，FSG，2012）", "url": "https://www.robinsloan.com/books/penumbra/", "site": "robinsloan.com", "evidence": "https://www.robinsloan.com/books/penumbra/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "ronald-coase",
+      "note": "Ronald H. Coase，1991 年诺贝尔经济学奖得主",
+      "sources": [
+        {"type": "website", "title": "Ronald H. Coase – Biographical（诺贝尔奖官网）", "url": "https://www.nobelprize.org/prizes/economic-sciences/1991/coase/biographical/", "site": "nobelprize.org", "evidence": "https://www.nobelprize.org/prizes/economic-sciences/1991/coase/biographical/", "confidence": "high", "note": null},
+        {"type": "website", "title": "1991 年经济学奖概览（诺贝尔奖官网）", "url": "https://www.nobelprize.org/prizes/economic-sciences/1991/summary/", "site": "nobelprize.org", "evidence": "https://www.nobelprize.org/prizes/economic-sciences/1991/summary/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "ronald-siegel",
+      "note": "Ronald D. Siegel，哈佛医学院心理学助理教授（兼职），正念与慢性疼痛",
+      "sources": [
+        {"type": "website", "title": "Dr. Ron Siegel 个人网站", "url": "https://drronsiegel.com/about/", "site": "drronsiegel.com", "evidence": "https://drronsiegel.com/about/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Ronald Siegel | Psychotherapy Networker 作者页", "url": "https://www.psychotherapynetworker.org/contributors/ronald-siegel/", "site": "psychotherapynetworker.org", "evidence": "https://www.psychotherapynetworker.org/contributors/ronald-siegel/", "confidence": "high", "note": "该页列出与 Richard Schwartz、Howard Schubiner 合写的 IFS and Chronic Pain"}
+      ]
+    },
+    {
+      "author_id": "ronald-w-dworkin",
+      "note": "麻醉科医生、政治哲学学者",
+      "sources": [
+        {"type": "website", "title": "Ronald W Dworkin 个人网站", "url": "https://ronaldwdworkin.com/", "site": "ronaldwdworkin.com", "evidence": "https://ronaldwdworkin.com/", "confidence": "high", "note": "网站收录 When I Lost My Intuition（Aeon，2025-03-03）"},
+        {"type": "book", "title": "Medical Catastrophe: Confessions of an Anesthesiologist（Rowman & Littlefield，2017）", "url": "https://ronaldwdworkin.com/medical-catastrophe", "site": "ronaldwdworkin.com", "evidence": "https://www.thenewatlantis.com/authors/ronald-dworkin", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "rory-sutherland",
+      "note": "奥美（Ogilvy）副董事长，行为科学营销",
+      "sources": [
+        {"type": "book", "title": "Alchemy: The Surprising Power of Ideas That Don't Make Sense（WH Allen / Ebury，2019）", "url": "https://books.google.com/books/about/Alchemy.html?id=rBgZDAAAQBAJ", "site": "books.google.com", "evidence": "https://search.worldcat.org/title/1102320859?oclcNum=1102320859", "confidence": "high", "note": null},
+        {"type": "website", "title": "Rory Sutherland (advertising executive)（Wikipedia）", "url": "https://en.wikipedia.org/wiki/Rory_Sutherland_(advertising_executive)", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Rory_Sutherland_(advertising_executive)", "confidence": "high", "note": null},
+        {"type": "website", "title": "Rory Sutherland | TED 演讲者页", "url": "https://www.ted.com/speakers/rory_sutherland", "site": "ted.com", "evidence": "https://www.ted.com/speakers/rory_sutherland", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "rosie-spinks",
+      "note": "英国作者、前记者",
+      "sources": [
+        {"type": "website", "title": "What Do We Do Now That We're Here?（Rosie Spinks 的 Newsletter）", "url": "https://rojospinks.substack.com/", "site": "rojospinks.substack.com", "evidence": "https://rojospinks.substack.com/about", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "russell-ackoff",
+      "note": "Russell L. Ackoff，沃顿商学院荣休教授，系统思考先驱",
+      "sources": [
+        {"type": "website", "title": "Russell L. Ackoff（Wikipedia）", "url": "https://en.wikipedia.org/wiki/Russell_L._Ackoff", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Russell_L._Ackoff", "confidence": "high", "note": null},
+        {"type": "book", "title": "Ackoff's Best: His Classic Writings on Management（Wiley，1999）", "url": "https://www.wiley.com/en-us/ackoff's-best-his-classic-writings-on-management-p-9780471316343", "site": "wiley.com", "evidence": "https://www.wiley.com/en-us/ackoff's-best-his-classic-writings-on-management-p-9780471316343", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "russell-roberts",
+      "note": "Russ Roberts，经济学家，EconTalk 播客主持人",
+      "sources": [
+        {"type": "website", "title": "Russ Roberts 个人网站", "url": "https://russroberts.info/", "site": "russroberts.info", "evidence": "https://russroberts.info/about/", "confidence": "high", "note": null},
+        {"type": "book", "title": "How Adam Smith Can Change Your Life: An Unexpected Guide to Human Nature and Happiness（Portfolio，2014）", "url": "https://russroberts.info/book/how-adam-smith-can-change-your-life/", "site": "russroberts.info", "evidence": "https://www.hoover.org/profiles/russ-roberts", "confidence": "high", "note": null}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "articles": [],
+  "authors": [
+    {
+      "author_id": "andrew-mcluhan",
+      "note": "马歇尔·麦克卢汉之孙，The McLuhan Institute 创办人兼主任",
+      "sources": [
+        {"type": "website", "title": "Andrew McLuhan 个人网站", "url": "https://andrewmcluhan.com/", "site": "andrewmcluhan.com", "evidence": "https://andrewmcluhan.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "The McLuhan Institute", "url": "https://themcluhaninstitute.com/about/", "site": "themcluhaninstitute.com", "evidence": "https://themcluhaninstitute.com/about/", "confidence": "high", "note": null},
+        {"type": "website", "title": "The McLuhan Newsletter（Substack）", "url": "https://mcluhan.substack.com/about", "site": "mcluhan.substack.com", "evidence": "https://mcluhan.substack.com/about", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "tulika-bahadur",
+      "note": "On Art and Aesthetics 创办人与发布人",
+      "sources": [
+        {"type": "website", "title": "On Art and Aesthetics（作者创办的网站）", "url": "https://onartandaesthetics.com/about-contact/", "site": "onartandaesthetics.com", "evidence": "https://onartandaesthetics.com/about-contact/", "confidence": "high", "note": null}
+      ]
+    }
+  ]
+}

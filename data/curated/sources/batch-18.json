@@ -1,0 +1,455 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0026-c05",
+      "status": "found",
+      "note": "英文原题 Crony Beliefs（Melting Asphalt，2016-11-02）；开头「本文深受《克服偏见》《少犯错》《石板星法典》启发」对应原文 Credits up front: Overcoming Bias, Less Wrong, Slate Star Codex",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Crony Beliefs",
+          "url": "https://meltingasphalt.com/crony-beliefs/",
+          "site": "meltingasphalt.com",
+          "evidence": "https://meltingasphalt.com/crony-beliefs/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Kevin Simler"], "evidence": "https://meltingasphalt.com/crony-beliefs/", "note": "原书标注 Kevin Simle 为 Kevin Simler 的漏字误拼"}
+    },
+    {
+      "article_id": "vol0031-c05",
+      "status": "found",
+      "note": "英文原题 Going Critical（Melting Asphalt 交互式文章，2019-05-13），讲 SIR/SIS 网络传播模型",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Going Critical",
+          "url": "https://meltingasphalt.com/interactive/going-critical/",
+          "site": "meltingasphalt.com",
+          "evidence": "https://meltingasphalt.com/interactive/going-critical/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0044-c06",
+      "status": "found",
+      "note": "英文原题 Social Status: Down the Rabbit Hole（Melting Asphalt，2015-10-13），开头为《黑客帝国》莫菲斯对尼奥的台词",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Social Status: Down the Rabbit Hole",
+          "url": "https://meltingasphalt.com/social-status-down-the-rabbit-hole/",
+          "site": "meltingasphalt.com",
+          "evidence": "https://meltingasphalt.com/social-status-down-the-rabbit-hole/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0047-c07",
+      "status": "found",
+      "note": "英文原题 Ads Don't Work That Way（Melting Asphalt，2014-09-18），提出 emotional inception 与 cultural imprinting",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Ads Don't Work That Way",
+          "url": "https://meltingasphalt.com/ads-dont-work-that-way/",
+          "site": "meltingasphalt.com",
+          "evidence": "https://meltingasphalt.com/ads-dont-work-that-way/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0075-c04",
+      "status": "found",
+      "note": "英文原题 A Natural History of Beauty（Melting Asphalt，2018-10-30），副题称融合 David Deutsch、Geoffrey Miller、Richard Prum 与 César Hidalgo 的观点，与正文参考链接一致",
+      "sources": [
+        {
+          "type": "article",
+          "title": "A Natural History of Beauty",
+          "url": "https://meltingasphalt.com/a-natural-history-of-beauty/",
+          "site": "meltingasphalt.com",
+          "evidence": "https://meltingasphalt.com/a-natural-history-of-beauty/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0080-c05",
+      "status": "found",
+      "note": "英文原题 A Nihilist's Guide to Meaning（Melting Asphalt，2016-07-11），正文引用 Alan Watts 与 Vonnegut",
+      "sources": [
+        {
+          "type": "article",
+          "title": "A Nihilist's Guide to Meaning",
+          "url": "https://meltingasphalt.com/a-nihilists-guide-to-meaning/",
+          "site": "meltingasphalt.com",
+          "evidence": "https://meltingasphalt.com/a-nihilists-guide-to-meaning/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0032-c07",
+      "status": "found",
+      "note": "英文原题 Repair and Remain: How to do the slow, hard, good work of staying put（Comment 杂志，2022-04-14）；开头「I've never had anything like a real career」与译文一致",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Repair and Remain: How to do the slow, hard, good work of staying put",
+          "url": "https://comment.org/repair-and-remain/",
+          "site": "comment.org",
+          "evidence": "https://comment.org/repair-and-remain/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0109-c05",
+      "status": "found",
+      "note": "英文原题 Your Book Review: Progress And Poverty（ACX 书评大赛入围作 #3，2021-04-16 匿名发布）；2021-07-10 公布获奖结果，第一名即此文，作者 Lars Doucet",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Your Book Review: Progress And Poverty",
+          "url": "https://www.astralcodexten.com/p/your-book-review-progress-and-poverty",
+          "site": "astralcodexten.com",
+          "evidence": "https://www.astralcodexten.com/p/your-book-review-progress-and-poverty",
+          "confidence": "high",
+          "note": "原文发布时匿名，页面署名为博主 Scott Alexander"
+        },
+        {
+          "type": "article",
+          "title": "Book Review Contest: Winners",
+          "url": "https://www.astralcodexten.com/p/book-review-contest-winners",
+          "site": "astralcodexten.com",
+          "evidence": "https://www.astralcodexten.com/p/book-review-contest-winners",
+          "confidence": "medium",
+          "note": "揭晓作者身份的获奖公告：FIRST PLACE: Progress and Poverty, reviewed by Lars Doucet"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Lars Doucet"], "evidence": "https://www.astralcodexten.com/p/book-review-contest-winners", "note": "ACX 获奖公告确认第一名书评作者为 Lars Doucet；其后 Doucet 在 ACX 客座文章 Does Georgism Work? Part 1 中自述为该书评作者（https://www.astralcodexten.com/p/does-georgism-work-is-land-really）"}
+    },
+    {
+      "article_id": "vol0019-c05",
+      "status": "found",
+      "note": "原题即 Success That Lasts（Harvard Business Review，2004 年 2 月，Reprint R0402H），提出幸福、成就、意义、遗产四要素与「万花筒」框架",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Success That Lasts",
+          "url": "https://hbr.org/2004/02/success-that-lasts",
+          "site": "hbr.org",
+          "evidence": "https://hbr.org/2004/02/success-that-lasts",
+          "confidence": "medium",
+          "note": "搜索结果页面摘要显示 by Laura Nash and Howard H. Stevenson, From the Magazine (February 2004)"
+        },
+        {
+          "type": "paper",
+          "title": "Success That Lasts（HBS 教师成果页，Harvard Business Review 82, no. 2: 102–109）",
+          "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=16181",
+          "site": "hbs.edu",
+          "evidence": "https://www.hbs.edu/faculty/Pages/item.aspx?num=16181",
+          "confidence": "medium",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "corrected", "authors": ["Laura Nash", "Howard H. Stevenson"], "evidence": "https://hbr.org/2004/02/success-that-lasts", "note": "原书只标 Laura Nash；HBR 署名为 Laura Nash 与 Howard H. Stevenson 合著"}
+    },
+    {
+      "article_id": "vol0007-c05",
+      "status": "found",
+      "note": "英文原题 Money Is the Megaphone of Identity（More To That）；开头「There was an extended period of time in my twenties when I didn't have a job」与译文一致",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Money Is the Megaphone of Identity",
+          "url": "https://moretothat.com/money/",
+          "site": "moretothat.com",
+          "evidence": "https://moretothat.com/money/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0015-c05",
+      "status": "found",
+      "note": "英文原题 The Release Ratio: How to Make Use of Everything You Know（More To That），讲「brain fuel」与释放比率",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Release Ratio: How to Make Use of Everything You Know",
+          "url": "https://moretothat.com/release-ratio/",
+          "site": "moretothat.com",
+          "evidence": "https://moretothat.com/release-ratio/",
+          "confidence": "medium",
+          "note": "搜索结果展示了页面正文（By Lawrence Yeo，Mr. Podcast / Mrs. Video / Mr. Book 段落），未单独打开"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0017-c07",
+      "status": "found",
+      "note": "英文原题 Make Classics, Not Content（More To That，2023 年 9 月）；开头「Imagine walking into a gallery of your favorite artist's work」与译文一致",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Make Classics, Not Content",
+          "url": "https://moretothat.com/make-classics-not-content/",
+          "site": "moretothat.com",
+          "evidence": "https://moretothat.com/make-classics-not-content/",
+          "confidence": "medium",
+          "note": "搜索结果展示了页面正文与署名 By Lawrence Yeo；作者 LinkedIn 帖子（2023-09-27）亦宣传此文"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0055-c06",
+      "status": "found",
+      "note": "英文原题 The Staircase of the Self（More To That，2021-01-26），五级：自卑、自尊、自豪、自我实现、无我",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Staircase of the Self",
+          "url": "https://moretothat.com/the-staircase-of-the-self/",
+          "site": "moretothat.com",
+          "evidence": "https://moretothat.com/the-staircase-of-the-self/",
+          "confidence": "medium",
+          "note": "搜索结果展示了页面正文与署名 By Lawrence Yeo"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0082-c07",
+      "status": "found",
+      "note": "英文原题 Knowledge Is Not a Thing（More To That，2018-04-18）；开头思维实验（两位测试对象、A/B 房间）与译文一致",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Knowledge Is Not a Thing",
+          "url": "https://moretothat.com/knowledge-is-not-a-thing/",
+          "site": "moretothat.com",
+          "evidence": "https://moretothat.com/knowledge-is-not-a-thing/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0082-c08",
+      "status": "found",
+      "note": "英文原题 From Ignorance to Wisdom: A Framework for Knowledge（More To That，2018-05-02）；中文标题「从无知到自由」应为 Wisdom 的误译，正文「注意力资本」及引用前文 Knowledge Is Not a Thing 均吻合",
+      "sources": [
+        {
+          "type": "article",
+          "title": "From Ignorance to Wisdom: A Framework for Knowledge",
+          "url": "https://moretothat.com/framework-for-knowledge/",
+          "site": "moretothat.com",
+          "evidence": "https://moretothat.com/framework-for-knowledge/",
+          "confidence": "medium",
+          "note": "搜索结果展示了页面正文与署名 By Lawrence Yeo"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0083-c08",
+      "status": "found",
+      "note": "英文原题 The 25% Rule / What's the 25% Rule?（Wealest，2020-02-20）；正文（Connor McDavid 等人名、Scott Adams 技能叠加、Rogan 节目链接、《22 条商规》、Naval 的 Escape Competition Through Authenticity）与译文及参考链接逐段吻合",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The 25% Rule",
+          "url": "https://www.wealest.com/articles/25-percent-rule",
+          "site": "wealest.com",
+          "evidence": "https://www.wealest.com/articles/25-percent-rule",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "corrected", "authors": ["Thomas Waschenfelder"], "evidence": "https://www.wealest.com/articles/25-percent-rule", "note": "原书标注 Lawrence Yeo；原文页面署名 By Thomas Waschenfelder（Wealest，Building Wealth 栏目，2020-02-20），与 More To That 无关"}
+    },
+    {
+      "article_id": "vol0035-c07",
+      "status": "found",
+      "note": "英文原题 On the Nature of Elegance（UX Collective / uxdesign.cc，2023-05-04）；配图说明 Elegance exists even amidst complexity 对应译文「即使在复杂中也蕴含着优雅」",
+      "sources": [
+        {
+          "type": "article",
+          "title": "On the Nature of Elegance",
+          "url": "https://uxdesign.cc/on-the-nature-of-elegance-14ab25db38ce",
+          "site": "uxdesign.cc",
+          "evidence": "https://uxdesign.cc/on-the-nature-of-elegance-14ab25db38ce",
+          "confidence": "medium",
+          "note": "搜索结果展示了正文与署名 Lee Fischman, May 4, 2023；直接打开返回 403"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0016-c03",
+      "status": "found",
+      "note": "原始报道为《中国企业家》杂志社社长何振红对雷军的专访《对话雷军（上）：你不懂小米》（2020 年 4 月，分上下篇）；「小米速度：逃过死亡螺旋的高速发展」小节及问答文字与摘录一致，书中标题「大家都不懂小米」为转载改题",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "对话雷军（上）：你不懂小米",
+          "url": "https://www.jiemian.com/article/4308592.html",
+          "site": "jiemian.com",
+          "evidence": "https://www.jiemian.com/article/4308592.html",
+          "confidence": "medium",
+          "note": "界面新闻转载，搜索结果展示了与摘录一致的问答全文"
+        },
+        {
+          "type": "interview",
+          "title": "对话雷军(上)：你不懂小米",
+          "url": "https://finance.sina.cn/2020-04-27/detail-iirczymi8618479.d.html",
+          "site": "finance.sina.cn",
+          "evidence": "https://finance.sina.cn/2020-04-27/detail-iirczymi8618479.d.html",
+          "confidence": "medium",
+          "note": "新浪财经 2020-04-27 转载，标明「对话 | 《中国企业家》杂志社社长 何振红」"
+        },
+        {
+          "type": "interview",
+          "title": "独家对话雷军（上）：你不懂小米",
+          "url": "https://mp.weixin.qq.com/s/rTDWqqbbxKVmbWUwIh3NxQ",
+          "site": "mp.weixin.qq.com",
+          "evidence": "https://mp.weixin.qq.com/s/rTDWqqbbxKVmbWUwIh3NxQ",
+          "confidence": "medium",
+          "note": "微信公众号「何问西东」（何振红）版本"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Lei Jun"], "evidence": "https://finance.sina.cn/2020-04-27/detail-iirczymi8618479.d.html", "note": "访谈体，雷军为受访者、正文主体为其口述；提问者为《中国企业家》杂志社社长何振红（He Zhenhong）"}
+    },
+    {
+      "article_id": "vol0033-c05",
+      "status": "found",
+      "note": "英文原题 The Magic Loop: A framework for rapid career growth（Lenny's Newsletter 客座文章，2023-09-19，付费）；五步循环与译文一致",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Magic Loop: A framework for rapid career growth",
+          "url": "https://www.lennysnewsletter.com/p/the-magic-loop",
+          "site": "lennysnewsletter.com",
+          "evidence": "https://www.lennysnewsletter.com/p/the-magic-loop",
+          "confidence": "medium",
+          "note": "搜索结果展示了页面署名 Ethan Evans 与 Lenny 的导语「an important guest post by Ethan Evans」"
+        }
+      ],
+      "author_check": {"status": "corrected", "authors": ["Ethan Evans"], "evidence": "https://www.lennysnewsletter.com/p/the-magic-loop", "note": "原书标注 Lenny Rachitsky；实为前 Amazon VP Ethan Evans 在 Lenny's Newsletter 发表的客座文章，Lenny 仅为刊发者；Evans 的 LinkedIn 帖子也称该文由 Lenny 刊发（https://www.linkedin.com/posts/ethanevansvp_the-magic-loop-activity-7109901496330190848-o9Qg）"}
+    },
+    {
+      "article_id": "book-68d985-c08",
+      "status": "found",
+      "note": "与 vol0033-c05 为同一篇：The Magic Loop（Lenny's Newsletter 客座文章，2023-09-19）；标题中「Amazon 升职最快的副总裁」即作者 Ethan Evans",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Magic Loop: A framework for rapid career growth",
+          "url": "https://www.lennysnewsletter.com/p/the-magic-loop",
+          "site": "lennysnewsletter.com",
+          "evidence": "https://www.lennysnewsletter.com/p/the-magic-loop",
+          "confidence": "medium",
+          "note": "搜索结果展示了页面署名 Ethan Evans 与 Lenny 的导语「an important guest post by Ethan Evans」"
+        }
+      ],
+      "author_check": {"status": "corrected", "authors": ["Ethan Evans"], "evidence": "https://www.lennysnewsletter.com/p/the-magic-loop", "note": "原书标注 Lenny Rachitsky；实为 Ethan Evans 的客座文章，Lenny 仅为刊发者"}
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "kevin-simler",
+      "note": "作家、软件工程师，Melting Asphalt 博主",
+      "sources": [
+        {"type": "website", "title": "Melting Asphalt（Kevin Simler 博客）", "url": "https://meltingasphalt.com/", "site": "meltingasphalt.com", "evidence": "https://meltingasphalt.com/archive/", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Elephant in the Brain: Hidden Motives in Everyday Life（与 Robin Hanson 合著，Oxford University Press，2018；中译《脑中的大象：日常生活中的隐性动机》，中信出版集团，2020）", "url": "https://book.douban.com/subject/27612613/", "site": "book.douban.com", "evidence": "https://book.douban.com/works/1121178", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "kurt-armstrong",
+      "note": "温尼伯作家、房屋修缮工匠，Saint Margaret's Anglican 社区发展牧师",
+      "sources": [
+        {"type": "website", "title": "Kurt Armstrong 在 Comment 杂志的作者简介（见文末 BIO）", "url": "https://comment.org/repair-and-remain/", "site": "comment.org", "evidence": "https://comment.org/repair-and-remain/", "confidence": "high", "note": "未找到个人网站，用刊物文章页的作者简介代替"},
+        {"type": "book", "title": "Why Love Will Always Be a Poor Investment: Marriage and Consumer Culture（Wipf and Stock，2011）", "url": "https://www.amazon.com/Love-Will-Always-Poor-Investment/dp/1608994805", "site": "amazon.com", "evidence": "https://englewoodreview.org/featured-why-love-will-always-be-a-poor-investment-kurt-armstrong-vol-4-23/", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "lars-doucet",
+      "note": "挪威裔得州游戏设计师、乔治主义（土地价值税）倡导者",
+      "sources": [
+        {"type": "website", "title": "Fortress of Doors（Lars Doucet 个人博客）", "url": "https://www.fortressofdoors.com/", "site": "fortressofdoors.com", "evidence": "https://www.fortressofdoors.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Land Is a Big Deal（Shack Simple Press，2022）", "url": "https://landisabigdeal.com/", "site": "landisabigdeal.com", "evidence": "https://landisabigdeal.com/", "confidence": "medium", "note": null},
+        {"type": "podcast", "title": "Lars Doucet - Georgism, Progress, Poverty, & Why Rent is Too High（Dwarkesh Podcast）", "url": "https://www.dwarkesh.com/p/lars-doucet", "site": "dwarkesh.com", "evidence": "https://www.dwarkesh.com/p/lars-doucet", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "laura-nash",
+      "note": "哈佛商学院高级研究员，商业伦理学者",
+      "sources": [
+        {"type": "book", "title": "Just Enough: Tools for Creating Success in Your Work and Life（与 Howard Stevenson 合著，John Wiley & Sons，2004）", "url": "https://www.wiley.com/en-us/Just+Enough%3A+Tools+for+Creating+Success+in+Your+Work+and+Life-p-9780471714408", "site": "wiley.com", "evidence": "https://www.wiley.com/en-us/Just+Enough%3A+Tools+for+Creating+Success+in+Your+Work+and+Life-p-9780471714408", "confidence": "medium", "note": null},
+        {"type": "website", "title": "Just Enough（HBS 教师成果页）", "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=16183", "site": "hbs.edu", "evidence": "https://www.hbs.edu/faculty/Pages/item.aspx?num=16183", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "lawrence-yeo",
+      "note": "More To That 博客作者、插画师",
+      "sources": [
+        {"type": "website", "title": "More To That（Lawrence Yeo 图文博客）", "url": "https://moretothat.com/", "site": "moretothat.com", "evidence": "https://moretothat.com/archive/", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Inner Compass（More To That 出版）", "url": "https://compass.moretothat.com/", "site": "compass.moretothat.com", "evidence": "https://compass.moretothat.com/", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "lee-bressler",
+      "note": "Spring Close Advisors 创始人，曾任职 Palantir、Microsoft；Substack「The Lee Show」作者",
+      "sources": [
+        {"type": "website", "title": "The Lee Show（Lee Bressler 的 Substack）", "url": "https://leebressler.substack.com/", "site": "leebressler.substack.com", "evidence": "https://leebressler.substack.com/", "confidence": "high", "note": null},
+        {"type": "article", "title": "LLMs Convert Electricity into Intelligence（2025-05-13）", "url": "https://leebressler.substack.com/p/llms-convert-electricity-into-intelligence-fff", "site": "leebressler.substack.com", "evidence": "https://leebressler.substack.com/p/llms-convert-electricity-into-intelligence-fff", "confidence": "medium", "note": "即「LLMs：电力炼就的智能引擎」的原文，供后续节点参考"}
+      ]
+    },
+    {
+      "author_id": "lee-fischman",
+      "note": "数字产品经理、开发者，著有产品管理书籍",
+      "sources": [
+        {"type": "website", "title": "Lee Fischman – Medium", "url": "https://medium.com/@lee.fischman", "site": "medium.com", "evidence": "https://medium.com/@lee.fischman", "confidence": "medium", "note": null},
+        {"type": "book", "title": "How To Excel At Digital Product Management（2024）", "url": "https://medium.com/@lee.fischman/books", "site": "medium.com", "evidence": "https://medium.com/@lee.fischman/books", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "lei-jun",
+      "note": "小米集团创始人、董事长兼 CEO，金山软件董事长",
+      "sources": [
+        {"type": "website", "title": "雷军 - 维基百科", "url": "https://zh.wikipedia.org/zh-hans/%E9%9B%B7%E5%86%9B", "site": "zh.wikipedia.org", "evidence": "https://zh.wikipedia.org/zh-hans/%E9%9B%B7%E5%86%9B", "confidence": "medium", "note": null},
+        {"type": "book", "title": "《小米创业思考》（雷军口述、徐洁云整理，中信出版社，2022）", "url": "https://book.douban.com/subject/36057097/", "site": "book.douban.com", "evidence": "https://book.douban.com/subject/36057097/", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "lenny-rachitsky",
+      "note": "Lenny's Newsletter 作者、Lenny's Podcast 主持人，前 Airbnb 产品负责人",
+      "sources": [
+        {"type": "website", "title": "Lenny's Newsletter", "url": "https://www.lennysnewsletter.com/about", "site": "lennysnewsletter.com", "evidence": "https://www.lennysnewsletter.com/about", "confidence": "medium", "note": null},
+        {"type": "website", "title": "Lenny Rachitsky 个人网站", "url": "https://lennyrachitsky.com/", "site": "lennyrachitsky.com", "evidence": "https://lennyrachitsky.com/", "confidence": "medium", "note": null}
+      ]
+    }
+  ]
+}

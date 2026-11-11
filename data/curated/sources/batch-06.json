@@ -1,0 +1,574 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0001-c05",
+      "status": "found",
+      "note": "英文原题 How to Guarantee a Life of Misery（Harvard School 毕业典礼演讲，1986-06-13；Harvard School 即今 Harvard-Westlake 中学，非哈佛大学）",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "Speech by Charlie Munger to the Harvard School, June 13, 1986（Worldly Partners 存档全文 PDF）",
+          "url": "https://worldlypartners.com/wp-content/uploads/2024/01/1986-commencement-speech-by-charlie-munger-at-harvard-school-now-harvard-westlake.pdf",
+          "site": "worldlypartners.com",
+          "evidence": "https://worldlypartners.com/wp-content/uploads/2024/01/1986-commencement-speech-by-charlie-munger-at-harvard-school-now-harvard-westlake.pdf",
+          "confidence": "high",
+          "note": "开头「Headmaster Berrisford…counting to seven…Demosthenes and Cicero」与中文摘录逐句对应"
+        },
+        {
+          "type": "speech",
+          "title": "How to Guarantee a Life of Misery (Harvard School, 1986) · Munger Archive",
+          "url": "https://mungerarchive.com/recordings/harvard-1986-misery/",
+          "site": "mungerarchive.com",
+          "evidence": "https://mungerarchive.com/recordings/harvard-1986-misery/",
+          "confidence": "medium",
+          "note": "该页说明此演讲无已知真实音视频，仅有文字稿"
+        },
+        {
+          "type": "book",
+          "title": "Poor Charlie's Almanack · Talk One（Stripe Press 在线版）",
+          "url": "https://www.stripe.press/poor-charlies-almanack/talk-one",
+          "site": "stripe.press",
+          "evidence": "https://www.stripe.press/poor-charlies-almanack/talk-one",
+          "confidence": "high",
+          "note": "收录于《穷查理宝典》第一讲"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Charlie Munger"], "evidence": "https://worldlypartners.com/wp-content/uploads/2024/01/1986-commencement-speech-by-charlie-munger-at-harvard-school-now-harvard-westlake.pdf", "note": null}
+    },
+    {
+      "article_id": "vol0005-c03",
+      "status": "found",
+      "note": "英文原题 2007 USC Law School Commencement Address（南加州大学古尔德法学院毕业典礼演讲，2007-05-13）",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "\"2007 USC Law School Commencement Address\" by Charlie Munger",
+          "url": "https://jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger",
+          "site": "jamesclear.com",
+          "evidence": "https://jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger",
+          "confidence": "high",
+          "note": "开头「many of you are wondering why the speaker is so old…he hasn't died yet」与中文摘录对应"
+        },
+        {
+          "type": "speech",
+          "title": "Charlie Munger's Commencement Address at USC's Law School",
+          "url": "https://www.danielscrivner.com/charlie-munger-commencement-address-at-usc-law-school/",
+          "site": "danielscrivner.com",
+          "evidence": "https://www.danielscrivner.com/charlie-munger-commencement-address-at-usc-law-school/",
+          "confidence": "high",
+          "note": "全文转录，含孔子、孝道段落"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Charlie Munger"], "evidence": "https://jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger", "note": null}
+    },
+    {
+      "article_id": "vol0007-c03",
+      "status": "found",
+      "note": "英文原题 The Psychology of Human Misjudgment（1995 年 6 月哈佛大学演讲，Whitney Tilson 转录）",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "Charlie Munger on the Psychology of Human Misjudgment — Speech at Harvard University, June 1995（Whitney Tilson 转录 PDF）",
+          "url": "https://rbcpa.com/wp-content/uploads/2017/01/Mungerspeech_june_95.pdf",
+          "site": "rbcpa.com",
+          "evidence": "https://rbcpa.com/wp-content/uploads/2017/01/Mungerspeech_june_95.pdf",
+          "confidence": "high",
+          "note": "开头「Although I am very interested in the subject of human misjudgment…Influence, by…Bob Cialdini…300-odd thousand copies」及第 1 条「reinforcement / incentives」与中文摘录对应"
+        },
+        {
+          "type": "speech",
+          "title": "\"The Psychology of Human Misjudgment\" by Charlie Munger",
+          "url": "https://jamesclear.com/great-speeches/psychology-of-human-misjudgment-by-charlie-munger",
+          "site": "jamesclear.com",
+          "evidence": "https://jamesclear.com/great-speeches/psychology-of-human-misjudgment-by-charlie-munger",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Charlie Munger"], "evidence": "https://rbcpa.com/wp-content/uploads/2017/01/Mungerspeech_june_95.pdf", "note": "原文称地点为 Harvard University；中文推荐语写作「哈佛法学院」，常见说法亦如此"}
+    },
+    {
+      "article_id": "vol0018-c05",
+      "status": "found",
+      "note": "出自 2019 年 Daily Journal 股东年会问答（Munger 时年 95 岁）；中文为节选整理，非单篇演讲",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "Daily Journal Annual Meeting 2019 transcript（Munger Archive PDF）",
+          "url": "https://mungerarchive.com/transcripts/daily-journal-2019.pdf",
+          "site": "mungerarchive.com",
+          "evidence": "https://mungerarchive.com/transcripts/daily-journal-2019.pdf",
+          "confidence": "high",
+          "note": "含「reduce your expectations」「we were so good at doing things that were difficult. We were good at avoid things」「too hard pile」「Envy is such a stupid thing…」等段，与中文摘要各条对应"
+        },
+        {
+          "type": "video",
+          "title": "Charlie Munger Daily Journal Annual Meeting 2019 Full Video, Full Transcript, and Notes",
+          "url": "https://www.mymoneyblog.com/charlie-munger-daily-journal-annual-meeting-2019-full-video-transcript.html",
+          "site": "mymoneyblog.com",
+          "evidence": "https://www.mymoneyblog.com/charlie-munger-daily-journal-annual-meeting-2019-full-video-transcript.html",
+          "confidence": "medium",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Charlie Munger"], "evidence": "https://mungerarchive.com/recordings/", "note": "Munger Archive 收录条目「Daily Journal Annual Meeting 2019 — Munger at 95」"}
+    },
+    {
+      "article_id": "vol0050-c03",
+      "status": "found",
+      "note": "英文原题 A Lesson on Elementary, Worldly Wisdom As It Relates To Investment Management & Business（1994-04 南加州大学马歇尔商学院讲座）",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "A Lesson on Elementary Worldly Wisdom As It Relates To Investment Management & Business",
+          "url": "https://fs.blog/great-talks/a-lesson-on-worldly-wisdom/",
+          "site": "fs.blog",
+          "evidence": "https://fs.blog/great-talks/a-lesson-on-worldly-wisdom/",
+          "confidence": "high",
+          "note": "开头「play a minor trick on you…Grandma's rule…eat the carrots before you get the dessert」与中文摘录对应"
+        },
+        {
+          "type": "speech",
+          "title": "Wesco Financial's Charlie Munger \"A Lesson on Elementary, Worldly Wisdom…\"（Outstanding Investor Digest 1995-05-05 版 PDF）",
+          "url": "https://worldlypartners.com/wp-content/uploads/2024/01/1994-lecture-by-charlie-munger-at-usc-a-lesson-on-elementary-worldly-wisdom-as-it-relates-to-investment.pdf",
+          "site": "worldlypartners.com",
+          "evidence": "https://worldlypartners.com/wp-content/uploads/2024/01/1994-lecture-by-charlie-munger-at-usc-a-lesson-on-elementary-worldly-wisdom-as-it-relates-to-investment.pdf",
+          "confidence": "high",
+          "note": "最早刊载于 Outstanding Investor Digest"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Charlie Munger"], "evidence": "https://fs.blog/great-talks/a-lesson-on-worldly-wisdom/", "note": null}
+    },
+    {
+      "article_id": "vol0028-c03",
+      "status": "found",
+      "note": "中文原创：2020 年单读《把自己作为方法》新书圆桌论坛最后一场「陈嘉映 x 项飙：如何获得思考的力量」，主持许楠；原文为单读公众号整理稿",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "如何获得思考的力量丨陈嘉映与项飙对话实录（单读）",
+          "url": "https://mp.weixin.qq.com/s/AyBssTnThdTn_ZwLDx9Bhw",
+          "site": "mp.weixin.qq.com",
+          "evidence": "https://mp.weixin.qq.com/s/AyBssTnThdTn_ZwLDx9Bhw",
+          "confidence": "high",
+          "note": "许楠开场问题「今年，陈嘉映老师出版了新书《走出唯一真理观》…」与中文摘录逐字一致"
+        },
+        {
+          "type": "article",
+          "title": "如何获得思考的力量-虎嗅网",
+          "url": "https://www.huxiu.com/article/379041.html",
+          "site": "huxiu.com",
+          "evidence": "https://www.huxiu.com/article/379041.html",
+          "confidence": "high",
+          "note": "转载全文"
+        },
+        {
+          "type": "article",
+          "title": "对谈│项飙：今天我们如何进行对话（澎湃新闻活动报道）",
+          "url": "https://thepaper.cn/newsDetail_forward_9075777",
+          "site": "thepaper.cn",
+          "evidence": "https://thepaper.cn/newsDetail_forward_9075777",
+          "confidence": "high",
+          "note": "活动报道，非全文"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Chen Jiaying", "Xiang Biao"], "evidence": "https://mp.weixin.qq.com/s/AyBssTnThdTn_ZwLDx9Bhw", "note": "对谈，主持人许楠"}
+    },
+    {
+      "article_id": "vol0058-c03",
+      "status": "found",
+      "note": "英文原题 Measuring personal growth（huyenchip.com，2024-04-17）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Measuring personal growth",
+          "url": "https://huyenchip.com/2024/04/17/personal-growth.html",
+          "site": "huyenchip.com",
+          "evidence": "https://huyenchip.com/2024/04/17/personal-growth.html",
+          "confidence": "high",
+          "note": "三个指标 rate of change / time to solve problems / number of future options 与中文摘录对应"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Chip Huyen"], "evidence": "https://huyenchip.com/2024/04/17/personal-growth.html", "note": null}
+    },
+    {
+      "article_id": "vol0002-c04",
+      "status": "found",
+      "note": "播客访谈：The Kara Goldin Show（原名 Unstoppable）第 257 期「Chip Wilson – Founder & Former CEO Lululemon」，中文为访谈译稿",
+      "sources": [
+        {
+          "type": "podcast",
+          "title": "Chip Wilson – Founder & Former CEO Lululemon · The Kara Goldin Show (Episode 257)",
+          "url": "https://karagoldin.com/podcasts/chip-wilson/",
+          "site": "karagoldin.com",
+          "evidence": "https://karagoldin.com/podcasts/chip-wilson/",
+          "confidence": "high",
+          "note": "页面含文字稿：开场介绍「entrepreneur is someone who is too incompetent to work for anyone else」、父亲为体育老师并在 Esalen 做助理园丁、母亲为圣地亚哥首位女救生员等，与中文摘录对应"
+        },
+        {
+          "type": "article",
+          "title": "lululemon创始人：创业者是只冒险追求100%回报的人（虎嗅网中文转载）",
+          "url": "https://www.huxiu.com/article/688721.html",
+          "site": "huxiu.com",
+          "evidence": "https://www.huxiu.com/article/688721.html",
+          "confidence": "high",
+          "note": "中文译稿，含「7% 的回报 / 100% 的回报」段落"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Chip Wilson"], "evidence": "https://karagoldin.com/podcasts/chip-wilson/", "note": "Chip Wilson 为受访者，主持人 Kara Goldin"}
+    },
+    {
+      "article_id": "vol0071-c05",
+      "status": "found",
+      "note": "英文原题 How to Give a Killer Presentation: Lessons from TED（Harvard Business Review，2013 年 6 月刊）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to Give a Killer Presentation",
+          "url": "https://hbr.org/2013/06/how-to-give-a-killer-presentation",
+          "site": "hbr.org",
+          "evidence": "https://hbr.org/2013/06/how-to-give-a-killer-presentation",
+          "confidence": "high",
+          "note": "开头 Richard Turere 与「狮子灯」故事与中文摘录对应"
+        },
+        {
+          "type": "article",
+          "title": "Chris Anderson shares his tips for giving a killer presentation（TED Blog）",
+          "url": "https://blog.ted.com/chris-anderson-shares-his-tips-for-giving-a-killer-presentation/",
+          "site": "blog.ted.com",
+          "evidence": "https://blog.ted.com/chris-anderson-shares-his-tips-for-giving-a-killer-presentation/",
+          "confidence": "high",
+          "note": "TED 官方博客对该 HBR 文章的介绍"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Chris Anderson"], "evidence": "https://hbr.org/2013/06/how-to-give-a-killer-presentation", "note": "TED 策展人 Chris Anderson（非《连线》前主编同名者）"}
+    },
+    {
+      "article_id": "vol0060-c05",
+      "status": "found",
+      "note": "英文原题 A City is Not a Tree（Architectural Forum, Vol 122, No 1–2, 1965 年 4–5 月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "A City is Not a Tree",
+          "url": "https://www.patternlanguage.com/archive/cityisnotatree.html",
+          "site": "patternlanguage.com",
+          "evidence": "https://www.patternlanguage.com/archive/cityisnotatree.html",
+          "confidence": "high",
+          "note": "亚历山大本人机构网站存档全文，开头「The tree of my title is not a green tree with leaves」与中文摘录对应"
+        },
+        {
+          "type": "paper",
+          "title": "A City is Not a Tree（Christopher Alexander，全文 PDF）",
+          "url": "https://blogs.ischool.berkeley.edu/i103su12/files/2011/07/1965-City-is-not-a-Tree-Alexander.pdf",
+          "site": "blogs.ischool.berkeley.edu",
+          "evidence": "https://blogs.ischool.berkeley.edu/i103su12/files/2011/07/1965-City-is-not-a-Tree-Alexander.pdf",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Christopher Alexander"], "evidence": "https://www.patternlanguage.com/archive/cityisnotatree.html", "note": null}
+    },
+    {
+      "article_id": "vol0060-c07",
+      "status": "found",
+      "note": "英文原题 The Nature of Love，Harry F. Harlow 1958 年美国心理学会主席演讲，刊于 American Psychologist 13: 673–685；Christopher D. Green 是收录该文的网站 Classics in the History of Psychology 的创办者与编辑，不是作者",
+      "sources": [
+        {
+          "type": "paper",
+          "title": "The Nature of Love — Harry F. Harlow (1958)（Classics in the History of Psychology）",
+          "url": "https://psychclassics.yorku.ca/Harlow/love.htm",
+          "site": "psychclassics.yorku.ca",
+          "evidence": "https://psychclassics.yorku.ca/Harlow/love.htm",
+          "confidence": "high",
+          "note": "页面署名 Harry F. Harlow, University of Wisconsin；站点标注「An internet resource developed by Christopher D. Green」"
+        },
+        {
+          "type": "paper",
+          "title": "The nature of love. American Psychologist, 1958（DOI）",
+          "url": "https://doi.org/10.1037/h0047884",
+          "site": "doi.org",
+          "evidence": "https://doi.org/10.1037/h0047884",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "corrected", "authors": ["Harry F. Harlow"], "evidence": "https://web.archive.org/web/20170718191627/http:/psychclassics.yorku.ca/Harlow/love.htm", "note": "原书误把转载网站编辑 Christopher D. Green 当作者；推荐语中「心理学教授、曾任 APA 第 26 分部主席」描述的是 Green 本人，但正文为 Harlow 1958 年演讲"}
+    },
+    {
+      "article_id": "vol0008-c04",
+      "status": "found",
+      "note": "英文原题 Creative Thinking，香农 1952-03-20 在贝尔实验室内部讲座（推荐语写「1945 年」有误）",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "\"Creative Thinking\" by Claude Shannon",
+          "url": "https://jamesclear.com/great-speeches/creative-thinking-by-claude-shannon",
+          "site": "jamesclear.com",
+          "evidence": "https://jamesclear.com/great-speeches/creative-thinking-by-claude-shannon",
+          "confidence": "high",
+          "note": "图灵「铀块」比喻、牛顿 25 岁、三要素等与中文摘录对应"
+        },
+        {
+          "type": "book",
+          "title": "Claude Shannon's Miscellaneous Writings（书目第 [72] 条：'Creative Thinking,' Typescript, March 20, 1952, Bell Laboratories）",
+          "url": "https://archive.org/stream/ShannonMiscellaneousWritings/ShannonMiscellaneousWritings_djvu.txt",
+          "site": "archive.org",
+          "evidence": "https://archive.org/stream/ShannonMiscellaneousWritings/ShannonMiscellaneousWritings_djvu.txt",
+          "confidence": "high",
+          "note": "确认日期与出处"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Claude Shannon"], "evidence": "https://jamesclear.com/great-speeches/creative-thinking-by-claude-shannon", "note": null}
+    },
+    {
+      "article_id": "vol0045-c06",
+      "status": "found",
+      "note": "英文原题 How Will You Measure Your Life?（Harvard Business Review，2010 年 7–8 月刊；源自其 2010 年对 HBS 毕业班的演讲）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How Will You Measure Your Life?",
+          "url": "https://hbr.org/2010/07/how-will-you-measure-your-life",
+          "site": "hbr.org",
+          "evidence": "https://hbr.org/2010/07/how-will-you-measure-your-life",
+          "confidence": "high",
+          "note": "开头安迪·格鲁夫「We have only 10 minutes for you」与中文摘录对应"
+        },
+        {
+          "type": "article",
+          "title": "How Will You Measure Your Life? — Faculty & Research, Harvard Business School",
+          "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=38068",
+          "site": "hbs.edu",
+          "evidence": "https://www.hbs.edu/faculty/Pages/item.aspx?num=38068",
+          "confidence": "high",
+          "note": "书目信息：HBR 88, nos. 7-8: 46–51"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Clayton Christensen"], "evidence": "https://hbr.org/2010/07/how-will-you-measure-your-life", "note": null}
+    },
+    {
+      "article_id": "vol0025-c07",
+      "status": "found",
+      "note": "英文原题 It's Not Information Overload. It's Filter Failure（Web 2.0 Expo NY 演讲，2008 年 9 月）",
+      "sources": [
+        {
+          "type": "video",
+          "title": "Web 2.0 Expo NY: Clay Shirky (shirky.com) It's Not Information Overload. It's Filter Failure.",
+          "url": "https://www.youtube.com/watch?v=LabqeJEOQyI",
+          "site": "youtube.com",
+          "evidence": "https://www.youtube.com/watch?v=LabqeJEOQyI",
+          "confidence": "medium",
+          "note": "演讲视频，仅见搜索结果标题"
+        },
+        {
+          "type": "article",
+          "title": "It's Not Information Overload. It's Filter Failure | MAS Context",
+          "url": "https://mascontext.com/issues/information/its-not-information-overload-its-filter-failure",
+          "site": "mascontext.com",
+          "evidence": "https://mascontext.com/issues/information/its-not-information-overload-its-filter-failure",
+          "confidence": "high",
+          "note": "经作者许可的演讲转录稿"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Clay Shirky"], "evidence": "https://mascontext.com/issues/information/its-not-information-overload-its-filter-failure", "note": null}
+    },
+    {
+      "article_id": "vol0088-c05",
+      "status": "found",
+      "note": "英文原题 A Group Is Its Own Worst Enemy（2003-04-24 O'Reilly Emerging Technology 大会主题演讲，2003-07-01 发表于 Networks, Economics, and Culture 邮件列表）；输入年份 2002 有误，应为 2003",
+      "sources": [
+        {
+          "type": "article",
+          "title": "A Group Is Its Own Worst Enemy - Clay Shirky",
+          "url": "http://shirky.com/essays/a-group-is-its-own-worst-enemy/",
+          "site": "shirky.com",
+          "evidence": "http://shirky.com/essays/a-group-is-its-own-worst-enemy/",
+          "confidence": "high",
+          "note": "开头「Good morning, everybody. I want to talk this morning about social software」与中文摘录对应"
+        },
+        {
+          "type": "book",
+          "title": "A group is its own worst enemy（收录于 The Best Software Writing I，Apress，pp. 183-209）",
+          "url": "https://nyuscholars.nyu.edu/en/publications/a-group-is-its-own-worst-enemy",
+          "site": "nyuscholars.nyu.edu",
+          "evidence": "https://nyuscholars.nyu.edu/en/publications/a-group-is-its-own-worst-enemy",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Clay Shirky"], "evidence": "http://shirky.com/essays/a-group-is-its-own-worst-enemy/", "note": null}
+    },
+    {
+      "article_id": "vol0073-c05",
+      "status": "found",
+      "note": "英文原题 Growth Without Goals，Patrick O'Shaughnessy 2016 年发表于其博客 The Investor's Field Guide，2024 年 7 月重刊于 Colossus 网站；Colossus 是他创办的媒体，不是作者",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Growth Without Goals - Colossus",
+          "url": "https://colossus.com/growth-without-goals/",
+          "site": "colossus.com",
+          "evidence": "https://colossus.com/growth-without-goals/",
+          "confidence": "high",
+          "note": "已打开核对：Metro-North 通勤读书、儿子 Pierce、克里希那穆提引文、「I wanted to have written a book」与中文摘录对应；页面未显示署名"
+        },
+        {
+          "type": "article",
+          "title": "Growth Without Goals（The Investor's Field Guide 原发地址）",
+          "url": "https://investorfieldguide.com/growth-without-goals/",
+          "site": "investorfieldguide.com",
+          "evidence": "https://curiositypill.substack.com/p/curiosity-pill-28",
+          "confidence": "medium",
+          "note": "原发链接见于第三方引用，未直接打开"
+        }
+      ],
+      "author_check": {"status": "corrected", "authors": ["Patrick O'Shaughnessy"], "evidence": "https://rpc.cfainstitute.org/blogs/enterprising-investor/2016/weekend-reads-attaining-flow-being-wrong-and-why-sports-die", "note": "CFA Institute 2016 年推荐文明确作者为 Patrick O'Shaughnessy, CFA（The Investor's Field Guide）；另见 https://readsomethingwonderful.com/p/73/growth-without-goals"}
+    },
+    {
+      "article_id": "vol0058-c06",
+      "status": "found",
+      "note": "英文原题 Looking Closely is Everything（craigmod.com，2021 年 3 月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Looking Closely is Everything — by Craig Mod",
+          "url": "https://craigmod.com/essays/looking_closely/",
+          "site": "craigmod.com",
+          "evidence": "https://craigmod.com/essays/looking_closely/",
+          "confidence": "high",
+          "note": "「地板微妙的倾斜」「视频通话的音频延迟」「Huh」等段与中文摘录对应"
+        },
+        {
+          "type": "article",
+          "title": "Roden Issue #052 — Look Closely, and then Closer Still（2021-03-01 发布通知）",
+          "url": "https://craigmod.com/roden/052/",
+          "site": "craigmod.com",
+          "evidence": "https://craigmod.com/roden/052/",
+          "confidence": "high",
+          "note": "作者 Newsletter 中宣布发表该文"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Craig Mod"], "evidence": "https://craigmod.com/essays/looking_closely/", "note": null}
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "charlie-munger",
+      "note": "伯克希尔·哈撒韦副董事长（1924–2023）",
+      "sources": [
+        {"type": "website", "title": "The Charlie Munger Archive（演讲、Daily Journal 年会、访谈汇编，附文字稿）", "url": "https://mungerarchive.com/", "site": "mungerarchive.com", "evidence": "https://mungerarchive.com/", "confidence": "high", "note": "第三方整理的资料库，非官方"},
+        {"type": "book", "title": "Poor Charlie's Almanack: The Essential Wit and Wisdom of Charles T. Munger（《穷查理宝典》，Stripe Press 2023 版，Peter D. Kaufman 编）", "url": "https://www.stripe.press/poor-charlies-almanack/talk-one", "site": "stripe.press", "evidence": "https://books.google.com/books/about/Poor_Charlie_s_Almanack.html?id=2unAEAAAQBAJ", "confidence": "high", "note": "Stripe Press 提供免费在线版"}
+      ]
+    },
+    {
+      "author_id": "chen-jiaying",
+      "note": "中国哲学家，首都师范大学哲学系教授，《存在与时间》《哲学研究》中译者",
+      "sources": [
+        {"type": "website", "title": "陈嘉映 - 维基百科", "url": "https://zh.wikipedia.org/wiki/%E9%99%88%E5%98%89%E6%98%A0", "site": "zh.wikipedia.org", "evidence": "https://zh.wikipedia.org/wiki/%E9%99%88%E5%98%89%E6%98%A0", "confidence": "high", "note": null},
+        {"type": "book", "title": "《走出唯一真理观》（上海文艺出版社，2020）", "url": "https://www.dushu.com/book/13754402/", "site": "dushu.com", "evidence": "https://book.douban.com/subject/34988734/buylinks", "confidence": "high", "note": "2007—2018 年演讲、访谈自选集，对谈中提到的新书"},
+        {"type": "book", "title": "《何为良好生活》（上海文艺出版社，2015）", "url": null, "site": null, "evidence": "https://zh.wikipedia.org/wiki/%E9%99%88%E5%98%89%E6%98%A0", "confidence": "medium", "note": "维基百科著作列表"}
+      ]
+    },
+    {
+      "author_id": "chip-huyen",
+      "note": "越南裔作家、计算机科学家，机器学习系统方向",
+      "sources": [
+        {"type": "website", "title": "Chip Huyen 个人网站与博客", "url": "https://huyenchip.com/", "site": "huyenchip.com", "evidence": "https://huyenchip.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "AI Engineering（O'Reilly，2025）", "url": "https://www.oreilly.com/library/view/ai-engineering/9781098166298/", "site": "oreilly.com", "evidence": "https://www.oreilly.com/library/view/ai-engineering/9781098166298/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Designing Machine Learning Systems（《设计机器学习系统》，O'Reilly，2022）", "url": "https://huyenchip.com/books/", "site": "huyenchip.com", "evidence": "https://www.oreilly.com/library/view/ai-engineering/9781098166298/colophon01.html", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "chip-wilson",
+      "note": "lululemon athletica 创始人",
+      "sources": [
+        {"type": "website", "title": "Chip Wilson 个人网站", "url": "https://chipwilson.com/", "site": "chipwilson.com", "evidence": "https://chipwilson.com/about/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Little Black Stretchy Pants: The Unauthorized Story of Lululemon（2018；扩充版 The Story of lululemon）", "url": "https://www.goodreads.com/book/show/41947017-little-black-stretchy-pants", "site": "goodreads.com", "evidence": "https://www.amazon.com/Little-Black-Stretchy-Pants-Wilson/dp/1948122340", "confidence": "high", "note": "官网另有免费版 https://book.chipwilson.com/"}
+      ]
+    },
+    {
+      "author_id": "chris-anderson",
+      "note": "TED 策展人（Head of TED），注意与《连线》前主编 Chris Anderson 同名",
+      "sources": [
+        {"type": "book", "title": "TED Talks: The Official TED Guide to Public Speaking（《演讲的力量》，Houghton Mifflin Harcourt，2016）", "url": "https://www.ted.com/read/ted-books/ted-talks-the-official-ted-guide-to-public-speaking", "site": "ted.com", "evidence": "https://www.ted.com/read/ted-books/ted-talks-the-official-ted-guide-to-public-speaking", "confidence": "high", "note": "中文译名《演讲的力量》为常见译法，未在本次搜索中核对"},
+        {"type": "article", "title": "How to Give a Killer Presentation（HBR，2013）", "url": "https://hbr.org/2013/06/how-to-give-a-killer-presentation", "site": "hbr.org", "evidence": "https://hbr.org/2013/06/how-to-give-a-killer-presentation", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "chris-kempes",
+      "note": "圣塔菲研究所（SFI）教授，物理、生物与地球科学交叉；Aeon 文章「Is life a complex computational process?」与 David C. Krakauer 合著",
+      "sources": [
+        {"type": "website", "title": "Chris Kempes | Santa Fe Institute", "url": "https://www.santafe.edu/people/profile/chris-kempes", "site": "santafe.edu", "evidence": "https://www.santafe.edu/people/profile/chris-kempes", "confidence": "high", "note": null},
+        {"type": "website", "title": "Chris Kempes | Aeon 作者页", "url": "https://aeon.co/users/chris-kempes", "site": "aeon.co", "evidence": "https://aeon.co/users/chris-kempes", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "christopher-alexander",
+      "note": "建筑师、设计理论家（1936–2022），模式语言提出者",
+      "sources": [
+        {"type": "website", "title": "PatternLanguage.com（Center for Environmental Structure 官网）", "url": "https://www.patternlanguage.com/", "site": "patternlanguage.com", "evidence": "https://www.patternlanguage.com/bios/chris.htm", "confidence": "high", "note": null},
+        {"type": "book", "title": "A Pattern Language: Towns, Buildings, Construction（《建筑模式语言》，Oxford University Press，1977）", "url": "https://www.oup.com.au/books/general-interest/art-technology/9780195019193", "site": "oup.com.au", "evidence": "https://www.oup.com.au/books/general-interest/art-technology/9780195019193", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "christopher-d-green",
+      "note": "York University 心理学教授、心理学史学者，Classics in the History of Psychology 网站创办者；本批唯一归属文章「爱的本质」实为 Harry F. Harlow 所作，Green 只是收录该文的网站编辑",
+      "sources": [
+        {"type": "website", "title": "Christopher D. Green 个人主页（York University）", "url": "http://www.yorku.ca/christo/geninfo.htm", "site": "yorku.ca", "evidence": "http://www.yorku.ca/christo/geninfo.htm", "confidence": "high", "note": null},
+        {"type": "website", "title": "Classics in the History of Psychology（Green 创办并主编）", "url": "http://www.yorku.ca/pclassic/what.htm", "site": "yorku.ca", "evidence": "http://www.yorku.ca/pclassic/what.htm", "confidence": "high", "note": null},
+        {"type": "website", "title": "Christopher D. Green - Wikipedia", "url": "https://en.wikipedia.org/wiki/Christopher_D._Green", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Christopher_D._Green", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "claude-shannon",
+      "note": "信息论创始人（1916–2001）",
+      "sources": [
+        {"type": "website", "title": "Claude Shannon - Wikipedia", "url": "https://en.wikipedia.org/wiki/Claude_Shannon", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Claude_Shannon", "confidence": "high", "note": null},
+        {"type": "paper", "title": "A Mathematical Theory of Communication（《通信的数学理论》，Bell System Technical Journal，1948）", "url": "https://en.wikipedia.org/wiki/Mathematical_theory_of_communication", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Mathematical_theory_of_communication", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "clay-christensen",
+      "note": "哈佛商学院教授（1952–2020），颠覆式创新理论提出者",
+      "sources": [
+        {"type": "website", "title": "Clayton Christensen 官方网站", "url": "https://claytonchristensen.com/biography/", "site": "claytonchristensen.com", "evidence": "https://claytonchristensen.com/biography/", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Innovator's Dilemma（《创新者的窘境》，1997）", "url": "https://claytonchristensen.com/books/the-innovators-dilemma/", "site": "claytonchristensen.com", "evidence": "https://claytonchristensen.com/books/the-innovators-dilemma/", "confidence": "high", "note": null},
+        {"type": "book", "title": "How Will You Measure Your Life?（《你要如何衡量你的人生》，2012）", "url": null, "site": null, "evidence": "https://www.christenseninstitute.org/book/the-innovators-dilemma/", "confidence": "medium", "note": "Christensen Institute 页面作者简介列出该书"}
+      ]
+    },
+    {
+      "author_id": "clay-shirky",
+      "note": "作家、纽约大学教授，研究互联网与社会协作",
+      "sources": [
+        {"type": "website", "title": "Clay Shirky 个人网站", "url": "http://shirky.com/", "site": "shirky.com", "evidence": "http://shirky.com/essays/a-group-is-its-own-worst-enemy/", "confidence": "medium", "note": "根据文章页所在站点推出首页地址"},
+        {"type": "book", "title": "Here Comes Everybody: The Power of Organizing Without Organizations（《人人时代：无组织的组织力量》，Penguin Press，2008）", "url": "https://www.penguinrandomhouse.com/books/300615/here-comes-everybody-by-clay-shirky/", "site": "penguinrandomhouse.com", "evidence": "https://www.penguinrandomhouse.com/books/300615/here-comes-everybody-by-clay-shirky/", "confidence": "high", "note": "中文译名为常见译法，未核对"}
+      ]
+    },
+    {
+      "author_id": "clifford-geertz",
+      "note": "美国文化人类学家（1926–2006），普林斯顿高等研究院教授；「深度游戏：巴厘岛斗鸡笔记」原刊 Dædalus 1972 年冬季号",
+      "sources": [
+        {"type": "website", "title": "Clifford James Geertz · American Academy of Arts & Sciences", "url": "https://www.amacad.org/person/clifford-james-geertz", "site": "amacad.org", "evidence": "https://www.amacad.org/person/clifford-james-geertz", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Interpretation of Cultures（《文化的解释》，Basic Books，1973）", "url": "https://en.wikipedia.org/wiki/The_Interpretation_of_Cultures", "site": "en.wikipedia.org", "evidence": "https://search.worldcat.org/title/The-interpretation-of-cultures-:-selected-essays/oclc/737285", "confidence": "high", "note": "收录 Deep Play: Notes on the Balinese Cockfight"}
+      ]
+    },
+    {
+      "author_id": "colossus",
+      "note": "Patrick O'Shaughnessy 创办的商业与投资媒体（播客 Invest Like the Best、Business Breakdowns 及杂志）；本批归属文章实际作者为 Patrick O'Shaughnessy",
+      "sources": [
+        {"type": "website", "title": "Colossus 官网", "url": "https://colossus.com/", "site": "colossus.com", "evidence": "https://colossus.com/about-us/", "confidence": "high", "note": null},
+        {"type": "podcast", "title": "Invest Like the Best（Colossus 旗下播客，主持 Patrick O'Shaughnessy）", "url": "https://colossus.com/series/invest-like-the-best/", "site": "colossus.com", "evidence": "https://colossus.com/series/invest-like-the-best/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "craig-mod",
+      "note": "旅居日本的作家、摄影师",
+      "sources": [
+        {"type": "website", "title": "Craig Mod 个人网站", "url": "https://craigmod.com/", "site": "craigmod.com", "evidence": "https://craigmod.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Roden 月度 Newsletter 存档", "url": "https://craigmod.com/roden/", "site": "craigmod.com", "evidence": "https://craigmod.com/roden/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Things Become Other Things（Random House，2025）", "url": null, "site": null, "evidence": "https://craigmod.com/about/", "confidence": "high", "note": "另有 Kissa by Kissa（2020）"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[project]
+name = "life-committee"
+version = "0.1.0"
+description = "把「参考答案」epub 整理成按作者汇总的文章与信息源目录"
+requires-python = ">=3.12"
+dependencies = []
+
+[dependency-groups]
+dev = ["pytest>=8", "import-linter>=2"]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.importlinter]
+root_package = "catalog"
+
+[[tool.importlinter.contracts]]
+name = "领域核心不依赖适配器和编排层"
+type = "forbidden"
+source_modules = ["catalog.core"]
+forbidden_modules = ["catalog.adapters", "catalog.build", "catalog.__main__"]
+
+[[tool.importlinter.contracts]]
+name = "适配器不依赖编排层"
+type = "forbidden"
+source_modules = ["catalog.adapters"]
+forbidden_modules = ["catalog.build", "catalog.__main__"]

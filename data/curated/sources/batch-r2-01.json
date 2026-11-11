@@ -1,0 +1,205 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0123-c03",
+      "status": "found",
+      "note": "英文原题 Laws of (New) Media（副题 A guest post from Andrew McLuhan），a16z Newsletter 客座文章，2025-12-16；作者为马歇尔·麦克卢汉之孙 Andrew McLuhan。原书给出的 substack.com/home/post/p-181691242 即该文的 Substack 通用链接",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Laws of (New) Media",
+          "url": "https://www.a16z.news/p/laws-of-new-media",
+          "site": "a16z.news",
+          "evidence": "https://www.a16z.news/p/laws-of-new-media",
+          "confidence": "high",
+          "note": "a16z Newsletter 正式发布页；开篇四元律引文与“麦格劳-希尔十周年纪念版”段落与摘录逐句对应"
+        },
+        {
+          "type": "article",
+          "title": "Laws of (New) Media（Substack 通用链接）",
+          "url": "https://substack.com/home/post/p-181691242",
+          "site": "substack.com",
+          "evidence": "https://substack.com/home/post/p-181691242",
+          "confidence": "high",
+          "note": "原书「原发布于」行的链接，打开后页面标题为 Laws of (New) Media - by Andrew McLuhan - a16z"
+        }
+      ],
+      "author_check": {
+        "status": "corrected",
+        "authors": ["Andrew McLuhan"],
+        "evidence": "https://substack.com/home/post/p-181691242",
+        "note": "原书作者标「未知」；页面署名 Andrew McLuhan，编者按说明他是 Marshall McLuhan 之孙、应 Alex Danco 之邀为 a16z Newsletter 撰写客座文章（另见 https://mcluhan.substack.com/p/gotta-catch-em-all 中作者本人的说明）"
+      }
+    },
+    {
+      "article_id": "vol0059-c06",
+      "status": "found",
+      "note": "英文原题 Overpowered Metrics Eat Underspecified Goals（Ribbonfarm，2016-09-29，David Manheim）。原书推荐语误称作者为 Venkatesh Rao（Ribbonfarm 创办人），实为 David Manheim 在 Ribbonfarm 发表的文章",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Overpowered Metrics Eat Underspecified Goals",
+          "url": "https://ribbonfarm.com/2016/09/29/soft-bias-of-underspecified-goals/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://ribbonfarm.com/2016/09/29/soft-bias-of-underspecified-goals/",
+          "confidence": "high",
+          "note": "页面署名 David Manheim，2016-09-29；正文以爱丽丝问路开篇，讨论 SMART 与 BHAG 目标，与摘录吻合"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["David Manheim"],
+        "evidence": "https://ribbonfarm.com/archive/",
+        "note": "Ribbonfarm 归档页列出 2016-09-29 Overpowered Metrics Eat Underspecified Goals — David Manheim；原书推荐语中“作者是 Venkatesh Rao”的说法有误，现有归属 David Manheim 正确"
+      }
+    },
+    {
+      "article_id": "vol0040-c09",
+      "status": "found",
+      "note": "英文原题 Gardens: An Essay on the Human Condition（On Art and Aesthetics 博客，2016-10-01）。这是一篇介绍 Robert Pogue Harrison 同名著作（芝加哥大学出版社，2008）的书评式随笔，并非该书节选；作者为博客创办人 Tulika Bahadur。Elizabeth J. Peterson 只是在其 2020 年书单文章 The Best Things I've Read in 2020 中推荐过此文（该文页面的 pingback 可见），原书误将其标为作者",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Gardens: An Essay on the Human Condition",
+          "url": "https://onartandaesthetics.com/2016/10/01/gardens-an-essay-on-the-human-condition/",
+          "site": "onartandaesthetics.com",
+          "evidence": "https://onartandaesthetics.com/2016/10/01/gardens-an-essay-on-the-human-condition/",
+          "confidence": "high",
+          "note": "开篇“Anybody who has even cursorily browsed the greatest works of world literature…”与摘录逐句对应；评论区作者 Tulika B. 回复“I just published it!”"
+        },
+        {
+          "type": "book",
+          "title": "Gardens: An Essay on the Human Condition（Robert Pogue Harrison，University of Chicago Press，2008）",
+          "url": "https://press.uchicago.edu/ucp/books/book/chicago/G/bo5815522.html",
+          "site": "press.uchicago.edu",
+          "evidence": "https://press.uchicago.edu/ucp/books/book/chicago/G/bo5815522.html",
+          "confidence": "high",
+          "note": "文章所评介的原书，出版社页面；非本文出处"
+        }
+      ],
+      "author_check": {
+        "status": "corrected",
+        "authors": ["Tulika Bahadur"],
+        "evidence": "https://onartandaesthetics.com/about-contact/",
+        "note": "On Art and Aesthetics 由 Tulika Bahadur 创办并撰稿（关于页自述 Founder and Publisher），文章评论区由 Tulika B. 以作者身份回复“I just published it!”。原书标注的 Elizabeth J. Peterson 只是转荐者：文章页 pingback 显示 “The Best Things I’ve Read in 2020 – Elizabeth J. Peterson”。页面正文未单独显示署名行，故依据为站点作者身份与评论"
+      }
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "applied-divinity-studies",
+      "note": "匿名博客/Newsletter，作者未公开真名",
+      "sources": [
+        {"type": "website", "title": "Applied Divinity Studies 博客", "url": "https://www.applieddivinitystudies.com/", "site": "applieddivinitystudies.com", "evidence": "https://www.applieddivinitystudies.com/about", "confidence": "high", "note": null},
+        {"type": "website", "title": "Applied Divinity Studies Newsletter（Buttondown 订阅页）", "url": "https://buttondown.com/applieddivinitystudies", "site": "buttondown.com", "evidence": "https://buttondown.com/applieddivinitystudies", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "arnold-bennett",
+      "note": "英国小说家（1867–1931）",
+      "sources": [
+        {"type": "website", "title": "Arnold Bennett（维基百科）", "url": "https://en.wikipedia.org/wiki/Arnold_Bennett", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Arnold_Bennett", "confidence": "high", "note": null},
+        {"type": "book", "title": "How to Live on 24 Hours a Day（《如何度过一天的24小时》，1908）", "url": "https://www.gutenberg.org/files/2274/2274-h/2274-h.htm", "site": "gutenberg.org", "evidence": "https://en.wikipedia.org/wiki/How_to_Live_on_24_Hours_a_Day", "confidence": "high", "note": "Project Gutenberg 公版全文"}
+      ]
+    },
+    {
+      "author_id": "ben-kuhn",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "benkuhn.net（Ben Kuhn 个人博客）", "url": "https://www.benkuhn.net/", "site": "benkuhn.net", "evidence": "https://www.benkuhn.net/", "confidence": "high", "note": null},
+        {"type": "article", "title": "Searching for outliers（2022-03）", "url": "https://www.benkuhn.net/outliers/", "site": "benkuhn.net", "evidence": "https://www.benkuhn.net/outliers/", "confidence": "high", "note": "即「寻找异常值」原文"}
+      ]
+    },
+    {
+      "author_id": "ben-lesswrong-ben-lang",
+      "note": "LessWrong 用户名 ben-lang，显示名 Ben",
+      "sources": [
+        {"type": "website", "title": "Ben（ben-lang）的 LessWrong 主页", "url": "https://www.lesswrong.com/users/ben-lang", "site": "lesswrong.com", "evidence": "https://www.lesswrong.com/users/ben-lang", "confidence": "high", "note": null},
+        {"type": "article", "title": "The Redaction Machine（2022-09-20，LessWrong 精选小说）", "url": "https://www.lesswrong.com/posts/CKgPFHoWFkviYz7CB/the-redaction-machine", "site": "lesswrong.com", "evidence": "https://www.lesswrong.com/api/post/the-redaction-machine", "confidence": "medium", "note": "应即「回溯机器」原文；本节点未核对中文摘录"}
+      ]
+    },
+    {
+      "author_id": "catherine-mccarthy",
+      "note": "曾任 The Energy Project 高级副总裁/COO",
+      "sources": [
+        {"type": "article", "title": "Manage Your Energy, Not Your Time（与 Tony Schwartz 合著，HBR 2007-10）", "url": "https://hbr.org/2007/10/manage-your-energy-not-your-time", "site": "hbr.org", "evidence": "https://hbr.org/2007/10/manage-your-energy-not-your-time", "confidence": "high", "note": null},
+        {"type": "website", "title": "Catherine McCarthy, PhD（BigSpeak 演讲者简介）", "url": "https://www.bigspeak.com/speakers/catherine-mccarthy/", "site": "bigspeak.com", "evidence": "https://www.bigspeak.com/speakers/catherine-mccarthy/", "confidence": "medium", "note": "未找到个人网站，使用演讲经纪页简介"},
+        {"type": "book", "title": "The Way We're Working Isn't Working（《我们的工作方式行不通》，与 Tony Schwartz、Jean Gomes 合著，2010）", "url": null, "site": null, "evidence": "https://www.mindtools.com/aqb7ozq/the-way-were-working-isnt-working/", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "dan-shipper",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Dan Shipper 个人网站", "url": "https://danshipper.com/", "site": "danshipper.com", "evidence": "https://danshipper.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Chain of Thought（Dan Shipper 在 Every 的专栏）", "url": "https://every.to/chain-of-thought", "site": "every.to", "evidence": "https://danshipper.com/llms.txt", "confidence": "high", "note": "此前专栏为 Superorganizers（2019 起）"}
+      ]
+    },
+    {
+      "author_id": "ethan-evans",
+      "note": "前 Amazon VP",
+      "sources": [
+        {"type": "website", "title": "Level Up Newsletter（Ethan Evans）", "url": "https://levelupwithethanevans.substack.com/about", "site": "levelupwithethanevans.substack.com", "evidence": "https://levelupwithethanevans.substack.com/about", "confidence": "high", "note": null},
+        {"type": "article", "title": "The Magic Loop（Lenny's Newsletter 客座文章，2023-09-19）", "url": "https://www.lennysnewsletter.com/p/the-magic-loop", "site": "lennysnewsletter.com", "evidence": "https://www.lennysnewsletter.com/p/the-magic-loop", "confidence": "high", "note": "即「职场中的魔力循环」相关原文"}
+      ]
+    },
+    {
+      "author_id": "evan-thompson",
+      "note": "UBC 哲学教授",
+      "sources": [
+        {"type": "website", "title": "Evan Thompson 个人网站", "url": "https://evanthompson.me/about/", "site": "evanthompson.me", "evidence": "https://evanthompson.me/about/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Waking, Dreaming, Being（《觉醒、梦境与存在》，Columbia University Press，2015）", "url": null, "site": null, "evidence": "https://evanthompson.me/about/", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Blind Spot: Why Science Cannot Ignore Human Experience（与 Adam Frank、Marcelo Gleiser 合著）", "url": null, "site": null, "evidence": "https://evanthompson.me/biography/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "first-round-review",
+      "note": "First Round Capital 旗下刊物",
+      "sources": [
+        {"type": "website", "title": "First Round Review 官网", "url": "https://review.firstround.com/", "site": "review.firstround.com", "evidence": "https://review.firstround.com/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "gail-saltz",
+      "note": "精神科医生、精神分析师",
+      "sources": [
+        {"type": "website", "title": "Dr. Gail Saltz 官网", "url": "https://drgailsaltz.com/about/", "site": "drgailsaltz.com", "evidence": "https://drgailsaltz.com/about/", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Power of Different: The Link Between Disorder and Genius（《不同的力量》）", "url": "https://drgailsaltz.com/books/", "site": "drgailsaltz.com", "evidence": "https://drgailsaltz.com/books/", "confidence": "high", "note": null},
+        {"type": "podcast", "title": "The Power of Different 播客", "url": "https://drgailsaltz.com/podcast/", "site": "drgailsaltz.com", "evidence": "https://drgailsaltz.com/podcast/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "harry-f-harlow",
+      "note": "美国心理学家（1905–1981）",
+      "sources": [
+        {"type": "website", "title": "Harry Harlow（维基百科）", "url": "https://en.wikipedia.org/wiki/Harry_Harlow", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Harry_Harlow", "confidence": "high", "note": null},
+        {"type": "paper", "title": "The Nature of Love（American Psychologist, 13, 673–685, 1958）", "url": "https://www.yorku.ca/pclassic/Harlow/love.htm", "site": "yorku.ca", "evidence": "https://www.yorku.ca/pclassic/Harlow/love.htm", "confidence": "high", "note": "Classics in the History of Psychology 全文；即「爱的本质」原文"}
+      ]
+    },
+    {
+      "author_id": "howard-h-stevenson",
+      "note": "哈佛商学院荣休教授",
+      "sources": [
+        {"type": "website", "title": "Howard H. Stevenson（哈佛商学院教师主页）", "url": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6560", "site": "hbs.edu", "evidence": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6560", "confidence": "high", "note": null},
+        {"type": "book", "title": "Just Enough: Tools for Creating Success in Your Work and Life（与 Laura Nash 合著，Wiley，2004）", "url": "https://www.wiley.com/en-us/Just+Enough%3A+Tools+for+Creating+Success+in+Your+Work+and+Life-p-9780471714408", "site": "wiley.com", "evidence": "https://www.hbs.edu/faculty/Pages/item.aspx?num=16183", "confidence": "high", "note": "Success That Lasts（HBR）即基于该研究"}
+      ]
+    },
+    {
+      "author_id": "howard-raiffa",
+      "note": "哈佛决策分析学者（1924–2016）",
+      "sources": [
+        {"type": "website", "title": "Howard Raiffa（维基百科）", "url": "https://en.wikipedia.org/wiki/Howard_Raiffa", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Howard_Raiffa", "confidence": "high", "note": null},
+        {"type": "article", "title": "The Hidden Traps in Decision Making（与 John S. Hammond、Ralph L. Keeney 合著，HBR 1998）", "url": "https://hbr.org/1998/09/the-hidden-traps-in-decision-making-2", "site": "hbr.org", "evidence": "https://hbr.org/1998/09/the-hidden-traps-in-decision-making-2", "confidence": "high", "note": "即「决策中的陷阱」原文"},
+        {"type": "book", "title": "Smart Choices: A Practical Guide to Making Better Decisions（《决策的艺术》，与 Hammond、Keeney 合著，1999）", "url": null, "site": null, "evidence": "https://ralphkeeney.com/pdf/RLK_CV.pdf", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "james-altucher",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "James Altucher 个人网站", "url": "https://www.jamesaltucher.com/about", "site": "jamesaltucher.com", "evidence": "https://www.jamesaltucher.com/about", "confidence": "high", "note": null},
+        {"type": "book", "title": "Choose Yourself（《选择你自己》）", "url": null, "site": null, "evidence": "https://archive.jamesaltucher.com/start/", "confidence": "high", "note": null}
+      ]
+    }
+  ]
+}

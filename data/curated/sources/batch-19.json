@@ -1,0 +1,471 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0043-c03",
+      "status": "found",
+      "note": "英文原题 I, Pencil（My Family Tree as told to Leonard E. Read），首发于 The Freeman 1958 年 12 月号",
+      "sources": [
+        {
+          "type": "article",
+          "title": "I, Pencil",
+          "url": "https://fee.org/articles/i-pencil/",
+          "site": "fee.org",
+          "evidence": "https://fee.org/articles/i-pencil/",
+          "confidence": "high",
+          "note": "FEE 官网全文，页首注明 first published in the December 1958 issue of The Freeman"
+        },
+        {
+          "type": "article",
+          "title": "\"I, Pencil: My Family Tree as told to Leonard E. Read\"",
+          "url": "https://www.econlib.org/library/Essays/rdPncl.html",
+          "site": "econlib.org",
+          "evidence": "https://www.econlib.org/library/Essays/rdPncl.html",
+          "confidence": "high",
+          "note": "Econlib 收录版，标注 First Pub. Date 1958"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0022-c04",
+      "status": "found",
+      "note": "原为 YouTube 视频 A day in my life（2020），中文为视频文字稿翻译，标题经编者改写",
+      "sources": [
+        {
+          "type": "video",
+          "title": "A day in my life | Lex Fridman",
+          "url": "https://www.youtube.com/watch?v=0m3hGZvD-0s",
+          "site": "youtube.com",
+          "evidence": "https://www.youtube.com/watch?v=0m3hGZvD-0s",
+          "confidence": "high",
+          "note": "视频字幕包含睡眠、晨间咒语（mantra）、两段四小时深度工作等内容，与摘录一致；口述提到 end of 2020 的目标"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0037-c04",
+      "status": "found",
+      "note": "英文原题 Unbundling Work from Employment（2020-07-29）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Unbundling Work from Employment",
+          "url": "https://www.lisnewsletter.com/p/unbundling-work-from-employment",
+          "site": "lisnewsletter.com",
+          "evidence": "https://www.lisnewsletter.com/p/unbundling-work-from-employment",
+          "confidence": "high",
+          "note": "Li's Newsletter 原文，开篇即以 Craigslist 解体类比、提及 organization man，与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "Unbundling Work from Employment",
+          "url": "https://www.atelierventures.co/content/unbundling-work-from-employment",
+          "site": "atelierventures.co",
+          "evidence": "https://www.atelierventures.co/content/unbundling-work-from-employment",
+          "confidence": "high",
+          "note": "Atelier Ventures 官网同文转载，署名 Li Jin"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0065-c06",
+      "status": "found",
+      "note": "长江商学院「与大师同行」系列三场演讲：《赚钱的艺术》（2002-12-19）、《奉献的艺术》（2004-06-28）、《管理的艺术》（2005-06-28），全文见李嘉诚基金会官网",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "赚钱的艺术（长江商学院「与大师同行」讲座系列）",
+          "url": "https://www.lksf.org/the-art-of-money-making/?lang=zh",
+          "site": "lksf.org",
+          "evidence": "https://www.lksf.org/the-art-of-money-making/?lang=zh",
+          "confidence": "high",
+          "note": "开头「EMBA的同学，因为你们都是在社会多方面有宝贵经验的人」与摘录逐字对应"
+        },
+        {
+          "type": "speech",
+          "title": "奉献的艺术（长江商学院『与大师同行』讲座系列）",
+          "url": "https://www.lksf.org/the-art-of-giving/?lang=zh",
+          "site": "lksf.org",
+          "evidence": "https://www.lksf.org/the-art-of-giving/?lang=zh",
+          "confidence": "high",
+          "note": "范蠡与富兰克林对比，与推荐语一致"
+        },
+        {
+          "type": "speech",
+          "title": "管理的艺术（长江商学院『与大师同行』讲座系列）",
+          "url": "https://www.lksf.org/the-art-of-management/?lang=zh",
+          "site": "lksf.org",
+          "evidence": "https://www.lksf.org/the-art-of-management/?lang=zh",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0007-c06",
+      "status": "found",
+      "note": "李想 2022 年发布的长文《节奏把控对于创业的重要性》（从 0-1 和从 1-10 的阶段），IT之家等媒体全文转载",
+      "sources": [
+        {
+          "type": "article",
+          "title": "理想汽车 CEO 李想分享创业感悟：分为两大阶段（全文引用《节奏把控对于创业的重要性》）",
+          "url": "https://www.ithome.com/0/598/862.htm",
+          "site": "ithome.com",
+          "evidence": "https://www.ithome.com/0/598/862.htm",
+          "confidence": "high",
+          "note": "转载李想原文，开头「这个节奏当然不是带节奏，而是不同阶段的规律和把控」与摘录一致；李想本人首发渠道（疑为微博）未直接找到"
+        },
+        {
+          "type": "article",
+          "title": "李想谈创业：造车“三傻”胜在对于节奏的把控和心力",
+          "url": "https://www.jiemian.com/article/7018137.html",
+          "site": "jiemian.com",
+          "evidence": "https://www.jiemian.com/article/7018137.html",
+          "confidence": "medium",
+          "note": "界面新闻对同一文章的报道"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0009-c06",
+      "status": "found",
+      "note": "2020 年 5 月李想在汽车之家《大神开讲》的直播分享（看清本质 李想的第三次创业），中文标题为编者所拟",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "大神开讲：看清本质 李想的第三次创业",
+          "url": "https://m.autohome.com.cn/share/article/994704",
+          "site": "autohome.com.cn",
+          "evidence": "https://m.autohome.com.cn/share/article/994704",
+          "confidence": "high",
+          "note": "汽车之家 2020-05-12 报道，提及湖畔大学与「2020年，我们都应该重新定位自己」，与摘录一致"
+        },
+        {
+          "type": "speech",
+          "title": "《大神开讲：看清本质 李想的第三次创业》完整演讲内容",
+          "url": "https://linux.do/t/topic/528662",
+          "site": "linux.do",
+          "evidence": "https://linux.do/t/topic/528662",
+          "confidence": "medium",
+          "note": "第三方整理的完整文字稿，开头「我是理想汽车的CEO李想……为什么会选择增程路线、为什么会选择直营」与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0041-c06",
+      "status": "found",
+      "note": "英文原题 Flexing a Different Conversational \"Muscle\": The Practice of Dialogue，刊于 The Systems Thinker（V11N9）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Flexing a Different Conversational \"Muscle\": The Practice of Dialogue",
+          "url": "https://thesystemsthinker.com/flexing-a-different-conversational-muscle-the-practice-of-dialogue/",
+          "site": "thesystemsthinker.com",
+          "evidence": "https://thesystemsthinker.com/flexing-a-different-conversational-muscle-the-practice-of-dialogue/",
+          "confidence": "high",
+          "note": "署名 Glenna Gerard, Linda Ellinor；开头牛顿式与量子式范式转变、引用 How Dialogue Supports Our Expanding Worldview，与摘录一致"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Linda Ellinor", "Glenna Gerard"],
+        "evidence": "https://thesystemsthinker.com/flexing-a-different-conversational-muscle-the-practice-of-dialogue/",
+        "note": null
+      }
+    },
+    {
+      "article_id": "vol0020-c04",
+      "status": "found",
+      "note": "NPR 播客 How I Built This with Guy Raz 节目 reCAPTCHA and Duolingo: Luis von Ahn（2020-05-25）的逐字稿",
+      "sources": [
+        {
+          "type": "podcast",
+          "title": "reCAPTCHA and Duolingo: Luis von Ahn",
+          "url": "https://www.npr.org/2020/05/22/860884062/recaptcha-and-duolingo-luis-von-ahn",
+          "site": "npr.org",
+          "evidence": "https://www.npr.org/2020/05/22/860884062/recaptcha-and-duolingo-luis-von-ahn",
+          "confidence": "high",
+          "note": "NPR 官方节目页，How I Built This with Guy Raz，2020-05-25"
+        },
+        {
+          "type": "podcast",
+          "title": "Transcript · reCAPTCHA and Duolingo: Luis von Ahn",
+          "url": "https://smashnotes.com/p/how-i-built-this-with-guy-raz/e/recaptcha-and-duolingo-luis-von-ahn/transcript",
+          "site": "smashnotes.com",
+          "evidence": "https://smashnotes.com/p/how-i-built-this-with-guy-raz/e/recaptcha-and-duolingo-luis-von-ahn/transcript",
+          "confidence": "medium",
+          "note": "第三方自动转写文字稿，开场「Think about the small moments or decisions in your life」与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0036-c03",
+      "status": "found",
+      "note": "TED 演讲 How to make learning as addictive as social media（2023）",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "Luis von Ahn: How to make learning as addictive as social media",
+          "url": "https://www.ted.com/talks/luis_von_ahn_how_to_make_learning_as_addictive_as_social_media",
+          "site": "ted.com",
+          "evidence": "https://www.ted.com/talks/luis_von_ahn_how_to_make_learning_as_addictive_as_social_media",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "video",
+          "title": "How to Make Learning as Addictive as Social Media | Duolingo's Luis Von Ahn | TED",
+          "url": "https://www.youtube.com/watch?v=P6FORpg0KVo",
+          "site": "youtube.com",
+          "evidence": "https://www.youtube.com/watch?v=P6FORpg0KVo",
+          "confidence": "high",
+          "note": "字幕含免费增值模式、把西兰花做成甜点的比喻，与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0061-c05",
+      "status": "found",
+      "note": "英文原题 How to know what you really want，Psyche Guides 约稿（2021）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to know what you really want and be free from mimetic desire",
+          "url": "https://psyche.co/guides/how-to-know-what-you-really-want-and-be-free-from-mimetic-desire",
+          "site": "psyche.co",
+          "evidence": "https://psyche.co/guides/how-to-know-what-you-really-want-and-be-free-from-mimetic-desire",
+          "confidence": "high",
+          "note": "开头 Claire 在杜兰大学、新奥尔良律师助理、女版 Anthony Bourdain 的故事与摘录逐段对应"
+        },
+        {
+          "type": "article",
+          "title": "How to Know What You Really Want",
+          "url": "https://lukeburgis.com/writing/how-to-know-what-you-really-want/",
+          "site": "lukeburgis.com",
+          "evidence": "https://lukeburgis.com/writing/how-to-know-what-you-really-want/",
+          "confidence": "high",
+          "note": "作者个人网站收录版"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0087-c05",
+      "status": "found",
+      "note": "英文原题 Questions Are Not Just For Asking，Ribbonfarm 客座文章（2017-08-10）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Questions Are Not Just For Asking",
+          "url": "https://ribbonfarm.com/2017/08/10/questions-are-not-just-for-asking/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://ribbonfarm.com/2017/08/10/questions-are-not-just-for-asking/",
+          "confidence": "high",
+          "note": "署名 Malcolm Ocean，开头「ask me a ___」「boggled my ___」与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0002-c06",
+      "status": "found",
+      "note": "英文原题 Why AI Won't Cause Unemployment（2023-03-04）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Why AI Won't Cause Unemployment",
+          "url": "https://pmarca.substack.com/p/why-ai-wont-cause-unemployment",
+          "site": "pmarca.substack.com",
+          "evidence": "https://pmarca.substack.com/p/why-ai-wont-cause-unemployment",
+          "confidence": "high",
+          "note": "开头 Fears about new technology replacing human labor… just ask the Luddites，与摘录原文逐字一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0010-c04",
+      "status": "found",
+      "note": "英文原题 Why AI Will Save the World（2023-06-06）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Why AI Will Save the World",
+          "url": "https://a16z.com/ai-will-save-the-world/",
+          "site": "a16z.com",
+          "evidence": "https://a16z.com/ai-will-save-the-world/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "article",
+          "title": "Why AI Will Save The World",
+          "url": "https://pmarca.substack.com/p/why-ai-will-save-the-world",
+          "site": "pmarca.substack.com",
+          "evidence": "https://pmarca.substack.com/p/why-ai-will-save-the-world",
+          "confidence": "high",
+          "note": "作者 Substack 同文"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0073-c03",
+      "status": "found",
+      "note": "英文原题 The Idea Isn't The Important Part",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Idea Isn't The Important Part",
+          "url": "https://marcrandolph.com/the-idea-isnt-the-important-part/",
+          "site": "marcrandolph.com",
+          "evidence": "https://marcrandolph.com/the-idea-isnt-the-important-part/",
+          "confidence": "high",
+          "note": "开头「I'm frequently asked whether it's safe to share an idea with an investor… patent… non-disclosure agreement」与摘录一致，文中提及三项专利；发表日期未在搜索结果中显示"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0051-c04",
+      "status": "found",
+      "note": "英文原题 No Money, No Time，《纽约时报》Opinionator（2014-06-13）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "No Money, No Time",
+          "url": "https://archive.nytimes.com/opinionator.blogs.nytimes.com/2014/06/13/no-clocking-out/",
+          "site": "nytimes.com",
+          "evidence": "https://archive.nytimes.com/opinionator.blogs.nytimes.com/2014/06/13/no-clocking-out/",
+          "confidence": "high",
+          "note": "署名 Maria Konnikova；文中引用 Mullainathan 关于金钱、时间、带宽三种贫困的说法，与摘录一致"
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "leonard-e-read",
+      "note": "美国经济教育基金会（FEE）创始人",
+      "sources": [
+        {"type": "website", "title": "Leonard E. Read - FEE 人物页", "url": "https://fee.org/people/leonard-e-read/", "site": "fee.org", "evidence": "https://fee.org/people/leonard-e-read/", "confidence": "high", "note": null},
+        {"type": "book", "title": "I, Pencil（《一只铅笔的自述》，FEE 单行本）", "url": "https://fee.org/ebooks/i-pencil/", "site": "fee.org", "evidence": "https://fee.org/ebooks/i-pencil/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "lera-boroditsky",
+      "note": "加州大学圣迭戈分校认知科学教授，研究语言如何塑造思维",
+      "sources": [
+        {"type": "website", "title": "Lera Boroditsky 个人网站", "url": "http://language.ucsd.edu/", "site": "language.ucsd.edu", "evidence": "http://language.ucsd.edu/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Lera Boroditsky - UCSD Cognitive Science 教师页", "url": "https://cogsci.ucsd.edu/people/faculty/lera-boroditsky.html", "site": "cogsci.ucsd.edu", "evidence": "https://cogsci.ucsd.edu/people/faculty/lera-boroditsky.html", "confidence": "high", "note": null},
+        {"type": "speech", "title": "How language shapes the way we think（TED 演讲）", "url": "https://www.ted.com/talks/lera_boroditsky_how_language_shapes_the_way_we_think", "site": "ted.com", "evidence": "https://www.ted.com/speakers/lera_boroditsky", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "lewis-waller",
+      "note": "YouTube 频道 Then & Now 的创作者；《我们的消费社会》对应其文章 Our Consumer Society",
+      "sources": [
+        {"type": "website", "title": "Then & Now（Lewis Waller 的历史/哲学/政治视频与文章站点）", "url": "https://www.thenandnow.co/", "site": "thenandnow.co", "evidence": "https://www.thenandnow.co/about-then-now/", "confidence": "high", "note": "作者页列有 Our Consumer Society：https://www.thenandnow.co/author/waller540/page/9/"},
+        {"type": "website", "title": "Lewis Waller 个人网站 About Me", "url": "https://lewwaller.com/about-me/", "site": "lewwaller.com", "evidence": "https://lewwaller.com/about-me/", "confidence": "high", "note": null},
+        {"type": "video", "title": "Then & Now - YouTube 频道", "url": "https://www.youtube.com/@ThenNow", "site": "youtube.com", "evidence": "https://www.youtube.com/@ThenNow", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "lex-fridman",
+      "note": "AI 研究者、Lex Fridman Podcast 主持人",
+      "sources": [
+        {"type": "website", "title": "Lex Fridman 个人网站", "url": "https://lexfridman.com/", "site": "lexfridman.com", "evidence": "https://lexfridman.com/", "confidence": "high", "note": null},
+        {"type": "podcast", "title": "Lex Fridman Podcast", "url": "https://lexfridman.com/podcast/", "site": "lexfridman.com", "evidence": "https://lexfridman.com/podcast/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "li-jin",
+      "note": "Variant 联合创始人兼普通合伙人，曾创办 Atelier Ventures，提出 passion economy",
+      "sources": [
+        {"type": "website", "title": "Li's Newsletter", "url": "https://www.lisnewsletter.com/about", "site": "lisnewsletter.com", "evidence": "https://www.lisnewsletter.com/about", "confidence": "high", "note": null},
+        {"type": "website", "title": "Atelier Ventures 官网", "url": "https://www.atelierventures.co/", "site": "atelierventures.co", "evidence": "https://www.atelierventures.co/", "confidence": "medium", "note": "Atelier 已于 2021 年并入 Variant"}
+      ]
+    },
+    {
+      "author_id": "li-ka-shing",
+      "note": "香港企业家、慈善家，长江集团创办人",
+      "sources": [
+        {"type": "website", "title": "李嘉诚基金会 - 关于创办人", "url": "https://www.lksf.org/our-founder/?lang=zh", "site": "lksf.org", "evidence": "https://www.lksf.org/our-founder/?lang=zh", "confidence": "high", "note": null},
+        {"type": "website", "title": "Li Ka-shing - Wikipedia", "url": "https://en.wikipedia.org/wiki/Li_Ka-shing", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Li_Ka-shing", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "li-xiang",
+      "note": "理想汽车创始人、董事长兼 CEO，汽车之家创始人",
+      "sources": [
+        {"type": "website", "title": "李想 - 理想汽车投资者关系 管理层简介", "url": "https://ir.lixiang.com/zh-hans/management/lixiang/", "site": "ir.lixiang.com", "evidence": "https://ir.lixiang.com/zh-hans/management/lixiang/", "confidence": "high", "note": null},
+        {"type": "website", "title": "李想 (企业家) - 维基百科", "url": "https://zh.wikipedia.org/zh-hans/%E6%9D%8E%E6%83%B3_(%E4%BC%81%E6%A5%AD%E5%AE%B6)", "site": "zh.wikipedia.org", "evidence": "https://zh.wikipedia.org/zh-hans/%E6%9D%8E%E6%83%B3_(%E4%BC%81%E6%A5%AD%E5%AE%B6)", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "linda-ellinor",
+      "note": "组织发展顾问，与 Glenna Gerard 共同创办 The Dialogue Group",
+      "sources": [
+        {"type": "book", "title": "Dialogue: Rediscover the Transforming Power of Conversation（与 Glenna Gerard 合著，John Wiley & Sons，1998）", "url": "https://www.google.com/books/edition/Dialogue/HJ_hAAAAMAAJ?bsq=dialogue&dq=dialogue&gbpv=1&hl=en&printsec=frontcover", "site": "google.com", "evidence": "https://www.google.com/books/edition/Dialogue/HJ_hAAAAMAAJ?bsq=dialogue&dq=dialogue&gbpv=1&hl=en&printsec=frontcover", "confidence": "high", "note": null},
+        {"type": "website", "title": "Action Dialogue Group（Linda Ellinor 现任机构）", "url": "http://actiondialoguegroup.com/", "site": "actiondialoguegroup.com", "evidence": "https://www.ncdd.org/news/june-3-join-us-for-an-ncdd-webinar-about-bohm-inspired-dialogue", "confidence": "medium", "note": "链接见于 NCDD 页面的作者介绍，未直接打开"}
+      ]
+    },
+    {
+      "author_id": "luis-von-ahn",
+      "note": "Duolingo 联合创始人兼 CEO，CAPTCHA / reCAPTCHA 发明者",
+      "sources": [
+        {"type": "website", "title": "Luis von Ahn 个人主页（Carnegie Mellon）", "url": "https://www.cs.cmu.edu/~biglou/", "site": "cs.cmu.edu", "evidence": "https://www.cs.cmu.edu/~biglou/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Luis von Ahn - Duolingo 投资者关系 董事会成员页", "url": "https://investors.duolingo.com/board-member/luis-von-ahn-0", "site": "investors.duolingo.com", "evidence": "https://investors.duolingo.com/board-member/luis-von-ahn-0", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "luke-burgis",
+      "note": "创业者、作家，研究勒内·吉拉尔的模仿欲望理论",
+      "sources": [
+        {"type": "website", "title": "Luke Burgis 个人网站", "url": "https://lukeburgis.com/writing/", "site": "lukeburgis.com", "evidence": "https://lukeburgis.com/writing/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Wanting: The Power of Mimetic Desire in Everyday Life（St. Martin's Press，2021）", "url": "https://lukeburgis.com/books/wanting/", "site": "lukeburgis.com", "evidence": "https://lukeburgis.com/books/wanting/", "confidence": "high", "note": "中文译名未查证，故未标注"}
+      ]
+    },
+    {
+      "author_id": "malcolm-ocean",
+      "note": "独立写作者，意图管理应用 Intend（原 Complice）作者",
+      "sources": [
+        {"type": "website", "title": "Malcolm Ocean 个人博客", "url": "https://malcolmocean.com/", "site": "malcolmocean.com", "evidence": "https://malcolmocean.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "About • Malcolm Ocean", "url": "https://malcolmocean.com/about/", "site": "malcolmocean.com", "evidence": "https://malcolmocean.com/about/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "marc-andreessen",
+      "note": "a16z 联合创始人，Mosaic / Netscape 联合创造者",
+      "sources": [
+        {"type": "website", "title": "Marc Andreessen Substack", "url": "https://pmarca.substack.com/archive", "site": "pmarca.substack.com", "evidence": "https://pmarca.substack.com/archive", "confidence": "high", "note": null},
+        {"type": "website", "title": "Marc Andreessen - Andreessen Horowitz 人物页", "url": "https://a16z.com/author/marc-andreessen/", "site": "a16z.com", "evidence": "https://a16z.com/author/marc-andreessen/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "marc-randolph",
+      "note": "Netflix 联合创始人兼首任 CEO",
+      "sources": [
+        {"type": "website", "title": "Marc Randolph 个人网站", "url": "https://marcrandolph.com/about/", "site": "marcrandolph.com", "evidence": "https://marcrandolph.com/about/", "confidence": "high", "note": null},
+        {"type": "book", "title": "That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea（Little, Brown，2019）", "url": "https://marcrandolph.com/the-book/", "site": "marcrandolph.com", "evidence": "https://www.kirkusreviews.com/book-reviews/marc-randolph/that-will-never-work/", "confidence": "high", "note": "中文译名未查证，故未标注"}
+      ]
+    },
+    {
+      "author_id": "maria-konnikova",
+      "note": "心理学博士、作家、职业扑克选手，《纽约客》撰稿人",
+      "sources": [
+        {"type": "website", "title": "Maria Konnikova 个人网站", "url": "https://www.mariakonnikova.com/about/", "site": "mariakonnikova.com", "evidence": "https://www.mariakonnikova.com/about/", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Biggest Bluff（Penguin Press，2020）", "url": "https://www.penguinrandomhouse.com/books/562852/the-biggest-bluff-by-maria-konnikova/", "site": "penguinrandomhouse.com", "evidence": "https://www.penguinrandomhouse.com/books/562852/the-biggest-bluff-by-maria-konnikova/", "confidence": "high", "note": "中文译名未查证，故未标注"},
+        {"type": "book", "title": "Mastermind: How to Think Like Sherlock Holmes（Viking，2013）", "url": "https://www.mariakonnikova.com/books/mastermind/", "site": "mariakonnikova.com", "evidence": "https://www.mariakonnikova.com/books/mastermind/", "confidence": "high", "note": "中文译名未查证，故未标注"}
+      ]
+    }
+  ]
+}

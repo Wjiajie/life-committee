@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.memsearch/
+data/work/
+# 原始资料与文章全文：体积大且版权归原作者，只保留在本地
+datasets/
+data/catalog/fragments/

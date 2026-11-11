@@ -1,0 +1,405 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0069-c03",
+      "status": "found",
+      "note": "英文原题 Seek Wealth, Not Money or Status（Naval 与 Nivi 的 How to Get Rich 播客第 1 集文字稿）；中文译文的开场措辞与 nav.al/rich 合集版一致",
+      "sources": [
+        {
+          "type": "podcast",
+          "title": "Seek Wealth, Not Money or Status",
+          "url": "https://nav.al/seek-wealth",
+          "site": "nav.al",
+          "evidence": "https://nav.al/seek-wealth",
+          "confidence": "high",
+          "note": "2019-02-28 发布的文字稿"
+        },
+        {
+          "type": "podcast",
+          "title": "How to Get Rich（全部访谈合集）",
+          "url": "https://nav.al/rich",
+          "site": "nav.al",
+          "evidence": "https://nav.al/rich",
+          "confidence": "high",
+          "note": "合集页中的同名小节，2019-12-28"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0069-c04",
+      "status": "found",
+      "note": "英文原题 The Internet Has Massively Broadened Career Possibilities（How to Get Rich 播客文字稿）",
+      "sources": [
+        {
+          "type": "podcast",
+          "title": "The Internet Has Massively Broadened Career Possibilities",
+          "url": "https://nav.al/possible-careers",
+          "site": "nav.al",
+          "evidence": "https://nav.al/possible-careers",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "podcast",
+          "title": "How to Get Rich（全部访谈合集）",
+          "url": "https://nav.al/rich",
+          "site": "nav.al",
+          "evidence": "https://nav.al/rich",
+          "confidence": "high",
+          "note": "合集页中的同名小节"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0069-c05",
+      "status": "found",
+      "note": "英文原题 Read What You Love Until You Love to Read（How to Get Rich 播客文字稿）",
+      "sources": [
+        {
+          "type": "podcast",
+          "title": "Read What You Love Until You Love to Read",
+          "url": "https://nav.al/love-read",
+          "site": "nav.al",
+          "evidence": "https://nav.al/love-read",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "podcast",
+          "title": "How to Get Rich（全部访谈合集）",
+          "url": "https://nav.al/rich",
+          "site": "nav.al",
+          "evidence": "https://nav.al/rich",
+          "confidence": "high",
+          "note": "合集页中的同名小节"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0069-c06",
+      "status": "found",
+      "note": "英文原题 Embrace Accountability to Get Leverage（How to Get Rich 播客文字稿，2019-04-11）",
+      "sources": [
+        {
+          "type": "podcast",
+          "title": "Embrace Accountability to Get Leverage",
+          "url": "https://nav.al/accountability-leverage",
+          "site": "nav.al",
+          "evidence": "https://nav.al/accountability-leverage",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "podcast",
+          "title": "How to Get Rich（全部访谈合集）",
+          "url": "https://nav.al/rich",
+          "site": "nav.al",
+          "evidence": "https://nav.al/rich",
+          "confidence": "high",
+          "note": "合集页中的同名小节"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0069-c07",
+      "status": "found",
+      "note": "英文原题 Judgment Is the Decisive Skill（How to Get Rich 播客文字稿，2019-04-29）",
+      "sources": [
+        {
+          "type": "podcast",
+          "title": "Judgment Is the Decisive Skill",
+          "url": "https://nav.al/judgment",
+          "site": "nav.al",
+          "evidence": "https://nav.al/judgment",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "podcast",
+          "title": "How to Get Rich（全部访谈合集）",
+          "url": "https://nav.al/rich",
+          "site": "nav.al",
+          "evidence": "https://nav.al/rich",
+          "confidence": "high",
+          "note": "合集页中的同名小节"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0069-c08",
+      "status": "found",
+      "note": "英文原题 A Calm Mind, a Fit Body, a House Full of Love（How to Get Rich 播客文字稿，2019-05-21）",
+      "sources": [
+        {
+          "type": "podcast",
+          "title": "A Calm Mind, a Fit Body, a House Full of Love",
+          "url": "https://nav.al/finally-wealthy",
+          "site": "nav.al",
+          "evidence": "https://nav.al/finally-wealthy",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "podcast",
+          "title": "How to Get Rich（全部访谈合集）",
+          "url": "https://nav.al/rich",
+          "site": "nav.al",
+          "evidence": "https://nav.al/rich",
+          "confidence": "high",
+          "note": "合集页中的同名小节"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0069-c09",
+      "status": "found",
+      "note": "英文原题 Finding Time to Invest in Yourself（How to Get Rich 合集末尾的附加内容 Bonus Material，2020-01-13）",
+      "sources": [
+        {
+          "type": "podcast",
+          "title": "Finding Time to Invest in Yourself",
+          "url": "https://nav.al/finding-time",
+          "site": "nav.al",
+          "evidence": "https://nav.al/finding-time",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "podcast",
+          "title": "How to Get Rich（全部访谈合集）",
+          "url": "https://nav.al/rich",
+          "site": "nav.al",
+          "evidence": "https://nav.al/rich",
+          "confidence": "high",
+          "note": "合集页末尾小节 Bonus: Finding Time to Invest in Yourself"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0045-c03",
+      "status": "found",
+      "note": "英文原题 Informing Ourselves to Death，1990-10-11 在斯图加特德国信息学会（Gesellschaft für Informatik）会议上的演讲；中文推荐语写作 1991 年有误",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "Informing Ourselves to Death（Neil Postman Speech to the German Informatics Society, October 11, 1990, Stuttgart）",
+          "url": "https://web.williams.edu/HistSci/curriculum/101/informing.html",
+          "site": "web.williams.edu",
+          "evidence": "https://web.williams.edu/HistSci/curriculum/101/informing.html",
+          "confidence": "high",
+          "note": "演讲全文转载"
+        },
+        {
+          "type": "speech",
+          "title": "Informing Ourselves to Death",
+          "url": "http://horizon.unc.edu/onramp/articles/Postman.html",
+          "site": "horizon.unc.edu",
+          "evidence": "http://horizon.unc.edu/onramp/articles/Postman.html",
+          "confidence": "high",
+          "note": "另一处全文转载"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0041-c05",
+      "status": "found",
+      "note": "英文原题 Contemplations on Cascades（neilkakkar.com，2020）；开头 28 块多米诺推倒帝国大厦的设问与译文逐句对应。原书署名 Neil Right 实为 Neil Kakkar",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Contemplations on Cascades",
+          "url": "https://neilkakkar.com/cascades.html",
+          "site": "neilkakkar.com",
+          "evidence": "https://neilkakkar.com/cascades.html",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {
+        "status": "corrected",
+        "authors": ["Neil Kakkar"],
+        "evidence": "https://neilkakkar.com/cascades.html",
+        "note": "原书标注 Neil Right，原文发表在 Neil Kakkar 个人博客"
+      }
+    },
+    {
+      "article_id": "vol0075-c07",
+      "status": "found",
+      "note": "英文原题 The love that lays the swale in rows（Rough Type 博客，2020-05-28；2024-11-24 在 New Cartographies 重发）；以弗罗斯特《割草》开篇，与摘录一致",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The love that lays the swale in rows",
+          "url": "https://www.roughtype.com/?p=8783",
+          "site": "roughtype.com",
+          "evidence": "https://www.roughtype.com/?p=8783",
+          "confidence": "high",
+          "note": "2020-05-28 发布"
+        },
+        {
+          "type": "article",
+          "title": "The Love that Lays the Swale in Rows",
+          "url": "https://www.newcartographies.com/p/the-love-that-lays-the-swale-in-rows",
+          "site": "newcartographies.com",
+          "evidence": "https://www.newcartographies.com/p/the-love-that-lays-the-swale-in-rows",
+          "confidence": "high",
+          "note": "2024 年重发版"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0091-c06",
+      "status": "found",
+      "note": "英文原题 Strong Men and Strong Machines（New Cartographies，2025-03-10）；正文链接中的 newcartographies.com 脚注即指向该文",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Strong Men and Strong Machines",
+          "url": "https://www.newcartographies.com/p/strong-men-and-strong-machines",
+          "site": "newcartographies.com",
+          "evidence": "https://www.newcartographies.com/p/strong-men-and-strong-machines",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0067-c04",
+      "status": "found",
+      "note": "英文原题 Scaling tacit knowledge（Nintil，2021-12-10 发布，2022-05-24 更新）；Ben Reinhardt 配图开头与译文一致",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Scaling tacit knowledge",
+          "url": "https://nintil.com/scaling-tacit-knowledge",
+          "site": "nintil.com",
+          "evidence": "https://nintil.com/scaling-tacit-knowledge",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0062-c04",
+      "status": "found",
+      "note": "英文原题 How to be indistractable（Psyche Guides，副标题 Stop blaming technology – distraction starts within）；开头回复邮件、女儿离开的情节与译文一致。原书标注年份 2018 与 Psyche 发表时间不符，该故事亦见于 2019 年出版的 Indistractable 一书",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to be indistractable",
+          "url": "https://psyche.co/guides/to-become-indistractable-recognise-that-it-starts-within-you",
+          "site": "psyche.co",
+          "evidence": "https://psyche.co/guides/to-become-indistractable-recognise-that-it-starts-within-you",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0009-c04",
+      "status": "found",
+      "note": "英文原题 Why time management is ruining our lives（The Guardian，2016-12-22）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Why time management is ruining our lives",
+          "url": "https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives",
+          "site": "theguardian.com",
+          "evidence": "https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "naval-ravikant",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Naval 个人网站", "url": "https://nav.al/", "site": "nav.al", "evidence": "https://nav.al/rich", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Almanack of Naval Ravikant（《纳瓦尔宝典》，Eric Jorgenson 编，2020）", "url": "https://www.navalmanack.com/", "site": "navalmanack.com", "evidence": "https://www.navalmanack.com/", "confidence": "high", "note": "由 Eric Jorgenson 汇编 Naval 的推文、播客与访谈"}
+      ]
+    },
+    {
+      "author_id": "neil-postman",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Neil Postman（维基百科）", "url": "https://en.wikipedia.org/wiki/Neil_Postman", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Neil_Postman", "confidence": "high", "note": null},
+        {"type": "book", "title": "Amusing Ourselves to Death（《娱乐至死》，Viking Penguin，1985）", "url": "https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death", "confidence": "high", "note": null},
+        {"type": "book", "title": "Technopoly: The Surrender of Culture to Technology（《技术垄断》，1992）", "url": "https://en.wikipedia.org/wiki/Technopoly", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Technopoly", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "neil-right",
+      "note": "原书署名 Neil Right 有误，对应文章 Contemplations on Cascades 的作者是 Neil Kakkar",
+      "sources": [
+        {"type": "website", "title": "Neil Kakkar 个人博客", "url": "https://neilkakkar.com/blog/", "site": "neilkakkar.com", "evidence": "https://neilkakkar.com/blog/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "neil-shen",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "沈南鹏 - 红杉中国创始及执行合伙人（红杉中国官网）", "url": "https://www.hongshan.com/people/neil-shen/", "site": "hongshan.com", "evidence": "https://www.hongshan.com/people/neil-shen/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Neil Shen（维基百科）", "url": "https://en.wikipedia.org/wiki/Neil_Shen", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Neil_Shen", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "nicholas-carr",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Nicholas Carr 个人网站", "url": "https://www.nicholascarr.com/", "site": "nicholascarr.com", "evidence": "https://www.nicholascarr.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "New Cartographies（Nicholas Carr 的 Substack Newsletter）", "url": "https://www.newcartographies.com/", "site": "newcartographies.com", "evidence": "https://www.newcartographies.com/p/strong-men-and-strong-machines", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Shallows: What the Internet Is Doing to Our Brains（《浅薄：互联网如何毒化了我们的大脑》，W. W. Norton，2010）", "url": "https://www.nicholascarr.com/?page_id=16", "site": "nicholascarr.com", "evidence": "https://www.nicholascarr.com/?page_id=16", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "nintil",
+      "note": "Nintil 是 José Luis Ricón Fernández de la Puente 的个人博客",
+      "sources": [
+        {"type": "website", "title": "Nintil 博客", "url": "https://nintil.com/", "site": "nintil.com", "evidence": "https://nintil.com/about/", "confidence": "high", "note": null},
+        {"type": "website", "title": "José Luis Ricón Fernández de la Puente 个人主页", "url": "https://ricon.xyz/", "site": "ricon.xyz", "evidence": "https://ricon.xyz/", "confidence": "high", "note": "主页注明 I write at Nintil.com"}
+      ]
+    },
+    {
+      "author_id": "nir-eyal",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Nir & Far（Nir Eyal 官方网站）", "url": "https://www.nirandfar.com/", "site": "nirandfar.com", "evidence": "https://www.nirandfar.com/about-nir-eyal/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Indistractable: How to Control Your Attention and Choose Your Life（《专注力协议》，2019）", "url": "https://www.nirandfar.com/indistractable/", "site": "nirandfar.com", "evidence": "https://www.nirandfar.com/indistractable/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Hooked: How to Build Habit-Forming Products（《上瘾》，2014）", "url": "https://www.nirandfar.com/hooked/", "site": "nirandfar.com", "evidence": "https://www.nirandfar.com/hooked/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "oliver-burkeman",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Oliver Burkeman 个人网站", "url": "https://www.oliverburkeman.com/", "site": "oliverburkeman.com", "evidence": "https://www.oliverburkeman.com/bio", "confidence": "high", "note": null},
+        {"type": "website", "title": "The Imperfectionist（Oliver Burkeman 的 Newsletter）", "url": "https://www.oliverburkeman.com/the-imperfectionist", "site": "oliverburkeman.com", "evidence": "https://www.oliverburkeman.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Four Thousand Weeks: Time Management for Mortals（《四千周》，2021）", "url": "https://www.oliverburkeman.com/books", "site": "oliverburkeman.com", "evidence": "https://www.oliverburkeman.com/books", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "omar-yaghi",
+      "note": "2025 年诺贝尔化学奖得主（金属有机框架 MOF）",
+      "sources": [
+        {"type": "website", "title": "Omar Yaghi | UC Berkeley College of Chemistry", "url": "https://chemistry.berkeley.edu/people/omar-yaghi", "site": "chemistry.berkeley.edu", "evidence": "https://chemistry.berkeley.edu/people/omar-yaghi", "confidence": "high", "note": null},
+        {"type": "website", "title": "Omar M. Yaghi – Facts – 2025（NobelPrize.org）", "url": "https://www.nobelprize.org/prizes/chemistry/2025/yaghi/facts/", "site": "nobelprize.org", "evidence": "https://www.nobelprize.org/prizes/chemistry/2025/yaghi/facts/", "confidence": "high", "note": null}
+      ]
+    }
+  ]
+}

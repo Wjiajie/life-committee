@@ -1,0 +1,463 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0004-c06",
+      "status": "found",
+      "note": "英文原题 The Ultimate Burnout Guide: Symptoms, Causes, and Prevention（Commoncog Guides）；开头段落与摘录逐句对应",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Ultimate Burnout Guide: Symptoms, Causes, and Prevention",
+          "url": "https://commoncog.com/g/burnout/",
+          "site": "commoncog.com",
+          "evidence": "https://commoncog.com/g/burnout/",
+          "confidence": "high",
+          "note": "页面署名 by Guan Jie Fung, Cedric Chin"
+        }
+      ],
+      "author_check": {
+        "status": "corrected",
+        "authors": ["Guan Jie Fung", "Cedric Chin"],
+        "evidence": "https://commoncog.com/g/burnout/",
+        "note": "原书只标 Guan Jie Fung；原文为 Guan Jie Fung 与 Cedric Chin 合著，Fung 的 LinkedIn 帖子也称 'Cedric Chin and I'"
+      }
+    },
+    {
+      "article_id": "vol0055-c04",
+      "status": "found",
+      "note": "英文原题 Why Everything is Becoming a Game（The Prism，2024-04-20）；文末五条选游戏原则与摘录一致",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Why Everything is Becoming a Game",
+          "url": "https://www.gurwinder.blog/p/why-everything-is-becoming-a-game",
+          "site": "gurwinder.blog",
+          "evidence": "https://www.gurwinder.blog/p/why-everything-is-becoming-a-game",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Gurwinder Bhogal"],
+        "evidence": "https://www.fashionablylatetakes.com/p/on-gurwinder-bhogals-why-everything",
+        "note": "原书只标单名 Gurwinder，全名 Gurwinder Bhogal"
+      }
+    },
+    {
+      "article_id": "vol0071-c03",
+      "status": "found",
+      "note": "英文原题 The Hard Thing About Learning Hard Things（2018-07-12）；五条原则与摘录一致，文中引用的 Learning How To Learn 课程与笔记即 reference_links",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Hard Thing About Learning Hard Things",
+          "url": "https://haseebq.com/the-hard-thing-about-learning-hard-things/",
+          "site": "haseebq.com",
+          "evidence": "https://haseebq.com/the-hard-thing-about-learning-hard-things/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "article",
+          "title": "The Hard Thing About Learning Hard Things（freeCodeCamp 转载）",
+          "url": "https://www.freecodecamp.org/news/the-hard-thing-about-learning-hard-things-168e655ac7f2/",
+          "site": "freecodecamp.org",
+          "evidence": "https://www.freecodecamp.org/news/the-hard-thing-about-learning-hard-things-168e655ac7f2/",
+          "confidence": "high",
+          "note": "转载页署名 By Haseeb Qureshi，2018-08-09"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Haseeb Qureshi"],
+        "evidence": "https://www.freecodecamp.org/news/the-hard-thing-about-learning-hard-things-168e655ac7f2/",
+        "note": "原书只标单名 Haseeb，全名 Haseeb Qureshi"
+      }
+    },
+    {
+      "article_id": "vol0035-c03",
+      "status": "found",
+      "note": "英文原题 The science of sex, love, attraction, and obsession（Big Think 视频及文字稿）；结构与摘录一致：神经递质、决策脑区关闭、婚前多相处、slow love、维持长久爱情的建议",
+      "sources": [
+        {
+          "type": "video",
+          "title": "The science of sex, love, attraction, and obsession（文字稿页）",
+          "url": "https://bigthink.com/neuropsych/the-science-of-sex-love/",
+          "site": "bigthink.com",
+          "evidence": "https://bigthink.com/neuropsych/the-science-of-sex-love/",
+          "confidence": "high",
+          "note": "多人访谈剪辑，讲者为 Ted Fischer、Gail Saltz、Helen Fisher"
+        },
+        {
+          "type": "video",
+          "title": "The science of sex, love, attraction, and obsession | Big Think（YouTube）",
+          "url": "https://www.youtube.com/watch?v=1XmoMrbcV0E",
+          "site": "youtube.com",
+          "evidence": "https://www.youtube.com/watch?v=1XmoMrbcV0E",
+          "confidence": "medium",
+          "note": "搜索结果所见，未打开核对"
+        }
+      ],
+      "author_check": {
+        "status": "corrected",
+        "authors": ["Helen Fisher", "Gail Saltz", "Ted Fischer"],
+        "evidence": "https://bigthink.com/neuropsych/the-science-of-sex-love/",
+        "note": "原书只标 Helen Fisher；神经递质部分出自精神科医生 Gail Saltz，开头定义出自 Ted Fischer，Helen Fisher 讲决策与长期关系部分"
+      }
+    },
+    {
+      "article_id": "vol0040-c04",
+      "status": "found",
+      "note": "英文原题 First we shape our social graph; then it shapes us（Escaping Flatland，2022-09-07），作者声明为系列第一篇",
+      "sources": [
+        {
+          "type": "article",
+          "title": "First we shape our social graph; then it shapes us",
+          "url": "https://www.henrikkarlsson.xyz/p/first-we-shape-our-social-graph-then",
+          "site": "henrikkarlsson.xyz",
+          "evidence": "https://www.henrikkarlsson.xyz/p/first-we-shape-our-social-graph-then",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0040-c05",
+      "status": "found",
+      "note": "英文原题 Scraping training data for your mind（Escaping Flatland，2022-09-21），系列第二篇；“顺着引文之树向上攀登”等段落与摘录一致",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Scraping training data for your mind",
+          "url": "https://www.henrikkarlsson.xyz/p/training-data",
+          "site": "henrikkarlsson.xyz",
+          "evidence": "https://www.henrikkarlsson.xyz/p/training-data",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0040-c06",
+      "status": "found",
+      "note": "英文原题 A blog post is a very long and complex search query to find fascinating people and make them route interesting stuff to your inbox（Escaping Flatland，2022-10-05），系列第三篇",
+      "sources": [
+        {
+          "type": "article",
+          "title": "A blog post is a very long and complex search query to find fascinating people and make them route interesting stuff to your inbox",
+          "url": "https://www.henrikkarlsson.xyz/p/search-query",
+          "site": "henrikkarlsson.xyz",
+          "evidence": "https://www.henrikkarlsson.xyz/p/search-query",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0040-c07",
+      "status": "found",
+      "note": "英文原题 Look for people who likes the illegible you of today, not your past achievements（副题 Writing as communion），系列第四篇；开头口语诗段落与摘录逐句对应。注意原文发表于 2023-11-28，原书标 2022 年有误",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Pick an audience that is into the illegible you of today, not your past achievements（Writing as communion）",
+          "url": "https://www.henrikkarlsson.xyz/p/writing-as-communion",
+          "site": "henrikkarlsson.xyz",
+          "evidence": "https://www.henrikkarlsson.xyz/p/writing-as-communion",
+          "confidence": "high",
+          "note": "页面 title 与正文 H1 措辞略有不同，此处用页面 title"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0013-c07",
+      "status": "found",
+      "note": "英文原题 The Quest to Be Good at Everything（Superorganizers，2019-09-26），Dan Shipper 对 Henrik Werdelin 的访谈；摘录中“他是Bark公司的联合创始人……”段落即访谈导语",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "The Quest to Be Good at Everything",
+          "url": "https://every.to/superorganizers/the-quest-to-be-good-at-everything-294326",
+          "site": "every.to",
+          "evidence": "https://every.to/superorganizers/the-quest-to-be-good-at-everything-294326",
+          "confidence": "medium",
+          "note": "原刊页（部分付费），搜索结果中导语与 8+1 内容吻合，未打开全文"
+        },
+        {
+          "type": "interview",
+          "title": "The Quest to Be Good at Everything（Henrik Werdelin 在 Medium 转载）",
+          "url": "https://medium.com/@werdelin/the-quest-to-be-good-at-everything-898524cfc3f3",
+          "site": "medium.com",
+          "evidence": "https://medium.com/@werdelin/the-quest-to-be-good-at-everything-898524cfc3f3",
+          "confidence": "high",
+          "note": "全文可读，页首注明 This story was written by Dan Shipper"
+        }
+      ],
+      "author_check": {
+        "status": "corrected",
+        "authors": ["Dan Shipper", "Henrik Werdelin"],
+        "evidence": "https://medium.com/@werdelin/the-quest-to-be-good-at-everything-898524cfc3f3",
+        "note": "原书只标 Henrik Werdelin；原文是 Dan Shipper 撰写的访谈，Werdelin 为受访者、8+1 框架提出者"
+      }
+    },
+    {
+      "article_id": "vol0018-c07",
+      "status": "found",
+      "note": "英文原题 What We Know About Learning，1997 Frontiers in Education 会议主题演讲（1997-11-07），后刊于 Journal of Engineering Education 87(4), 1998",
+      "sources": [
+        {
+          "type": "paper",
+          "title": "What We Know About Learning（Journal of Engineering Education, 1998）",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/j.2168-9830.1998.tb00363.x",
+          "site": "onlinelibrary.wiley.com",
+          "evidence": "https://onlinelibrary.wiley.com/doi/10.1002/j.2168-9830.1998.tb00363.x",
+          "confidence": "high",
+          "note": "摘要首句与摘录“传统上，工程研究和教学方式存在明显差异”对应"
+        },
+        {
+          "type": "speech",
+          "title": "What we know about learning [engineering education]（IEEE FIE 1997）",
+          "url": "https://doi.org/10.1109/fie.1997.635911",
+          "site": "doi.org",
+          "evidence": "https://doi.org/10.1109/fie.1997.635911",
+          "confidence": "medium",
+          "note": "会议版摘要，搜索结果所见"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0025-c06",
+      "status": "found",
+      "note": "英文原题 The Experts in Your Midst，Harvard Business Review 1989 年 1–2 月号；Tom Bennett 开头与摘录一致",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Experts in Your Midst",
+          "url": "https://hbr.org/1989/01/the-experts-in-your-midst",
+          "site": "hbr.org",
+          "evidence": "https://hbr.org/1989/01/the-experts-in-your-midst",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "article",
+          "title": "The Experts in Your Midst（HBR 重印本，CMU Simon 档案）",
+          "url": "http://iiif.library.cmu.edu/file/Simon_box00068_fld05285_bdl0001_doc0001/Simon_box00068_fld05285_bdl0001_doc0001.pdf",
+          "site": "library.cmu.edu",
+          "evidence": "http://iiif.library.cmu.edu/file/Simon_box00068_fld05285_bdl0001_doc0001/Simon_box00068_fld05285_bdl0001_doc0001.pdf",
+          "confidence": "medium",
+          "note": "PDF，搜索结果所见"
+        }
+      ],
+      "author_check": {
+        "status": "corrected",
+        "authors": ["Michael J. Prietula", "Herbert A. Simon"],
+        "evidence": "https://hbr.org/1989/01/the-experts-in-your-midst",
+        "note": "原书只标赫伯特·西蒙；HBR 署名 Michael J. Prietula and Herbert A. Simon"
+      }
+    },
+    {
+      "article_id": "vol0031-c07",
+      "status": "found",
+      "note": "英文原题 The Illusion of Knowledge（Oaktree 备忘录，2022-09-08）；开头与 Galbraith 引语与摘录一致",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Illusion of Knowledge",
+          "url": "https://www.oaktreecapital.com/insights/memo/the-illusion-of-knowledge",
+          "site": "oaktreecapital.com",
+          "evidence": "https://www.oaktreecapital.com/insights/memo/the-illusion-of-knowledge",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "article",
+          "title": "The Illusion of Knowledge（PDF 版）",
+          "url": "https://www.oaktreecapital.com/docs/default-source/memos/illusion-of-knowledge.pdf",
+          "site": "oaktreecapital.com",
+          "evidence": "https://www.oaktreecapital.com/docs/default-source/memos/illusion-of-knowledge.pdf",
+          "confidence": "high",
+          "note": "PDF 抬头 From: Howard Marks"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0038-c04",
+      "status": "found",
+      "note": "英文原题 IFS and Chronic Pain: Listening to Inner Parts that Hold the Hurt（Psychotherapy Networker，2021 年 1/2 月号）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "IFS and Chronic Pain: Listening to Inner Parts that Hold the Hurt",
+          "url": "https://www.psychotherapynetworker.org/article/ifs-and-chronic-pain/",
+          "site": "psychotherapynetworker.org",
+          "evidence": "https://www.psychotherapynetworker.org/article/ifs-and-chronic-pain/",
+          "confidence": "high",
+          "note": "署名 Richard Schwartz & Ronald Siegel & Howard Schubiner"
+        },
+        {
+          "type": "article",
+          "title": "IFS and Chronic Pain: Listening to Inner Parts that Hold the Hurt（IFS Institute 转载）",
+          "url": "https://ifs-institute.com/resources/articles/ifs-and-chronic-pain-listening-inner-parts-hold-hurt",
+          "site": "ifs-institute.com",
+          "evidence": "https://ifs-institute.com/resources/articles/ifs-and-chronic-pain-listening-inner-parts-hold-hurt",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0046-c05",
+      "status": "found",
+      "note": "英文原题 100 Tips for a Better Life（2020-12-22，作者博客原发，LessWrong 转载）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "100 Tips For A Better Life",
+          "url": "https://ideopunk.com/blog/tipsforabetterlife",
+          "site": "ideopunk.com",
+          "evidence": "https://ideopunk.com/blog/tipsforabetterlife",
+          "confidence": "medium",
+          "note": "作者博客现址，页面标题 100 Tips For A Better Life | Conor Barnes，搜索结果所见"
+        },
+        {
+          "type": "article",
+          "title": "100 Tips for a Better Life（LessWrong）",
+          "url": "https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life",
+          "site": "lesswrong.com",
+          "evidence": "https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life",
+          "confidence": "high",
+          "note": "By Ideopunk，2020-12-22，注明 Cross-posted from my blog"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Conor Barnes"],
+        "evidence": "https://tim.blog/2022/01/07/tim-ferriss-reading-recommendations-2021/",
+        "note": "Ideopunk 为 Conor Barnes 的网名（Tim Ferriss 推荐写作 Conor Barnes (@Ideopunk)；ideopunk.com 首页显示 Conor Barnes）"
+      }
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "guan-jie-fung",
+      "note": "新加坡，Commoncog 作者；倦怠指南与 Cedric Chin 合著",
+      "sources": [
+        {"type": "website", "title": "Guan Jie Fung - Commoncog 作者页", "url": "https://commoncog.com/author/gj/", "site": "commoncog.com", "evidence": "https://commoncog.com/author/gj/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Guan Jie Fung 个人网站", "url": "http://guanjiefung.com", "site": "guanjiefung.com", "evidence": "https://commoncog.com/author/gj/", "confidence": "medium", "note": "链接取自 Commoncog 作者页，未单独打开"}
+      ]
+    },
+    {
+      "author_id": "gurwinder",
+      "note": "全名 Gurwinder Bhogal",
+      "sources": [
+        {"type": "website", "title": "The Prism（Gurwinder 的 Substack）", "url": "https://www.gurwinder.blog/", "site": "gurwinder.blog", "evidence": "https://www.gurwinder.blog/", "confidence": "high", "note": null},
+        {"type": "website", "title": "About - The Prism", "url": "https://www.gurwinder.blog/about", "site": "gurwinder.blog", "evidence": "https://www.gurwinder.blog/about", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "guy-debord",
+      "note": "法国情境主义国际创始成员",
+      "sources": [
+        {"type": "book", "title": "The Society of the Spectacle（《景观社会》，Zone Books，1994 英译本）", "url": "https://www.zonebooks.org/books/3-the-society-of-the-spectacle", "site": "zonebooks.org", "evidence": "https://www.zonebooks.org/books/3-the-society-of-the-spectacle", "confidence": "high", "note": null},
+        {"type": "article", "title": "Theory of the Dérive（《漂移理论》，1958，Ken Knabb 英译）", "url": "https://www.bopsecrets.org/SI/2.derive.htm", "site": "bopsecrets.org", "evidence": "https://www.bopsecrets.org/SI/2.derive.htm", "confidence": "high", "note": "对应本书篇目《“漂移”的理论》"}
+      ]
+    },
+    {
+      "author_id": "harry-frankfurt",
+      "note": "普林斯顿大学哲学荣休教授（1929–2023）",
+      "sources": [
+        {"type": "book", "title": "On Bullshit（《论扯淡》，Princeton University Press，2005）", "url": "https://press.princeton.edu/books/hardcover/9780691122946/on-bullshit", "site": "press.princeton.edu", "evidence": "https://press.princeton.edu/books/hardcover/9780691122946/on-bullshit", "confidence": "high", "note": null},
+        {"type": "website", "title": "Harry G. Frankfurt - Princeton University Press 作者页", "url": "https://press.princeton.edu/our-authors/frankfurt-harry-g", "site": "press.princeton.edu", "evidence": "https://press.princeton.edu/our-authors/frankfurt-harry-g", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "harvey-whitehouse",
+      "note": "牛津大学社会人类学讲席教授",
+      "sources": [
+        {"type": "website", "title": "Professor Harvey Whitehouse - Oxford School of Anthropology", "url": "https://www.anthro.ox.ac.uk/people/professor-harvey-whitehouse", "site": "anthro.ox.ac.uk", "evidence": "https://www.anthro.ox.ac.uk/people/professor-harvey-whitehouse", "confidence": "high", "note": null},
+        {"type": "book", "title": "Inheritance: The Evolutionary Origins of the Modern World（Hutchinson Heinemann，2024）", "url": "https://www.penguin.co.uk/books/451443/inheritance-by-whitehouse-harvey/9781529159158", "site": "penguin.co.uk", "evidence": "https://www.penguin.co.uk/books/451443/inheritance-by-whitehouse-harvey/9781529159158", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "haseeb",
+      "note": "全名 Haseeb Qureshi，Dragonfly 管理合伙人",
+      "sources": [
+        {"type": "website", "title": "Haseeb Qureshi 个人博客", "url": "https://haseebq.com/", "site": "haseebq.com", "evidence": "https://haseebq.com/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "helen-fisher",
+      "note": "生物人类学家，金赛研究所高级研究员",
+      "sources": [
+        {"type": "website", "title": "Helen Fisher, PhD 官网", "url": "https://helenfisher.com/", "site": "helenfisher.com", "evidence": "https://helenfisher.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Why We Love: The Nature and Chemistry of Romantic Love（《我们为什么恋爱》）", "url": "https://helenfisher.com/books/why-we-love-the-nature-and-chemistry-of-romantic-love/", "site": "helenfisher.com", "evidence": "https://helenfisher.com/books/why-we-love-the-nature-and-chemistry-of-romantic-love/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "helen-pluckrose",
+      "note": "英国作家，Counterweight 创办者之一",
+      "sources": [
+        {"type": "book", "title": "Cynical Theories（与 James Lindsay 合著，Pitchstone，2020）", "url": "https://www.pitchstonebooks.com/catalog/cynical-theories", "site": "pitchstonebooks.com", "evidence": "https://www.pitchstonebooks.com/catalog/cynical-theories", "confidence": "high", "note": null},
+        {"type": "website", "title": "Helen Pluckrose - Wikipedia", "url": "https://en.wikipedia.org/wiki/Helen_Pluckrose", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Helen_Pluckrose", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "henrik-karlsson",
+      "note": "瑞典作家，Substack Escaping Flatland 作者",
+      "sources": [
+        {"type": "website", "title": "Escaping Flatland（Henrik Karlsson 的 Substack）", "url": "https://www.henrikkarlsson.xyz/", "site": "henrikkarlsson.xyz", "evidence": "https://www.henrikkarlsson.xyz/about", "confidence": "high", "note": null},
+        {"type": "website", "title": "About - Escaping Flatland", "url": "https://www.henrikkarlsson.xyz/about", "site": "henrikkarlsson.xyz", "evidence": "https://www.henrikkarlsson.xyz/about", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "henrik-werdelin",
+      "note": "BARK 联合创始人、Prehype 创始合伙人",
+      "sources": [
+        {"type": "website", "title": "Henrik Substack（Werdelin 的 Newsletter）", "url": "https://werdelin.substack.com/p/henrik-substack-6-a-frameworks-for", "site": "werdelin.substack.com", "evidence": "https://werdelin.substack.com/p/henrik-substack-6-a-frameworks-for", "confidence": "medium", "note": "该期也介绍了 8+1 Framework"},
+        {"type": "website", "title": "Prehype 官网", "url": "https://prehype.com/", "site": "prehype.com", "evidence": "https://prehype.com/", "confidence": "medium", "note": null},
+        {"type": "social", "title": "Henrik Werdelin - LinkedIn", "url": "https://linkedin.com/in/werdelin", "site": "linkedin.com", "evidence": "https://linkedin.com/in/werdelin", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "herbert-simon",
+      "note": "1978 年诺贝尔经济学奖、1975 年图灵奖得主",
+      "sources": [
+        {"type": "website", "title": "Herbert A. Simon - Carnegie Mellon 纪念页", "url": "https://www.cs.cmu.edu/simon/bio.html", "site": "cs.cmu.edu", "evidence": "https://www.cs.cmu.edu/simon/bio.html", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Sciences of the Artificial（《人工科学》，MIT Press，第三版 1996）", "url": "https://mitpress.mit.edu/9780262537537/the-sciences-of-the-artificial/", "site": "mitpress.mit.edu", "evidence": "https://mitpress.mit.edu/9780262537537/the-sciences-of-the-artificial/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Herbert A. Simon – Facts - NobelPrize.org", "url": "https://www.nobelprize.org/prizes/economic-sciences/1978/simon/facts/", "site": "nobelprize.org", "evidence": "https://www.nobelprize.org/prizes/economic-sciences/1978/simon/facts/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "howard-marks",
+      "note": "橡树资本联合创始人",
+      "sources": [
+        {"type": "website", "title": "Howard Marks 备忘录（Oaktree Insights）", "url": "https://www.oaktreecapital.com/insights/memo/the-illusion-of-knowledge", "site": "oaktreecapital.com", "evidence": "https://www.oaktreecapital.com/insights/memo/the-illusion-of-knowledge", "confidence": "medium", "note": "未找到备忘录总目录页链接，此处给其中一篇备忘录页"},
+        {"type": "book", "title": "The Most Important Thing（《投资最重要的事》，Columbia Business School Publishing，2011）", "url": "https://cup.columbia.edu/book/the-most-important-thing/9780231153683/", "site": "cup.columbia.edu", "evidence": "https://cup.columbia.edu/book/the-most-important-thing/9780231153683/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "howard-schubiner",
+      "note": "密歇根州立大学医学院临床教授，心身医学医生",
+      "sources": [
+        {"type": "website", "title": "Unlearn Your Pain（Howard Schubiner 官网）", "url": "https://unlearnyourpain.com/articles-by-dr-howard-schubiner/", "site": "unlearnyourpain.com", "evidence": "https://unlearnyourpain.com/articles-by-dr-howard-schubiner/", "confidence": "medium", "note": null},
+        {"type": "book", "title": "Unlearn Your Pain（Penguin，2026）", "url": "https://www.penguinrandomhouse.com/books/782218/unlearn-your-pain-by-howard-schubiner-md-foreword-by-kate-murphy/", "site": "penguinrandomhouse.com", "evidence": "https://www.penguinrandomhouse.com/books/782218/unlearn-your-pain-by-howard-schubiner-md-foreword-by-kate-murphy/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "ideopunk",
+      "note": "网名，本名 Conor Barnes",
+      "sources": [
+        {"type": "website", "title": "Conor Barnes 个人网站（ideopunk.com）", "url": "https://ideopunk.com/", "site": "ideopunk.com", "evidence": "https://ideopunk.com/", "confidence": "high", "note": "首页显示 2023 年起转往 Substack"}
+      ]
+    }
+  ]
+}

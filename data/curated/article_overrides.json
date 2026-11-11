@@ -1,0 +1,474 @@
+{
+  "book-68d985-c03": {
+    "same_as": "vol0001-c04",
+    "note": "年度十佳合集重收，标题少一个「里」字，作者与正文相同"
+  },
+  "book-68d985-c07": {
+    "same_as": "vol0027-c03",
+    "note": "年度十佳合集重收，标题少「在」字且缺作者行，正文相同"
+  },
+  "book-e4573a-c05": {
+    "same_as": "vol0050-c04",
+    "note": "热尔韦原则特别篇重收；特别篇把作者误标为 Russell Roberts，热尔韦原则系列作者是 Venkatesh Rao"
+  },
+  "book-536f92-c10": {
+    "same_as": "vol0081-c04",
+    "note": "2024 年度十佳重收，同为 Scott Alexander《Meditations on Moloch》（2014）"
+  },
+  "book-68d985-c11": {
+    "same_as": "vol0030-c07",
+    "note": "年度十佳重收，标题不同但推荐语与正文相同"
+  },
+  "vol0006-c04": {
+    "authors": [
+      "Paul Graham"
+    ],
+    "note": "原书标注 Tim Urban（2014），但标题与正文是 Paul Graham 的《Beyond Smart》（2021）；已经网络调研核实",
+    "evidence": "http://paulgraham.com/smart.html",
+    "year": "2021",
+    "year_note": "原书年份有误：Beyond Smart 发表于 2021 年 10 月"
+  },
+  "vol0003-c04": {
+    "authors": [
+      "Julian Shapiro"
+    ],
+    "note": "原书只标 Julian；正文为心智模型指南，推断为 julian.com 的 Julian Shapiro；已经网络调研核实",
+    "evidence": "https://www.julian.com/blog/mental-model-examples"
+  },
+  "vol0119-c03": {
+    "authors": [
+      "Christopher Alexander"
+    ],
+    "note": "原书作者栏写作「Keynote Speech」，实为克里斯托弗·亚历山大 1996 年 OOPSLA 主题演讲",
+    "evidence": "https://www.patternlanguage.com/archive/ieee.html"
+  },
+  "vol0088-c07": {
+    "authors": [
+      "Frederic Laloux"
+    ],
+    "note": "原书作者栏写的是书名《Reinventing Organizations》，该书作者为 Frederic Laloux"
+  },
+  "vol0109-c05": {
+    "authors": [
+      "Lars Doucet"
+    ],
+    "note": "ACX 2021 书评大赛入围作《Progress and Poverty》书评，投票后公布作者为 Lars Doucet；已经网络调研核实",
+    "evidence": "https://www.astralcodexten.com/p/book-review-contest-winners"
+  },
+  "vol0112-c01": {
+    "authors": [
+      "Packy McCormick"
+    ],
+    "note": "原书标「未知」；出处为 Not Boring《The Electric Slide》前言，同书其余各部分均标 Packy McCormick",
+    "evidence": "https://www.notboring.co/p/the-electric-slide"
+  },
+  "vol0121-c01": {
+    "authors": [
+      "Jeremy Bernstein",
+      "Stanley Kubrick"
+    ],
+    "note": "原书标「未知」；正文为杰里米·伯恩斯坦 1966 年对斯坦利·库布里克的访谈录音整理",
+    "evidence": "https://kubrickarticles.blogspot.com/2017/07/sk-transcript-of-kubrick-interview-with.html"
+  },
+  "vol0121-c04": {
+    "authors": [
+      "Jon Ronson"
+    ],
+    "note": "原书标「未知」；《卫报》2004 年《Citizen Kubrick》，正文自述「乔恩·容森受邀造访库布里克的故居」",
+    "evidence": "https://www.theguardian.com/film/2004/mar/27/features.weekend"
+  },
+  "vol0123-c04": {
+    "authors": [
+      "Ivan Zhao"
+    ],
+    "note": "原书标「未知」；出处为 Notion 创始人 Ivan Zhao 的 X 长文，正文自述「我在旧金山经营一家软件公司」",
+    "evidence": "https://x.com/ivanhzhao/status/2003192654545539400"
+  },
+  "vol0127-c02": {
+    "authors": [
+      "Susan Sontag"
+    ],
+    "note": "原书标「未知」；出处为苏珊·桑塔格《Under the Sign of Saturn》（1981）",
+    "evidence": "https://monoskop.org/images/8/83/Susan_Sontag_Under_the_Sign_of_Saturn_1981.pdf"
+  },
+  "vol0082-c05": {
+    "authors": [
+      "Julian Lehr"
+    ],
+    "note": "原书只标 julian（2020）；推断为《Signaling as a Service》的作者 Julian Lehr；已经网络调研核实",
+    "evidence": "https://www.colemanm.org/post/signaling-as-a-service/"
+  },
+  "book-68d985-c08": {
+    "same_as": "vol0033-c05",
+    "note": "年度十佳重收，同为 Ethan Evans《The Magic Loop》"
+  },
+  "book-68d985-c12": {
+    "same_as": "vol0023-c06",
+    "note": "年度十佳重收，同为 Nathan Barry《The ladders of wealth creation》"
+  },
+  "vol0024-c05": {
+    "authors": [
+      "First Round Review"
+    ],
+    "note": "原书无作者；原文为 First Round Review 编辑部文章，无个人署名",
+    "evidence": "https://review.firstround.com/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like/"
+  },
+  "vol0094-c07": {
+    "authors": [
+      "Mariam Mahmoud"
+    ],
+    "note": "原书无作者；原文《The Lost Art of Research as Leisure》（Kasurian，2025）",
+    "evidence": "https://www.kasurian.com/research-as-leisure/"
+  },
+  "vol0072-c08": {
+    "authors": [
+      "Applied Divinity Studies"
+    ],
+    "note": "原书标 Byrne Hobart（借用了其文章标题），正文实为匿名博客 Applied Divinity Studies 的《Asymmetric Opportunities and the Cult of Optionality》",
+    "evidence": "https://www.applieddivinitystudies.com/asymmetric/index.html"
+  },
+  "vol0060-c07": {
+    "authors": [
+      "Harry F. Harlow"
+    ],
+    "note": "原书标 Christopher D. Green（收录网站创办者）；正文为 Harlow 1958 年 APA 主席演讲《The Nature of Love》",
+    "evidence": "https://web.archive.org/web/20170718191627/http:/psychclassics.yorku.ca/Harlow/love.htm"
+  },
+  "vol0073-c05": {
+    "authors": [
+      "Patrick O'Shaughnessy"
+    ],
+    "note": "原书标 Colossus（重刊网站）；原文为 Patrick O'Shaughnessy 2016 年《Growth Without Goals》",
+    "evidence": "https://rpc.cfainstitute.org/blogs/enterprising-investor/2016/weekend-reads-attaining-flow-being-wrong-and-why-sports-die"
+  },
+  "vol0014-c04": {
+    "authors": [
+      "Dan Luu"
+    ],
+    "note": "原书误拼为 Dann Lu",
+    "evidence": "https://danluu.com/look-stupid/"
+  },
+  "vol0004-c06": {
+    "authors": [
+      "Guan Jie Fung",
+      "Cedric Chin"
+    ],
+    "note": "原书漏标合著者 Cedric Chin",
+    "evidence": "https://commoncog.com/g/burnout/"
+  },
+  "vol0035-c03": {
+    "authors": [
+      "Helen Fisher",
+      "Gail Saltz",
+      "Ted Fischer"
+    ],
+    "note": "Big Think 多人访谈剪辑，原书只标 Helen Fisher",
+    "evidence": "https://bigthink.com/neuropsych/the-science-of-sex-love/"
+  },
+  "vol0013-c07": {
+    "authors": [
+      "Henrik Werdelin",
+      "Dan Shipper"
+    ],
+    "note": "访谈：Werdelin 为受访者，Dan Shipper 撰稿",
+    "evidence": "https://medium.com/@werdelin/the-quest-to-be-good-at-everything-898524cfc3f3"
+  },
+  "vol0025-c06": {
+    "authors": [
+      "Herbert A. Simon",
+      "Michael J. Prietula"
+    ],
+    "note": "原文为 Prietula 与 Simon 合著，原书只标西蒙",
+    "evidence": "https://hbr.org/1989/01/the-experts-in-your-midst"
+  },
+  "vol0047-c06": {
+    "authors": [
+      "Jacob Falkovich"
+    ],
+    "note": "原书标网名 Jakeup，即 Putanumonit 博主 Jacob Falkovich",
+    "evidence": "https://www.lesswrong.com/posts/AjgiA6s3TEfxbndyj/against-victimhood"
+  },
+  "vol0027-c03": {
+    "authors": [
+      "Jason Del Rey"
+    ],
+    "note": "原书标贝索斯；原文为 Recode 记者 Jason Del Rey 撰写的口述史",
+    "evidence": "https://www.vox.com/recode/2019/5/3/18511544/amazon-prime-oral-history-jeff-bezos-one-day-shipping"
+  },
+  "vol0061-c06": {
+    "authors": [
+      "Jerry Neumann"
+    ],
+    "note": "原书标 Jerry Chen；原文为 Jerry Neumann《Trial and Error, Part 1》",
+    "evidence": "https://reactionwheel.net/2022/08/trial-and-error-part-1.html"
+  },
+  "vol0020-c05": {
+    "authors": [
+      "James Altucher"
+    ],
+    "note": "原书标 Jimmy Wales；原文署名 James Altucher",
+    "evidence": "https://thought.is/what-does-a-20-year-old-need-to-know-about-personal-finance/"
+  },
+  "vol0078-c07": {
+    "authors": [
+      "J.P. Koning"
+    ],
+    "note": "原书把缩写 JP 误展开为 John Paul",
+    "evidence": "https://www.moneyness.ca/2019/08/starbucks-monetary-superpower.html"
+  },
+  "vol0070-c03": {
+    "authors": [
+      "Arnold Bennett"
+    ],
+    "note": "原书标 Kate McKay and Brett（转载者）；正文节选自 Arnold Bennett 1918 年《Self and Self-Management》",
+    "evidence": "https://www.artofmanliness.com/character/self-improvement/the-diary-habit/"
+  },
+  "vol0052-c06": {
+    "authors": [
+      "Kensy Cooperrider",
+      "Rafael Núñez"
+    ],
+    "note": "原书漏标合著者 Rafael Núñez",
+    "evidence": "https://www.scientificamerican.com/article/how-we-make-sense-of-time/",
+    "year": "2016",
+    "year_note": "原书年份有误：Scientific American 2016-11-01"
+  },
+  "vol0019-c05": {
+    "authors": [
+      "Laura Nash",
+      "Howard H. Stevenson"
+    ],
+    "note": "原书漏标合著者 Howard H. Stevenson",
+    "evidence": "https://hbr.org/2004/02/success-that-lasts"
+  },
+  "vol0083-c08": {
+    "authors": [
+      "Thomas Waschenfelder"
+    ],
+    "note": "原书标 Lawrence Yeo；原文署名 Thomas Waschenfelder",
+    "evidence": "https://www.wealest.com/articles/25-percent-rule"
+  },
+  "vol0033-c05": {
+    "authors": [
+      "Ethan Evans"
+    ],
+    "note": "原书标 Lenny Rachitsky（刊发者）；原文为 Ethan Evans 的客座文章",
+    "evidence": "https://www.lennysnewsletter.com/p/the-magic-loop"
+  },
+  "vol0041-c05": {
+    "authors": [
+      "Neil Kakkar"
+    ],
+    "note": "原书误作 Neil Right",
+    "evidence": "https://neilkakkar.com/cascades.html"
+  },
+  "vol0058-c07": {
+    "authors": [
+      "Unreal"
+    ],
+    "note": "原书标 Raemon（评论者）；原帖作者为 LessWrong 用户 Unreal",
+    "evidence": "https://www.lesswrong.com/posts/ximou2kyQorm6MPjX/rest-days-vs-recovery-days"
+  },
+  "vol0050-c07": {
+    "authors": [
+      "Venkatesh Rao"
+    ],
+    "note": "原书标 Tempo（Ribbonfarm 栏目名）",
+    "evidence": "https://ribbonfarm.com/2014/08/05/the-four-seasons-of-lifehacking/"
+  },
+  "vol0093-c04": {
+    "authors": [
+      "Stephen Miran"
+    ],
+    "note": "原书标白宫（发布方）；演讲者为经济顾问委员会主席 Stephen Miran",
+    "evidence": "https://www.whitehouse.gov/briefings-statements/2025/04/cea-chairman-steve-miran-hudson-institute-event-remarks/"
+  },
+  "vol0077-c07": {
+    "authors": [
+      "Kevin Simler"
+    ],
+    "note": "原书标 Venkatesh Rao；原文为 Kevin Simler 在 Ribbonfarm 的客座文章",
+    "evidence": "https://www.ribbonfarm.com/2012/10/29/anthropology-of-mid-sized-startups/"
+  },
+  "vol0083-c04": {
+    "authors": [
+      "Andrew Huberman"
+    ],
+    "note": "原书标 Thomas Waschenfelder；正文为 Huberman Lab 播客第 1 期转写"
+  },
+  "vol0078-c08": {
+    "authors": [
+      "Tim Francis"
+    ],
+    "note": "原书单名 Tim，即 Profit Factory 的 Tim Francis"
+  },
+  "vol0111-c01": {
+    "authors": [
+      "Evan Thompson"
+    ],
+    "note": "原书标 Cameron Allan McKean（Aeon 编辑）；原文署名作者 Evan Thompson"
+  },
+  "vol0113-c03": {
+    "authors": [
+      "Alex McCann"
+    ],
+    "note": "原书单名 Alex，即 Substack「The Still Wandering」作者 Alex McCann",
+    "evidence": "https://thestillwandering.substack.com/p/the-death-of-the-corporate-job"
+  },
+  "vol0117-c04": {
+    "authors": [
+      "Ben Kuhn"
+    ],
+    "note": "原书单名 Ben；原文为 Ben Kuhn《Searching for outliers》",
+    "evidence": "https://www.benkuhn.net/"
+  },
+  "vol0095-c01": {
+    "authors": [
+      "Ben (LessWrong ben-lang)"
+    ],
+    "note": "原书单名 Ben；原文为 LessWrong 用户 Ben（ben-lang）的《The Redaction Machine》",
+    "evidence": "https://www.lesswrong.com/users/ben-lang"
+  },
+  "vol0009-c03": {
+    "authors": [
+      "Camille Ricketts"
+    ],
+    "note": "原书单名 Camille；访谈受访者 Camille Ricketts，主持人 Lenny Rachitsky",
+    "evidence": "https://www.lennysnewsletter.com/p/how-notion-leveraged-community-to"
+  },
+  "vol0025-c05": {
+    "authors": [
+      "John S. Hammond",
+      "Ralph L. Keeney",
+      "Howard Raiffa"
+    ],
+    "note": "原文三人合著，原书只标第一作者",
+    "evidence": "https://hbr.org/1998/09/the-hidden-traps-in-decision-making-2"
+  },
+  "vol0028-c04": {
+    "note": "原书「中村彦二」为「中村修二」笔误；开头引述其 2015 年记者会发言，正文长评疑出自中文作者，真实作者未查到，归属存疑",
+    "evidence": "https://www.science.org/content/article/nobel-laureate-shuji-nakamura-still-angry-japan"
+  },
+  "vol0010-c05": {
+    "authors": [
+      "Tony Schwartz",
+      "Catherine McCarthy"
+    ],
+    "note": "原书漏标合著者 Catherine McCarthy",
+    "evidence": "https://hbr.org/2007/10/manage-your-energy-not-your-time"
+  },
+  "vol0123-c03": {
+    "authors": [
+      "Andrew McLuhan"
+    ],
+    "note": "原书标「未知」；原文为 a16z Newsletter 客座文章《Laws of (New) Media》，作者为马歇尔·麦克卢汉之孙 Andrew McLuhan",
+    "evidence": "https://www.a16z.news/p/laws-of-new-media"
+  },
+  "vol0040-c09": {
+    "authors": [
+      "Tulika Bahadur"
+    ],
+    "note": "原书标 Elizabeth J. Peterson（她只是在书单中转荐）；原文为 On Art and Aesthetics 博客 2016 年书评式随笔，作者为博客创办人 Tulika Bahadur",
+    "evidence": "https://onartandaesthetics.com/2016/10/01/gardens-an-essay-on-the-human-condition/"
+  },
+  "vol0038-c05": {
+    "year": "2011",
+    "year_note": "原书年份有误：Personal Best 刊于 2011 年《纽约客》"
+  },
+  "vol0001-c06": {
+    "year": "2004",
+    "year_note": "原书年份有误：出自 How to Make Wealth（2004）；2011 年是中译本《黑客与画家》出版年"
+  },
+  "vol0021-c04": {
+    "year": "1932",
+    "year_note": "原书年份有误：原文 1932 年刊于 Harper's"
+  },
+  "vol0049-c05": {
+    "year": "2015",
+    "year_note": "原书年份有误：原为 2015 年 SuperSoul Sessions 演讲"
+  },
+  "vol0005-c07": {
+    "year": "2013",
+    "year_note": "原书年份有误：原文 2013 年刊于 Strike! 杂志；2018 年为扩写成书的出版年"
+  },
+  "vol0046-c07": {
+    "year": "2019",
+    "year_note": "原书年份有误：原文发表于 2019 年 8 月"
+  },
+  "vol0068-c07": {
+    "year": "2014",
+    "year_note": "原书年份有误：原文发表于 2014 年 4 月"
+  },
+  "vol0040-c07": {
+    "year": "2023",
+    "year_note": "原书年份有误：原文发表于 2023-11-28"
+  },
+  "vol0088-c05": {
+    "year": "2003",
+    "year_note": "原书年份有误：演讲于 2003-04-24"
+  },
+  "vol0063-c05": {
+    "year": "2023",
+    "year_note": "原书年份有误：原文发表于 2023 年 3 月"
+  },
+  "vol0062-c03": {
+    "year": "1996",
+    "year_note": "原书年份有误：原文 My Rules of Thumb 载于 The American Economist 1996 年"
+  },
+  "vol0019-c04": {
+    "year": "1998",
+    "year_note": "原书年份有误：内容出自 1998–1999 年交通大学课程"
+  },
+  "vol0047-c05": {
+    "year": "1991",
+    "year_note": "原书年份有误：内容出自 1991 年演讲 Creativity in Management"
+  },
+  "vol0088-c04": {
+    "year": "1926",
+    "year_note": "原书年份有误：1926 年 3 月首刊于 Harper's Magazine"
+  },
+  "vol0049-c04": {
+    "year": "1995",
+    "year_note": "原书年份有误：演讲于 1995-03-28"
+  },
+  "vol0022-c05": {
+    "year": "2013",
+    "year_note": "原书年份有误：原视频发布于 2013 年 9 月"
+  },
+  "vol0018-c04": {
+    "year": "2018",
+    "year_note": "原书年份有误：YC Startup School 2018"
+  },
+  "vol0088-c06": {
+    "year": "2019",
+    "year_note": "原书年份有误：页面日期 2019-04-24"
+  },
+  "vol0034-c07": {
+    "year": "2019",
+    "year_note": "原书年份有误：原文发表于 2019 年 2 月"
+  },
+  "vol0041-c09": {
+    "year": "2014",
+    "year_note": "原书年份有误：原文发表于 2014-01-15"
+  },
+  "vol0087-c06": {
+    "year": "2013",
+    "year_note": "原书年份有误：首发于 2013 年，2019 年重发"
+  },
+  "vol0052-c04": {
+    "year": "2023",
+    "year_note": "原书年份有误：原文发表于 2023-01-08"
+  },
+  "vol0008-c03": {
+    "year": "1998",
+    "year_note": "原书年份有误：演讲于 1998-10-15"
+  },
+  "vol0034-c03": {
+    "year": "2015",
+    "year_note": "原书年份有误：原载《南风窗》2015 年"
+  },
+  "vol0017-c05": {
+    "year": "2017",
+    "year_note": "原书年份有误：出自 2017 年湖畔大学音频节目"
+  }
+}

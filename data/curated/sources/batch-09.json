@@ -1,0 +1,473 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0030-c06",
+      "status": "found",
+      "note": "英文原题 Toward High-Performance Organizations: A Strategic Role for Groupware（1992 年 6 月，首发于 GroupWare '92 会议论文集）",
+      "sources": [
+        {
+          "type": "paper",
+          "title": "Toward High-Performance Organizations: A Strategic Role for Groupware (1992, AUGMENT,132811)",
+          "url": "https://www.dougengelbart.org/content/view/116/000/",
+          "site": "dougengelbart.org",
+          "evidence": "https://www.dougengelbart.org/content/view/116/000/",
+          "confidence": "high",
+          "note": "Doug Engelbart Institute 全文页，摘要与中文开头一致；首发于 Proceedings of the GroupWare '92 Conference（Morgan Kaufmann）"
+        },
+        {
+          "type": "paper",
+          "title": "Toward High-Performance Organizations: A Strategic Role for Groupware（扫描原件 PDF）",
+          "url": "https://www.dougengelbart.org/pubs/seminars/sembinder1992nov/U.pdf",
+          "site": "dougengelbart.org",
+          "evidence": "https://www.dougengelbart.org/pubs/seminars/sembinder1992nov/U.pdf",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0066-c06",
+      "status": "found",
+      "note": "英文原题 Epilogue: Analogy as the Core of Cognition，收于 The Analogical Mind: Perspectives from Cognitive Science（MIT Press，2001）第 15 章",
+      "sources": [
+        {
+          "type": "paper",
+          "title": "Epilogue: Analogy as the Core of Cognition（The Analogical Mind, MIT Press, 2001）",
+          "url": "https://doi.org/10.7551/mitpress/1251.003.0020",
+          "site": "MIT Press",
+          "evidence": "https://direct.mit.edu/books/edited-volume/2224/The-Analogical-MindPerspectives-from-Cognitive",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "paper",
+          "title": "Analogy as the Core of Cognition（全文 PDF）",
+          "url": "https://worrydream.com/refs/Hofstadter_2001_-_Analogy_as_the_Core_of_Cognition.pdf",
+          "site": "worrydream.com",
+          "evidence": "https://worrydream.com/refs/Hofstadter_2001_-_Analogy_as_the_Core_of_Cognition.pdf",
+          "confidence": "high",
+          "note": "开头「Once upon a time, I was invited to speak at an analogy workshop in ... Sofia」与中文译文一致；第三方转载"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0052-c05",
+      "status": "found",
+      "note": "英文原题 Protocols Don't Build Pyramids，Summer of Protocols 2023 论文",
+      "sources": [
+        {
+          "type": "paper",
+          "title": "Protocols Don't Build Pyramids",
+          "url": "https://summerofprotocols.com/wp-content/uploads/2023/12/02-AUSTIN-2023-12-13.pdf",
+          "site": "summerofprotocols.com",
+          "evidence": "https://summerofprotocols.com/wp-content/uploads/2023/12/02-AUSTIN-2023-12-13.pdf",
+          "confidence": "high",
+          "note": "开头 China National Highway 110 拥堵 12 天、60 多英里的段落与中文一致"
+        },
+        {
+          "type": "article",
+          "title": "Protocols Don't Build Pyramids（Library Stack 条目）",
+          "url": "https://librarystack.org/protocols-dont-build-pyramids",
+          "site": "librarystack.org",
+          "evidence": "https://librarystack.org/protocols-dont-build-pyramids",
+          "confidence": "medium",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0005-c08",
+      "status": "found",
+      "note": "Drew Houston 2013 年 6 月 7 日 MIT 第 147 届毕业典礼演讲（tennis ball / circle / 30,000）",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "Drew Houston's Commencement address（MIT, 2013）",
+          "url": "https://news.mit.edu/2013/drew-houstons-commencement-address",
+          "site": "MIT News",
+          "evidence": "https://news.mit.edu/2013/drew-houstons-commencement-address",
+          "confidence": "high",
+          "note": "演讲稿全文，含 Brass Rat 戒指、cheat sheet 等与中文一致的段落"
+        },
+        {
+          "type": "speech",
+          "title": "Finding your tennis ball: 2013 MIT Commencement Address",
+          "url": "https://medium.com/@drewhouston/finding-your-tennis-ball-2013-mit-commencement-address-20fbd04e573f",
+          "site": "Medium",
+          "evidence": "https://medium.com/@drewhouston/finding-your-tennis-ball-2013-mit-commencement-address-20fbd04e573f",
+          "confidence": "medium",
+          "note": "作者本人 Medium 转载"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0012-c04",
+      "status": "found",
+      "note": "选自《段永平投资问答录（商业逻辑篇）》（雪球整理，浙版数媒，2020），第一部分「伟大企业」以「买股票就是买公司」开篇",
+      "sources": [
+        {
+          "type": "book",
+          "title": "段永平投资问答录（商业逻辑篇）（段永平 / 雪球用户，赵理亚编，浙版数媒，ISBN 9787510606175）",
+          "url": "https://book.douban.com/subject/35254511/",
+          "site": "豆瓣读书",
+          "evidence": "https://book.douban.com/subject/35254511/",
+          "confidence": "high",
+          "note": "豆瓣书评摘录显示该书第 1 部分「伟大企业」开头即「买股票就是买公司」，与摘录一致"
+        },
+        {
+          "type": "book",
+          "title": "段永平投资问答录（投资逻辑篇）（姊妹篇，ISBN 9787510606199）",
+          "url": "https://baike.baidu.com/item/%E6%AE%B5%E6%B0%B8%E5%B9%B3%E6%8A%95%E8%B5%84%E9%97%AE%E7%AD%94%E5%BD%95%EF%BC%88%E6%8A%95%E8%B5%84%E9%80%BB%E8%BE%91%E7%AF%87%EF%BC%89/57572157",
+          "site": "百度百科",
+          "evidence": "https://baike.baidu.com/item/%E6%AE%B5%E6%B0%B8%E5%B9%B3%E6%8A%95%E8%B5%84%E9%97%AE%E7%AD%94%E5%BD%95%EF%BC%88%E6%8A%95%E8%B5%84%E9%80%BB%E8%BE%91%E7%AF%87%EF%BC%89/57572157",
+          "confidence": "medium",
+          "note": "原书推荐语称该小册分上下两篇，此为下篇"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0078-c06",
+      "status": "found",
+      "note": "英文原题 In My Culture（2019-03-07）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "In My Culture",
+          "url": "https://medium.com/@ThingMaker/in-my-culture-29c6464072b2",
+          "site": "Medium",
+          "evidence": "https://medium.com/@ThingMaker/in-my-culture-29c6464072b2",
+          "confidence": "high",
+          "note": "Duncan A Sabien，2019 年 3 月 7 日原发"
+        },
+        {
+          "type": "article",
+          "title": "In My Culture（LessWrong 链接帖）",
+          "url": "https://www.lesswrong.com/posts/4EGYhyyJXSnE7xJ9H/in-my-culture",
+          "site": "LessWrong",
+          "evidence": "https://www.lesswrong.com/posts/4EGYhyyJXSnE7xJ9H/in-my-culture",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0009-c05",
+      "status": "found",
+      "note": "TechCrunch 播客 Found 2022-04-12 期《Dylan Field, Figma》，主持人 Jordan Crook 与 Darrell Etherington（原书译作 Daryl Edrington）",
+      "sources": [
+        {
+          "type": "podcast",
+          "title": "Figma CEO on Found talks about mentorship and how his leadership style has evolved in the past 10 years",
+          "url": "https://techcrunch.com/podcast/figma-found/",
+          "site": "TechCrunch",
+          "evidence": "https://techcrunch.com/podcast/figma-found/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "podcast",
+          "title": "Found: Dylan Field, Figma",
+          "url": "https://podcasts.apple.com/us/podcast/dylan-field-figma/id1561051074?i=1000557231542",
+          "site": "Apple Podcasts",
+          "evidence": "https://podcasts.apple.com/us/podcast/dylan-field-figma/id1561051074?i=1000557231542",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0011-c06",
+      "status": "found",
+      "note": "Figma Config 2023 对谈 Leading through uncertainty: A design-led company（Dylan Field 访 Brian Chesky）",
+      "sources": [
+        {
+          "type": "video",
+          "title": "Leading through uncertainty: A design-led company - Brian Chesky (Config 2023)",
+          "url": "https://www.youtube.com/watch?v=Dkfijg7s76o",
+          "site": "YouTube（Figma 官方）",
+          "evidence": "https://www.youtube.com/watch?v=Dkfijg7s76o",
+          "confidence": "high",
+          "note": "字幕中 Dylan 介绍 Brian 为财富 500 强中唯一设计师出身 CEO，与中文开头一致"
+        },
+        {
+          "type": "article",
+          "title": "Design's New Deal（Figma Blog）",
+          "url": "https://www.figma.com/blog/is-the-new-deal-for-business-leading-by-design/",
+          "site": "figma.com",
+          "evidence": "https://www.figma.com/blog/is-the-new-deal-for-business-leading-by-design/",
+          "confidence": "medium",
+          "note": "Figma 官方博客对这场对谈的整理"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Dylan Field", "Brian Chesky"],
+        "evidence": "https://www.youtube.com/watch?v=Dkfijg7s76o",
+        "note": "对谈形式：Dylan Field 为主持，Brian Chesky 为主讲"
+      }
+    },
+    {
+      "article_id": "vol0080-c07",
+      "status": "found",
+      "note": "英文原题 Historical analogies for large language models（2022 年 12 月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Historical analogies for large language models",
+          "url": "https://dynomight.net/llms/",
+          "site": "dynomight.net",
+          "evidence": "https://dynomight.net/llms/",
+          "confidence": "high",
+          "note": "ice trade / chess 两节与中文一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0081-c05",
+      "status": "found",
+      "note": "英文原题 Have You Ever Tried to Sell a Diamond?（The Atlantic，1982 年 2 月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Have You Ever Tried to Sell a Diamond?",
+          "url": "https://www.theatlantic.com/magazine/archive/1982/02/have-you-ever-tried-to-sell-a-diamond/304575/",
+          "site": "The Atlantic",
+          "evidence": "https://www.theatlantic.com/magazine/archive/1982/02/have-you-ever-tried-to-sell-a-diamond/304575/",
+          "confidence": "high",
+          "note": "开头「The diamond invention ...」与中文一致"
+        },
+        {
+          "type": "article",
+          "title": "Have You Ever Tried to Sell a Diamond?（作者网站转载）",
+          "url": "https://edwardjayepstein.com/diamond.htm",
+          "site": "edwardjayepstein.com",
+          "evidence": "https://edwardjayepstein.com/diamond.htm",
+          "confidence": "medium",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0059-c05",
+      "status": "found",
+      "note": "英文原题 A beginner's guide to sociopolitical collapse（副题 How (not) to end up in the ash heap of history，2024-05-06）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "A beginner's guide to sociopolitical collapse",
+          "url": "https://www.elidourado.com/p/collapse",
+          "site": "elidourado.com",
+          "evidence": "https://www.elidourado.com/p/collapse",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "article",
+          "title": "A beginner's guide to sociopolitical collapse（Big Think 转载）",
+          "url": "https://bigthink.com/the-past/sociopolitical-collapse/",
+          "site": "Big Think",
+          "evidence": "https://bigthink.com/the-past/sociopolitical-collapse/",
+          "confidence": "medium",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0020-c07",
+      "status": "found",
+      "note": "英文原题 What Do I Mean By \"Rationality\"?（Sequences / Rationality: From AI to Zombies 开篇；LessWrong 原帖题为 What Do We Mean By \"Rationality\"?，2009）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "What Do I Mean By \"Rationality\"?",
+          "url": "https://www.readthesequences.com/What-Do-I-Mean-By-Rationality",
+          "site": "readthesequences.com",
+          "evidence": "https://www.readthesequences.com/What-Do-I-Mean-By-Rationality",
+          "confidence": "high",
+          "note": "开头「I mean: 1. Epistemic rationality ... 2. Instrumental rationality ...」与中文一致"
+        },
+        {
+          "type": "book",
+          "title": "Rationality: From AI to Zombies（MIRI，2015）",
+          "url": "https://intelligence.org/rationality-ai-zombies/",
+          "site": "intelligence.org",
+          "evidence": "https://intelligence.org/rationality-ai-zombies/",
+          "confidence": "medium",
+          "note": "该文为本书第一卷 Map and Territory 的开篇"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0053-c07",
+      "status": "found",
+      "note": "英文原题 Twelve Virtues of Rationality（2006）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Twelve Virtues of Rationality",
+          "url": "https://www.lesswrong.com/posts/7ZqGiPHTpiDMwqMN2/twelve-virtues-of-rationality",
+          "site": "LessWrong",
+          "evidence": "https://www.lesswrong.com/posts/7ZqGiPHTpiDMwqMN2/twelve-virtues-of-rationality",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "article",
+          "title": "Twelve Virtues of Rationality（作者网站原版）",
+          "url": "https://www.yudkowsky.net/rational/virtues",
+          "site": "yudkowsky.net",
+          "evidence": "https://www.lesswrong.com/w/epistemic-modesty",
+          "confidence": "medium",
+          "note": "链接见 LessWrong wiki 引用"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0067-c05",
+      "status": "found",
+      "note": "英文原题 Toolbox-thinking and Law-thinking（2018-05-31）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Toolbox-thinking and Law-thinking",
+          "url": "https://www.lesswrong.com/posts/CPP2uLcaywEokFKQG/toolbox-thinking-and-law-thinking",
+          "site": "LessWrong",
+          "evidence": "https://www.lesswrong.com/posts/CPP2uLcaywEokFKQG/toolbox-thinking-and-law-thinking",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "douglas-engelbart",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Doug Engelbart Institute（作者与女儿创办的机构，收录其全部文献）", "url": "https://www.dougengelbart.org/content/view/88/", "site": "dougengelbart.org", "evidence": "https://www.dougengelbart.org/content/view/88/", "confidence": "high", "note": null},
+        {"type": "paper", "title": "Augmenting Human Intellect: A Conceptual Framework（1962，《增强人类智力：一个概念框架》）", "url": null, "site": null, "evidence": "https://www.elon.edu/u/imagining/expert_predictions/toward-high-performance-organizationsa-strategic-role-for-groupware/", "confidence": "medium", "note": null},
+        {"type": "website", "title": "Douglas Engelbart - Wikipedia", "url": "https://en.wikipedia.org/wiki/Douglas_Engelbart", "site": "Wikipedia", "evidence": "https://en.wikipedia.org/wiki/Douglas_Engelbart", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "douglas-r-hofstadter",
+      "note": "中文常译作侯世达",
+      "sources": [
+        {"type": "book", "title": "Gödel, Escher, Bach: an Eternal Golden Braid（《哥德尔、埃舍尔、巴赫：集异璧之大成》，Basic Books，1979）", "url": "https://en.wikipedia.org/wiki/G%C3%B6del%2C_Escher%2C_Bach", "site": "Wikipedia", "evidence": "https://en.wikipedia.org/wiki/G%C3%B6del%2C_Escher%2C_Bach", "confidence": "high", "note": null},
+        {"type": "book", "title": "I Am a Strange Loop（《我是个怪圈》，2007）", "url": null, "site": null, "evidence": "https://en.wikipedia.org/wiki/Douglas_Hofstadter", "confidence": "medium", "note": null},
+        {"type": "website", "title": "Douglas Hofstadter - Wikipedia", "url": "https://en.wikipedia.org/wiki/Douglas_Hofstadter", "site": "Wikipedia", "evidence": "https://en.wikipedia.org/wiki/Douglas_Hofstadter", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "drew-austin",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Kneeling Bus（Drew Austin 的每周 Newsletter）", "url": "https://kneelingbus.substack.com/", "site": "Substack", "evidence": "https://kneelingbus.substack.com/about", "confidence": "high", "note": null},
+        {"type": "website", "title": "Kneeling Bus（个人网站）", "url": "https://kneelingbus.net/", "site": "kneelingbus.net", "evidence": "https://kneelingbus.net/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "drew-houston",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Drew Houston - Wikipedia", "url": "https://en.wikipedia.org/wiki/Drew_Houston", "site": "Wikipedia", "evidence": "https://en.wikipedia.org/wiki/Drew_Houston", "confidence": "high", "note": "Dropbox 联合创始人"},
+        {"type": "social", "title": "Drew Houston 的 Medium", "url": "https://medium.com/@drewhouston/finding-your-tennis-ball-2013-mit-commencement-address-20fbd04e573f", "site": "Medium", "evidence": "https://medium.com/@drewhouston/finding-your-tennis-ball-2013-mit-commencement-address-20fbd04e573f", "confidence": "medium", "note": "仅见到该帖链接，未见作者主页"}
+      ]
+    },
+    {
+      "author_id": "duan-yongping",
+      "note": null,
+      "sources": [
+        {"type": "social", "title": "大道无形我有型（段永平雪球账号）", "url": "https://www.xueqiu.com/u/slowisquick", "site": "雪球", "evidence": "https://www.xueqiu.com/u/slowisquick", "confidence": "high", "note": null},
+        {"type": "book", "title": "段永平投资问答录（商业逻辑篇）（浙版数媒，2020）", "url": "https://book.douban.com/subject/35254511/", "site": "豆瓣读书", "evidence": "https://book.douban.com/subject/35254511/", "confidence": "high", "note": null},
+        {"type": "website", "title": "段永平 - 维基百科", "url": "https://zh.wikipedia.org/zh-cn/%E6%AE%B5%E6%B0%B8%E5%B9%B3", "site": "维基百科", "evidence": "https://zh.wikipedia.org/zh-cn/%E6%AE%B5%E6%B0%B8%E5%B9%B3", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "duncan-sabien",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Homo Sabiens（Duncan Sabien 的 Substack）", "url": "https://homosabiens.substack.com/", "site": "Substack", "evidence": "https://homosabiens.substack.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Duncan Sabien 的 Medium（@ThingMaker）", "url": "https://medium.com/@ThingMaker", "site": "Medium", "evidence": "https://homosabiens.substack.com/", "confidence": "high", "note": "Substack 简介中列出的旧作存档"}
+      ]
+    },
+    {
+      "author_id": "dylan-field",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Dylan Field - Wikipedia", "url": "https://en.wikipedia.org/wiki/Dylan_Field", "site": "Wikipedia", "evidence": "https://en.wikipedia.org/wiki/Dylan_Field", "confidence": "high", "note": "Figma 联合创始人兼 CEO"},
+        {"type": "website", "title": "Figma 官网", "url": "https://www.figma.com", "site": "figma.com", "evidence": "https://en.wikipedia.org/wiki/Figma_(software)", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "dynomight",
+      "note": "化名作者",
+      "sources": [
+        {"type": "website", "title": "DYNOMIGHT INTERNET WEBSITE", "url": "https://dynomight.net/", "site": "dynomight.net", "evidence": "https://dynomight.net/about/", "confidence": "high", "note": null},
+        {"type": "website", "title": "DYNOMIGHT INTERNET NEWSLETTER", "url": "https://dynomight.substack.com/about", "site": "Substack", "evidence": "https://dynomight.substack.com/about", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "e-m-forster",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "E. M. Forster - Wikipedia", "url": "https://en.wikipedia.org/wiki/E._M._Forster", "site": "Wikipedia", "evidence": "https://en.wikipedia.org/wiki/E._M._Forster", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Machine Stops（《大机器停止》，1909）", "url": "https://en.wikipedia.org/wiki/The_Machine_Stops", "site": "Wikipedia", "evidence": "https://en.wikipedia.org/wiki/The_Machine_Stops", "confidence": "high", "note": "对应本书篇目「大机器停转的一刻……」"},
+        {"type": "book", "title": "A Passage to India（《印度之行》，1924）", "url": "https://en.wikipedia.org/wiki/A_Passage_to_India", "site": "Wikipedia", "evidence": "https://en.wikipedia.org/wiki/A_Passage_to_India", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "edward-jay-epstein",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Edward Jay Epstein 个人网站", "url": "https://edwardjayepstein.com/diamond.htm", "site": "edwardjayepstein.com", "evidence": "https://www.penguinrandomhouse.com/authors/8151/edward-jay-epstein/", "confidence": "medium", "note": "仅见到网站内页链接，Penguin Random House 作者页注明其网站为 www.edwardjayepstein.com"},
+        {"type": "book", "title": "The Rise and Fall of Diamonds: The Shattering of a Brilliant Illusion（Simon & Schuster，1982）", "url": "https://search.worldcat.org/title/8169228", "site": "WorldCat", "evidence": "https://search.worldcat.org/title/8169228", "confidence": "high", "note": null},
+        {"type": "website", "title": "Edward Jay Epstein - Wikipedia", "url": "https://en.wikipedia.org/wiki/Edward_Jay_Epstein", "site": "Wikipedia", "evidence": "https://en.wikipedia.org/wiki/Edward_Jay_Epstein", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "eli-dourado",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Eli Dourado 个人网站 / Newsletter", "url": "https://www.elidourado.com/about", "site": "elidourado.com", "evidence": "https://www.elidourado.com/about", "confidence": "high", "note": "经济学家，Astera Institute 战略投资负责人，曾任 Abundance Institute 首席经济学家"}
+      ]
+    },
+    {
+      "author_id": "eliezer-yudkowsky",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Eliezer S. Yudkowsky 个人网站", "url": "https://www.yudkowsky.net/", "site": "yudkowsky.net", "evidence": "https://www.yudkowsky.net/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Rationality: From AI to Zombies（《理性：从 AI 到僵尸》，MIRI，2015）", "url": "https://intelligence.org/rationality-ai-zombies/", "site": "intelligence.org", "evidence": "https://intelligence.org/rationality-ai-zombies/", "confidence": "high", "note": null},
+        {"type": "book", "title": "If Anyone Builds It, Everyone Dies（与 Nate Soares 合著，Little, Brown，2025）", "url": "https://www.ifanyonebuildsit.dev/", "site": "ifanyonebuildsit.dev", "evidence": "https://www.ifanyonebuildsit.dev/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "elizabeth-j-peterson",
+      "note": "未能在网上找到她署名的《花园》相关文章；该中文标题与 Robert Pogue Harrison 的 Gardens: An Essay on the Human Condition 同名，需核对该篇作者归属",
+      "sources": [
+        {"type": "website", "title": "Elizabeth J. Peterson 个人网站", "url": "https://elizabethjpeterson.com/about/", "site": "elizabethjpeterson.com", "evidence": "https://elizabethjpeterson.com/about/", "confidence": "medium", "note": "同名作者，写哲学、心理学与自然主题随笔；未确认与本书篇目的对应"}
+      ]
+    },
+    {
+      "author_id": "elna-schutz",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Elna Schütz 个人网站", "url": "https://elnaschutz.com/about/", "site": "elnaschutz.com", "evidence": "https://elnaschutz.com/about/", "confidence": "high", "note": "约翰内斯堡自由撰稿记者，关注健康与科学"},
+        {"type": "website", "title": "Elna Schütz | Psyche 作者页", "url": "https://psyche.co/authors/elna-schutz", "site": "Psyche", "evidence": "https://psyche.co/authors/elna-schutz", "confidence": "high", "note": "其 Psyche 指南 You are your body: here's how to feel more at home in it 对应本书篇目"}
+      ]
+    }
+  ]
+}

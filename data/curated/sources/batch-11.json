@@ -1,0 +1,295 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0022-c03",
+      "status": "found",
+      "note": "英文原题 Birds and Frogs（Notices of the AMS, Vol. 56, No. 2, 2009-02, pp. 212–223），为原定 2008 年 10 月 AMS 爱因斯坦讲座的讲稿；2010 年 Physics-Uspekhi 刊出作者修订版",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "Birds and Frogs",
+          "url": "https://www.ams.org/notices/200902/rtx090200212p.pdf",
+          "site": "ams.org",
+          "evidence": "https://www.ams.org/notices/200902/rtx090200212p.pdf",
+          "confidence": "high",
+          "note": "开篇“Some mathematicians are birds, others are frogs”与摘录对应；脚注说明是爱因斯坦讲座的书面版本"
+        },
+        {
+          "type": "paper",
+          "title": "Birds and frogs in mathematics and physics（Physics-Uspekhi 2010 修订版）",
+          "url": "https://ufn.ru/en/articles/2010/8/f/",
+          "site": "ufn.ru",
+          "evidence": "https://ufn.ru/en/articles/2010/8/f/",
+          "confidence": "high",
+          "note": "作者 2009 年 6 月修订后经 AMS 许可再刊"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0044-c07",
+      "status": "found",
+      "note": "英文原题 Two Types of Mind，原载 Encounter 第 45 卷（1975 年 9 月），增补后收入 Hayek《New Studies in Philosophy, Politics, Economics and the History of Ideas》（1978）第 4 章；摘录中关于柏林《刺猬与狐狸》的作者注即书中版本的脚注",
+      "sources": [
+        {
+          "type": "book",
+          "title": "New Studies in Philosophy, Politics, Economics, and the History of Ideas, Chapter 4: Two Types of Mind（University of Chicago Press / Routledge，1978）",
+          "url": "https://press.uchicago.edu/ucp/books/book/chicago/N/bo26122019.html",
+          "site": "press.uchicago.edu",
+          "evidence": "https://press.uchicago.edu/ucp/books/book/chicago/N/bo26122019.html",
+          "confidence": "high",
+          "note": "出版社目录列出 Chapter 4 Two Types of Mind"
+        },
+        {
+          "type": "article",
+          "title": "Two Types of Mind（书中章节扫描 PDF）",
+          "url": "https://www.uni-kassel.de/fb07/index.php?eID=dumpFile&f=6353&t=f&token=6f74a04f086c3dccce13b15969c96482dc433140",
+          "site": "uni-kassel.de",
+          "evidence": "https://www.uni-kassel.de/fb07/index.php?eID=dumpFile&f=6353&t=f&token=6f74a04f086c3dccce13b15969c96482dc433140",
+          "confidence": "high",
+          "note": "已打开核对：脚注“Reprinted with additions from Encounter, vol. 45, September 1975”及 hedgehog/fox 说明与摘录一致；OCR 质量较差"
+        },
+        {
+          "type": "article",
+          "title": "Two Types of Mind（Encounter, vol. 45, September 1975）",
+          "url": null,
+          "site": null,
+          "evidence": "https://www.uni-kassel.de/fb07/index.php?eID=dumpFile&f=6353&t=f&token=6f74a04f086c3dccce13b15969c96482dc433140",
+          "confidence": "high",
+          "note": "期刊首发信息，未找到 Encounter 原刊在线页面"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0006-c08",
+      "status": "found",
+      "note": "中文原创，傅盛《认知三部曲》（2017 年，第一篇《所谓成长就是认知升级》约 2017-03 发布，后两篇约一个多月后连更）。未找到傅盛本人公众号的原始链接，以下为署名转载",
+      "sources": [
+        {
+          "type": "article",
+          "title": "傅盛认知三部曲之一：所谓成长就是认知升级",
+          "url": "https://www.woshipm.com/kol/597430.html",
+          "site": "woshipm.com",
+          "evidence": "https://www.woshipm.com/kol/597430.html",
+          "confidence": "high",
+          "note": "署名傅盛，2017-03-06；“人的四种认知状态”段落与摘录逐句一致；仅含第一篇"
+        },
+        {
+          "type": "article",
+          "title": "傅盛认知三部曲完整版：人与人最大的差别是认知！",
+          "url": "http://cj.sina.com.cn/article/detail/1655109057/225386",
+          "site": "cj.sina.com.cn",
+          "evidence": "http://cj.sina.com.cn/article/detail/1655109057/225386",
+          "confidence": "high",
+          "note": "三篇合集转载，页面注明“原文来源于雪球Passion启航”并获三部完整授权"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0064-c08",
+      "status": "found",
+      "note": "英文原题 The Cost of Craft — Why is it so hard to do great work at scale?（George Kedenburg III，gk3.fyi Substack，2023-03-20）；摘录中的“背景信息”即原文 For context 段",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Cost of Craft",
+          "url": "https://gk3fyi.substack.com/p/the-cost-of-craft",
+          "site": "gk3fyi.substack.com",
+          "evidence": "https://gk3fyi.substack.com/p/the-cost-of-craft",
+          "confidence": "high",
+          "note": "2021 年 9 月初稿、六周假期、在 Facebook/Instagram 约 7.5 年等细节与摘录一致"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["George Kedenburg III"],
+        "evidence": "https://gk3fyi.substack.com/p/the-cost-of-craft",
+        "note": "原文署名带后缀 III，与归属为同一人"
+      }
+    },
+    {
+      "article_id": "vol0086-c04",
+      "status": "found",
+      "note": "英文原题 Fallibility, reflexivity, and the human uncertainty principle（Journal of Economic Methodology, 20:4, 309–329；2013-12 卷期，2014-01-13 在线发表）",
+      "sources": [
+        {
+          "type": "paper",
+          "title": "Fallibility, reflexivity, and the human uncertainty principle",
+          "url": "https://www.tandfonline.com/doi/full/10.1080/1350178X.2013.859415",
+          "site": "tandfonline.com",
+          "evidence": "https://www.tandfonline.com/doi/full/10.1080/1350178X.2013.859415",
+          "confidence": "high",
+          "note": "开篇感谢编辑部策划反身性专刊、Knight/Keynes/Merton/Popper 等与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "Fallibility, Reflexivity, and the Human Uncertainty Principle",
+          "url": "https://www.georgesoros.com/2014/01/13/fallibility-reflexivity-and-the-human-uncertainty-principle-2/",
+          "site": "georgesoros.com",
+          "evidence": "https://www.georgesoros.com/2014/01/13/fallibility-reflexivity-and-the-human-uncertainty-principle-2/",
+          "confidence": "high",
+          "note": "作者官网全文转载"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0037-c03",
+      "status": "found",
+      "note": "英文原题 What's going on here, with this human?（Graham Duncan 博客长文）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "What’s going on here, with this human?",
+          "url": "https://grahamduncan.blog/whats-going-on-here/",
+          "site": "grahamduncan.blog",
+          "evidence": "https://grahamduncan.blog/whats-going-on-here/",
+          "confidence": "high",
+          "note": "开篇引 Kwame Appiah、25 年“策略游戏”及窗户倒影/房间里的大象/看见水三个比喻与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0037-c05",
+      "status": "found",
+      "note": "英文原题 Letter to a friend who just made a lot of money（Graham Duncan 博客）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Letter to a friend who just made a lot of money",
+          "url": "https://grahamduncan.blog/letter-to-a-friend-who-just-made-a-lot-of-money/",
+          "site": "grahamduncan.blog",
+          "evidence": "https://grahamduncan.blog/letter-to-a-friend-who-just-made-a-lot-of-money/",
+          "confidence": "high",
+          "note": "芒格“嫉妒”引语、反脆弱系统、识别自身优势与决策空间等小节与摘录一致"
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "freeman-dyson",
+      "note": "英美理论物理学家、数学家（1923–2020），普林斯顿高等研究院荣休教授",
+      "sources": [
+        {"type": "website", "title": "Freeman Dyson（普林斯顿高等研究院个人页）", "url": "https://www.ias.edu/sns/dyson", "site": "ias.edu", "evidence": "https://www.ias.edu/sns/dyson", "confidence": "high", "note": null},
+        {"type": "website", "title": "Freeman Dyson - Wikipedia", "url": "https://en.wikipedia.org/wiki/Freeman_Dyson", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Freeman_Dyson", "confidence": "high", "note": null},
+        {"type": "book", "title": "Disturbing the Universe（《宇宙波澜》，Harper & Row，1979）", "url": null, "site": null, "evidence": "https://www.ias.edu/sns/dyson", "confidence": "medium", "note": "英文书名与年份见 IAS 页面；中文译名为通行译法，未单独核对出版页"}
+      ]
+    },
+    {
+      "author_id": "friedrich-hayek",
+      "note": "奥地利裔英国经济学家、政治哲学家（1899–1992），1974 年诺贝尔经济学奖得主",
+      "sources": [
+        {"type": "website", "title": "Friedrich Hayek - Wikipedia", "url": "https://en.wikipedia.org/wiki/Friedrich_Hayek", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Friedrich_Hayek", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Road to Serfdom（《通往奴役之路》，Routledge / University of Chicago Press，1944）", "url": "https://en.wikipedia.org/wiki/The_Road_to_Serfdom", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/The_Road_to_Serfdom", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "friedrich-nietzsche",
+      "note": "德国哲学家（1844–1900）；本批相关文章《日神精神与酒神精神》对应其《悲剧的诞生》中的 Apollonian/Dionysian 二分",
+      "sources": [
+        {"type": "website", "title": "Friedrich Nietzsche（Stanford Encyclopedia of Philosophy）", "url": "https://plato.stanford.edu/entries/nietzsche/index.html", "site": "plato.stanford.edu", "evidence": "https://plato.stanford.edu/entries/nietzsche/index.html", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Birth of Tragedy / Die Geburt der Tragödie aus dem Geiste der Musik（《悲剧的诞生》，E. W. Fritzsch，1872）", "url": "https://en.wikipedia.org/wiki/The_Birth_of_Tragedy", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/The_Birth_of_Tragedy", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "fu-sheng",
+      "note": "中国企业家，猎豹移动董事长兼 CEO、猎户星空董事长",
+      "sources": [
+        {"type": "website", "title": "傅盛 - 维基百科", "url": "https://zh.wikipedia.org/zh-hans/%E5%82%85%E7%9B%9B", "site": "zh.wikipedia.org", "evidence": "https://zh.wikipedia.org/zh-hans/%E5%82%85%E7%9B%9B", "confidence": "high", "note": null},
+        {"type": "website", "title": "傅盛（猎豹移动董事长兼CEO、猎户星空董事长）- 百度百科", "url": "https://baike.baidu.com/item/%E5%82%85%E7%9B%9B/2154827", "site": "baike.baidu.com", "evidence": "https://baike.baidu.com/item/%E5%82%85%E7%9B%9B/2154827", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "gabe-whaley",
+      "note": "个人，全名 Gabriel Whaley，艺术团体/创意工作室 MSCHF 创始人兼 CEO",
+      "sources": [
+        {"type": "website", "title": "MSCHF - Wikipedia", "url": "https://en.wikipedia.org/wiki/MSCHF", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/MSCHF", "confidence": "high", "note": "列出 Gabriel Whaley 为 CEO；官网 mschf.com"},
+        {"type": "website", "title": "Gabriel Whaley: Biography, News and Talks（The Business of Fashion）", "url": "https://www.businessoffashion.com/people/gabriel-whaley/", "site": "businessoffashion.com", "evidence": "https://www.businessoffashion.com/people/gabriel-whaley/", "confidence": "high", "note": null},
+        {"type": "podcast", "title": "Dialectic #31: Gabe Whaley - Playing the Crowd & Outlasting the Hype", "url": "https://jacksondahl.com/dialectic/gabe-whaley", "site": "jacksondahl.com", "evidence": "https://jacksondahl.com/dialectic/gabe-whaley", "confidence": "high", "note": "含文字稿"}
+      ]
+    },
+    {
+      "author_id": "gareth-jones",
+      "note": "个人，英国组织社会学者（1951–2021），曾任 BBC 人力资源总监，与 Rob Goffee 合著领导力著作；HBR《Why Should Anyone Be Led by You?》（2000）为二人合写",
+      "sources": [
+        {"type": "website", "title": "Gareth Jones 简介（Creative Management Associates）", "url": "http://www.creativemanagementassociates.com/about-us/gareth-jones-biography", "site": "creativemanagementassociates.com", "evidence": "http://www.creativemanagementassociates.com/about-us/gareth-jones-biography", "confidence": "high", "note": "与 Rob Goffee 共同创办的咨询公司"},
+        {"type": "book", "title": "Why Should Anyone Be Led by You? What It Takes to Be an Authentic Leader（与 Rob Goffee 合著，Harvard Business School Press，2006）", "url": "https://books.google.com/books/about/Why_Should_Anyone_be_Led_by_You.html?id=NKmxwAEACAAJ", "site": "books.google.com", "evidence": "https://books.google.com/books/about/Why_Should_Anyone_be_Led_by_You.html?id=NKmxwAEACAAJ", "confidence": "high", "note": null},
+        {"type": "website", "title": "Rob Goffee & Gareth Jones - Thinkers50", "url": "https://thinkers50.com/biographies/rob-goffee-gareth-jones/", "site": "thinkers50.com", "evidence": "https://thinkers50.com/biographies/rob-goffee-gareth-jones/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "george-kedenburg",
+      "note": "个人，产品设计师，署名 George Kedenburg III，曾在 Facebook/Instagram、Humane 任职",
+      "sources": [
+        {"type": "website", "title": "gk3.fyi（George Kedenburg III 的 Substack）", "url": "https://gk3fyi.substack.com/archive", "site": "gk3fyi.substack.com", "evidence": "https://gk3fyi.substack.com/archive", "confidence": "high", "note": null},
+        {"type": "website", "title": "George Kedenburg III 个人网站", "url": "https://gk3.website/", "site": "gk3.website", "evidence": "https://gk3.website/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "george-mack",
+      "note": "个人，英国作者，highagency.com 长文 High Agency in 30 Minutes 的作者",
+      "sources": [
+        {"type": "website", "title": "High Agency in 30 Minutes", "url": "https://www.highagency.com/", "site": "highagency.com", "evidence": "https://www.highagency.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "George Mack 个人网站", "url": "https://www.george-mack.com/", "site": "george-mack.com", "evidence": "https://www.george-mack.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "High Agency（George Mack 的 Substack）", "url": "https://essays.highagency.com/", "site": "essays.highagency.com", "evidence": "https://essays.highagency.com/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "george-r-r-martin",
+      "note": "个人，美国奇幻/科幻作家",
+      "sources": [
+        {"type": "website", "title": "George R.R. Martin 官方网站", "url": "https://georgerrmartin.com/", "site": "georgerrmartin.com", "evidence": "https://georgerrmartin.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Not a Blog（George R.R. Martin 博客）", "url": "https://georgerrmartin.com/notablog/", "site": "georgerrmartin.com", "evidence": "https://georgerrmartin.com/notablog/", "confidence": "high", "note": null},
+        {"type": "book", "title": "A Song of Ice and Fire（《冰与火之歌》系列，Bantam Books，1996–）", "url": "https://en.wikipedia.org/wiki/A_song_of_ice_and_fire", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/A_song_of_ice_and_fire", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "george-soros",
+      "note": "匈牙利裔美国投资家、慈善家，反身性理论提出者",
+      "sources": [
+        {"type": "website", "title": "George Soros 官方网站", "url": "https://www.georgesoros.com/books/", "site": "georgesoros.com", "evidence": "https://www.georgesoros.com/books/", "confidence": "high", "note": "官网著作列表页"},
+        {"type": "book", "title": "The Alchemy of Finance（《金融炼金术》，1987）", "url": "https://www.georgesoros.com/1987/10/19/the_alchemy_of_finance/", "site": "georgesoros.com", "evidence": "https://www.georgesoros.com/1987/10/19/the_alchemy_of_finance/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "georges-perec",
+      "note": "个人，法国作家（1936–1982），乌力波（Oulipo）成员；《观察实验：一次穷尽巴黎某处的尝试》对应 Tentative d'épuisement d'un lieu parisien（1975）",
+      "sources": [
+        {"type": "website", "title": "Georges Perec - Wikipedia", "url": "https://en.wikipedia.org/wiki/Georges_Perec", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Georges_Perec", "confidence": "high", "note": null},
+        {"type": "book", "title": "Espèces d'espaces / Species of Spaces and Other Pieces（1974；英译本 1997）", "url": "https://doi.org/10.17875/gup2023-2287", "site": "doi.org", "evidence": "https://doi.org/10.17875/gup2023-2287", "confidence": "medium", "note": "链接为该书的学术书评，非出版社页面"},
+        {"type": "book", "title": "Tentative d'épuisement d'un lieu parisien / An Attempt at Exhausting a Place in Paris（1975；英译本 2010）", "url": "https://www.complete-review.com/reviews/perecg/attempt.htm", "site": "complete-review.com", "evidence": "https://www.complete-review.com/reviews/perecg/attempt.htm", "confidence": "high", "note": "书评页"}
+      ]
+    },
+    {
+      "author_id": "glenna-gerard",
+      "note": "个人，对话（Dialogue）实践者、引导师，The Dialogue Group 联合创始人",
+      "sources": [
+        {"type": "website", "title": "Glenna Gerard（Interaction Institute for Social Change 个人页）", "url": "https://interactioninstitute.org/people/glenna-gerard/", "site": "interactioninstitute.org", "evidence": "https://interactioninstitute.org/people/glenna-gerard/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Dialogue: Rediscover the Transforming Power of Conversation（与 Linda Ellinor 合著，John Wiley & Sons，1998）", "url": "https://www.amazon.com/Dialogue-Rediscover-Transforming-Power-Conversation/dp/0471174661", "site": "amazon.com", "evidence": "https://www.amazon.com/Dialogue-Rediscover-Transforming-Power-Conversation/dp/0471174661", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "graham-duncan",
+      "note": "个人，投资人，East Rock Capital 联合创始人",
+      "sources": [
+        {"type": "website", "title": "Graham Duncan Blog", "url": "https://grahamduncan.blog/", "site": "grahamduncan.blog", "evidence": "https://grahamduncan.blog/", "confidence": "high", "note": null},
+        {"type": "website", "title": "About - Graham Duncan Blog", "url": "https://grahamduncan.blog/about/", "site": "grahamduncan.blog", "evidence": "https://grahamduncan.blog/about/", "confidence": "high", "note": null},
+        {"type": "podcast", "title": "Graham Duncan — Talent Is the Best Asset Class (The Tim Ferriss Show #362)", "url": "https://tim.blog/2019/02/28/graham-duncan/", "site": "tim.blog", "evidence": "https://tim.blog/2019/02/28/graham-duncan/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "graydon",
+      "note": "个人，即 Graydon Hoare（Rust 语言创始人），graydon 为其 Dreamwidth 博客 graydon2 的署名；《永远押注于文本》对应其 2014-10-13 博文 always bet on text（https://graydon2.dreamwidth.org/193447.html）",
+      "sources": [
+        {"type": "website", "title": "graydon2（Graydon Hoare 的 Dreamwidth 博客）", "url": "https://graydon2.dreamwidth.org/", "site": "graydon2.dreamwidth.org", "evidence": "https://www.wikidata.org/wiki/Q28937563", "confidence": "high", "note": "Wikidata 记录其 Dreamwidth 账号为 graydon2"},
+        {"type": "website", "title": "Graydon Hoare - Rust Programming Language（Rust 项目人员页）", "url": "https://rust-lang.org/governance/people/graydon/", "site": "rust-lang.org", "evidence": "https://rust-lang.org/governance/people/graydon/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Graydon Hoare - Wikidata", "url": "https://www.wikidata.org/wiki/Q28937563", "site": "wikidata.org", "evidence": "https://www.wikidata.org/wiki/Q28937563", "confidence": "high", "note": null}
+      ]
+    }
+  ]
+}

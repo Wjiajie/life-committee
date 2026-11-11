@@ -1,0 +1,396 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0026-c06",
+      "status": "found",
+      "note": "英文原题 Pace Layering: How Complex Systems Learn and Keep Learning（Journal of Design and Science，2018 年 1 月；Long Now 转载）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Pace Layering: How Complex Systems Learn and Keep Learning",
+          "url": "https://jods.mitpress.mit.edu/pub/issue3-brand/release/2",
+          "site": "jods.mitpress.mit.edu",
+          "evidence": "https://jods.mitpress.mit.edu/pub/issue3-brand/release/2",
+          "confidence": "high",
+          "note": "MIT Press《Journal of Design and Science》首发，DOI 10.21428/7f2e5f08"
+        },
+        {
+          "type": "article",
+          "title": "Pace Layering: How Complex Systems Learn and Keep Learning",
+          "url": "https://longnow.org/ideas/pace-layers/",
+          "site": "longnow.org",
+          "evidence": "https://longnow.org/ideas/pace-layers/",
+          "confidence": "high",
+          "note": "Long Now 转载版，署名 Stewart Brand，2018-01-17"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Stewart Brand"], "evidence": "https://longnow.org/ideas/pace-layers/", "note": null}
+    },
+    {
+      "article_id": "vol0012-c05",
+      "status": "found",
+      "note": "英文原题 We Don't Sell Saddles Here（Medium，2014-02-17 发布，备忘录写于 2013-07-31；书中标注年份 2018 有误）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "We Don't Sell Saddles Here",
+          "url": "https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d",
+          "site": "medium.com",
+          "evidence": "https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Stewart Butterfield"], "evidence": "https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d", "note": null}
+    },
+    {
+      "article_id": "vol0023-c03",
+      "status": "found",
+      "note": "GGV 播客 Founder Real Talk 第 5 期（2018-06-14，主持人 Glenn Solomon）；中文译文由 GGV 纪源资本公众号发布（2021-03，虎嗅转载），与摘录一致",
+      "sources": [
+        {
+          "type": "podcast",
+          "title": "Stewart Butterfield, Founder & CEO of Slack, on the Secret(s) to Slack's Success（Founder Real Talk）",
+          "url": "https://podcasts.apple.com/us/podcast/founder-real-talk/id1392649094?i=1000413805463",
+          "site": "podcasts.apple.com",
+          "evidence": "https://podcasts.apple.com/us/podcast/founder-real-talk/id1392649094?i=1000413805463",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "podcast",
+          "title": "Episode 5: Stewart Butterfield, Founder & CEO of Slack, on the Secret(s) to Slack's Success",
+          "url": "https://founderrealtalk.ggvc.com/2018/06/14/episode-5-stewart-butterfield-founder-ceo-of-slack-on-the-secrets-to-slacks-success/",
+          "site": "founderrealtalk.ggvc.com",
+          "evidence": "https://www.huxiu.com/article/414517.html",
+          "confidence": "medium",
+          "note": "该链接列于 GGV 中文译文文末，未直接打开"
+        },
+        {
+          "type": "interview",
+          "title": "Slack创始人：任何对成功的解读都是事后诸葛亮（GGV纪源资本）",
+          "url": "https://www.huxiu.com/article/414517.html",
+          "site": "huxiu.com",
+          "evidence": "https://www.huxiu.com/article/414517.html",
+          "confidence": "high",
+          "note": "中文译文，口述 Glenn Solomon、Stewart Butterfield"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Stewart Butterfield"], "evidence": "https://podcasts.apple.com/us/podcast/founder-real-talk/id1392649094?i=1000413805463", "note": "对谈形式，采访者为 GGV 的 Glenn Solomon"}
+    },
+    {
+      "article_id": "vol0092-c06",
+      "status": "found",
+      "note": "英文原题 Information Isn't Free. Even Demons Must Pay（Information and Complexity: Essay 3，2025-03-18）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Information Isn't Free. Even Demons Must Pay",
+          "url": "https://suzitravis.substack.com/p/maxwells-demon",
+          "site": "suzitravis.substack.com",
+          "evidence": "https://suzitravis.substack.com/p/maxwells-demon",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Suzi Travis"], "evidence": "https://suzitravis.substack.com/p/maxwells-demon", "note": null}
+    },
+    {
+      "article_id": "vol0067-c03",
+      "status": "found",
+      "note": "英文原题 An Introduction to Ergodicity（Unfashionable 博客，2020-04-20）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "An Introduction to Ergodicity",
+          "url": "https://unfashionable.blog/p/an-introduction-to-ergodicity/",
+          "site": "unfashionable.blog",
+          "evidence": "https://unfashionable.blog/p/an-introduction-to-ergodicity/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Sven Schnieders"], "evidence": "https://unfashionable.blog/p/an-introduction-to-ergodicity/", "note": null}
+    },
+    {
+      "article_id": "vol0054-c05",
+      "status": "found",
+      "note": "英文原题 Learn In Public: The fastest way to learn（swyx.io，2018-06-19）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Learn In Public",
+          "url": "https://swyx.io/learn-in-public",
+          "site": "swyx.io",
+          "evidence": "https://swyx.io/learn-in-public",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Shawn Wang (swyx)"], "evidence": "https://swyx.io/about", "note": "swyx 为 Shawn Wang 的常用名"}
+    },
+    {
+      "article_id": "vol0072-c05",
+      "status": "found",
+      "note": "英文原文为 Taylor Pearson 网站的晨间习惯长文（当前标题 Build Your Best Morning Routine (Backed By Science)，标题随年份更新），开头富兰克林、柴可夫斯基、雨果段落与摘录一致",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Build Your Best Morning Routine (Backed By Science)",
+          "url": "https://taylorpearson.me/morning/",
+          "site": "taylorpearson.me",
+          "evidence": "https://taylorpearson.me/morning/",
+          "confidence": "high",
+          "note": "页面标题含年份（2026），正文为作者个人网站内容"
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Taylor Pearson"], "evidence": "https://taylorpearson.me/morning/", "note": null}
+    },
+    {
+      "article_id": "vol0075-c06",
+      "status": "found",
+      "note": "英文原题 Antifragile Planning: Optimizing for Optionality (Without Chasing Shiny Objects)（2015-12-17）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Antifragile Planning: Optimizing for Optionality (Without Chasing Shiny Objects)",
+          "url": "https://taylorpearson.me/planning/",
+          "site": "taylorpearson.me",
+          "evidence": "https://taylorpearson.me/planning/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Taylor Pearson"], "evidence": "https://taylorpearson.me/planning/", "note": null}
+    },
+    {
+      "article_id": "vol0091-c05",
+      "status": "found",
+      "note": "英文原题 ChatGPT Is a Blurry JPEG of the Web（The New Yorker，2023-02-09）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "ChatGPT Is a Blurry JPEG of the Web",
+          "url": "https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web",
+          "site": "newyorker.com",
+          "evidence": "https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Ted Chiang"], "evidence": "https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web", "note": null}
+    },
+    {
+      "article_id": "vol0091-c07",
+      "status": "found",
+      "note": "英文原题 Will A.I. Become the New McKinsey?（The New Yorker，2023-05-04）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Will A.I. Become the New McKinsey?",
+          "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey",
+          "site": "newyorker.com",
+          "evidence": "https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Ted Chiang"], "evidence": "https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey", "note": null}
+    },
+    {
+      "article_id": "vol0091-c08",
+      "status": "found",
+      "note": "英文原题 Why A.I. Isn't Going to Make Art（The New Yorker，2024-08-31）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Why A.I. Isn't Going to Make Art",
+          "url": "https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art",
+          "site": "newyorker.com",
+          "evidence": "https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Ted Chiang"], "evidence": "https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art", "note": null}
+    },
+    {
+      "article_id": "vol0050-c07",
+      "status": "found",
+      "note": "英文原题 The Four Seasons of Lifehacking（Ribbonfarm，2014-08-05，作者 Venkat，归于 Tempo Blog 栏目）；原书把栏目名 Tempo 误标为作者",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Four Seasons of Lifehacking",
+          "url": "https://ribbonfarm.com/2014/08/05/the-four-seasons-of-lifehacking/",
+          "site": "ribbonfarm.com",
+          "evidence": "https://ribbonfarm.com/2014/08/05/the-four-seasons-of-lifehacking/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "corrected", "authors": ["Venkatesh Rao"], "evidence": "https://ribbonfarm.com/2014/08/05/the-four-seasons-of-lifehacking/", "note": "页面署名 Venkat（Ribbonfarm 创办人 Venkatesh Rao），Tempo 是其博客栏目名（亦为其著作书名），并非作者"}
+    },
+    {
+      "article_id": "vol0093-c04",
+      "status": "found",
+      "note": "原文为白宫经济顾问委员会（CEA）主席 Stephen Miran 2025-04-07 在 Hudson Institute 的演讲，白宫官网发布为 CEA Chairman Steve Miran Hudson Institute Event Remarks",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "CEA Chairman Steve Miran Hudson Institute Event Remarks",
+          "url": "https://www.whitehouse.gov/briefings-statements/2025/04/cea-chairman-steve-miran-hudson-institute-event-remarks/",
+          "site": "whitehouse.gov",
+          "evidence": "https://www.whitehouse.gov/briefings-statements/2025/04/cea-chairman-steve-miran-hudson-institute-event-remarks/",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "video",
+          "title": "Chairman of the Council of Economic Advisers Stephen Miran on the Trump Administration's Economic Agenda",
+          "url": "https://www.hudson.org/events/chairman-council-economic-advisers-stephen-miran-trump-administrations-economic-agenda",
+          "site": "hudson.org",
+          "evidence": "https://www.hudson.org/events/chairman-council-economic-advisers-stephen-miran-trump-administrations-economic-agenda",
+          "confidence": "high",
+          "note": "Hudson Institute 活动页，含演讲文字稿"
+        }
+      ],
+      "author_check": {"status": "corrected", "authors": ["Stephen Miran"], "evidence": "https://www.whitehouse.gov/briefings-statements/2025/04/cea-chairman-steve-miran-hudson-institute-event-remarks/", "note": "白宫是发布方，实际演讲者为 CEA 主席 Stephen Miran"}
+    },
+    {
+      "article_id": "vol0031-c03",
+      "status": "found",
+      "note": "英文原题 Marketing Myopia，1960 年 7–8 月首刊于《哈佛商业评论》，2004 年 7–8 月作为 Best of HBR 1960 重刊（书中年份 2004 对应重刊版）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Marketing Myopia",
+          "url": "https://hbr.org/2004/07/marketing-myopia",
+          "site": "hbr.org",
+          "evidence": "https://hbr.org/2004/07/marketing-myopia",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {"status": "confirmed", "authors": ["Theodore Levitt"], "evidence": "https://hbr.org/2004/07/marketing-myopia", "note": null}
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "stewart-brand",
+      "note": "《全球概览》（Whole Earth Catalog）创办人，Long Now 基金会联合创始人",
+      "sources": [
+        {"type": "website", "title": "Stewart Brand 个人主页（Long Now）", "url": "https://sb.longnow.org/SB_homepage/Home.html", "site": "sb.longnow.org", "evidence": "https://sb.longnow.org/SB_homepage/Home.html", "confidence": "high", "note": null},
+        {"type": "book", "title": "How Buildings Learn: What Happens After They're Built（Viking，1994）", "url": "https://en.wikipedia.org/wiki/How_Buildings_Learn", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/How_Buildings_Learn", "confidence": "high", "note": null},
+        {"type": "website", "title": "Stewart Brand（维基百科）", "url": "https://en.wikipedia.org/wiki/Stewart_Brand", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Stewart_Brand", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "stewart-butterfield",
+      "note": "Flickr 联合创始人、Slack 创始人及前 CEO",
+      "sources": [
+        {"type": "website", "title": "Stewart Butterfield 的 Medium 主页", "url": "https://medium.com/@stewart", "site": "medium.com", "evidence": "https://medium.com/@stewart", "confidence": "high", "note": null},
+        {"type": "website", "title": "Stewart Butterfield（维基百科）", "url": "https://en.wikipedia.org/wiki/Stewart_Butterfield", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Stewart_Butterfield", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "susan-sontag",
+      "note": "美国作家、评论家（1933–2004）",
+      "sources": [
+        {"type": "website", "title": "Susan Sontag 官方网站", "url": "https://susansontag.com/SusanSontag/books/onPhotography.shtml", "site": "susansontag.com", "evidence": "https://susansontag.com/SusanSontag/books/onPhotography.shtml", "confidence": "high", "note": "官网的《论摄影》页面"},
+        {"type": "book", "title": "Under the Sign of Saturn（《在土星的标志下》，Farrar, Straus and Giroux，1980）", "url": "https://en.wikipedia.org/wiki/Under_the_Sign_of_Saturn", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Under_the_Sign_of_Saturn", "confidence": "high", "note": null},
+        {"type": "book", "title": "On Photography（《论摄影》，Farrar, Straus and Giroux，1977）", "url": "https://en.wikipedia.org/wiki/On_Photography", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/On_Photography", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "susumu-kitagawa",
+      "note": "北川进，京都大学化学家，2025 年诺贝尔化学奖得主（金属有机框架 MOF）",
+      "sources": [
+        {"type": "website", "title": "Susumu Kitagawa – Facts – 2025（NobelPrize.org）", "url": "https://www.nobelprize.org/prizes/chemistry/2025/kitagawa/facts/", "site": "nobelprize.org", "evidence": "https://www.nobelprize.org/prizes/chemistry/2025/kitagawa/facts/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Profile：Susumu Kitagawa（京都大学高等研究院 KUIAS）", "url": "https://kuias.kyoto-u.ac.jp/e/profile/kitagawa/", "site": "kuias.kyoto-u.ac.jp", "evidence": "https://kuias.kyoto-u.ac.jp/e/profile/kitagawa/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "suzi-travis",
+      "note": "神经科学家（昆士兰脑研究所博士）、科普作者",
+      "sources": [
+        {"type": "website", "title": "When Life Gives You a Brain（Suzi Travis 的 Substack Newsletter）", "url": "https://suzitravis.substack.com/", "site": "suzitravis.substack.com", "evidence": "https://suzitravis.substack.com/about", "confidence": "high", "note": null},
+        {"type": "website", "title": "Suzi Travis 个人网站", "url": "https://suzitravis.com/", "site": "suzitravis.com", "evidence": "https://suzitravis.com/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "sven-schnieders",
+      "note": "常居维也纳的博客作者、天使投资人，曾任职 AngelList",
+      "sources": [
+        {"type": "website", "title": "Unfashionable（Sven Schnieders 博客）", "url": "https://unfashionable.blog/", "site": "unfashionable.blog", "evidence": "https://unfashionable.blog/about/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Sven Schnieders 个人主页", "url": "https://svenschnieders.com/", "site": "svenschnieders.com", "evidence": "https://svenschnieders.com/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "swyx",
+      "note": "Shawn Wang（swyx），开发者、作者，Latent Space 主编",
+      "sources": [
+        {"type": "website", "title": "swyx's site（swyx 个人网站）", "url": "https://swyx.io/", "site": "swyx.io", "evidence": "https://swyx.io/about", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Coding Career Handbook（2020，现已开源）", "url": "https://learninpublic.org/", "site": "learninpublic.org", "evidence": "https://learninpublic.org/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "taylor-pearson",
+      "note": "美国作家、企业家",
+      "sources": [
+        {"type": "website", "title": "Taylor Pearson 个人网站", "url": "https://taylorpearson.me/about/", "site": "taylorpearson.me", "evidence": "https://taylorpearson.me/about/", "confidence": "high", "note": null},
+        {"type": "book", "title": "The End of Jobs: Money, Meaning and Freedom Without the 9-to-5（Lioncrest，2015）", "url": "https://www.goodreads.com/book/show/25827122-the-end-of-jobs", "site": "goodreads.com", "evidence": "https://lioncrest.com/books/the-end-of-jobs-taylor-pearson", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "ted-chiang",
+      "note": "姜峯楠，美国科幻作家，《纽约客》非虚构撰稿人",
+      "sources": [
+        {"type": "website", "title": "Ted Chiang（维基百科）", "url": "https://en.wikipedia.org/wiki/Ted_Chiang", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Ted_Chiang", "confidence": "high", "note": "作者无个人网站"},
+        {"type": "book", "title": "Stories of Your Life and Others（《你一生的故事》，Tor，2002）", "url": "https://en.wikipedia.org/wiki/Stories_of_Your_Life_and_Others", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Stories_of_Your_Life_and_Others", "confidence": "high", "note": null},
+        {"type": "book", "title": "Exhalation: Stories（《呼吸》，Knopf，2019）", "url": "https://en.wikipedia.org/wiki/Exhalation:_Stories", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Exhalation:_Stories", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "tempo",
+      "note": "「Tempo」并非作者，而是 Venkatesh Rao 在 Ribbonfarm 上的博客栏目名（也是他的著作书名）；对应文章 The Four Seasons of Lifehacking 的作者为 Venkatesh Rao",
+      "sources": [
+        {"type": "website", "title": "Venkatesh Rao 个人网站", "url": "https://venkateshrao.com/", "site": "venkateshrao.com", "evidence": "https://venkateshrao.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Ribbonfarm（Venkatesh Rao 创办的博客，现为存档站）", "url": "https://ribbonfarm.com/", "site": "ribbonfarm.com", "evidence": "https://ribbonfarm.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Tempo: Timing, Tactics and Strategy in Narrative-Driven Decision-Making（Ribbonfarm Inc，2011）", "url": "https://books.google.com/books/about/Tempo.html?id=otssKQEACAAJ", "site": "books.google.com", "evidence": "https://books.google.com/books/about/Tempo.html?id=otssKQEACAAJ", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "teppo-felin",
+      "note": "犹他州立大学 Huntsman 商学院教授，曾任牛津大学赛德商学院战略学教授",
+      "sources": [
+        {"type": "website", "title": "Teppo Felin 个人网站", "url": "https://teppofelin.com/", "site": "teppofelin.com", "evidence": "https://teppofelin.com/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Teppo Felin（维基百科）", "url": "https://en.wikipedia.org/wiki/Teppo_Felin", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Teppo_Felin", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "the-white-house",
+      "note": "机构；本批对应文章的实际演讲者为 CEA 主席 Stephen Miran",
+      "sources": [
+        {"type": "website", "title": "The White House 官网", "url": "https://www.whitehouse.gov/", "site": "whitehouse.gov", "evidence": "https://www.whitehouse.gov/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "theodore-levitt",
+      "note": "哈佛商学院教授（1925–2006），曾任《哈佛商业评论》主编",
+      "sources": [
+        {"type": "website", "title": "Theodore Levitt（维基百科）", "url": "https://en.wikipedia.org/wiki/Theodore_Levitt", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Theodore_Levitt", "confidence": "high", "note": null},
+        {"type": "article", "title": "Professor Theodore Levitt, legendary marketing scholar and former Harvard Business Review editor, dead at 81（Harvard Gazette）", "url": "https://news.harvard.edu/gazette/story/2006/07/professor-theodore-levitt-legendary-marketing-scholar-and-former-harvard-business-review-editor-dead-at-81/", "site": "news.harvard.edu", "evidence": "https://news.harvard.edu/gazette/story/2006/07/professor-theodore-levitt-legendary-marketing-scholar-and-former-harvard-business-review-editor-dead-at-81/", "confidence": "high", "note": "哈佛官方讣告，概述生平与代表作"}
+      ]
+    },
+    {
+      "author_id": "thom-hartmann",
+      "note": "美国电台主持人、作家，提出 ADHD 的「猎人与农夫」理论",
+      "sources": [
+        {"type": "website", "title": "Thom Hartmann 官方网站（ADHD 著作列表）", "url": "https://www.thomhartmann.com/adhd-books", "site": "thomhartmann.com", "evidence": "https://www.thomhartmann.com/adhd-books", "confidence": "high", "note": null},
+        {"type": "website", "title": "ADHD: Hunter in a Farmer's World with Thom Hartmann（Substack）", "url": "https://www.hunterinafarmersworld.com/", "site": "hunterinafarmersworld.com", "evidence": "https://www.hunterinafarmersworld.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "ADHD: A Hunter in a Farmer's World（Healing Arts Press，2019，《Attention Deficit Disorder: A Different Perception》修订第 3 版）", "url": "https://www.simonandschuster.com/books/ADHD/Thom-Hartmann/9781620558980", "site": "simonandschuster.com", "evidence": "https://www.simonandschuster.com/books/ADHD/Thom-Hartmann/9781620558980", "confidence": "high", "note": null}
+      ]
+    }
+  ]
+}

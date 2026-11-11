@@ -1,0 +1,397 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0045-c07",
+      "status": "found",
+      "note": "英文原题 Things You're Allowed To Do（2020-12-13 发布，2023-01-09 更新）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Things You're Allowed To Do",
+          "url": "https://milan.cvitkovic.net/things_youre_allowed_to_do/",
+          "site": "milan.cvitkovic.net",
+          "evidence": "https://milan.cvitkovic.net/things_youre_allowed_to_do/",
+          "confidence": "high",
+          "note": "开头“雇研究员帮我写这篇文章”及“hire 可换成 barter/DIY”与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0032-c06",
+      "status": "found",
+      "note": "英文原题 Little Ways The World Works（2022-07-20）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Little Ways The World Works",
+          "url": "https://collabfund.com/blog/little-ways-the-world-works/",
+          "site": "collabfund.com",
+          "evidence": "https://collabfund.com/blog/little-ways-the-world-works/",
+          "confidence": "high",
+          "note": "金鱼与科技公司、格拉斯哥大学研究的开头与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0053-c03",
+      "status": "found",
+      "note": "英文原题 The Art and Science of Spending Money（2023-01-12）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Art and Science of Spending Money",
+          "url": "https://collabfund.com/blog/the-art-and-science-of-spending-money/",
+          "site": "collabfund.com",
+          "evidence": "https://collabfund.com/blog/the-art-and-science-of-spending-money/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0076-c04",
+      "status": "found",
+      "note": "英文原题 Not Caring: A Unique and Powerful Skill（2019-02-28）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Not Caring: A Unique and Powerful Skill",
+          "url": "https://collabfund.com/blog/not-caring-a-unique-and-powerful-skill/",
+          "site": "collabfund.com",
+          "evidence": "https://collabfund.com/blog/not-caring-a-unique-and-powerful-skill/",
+          "confidence": "high",
+          "note": "克里希那穆提开头及四条“不在乎”小标题与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0066-c07",
+      "status": "found",
+      "note": "英文原题 How to find new spiritual practices（Psyche Guides），原书未标年份",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to find new spiritual practices",
+          "url": "https://psyche.co/guides/how-to-find-new-spiritual-practices-without-religion",
+          "site": "psyche.co",
+          "evidence": "https://psyche.co/guides/how-to-find-new-spiritual-practices-without-religion",
+          "confidence": "high",
+          "note": "作者 Morgan Shipley；Key points 前四条与摘录“观点高亮”逐条对应"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0019-c04",
+      "status": "found",
+      "note": "内容出自张忠谋 1998 年 9 月至 1999 年 1 月在交通大学管理学院开设的「经营管理专题」课程（共 12 堂），原书标注 2008 年疑有误；课程纪录收录于商业周刊出版的《器识：张忠谋打造「护国神山」台积电的经营之道》。未找到与本文逐字一致的单一中文整理稿",
+      "sources": [
+        {
+          "type": "article",
+          "title": "如何檢視領導者的好壞？張忠謀：決策上「尊重多數人」不是好現象（《器識》節錄，經理人）",
+          "url": "https://www.managertoday.com.tw/books/view/67411",
+          "site": "managertoday.com.tw",
+          "evidence": "https://www.managertoday.com.tw/books/view/67411",
+          "confidence": "medium",
+          "note": "1998 年交大课程「责任与领导」一课纪录，含“大部分成功的领导人都不是可爱的”“权力靠下属尊重而来”等要点；文末注明出自《器識》增订版"
+        },
+        {
+          "type": "article",
+          "title": "台积电创始人张忠谋眼中的“组织、管理与人才培养”",
+          "url": "https://news.qq.com/rain/a/20221124A00LFF00",
+          "site": "news.qq.com",
+          "evidence": "https://news.qq.com/rain/a/20221124A00LFF00",
+          "confidence": "medium",
+          "note": "《中欧商业评论》据同一课程精编的简体文章，含“最好的生涯规划，就是在每一个岗位上永远做自己有兴趣的事情”原句"
+        },
+        {
+          "type": "article",
+          "title": "選修張忠謀，學生「賺翻了」！（商業周刊第 567 期，1998-10-01）",
+          "url": "https://www.businessweekly.com.tw/Archive/Article?StrId=6587",
+          "site": "businessweekly.com.tw",
+          "evidence": "https://www.businessweekly.com.tw/Archive/Article?StrId=6587",
+          "confidence": "medium",
+          "note": "当年报道，佐证该课程的开设时间与背景"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Morris Chang"],
+        "evidence": "https://www.managertoday.com.tw/books/view/67411",
+        "note": "讲者为张忠谋本人，文字为课程纪录整理"
+      }
+    },
+    {
+      "article_id": "vol0094-c08",
+      "status": "found",
+      "note": "英文原题 How to Mark a Book，原载 The Saturday Review of Literature，1941-07-06",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How to Mark a Book（By Mortimer J. Adler, From The Saturday Review of Literature, July 6, 1941）",
+          "url": "https://www.thewritingcenter.info/adler",
+          "site": "thewritingcenter.info",
+          "evidence": "https://www.thewritingcenter.info/adler",
+          "confidence": "high",
+          "note": "全文转载页，标题、作者与刊期齐全；未找到杂志原刊在线页面"
+        },
+        {
+          "type": "article",
+          "title": "How to Mark a Book（PDF 转载）",
+          "url": "https://socrates.acadiau.ca/courses/engl/rcunningham/2022-23/sub/attach/Adler.pdf",
+          "site": "socrates.acadiau.ca",
+          "evidence": "https://socrates.acadiau.ca/courses/engl/rcunningham/2022-23/sub/attach/Adler.pdf",
+          "confidence": "high",
+          "note": "“拥有书籍的两种方式”“牛排”比喻与“三类藏书者”段落与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0062-c03",
+      "status": "found",
+      "note": "英文原题 My Rules of Thumb，原载 The American Economist 第 40 卷第 1 期（1996 年 3 月），原书标注 2019 年疑为转载/翻译年份",
+      "sources": [
+        {
+          "type": "article",
+          "title": "My Rules of Thumb（作者 PDF，哈佛个人页）",
+          "url": "https://scholar.harvard.edu/files/mankiw/files/my_rules_of_thumb.pdf",
+          "site": "scholar.harvard.edu",
+          "evidence": "https://scholar.harvard.edu/files/mankiw/files/my_rules_of_thumb.pdf",
+          "confidence": "high",
+          "note": "六条规则：Learn from the Right Mentors / Work With Good Co-Workers / Have Broad Interests / Allocate Time and Crew / Write Well / Have Fun，与摘录逐条对应"
+        },
+        {
+          "type": "paper",
+          "title": "My Rules of Thumb（The American Economist, 40(1), 14–19, 1996）",
+          "url": "https://doi.org/10.1177/056943459604000102",
+          "site": "doi.org",
+          "evidence": "https://ideas.repec.org/a/sae/amerec/v40y1996i1p14-19.html",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0020-c06",
+      "status": "found",
+      "note": "英文原题 How To Understand Things（2020-07-01）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How To Understand Things",
+          "url": "https://nabeelqu.co/understanding",
+          "site": "nabeelqu.co",
+          "evidence": "https://nabeelqu.co/understanding",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "article",
+          "title": "How To Understand Things（Substack 版）",
+          "url": "https://nabeelqu.substack.com/p/understanding",
+          "site": "nabeelqu.substack.com",
+          "evidence": "https://nabeelqu.substack.com/p/understanding",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0074-c06",
+      "status": "found",
+      "note": "英文原题 Understanding is a Poor Substitute for Convexity (Antifragility)，Edge 2012-12-12",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Understanding Is a Poor Substitute for Convexity (Antifragility)",
+          "url": "https://www.edge.org/conversation/nassim_nicholas_taleb-understanding-is-a-poor-substitute-for-convexity-antifragility",
+          "site": "edge.org",
+          "evidence": "https://www.edge.org/conversation/nassim_nicholas_taleb-understanding-is-a-poor-substitute-for-convexity-antifragility",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "paper",
+          "title": "Understanding is a Poor Substitute for Convexity (Antifragility)（作者网站 PDF）",
+          "url": "https://www.fooledbyrandomness.com/ConvexityScience.pdf",
+          "site": "fooledbyrandomness.com",
+          "evidence": "https://www.fooledbyrandomness.com/ConvexityScience.pdf",
+          "confidence": "medium",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0061-c07",
+      "status": "found",
+      "note": "英文原题 Half-assing it with everything you've got（2015-03-12，Replacing Guilt 系列首篇）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Half-assing it with everything you've got",
+          "url": "https://mindingourway.com/half-assing-it-with-everything-youve-got/",
+          "site": "mindingourway.com",
+          "evidence": "https://mindingourway.com/half-assing-it-with-everything-youve-got/",
+          "confidence": "high",
+          "note": "高效利他主义者、内疚与羞耻的开头及大学论文例子与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0023-c06",
+      "status": "found",
+      "note": "英文原题 The ladders of wealth creation: a step-by-step roadmap to building wealth（2019 年 12 月）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The ladders of wealth creation: a step-by-step roadmap to building wealth",
+          "url": "https://nathanbarry.com/wealth-creation/",
+          "site": "nathanbarry.com",
+          "evidence": "https://nathanbarry.com/wealth-creation/",
+          "confidence": "high",
+          "note": "Jason Fried“赚钱是一种技能”及 Wendy's 到 SaaS 的开头与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "book-68d985-c12",
+      "status": "found",
+      "note": "与 vol0023-c06 为同一篇：The ladders of wealth creation，“8 条建议”即文末 8 Principles of Wealth Creation",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The ladders of wealth creation: a step-by-step roadmap to building wealth",
+          "url": "https://nathanbarry.com/wealth-creation/",
+          "site": "nathanbarry.com",
+          "evidence": "https://nathanbarry.com/wealth-creation/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "milan-cvitkovic",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Milan Cvitkovic 个人网站（文章归档）", "url": "https://milan.cvitkovic.net/archive/", "site": "milan.cvitkovic.net", "evidence": "https://milan.cvitkovic.net/archive/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "monica-l-smith",
+      "note": "UCLA 人类学教授、考古学家",
+      "sources": [
+        {"type": "book", "title": "Cities: The First 6,000 Years（《城市：最初的6000年》，Viking，2019）", "url": "https://anthro.ucla.edu/publication/cities-the-first-6000-years/", "site": "anthro.ucla.edu", "evidence": "https://anthro.ucla.edu/publication/cities-the-first-6000-years/", "confidence": "high", "note": "UCLA 人类学系出版物页，含作者简介"},
+        {"type": "speech", "title": "Monica L. Smith: Cities: The First 6,000 Years（Long Now 演讲，2019）", "url": "https://longnow.org/talks/02019-smith/", "site": "longnow.org", "evidence": "https://longnow.org/talks/02019-smith/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "morgan-housel",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Morgan Housel 在 Collaborative Fund 的文章页", "url": "https://collabfund.com/blog/authors/morgan/", "site": "collabfund.com", "evidence": "https://collabfund.com/blog/authors/morgan/", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Psychology of Money（《金钱心理学》，Harriman House，2020）", "url": "https://www.harriman-house.com/authors/morgan-housel/the-psychology-of-money/9780857197689", "site": "harriman-house.com", "evidence": "https://www.harriman-house.com/authors/morgan-housel/the-psychology-of-money/9780857197689", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "morgan-shipley",
+      "note": "密歇根州立大学宗教学系主任、Foglio 灵性讲席教授",
+      "sources": [
+        {"type": "website", "title": "Morgan Shipley 教师主页（Michigan State University）", "url": "https://directory.cal.msu.edu/shiple18/", "site": "directory.cal.msu.edu", "evidence": "https://directory.cal.msu.edu/shiple18/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Psychedelic Mysticism: Transforming Consciousness, Religious Experiences, and Voluntary Peasants in Postwar America（Lexington Books，2015）", "url": "https://www.bloomsbury.com/us/psychedelic-mysticism-9781498509091/", "site": "bloomsbury.com", "evidence": "https://www.bloomsbury.com/us/psychedelic-mysticism-9781498509091/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "morris-chang",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Morris Chang（维基百科）", "url": "https://en.wikipedia.org/wiki/Morris_Chang", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Morris_Chang", "confidence": "high", "note": null},
+        {"type": "book", "title": "器識：張忠謀打造「護國神山」台積電的經營之道（增訂版，商業周刊）", "url": null, "site": null, "evidence": "https://www.managertoday.com.tw/books/view/67411", "confidence": "medium", "note": "收录张忠谋 1998 年交大经营管理课程纪录；只在节录页文末见到书名，未找到书籍信息页"}
+      ]
+    },
+    {
+      "author_id": "mortimer-j-adler",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Mortimer J. Adler（维基百科）", "url": "https://en.wikipedia.org/wiki/Mortimer_J._Adler", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Mortimer_J._Adler", "confidence": "high", "note": null},
+        {"type": "book", "title": "How to Read a Book（《如何阅读一本书》，1940；1972 年与 Charles Van Doren 合著修订版）", "url": "https://en.wikipedia.org/wiki/How_to_Read_a_Book", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/How_to_Read_a_Book", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "mrcbarbier",
+      "note": "LessWrong 用户名；自述为物理学出身的理论生态学家",
+      "sources": [
+        {"type": "social", "title": "mrcbarbier 的 LessWrong 主页", "url": "https://www.lesswrong.com/users/mrcbarbier", "site": "lesswrong.com", "evidence": "https://www.lesswrong.com/users/mrcbarbier", "confidence": "high", "note": "主页列出 Ritual as the only tool for overwriting values and goals（2023-01-04），即《仪式是塑造价值观的唯一工具》原文"},
+        {"type": "article", "title": "Ritual as the only tool for overwriting values and goals", "url": "https://www.lesswrong.com/posts/JStywufxwQzeubDcX/ritual-as-the-only-tool-for-overwriting-values-and-goals", "site": "lesswrong.com", "evidence": "https://www.lesswrong.com/posts/JStywufxwQzeubDcX/ritual-as-the-only-tool-for-overwriting-values-and-goals", "confidence": "medium", "note": "代表作；按标题推断对应，未与该篇中文摘录逐句核对"}
+      ]
+    },
+    {
+      "author_id": "murray-gell-mann",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Murray Gell-Mann（维基百科）", "url": "https://en.wikipedia.org/wiki/Murray_Gell-Mann", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/Murray_Gell-Mann", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Quark and the Jaguar: Adventures in the Simple and the Complex（《夸克与美洲豹》，1994；SFI Press 2023 新版）", "url": "https://www.sfipress.org/books/the-quark-and-the-jaguar", "site": "sfipress.org", "evidence": "https://www.sfipress.org/books/the-quark-and-the-jaguar", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "n-gregory-mankiw",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Greg Mankiw's Blog", "url": "http://gregmankiw.blogspot.com/", "site": "gregmankiw.blogspot.com", "evidence": "http://gregmankiw.blogspot.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Principles of Economics（《经济学原理》，Cengage，第 11 版）", "url": "https://www.cengageasia.com/title/default/detail?isbn=9798214050348", "site": "cengageasia.com", "evidence": "https://www.cengageasia.com/title/default/detail?isbn=9798214050348", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "nabeel-qureshi",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Nabeel S. Qureshi 个人网站", "url": "https://nabeelqu.co/", "site": "nabeelqu.co", "evidence": "https://nabeelqu.co/", "confidence": "high", "note": null},
+        {"type": "website", "title": "Nabeel S. Qureshi 的 Substack", "url": "https://nabeelqu.substack.com/p/understanding", "site": "nabeelqu.substack.com", "evidence": "https://nabeelqu.substack.com/p/understanding", "confidence": "medium", "note": "Substack 文章页，作者 Newsletter 入口"}
+      ]
+    },
+    {
+      "author_id": "nadia-asparouhova",
+      "note": "曾用名 Nadia Eghbal",
+      "sources": [
+        {"type": "website", "title": "Nadia Asparouhova 个人网站", "url": "https://nadia.xyz/", "site": "nadia.xyz", "evidence": "https://nadia.xyz/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Working in Public: The Making and Maintenance of Open Source Software（Stripe Press）", "url": null, "site": null, "evidence": "https://nadia.xyz/", "confidence": "high", "note": "个人网站 Books 一栏列出"},
+        {"type": "book", "title": "Antimemetics: Why Some Ideas Resist Spreading（Dark Forest Collective，2025）", "url": "https://darkforest.metalabel.com/antimemetics?variantId=1", "site": "darkforest.metalabel.com", "evidence": "https://darkforest.metalabel.com/antimemetics?variantId=1", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "nassim-taleb",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Nassim Nicholas Taleb Home & Professional Page", "url": "https://fooledbyrandomness.com/", "site": "fooledbyrandomness.com", "evidence": "https://fooledbyrandomness.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Antifragile: Things That Gain From Disorder（《反脆弱》，Random House，2012）", "url": null, "site": null, "evidence": "https://www.fooledbyrandomness.com/CV.htm", "confidence": "high", "note": "作者 CV 书目所列；另有 The Black Swan（《黑天鹅》）等 Incerto 系列"}
+      ]
+    },
+    {
+      "author_id": "nate-soares",
+      "note": null,
+      "sources": [
+        {"type": "website", "title": "Minding Our Way（Nate Soares 博客）——Replacing Guilt 系列", "url": "https://mindingourway.com/guilt/", "site": "mindingourway.com", "evidence": "https://mindingourway.com/guilt/", "confidence": "high", "note": "该系列另有实体书、电子书和有声书"}
+      ]
+    },
+    {
+      "author_id": "nathan-barry",
+      "note": "Kit（原 ConvertKit）创始人",
+      "sources": [
+        {"type": "website", "title": "Nathan Barry 个人网站", "url": "https://nathanbarry.com/", "site": "nathanbarry.com", "evidence": "https://nathanbarry.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Authority（自出版电子书，2013）", "url": "https://nathanbarry.com/books-and-products/", "site": "nathanbarry.com", "evidence": "https://nathanbarry.com/books-and-products/", "confidence": "high", "note": null}
+      ]
+    }
+  ]
+}

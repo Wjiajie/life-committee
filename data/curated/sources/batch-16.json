@@ -1,0 +1,301 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0073-c06",
+      "status": "found",
+      "note": "英文原题 Destruction and Creation（John R. Boyd，1976-09-03 论文）",
+      "sources": [
+        {
+          "type": "paper",
+          "title": "Destruction and Creation",
+          "url": "https://www.coljohnboyd.com/documents/1976-09-03__Boyd_John_R__Destruction_and_Creation__WORD-PDF.pdf",
+          "site": "coljohnboyd.com",
+          "evidence": "https://www.coljohnboyd.com/documents/1976-09-03__Boyd_John_R__Destruction_and_Creation__WORD-PDF.pdf",
+          "confidence": "high",
+          "note": "Colonel John Boyd 数字档案馆收录的全文 PDF，开篇摘要与摘录「理解并适应环境→形成思维模式→破坏与创造」一致"
+        },
+        {
+          "type": "paper",
+          "title": "Destruction and Creation（美国海军陆战队大学 Boyd 档案扫描件）",
+          "url": "https://www.usmcu.edu/Portals/218/HD/Digitized%20Collections/COLL_2062%20John%20Boyd/COLL%202062_John%20Boyd_Box%204/109961-Destruction%20and%20Creation%20with%20applied%20edits%203%20September%201976.PDF?ver=MadNfIqsTHg4r934KJdFBg%3D%3D",
+          "site": "usmcu.edu",
+          "evidence": "https://www.usmcu.edu/Portals/218/HD/Digitized%20Collections/COLL_2062%20John%20Boyd/COLL%202062_John%20Boyd_Box%204/109961-Destruction%20and%20Creation%20with%20applied%20edits%203%20September%201976.PDF?ver=MadNfIqsTHg4r934KJdFBg%3D%3D",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0044-c03",
+      "status": "found",
+      "note": "英文原题 How Casinos Enable Gambling Addicts（The Atlantic，2016 年 12 月刊）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "How Casinos Enable Gambling Addicts",
+          "url": "https://www.theatlantic.com/magazine/archive/2016/12/losing-it-all/505814/",
+          "site": "theatlantic.com",
+          "evidence": "https://www.theatlantic.com/magazine/archive/2016/12/losing-it-all/505814/",
+          "confidence": "high",
+          "note": "搜索结果显示标题、作者 John Rosengren 与 2016 年 12 月刊；正文围绕 Scott Stevens，与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "How Casinos Enable Gambling Addicts（作者网站转载）",
+          "url": "https://johnrosengren.net/how-casinos-enable-gambling-addicts/",
+          "site": "johnrosengren.net",
+          "evidence": "https://johnrosengren.net/how-casinos-enable-gambling-addicts/",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0025-c05",
+      "status": "found",
+      "note": "英文原题 The Hidden Traps in Decision Making（Harvard Business Review，1998 年 9–10 月刊，2006 年 1 月重刊）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Hidden Traps in Decision Making",
+          "url": "https://hbr.org/1998/09/the-hidden-traps-in-decision-making-2",
+          "site": "hbr.org",
+          "evidence": "https://hbr.org/1998/09/the-hidden-traps-in-decision-making-2",
+          "confidence": "high",
+          "note": "开篇「Making decisions is the most important job of any executive...」与摘录逐句对应"
+        },
+        {
+          "type": "article",
+          "title": "The Hidden Traps in Decision Making（HBR Classic，2006 年 1 月重刊）",
+          "url": "https://hbr.org/2006/01/the-hidden-traps-in-decision-making",
+          "site": "hbr.org",
+          "evidence": "https://hbr.org/2006/01/the-hidden-traps-in-decision-making",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["John S. Hammond", "Ralph L. Keeney", "Howard Raiffa"],
+        "evidence": "https://hbr.org/1998/09/the-hidden-traps-in-decision-making-2",
+        "note": "John S. Hammond 归属正确，但原文为三人合著，原书只标注了第一作者"
+      }
+    },
+    {
+      "article_id": "vol0039-c07",
+      "status": "found",
+      "note": "英文原题 Reality has a surprising amount of detail（2017-05-13，作者博客）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Reality has a surprising amount of detail",
+          "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+          "site": "johnsalvatier.org",
+          "evidence": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+          "confidence": "high",
+          "note": "开篇父亲从哥伦比亚移民、建造楼梯的段落与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "Reality has a surprising amount of detail（LessWrong 链接帖）",
+          "url": "https://www.lesswrong.com/posts/hBPkwBZoMwRdcsCoo/reality-has-a-surprising-amount-of-detail",
+          "site": "lesswrong.com",
+          "evidence": "https://www.lesswrong.com/posts/hBPkwBZoMwRdcsCoo/reality-has-a-surprising-amount-of-detail",
+          "confidence": "high",
+          "note": null
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0050-c05",
+      "status": "found",
+      "note": "英文原题 Do You Suffer From Decision Fatigue?（The New York Times Magazine，2011-08-17）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Do You Suffer From Decision Fatigue?",
+          "url": "https://www.nytimes.com/2011/08/21/magazine/do-you-suffer-from-decision-fatigue.html",
+          "site": "nytimes.com",
+          "evidence": "https://www.nytimes.com/2011/08/21/magazine/do-you-suffer-from-decision-fatigue.html",
+          "confidence": "high",
+          "note": "正文「Decision fatigue helps explain why ordinarily sensible people get angry at colleagues and families, splurge on clothes, buy junk food...」与摘录对应"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0060-c04",
+      "status": "found",
+      "note": "英文原题 Everything I Knew About Reading Was Wrong（HackerNoon，2018）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Everything I Knew About Reading Was Wrong",
+          "url": "https://hackernoon.com/everything-i-knew-about-reading-was-wrong-bde7e57fbfdc",
+          "site": "hackernoon.com",
+          "evidence": "https://hackernoon.com/everything-i-knew-about-reading-was-wrong-bde7e57fbfdc",
+          "confidence": "high",
+          "note": "文章以 Naval Ravikant 的阅读方法为主线，与摘录一致；页面署名为「Johnny」"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Johnny Uzan"],
+        "evidence": "https://medium.com/@Johnny_Uzan",
+        "note": "HackerNoon 页面只署名「Johnny」；其 Medium 主页（@Johnny_Uzan）列出同一篇文章，自我介绍一致（Writer, Programmer, Poker Player），确认为 Johnny Uzan"
+      }
+    },
+    {
+      "article_id": "vol0081-c07",
+      "status": "found",
+      "note": "英文原题 Why your consciousness depends on the low-entropy early Universe（Psyche，2021）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "Why your consciousness depends on the low-entropy early Universe",
+          "url": "https://psyche.co/ideas/why-your-consciousness-depends-on-the-low-entropy-early-universe",
+          "site": "psyche.co",
+          "evidence": "https://psyche.co/ideas/why-your-consciousness-depends-on-the-low-entropy-early-universe",
+          "confidence": "high",
+          "note": "开篇梅林、本杰明·巴顿与时间倒流双胞胎的段落与摘录逐句对应"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0058-c05",
+      "status": "found",
+      "note": "英文原题 The Art of Decision-Making（The New Yorker，2019-01-21 期）",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Art of Decision-Making",
+          "url": "https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making",
+          "site": "newyorker.com",
+          "evidence": "https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making",
+          "confidence": "high",
+          "note": "内容涉及达尔文婚姻清单、富兰克林 Prudential Algebra 与作者成为父亲，与摘录一致"
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "john-r-boyd",
+      "note": "美国空军上校、军事战略家（1927–1997），OODA 循环提出者；已故，无个人网站",
+      "sources": [
+        {"type": "website", "title": "Colonel John Boyd 数字档案馆", "url": "https://www.coljohnboyd.com/static/documents/1976-09-03__Boyd_John_R__Destruction_and_Creation.pdf", "site": "coljohnboyd.com", "evidence": "https://www.coljohnboyd.com/static/documents/1976-09-03__Boyd_John_R__Destruction_and_Creation.pdf", "confidence": "medium", "note": "档案馆中 Destruction and Creation 条目页，可由此浏览 Boyd 的其他论文与简报"},
+        {"type": "website", "title": "John Boyd (military strategist) - Wikipedia", "url": "https://en.wikipedia.org/wiki/John_Boyd_%28military_strategist%29", "site": "en.wikipedia.org", "evidence": "https://en.wikipedia.org/wiki/John_Boyd_%28military_strategist%29", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "john-rosengren",
+      "note": "明尼阿波利斯的自由撰稿记者与作家",
+      "sources": [
+        {"type": "website", "title": "John Rosengren 个人网站", "url": "https://johnrosengren.net/", "site": "johnrosengren.net", "evidence": "https://johnrosengren.net/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Hank Greenberg: The Hero of Heroes（New American Library，2013）", "url": "https://johnrosengren.net/books/hank-greenberg-hero-heros/", "site": "johnrosengren.net", "evidence": "https://johnrosengren.net/books/hank-greenberg-hero-heros/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "john-s-hammond",
+      "note": "决策咨询顾问、前哈佛商学院教授（1937–2018）",
+      "sources": [
+        {"type": "book", "title": "Smart Choices: A Practical Guide to Making Better Decisions（《聪明抉择》，与 Ralph L. Keeney、Howard Raiffa 合著，Harvard Business School Press，1999）", "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=14579", "site": "hbs.edu", "evidence": "https://www.hbs.edu/faculty/Pages/item.aspx?num=14579", "confidence": "high", "note": null},
+        {"type": "website", "title": "約翰．哈默德 John S. Hammond（哈佛商業評論繁體中文版作者页）", "url": "https://www.hbrtaiwan.com/author/3523/john-s-hammond", "site": "hbrtaiwan.com", "evidence": "https://www.hbrtaiwan.com/author/3523/john-s-hammond", "confidence": "medium", "note": null}
+      ]
+    },
+    {
+      "author_id": "john-salvatier",
+      "note": "AI Impacts 研究员，PyMC3 主要作者",
+      "sources": [
+        {"type": "website", "title": "John Salvatier 个人网站", "url": "http://johnsalvatier.org/", "site": "johnsalvatier.org", "evidence": "http://johnsalvatier.org/", "confidence": "high", "note": null},
+        {"type": "website", "title": "John Salvatier 博客", "url": "https://johnsalvatier.org/blog/", "site": "johnsalvatier.org", "evidence": "https://johnsalvatier.org/blog/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "john-tierney",
+      "note": "科学记者，前《纽约时报》专栏作家，City Journal 特约编辑",
+      "sources": [
+        {"type": "website", "title": "John Tierney | City Journal 作者页", "url": "https://www.city-journal.org/person/john-tierney", "site": "city-journal.org", "evidence": "https://www.city-journal.org/person/john-tierney", "confidence": "high", "note": null},
+        {"type": "book", "title": "Willpower: Rediscovering the Greatest Human Strength（《意志力》，与 Roy F. Baumeister 合著，Penguin Press，2011）", "url": null, "site": null, "evidence": "https://www.city-journal.org/person/john-tierney", "confidence": "medium", "note": "未找到单独的书籍页面"},
+        {"type": "book", "title": "The Power of Bad: How the Negativity Effect Rules Us and How We Can Rule It（与 Roy F. Baumeister 合著，Penguin Press，2019）", "url": "https://manhattan.institute/book/the-power-of-bad", "site": "manhattan.institute", "evidence": "https://manhattan.institute/book/the-power-of-bad", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "johnny-uzan",
+      "note": "Medium / HackerNoon 写作者，自述 Writer, Programmer, Poker Player",
+      "sources": [
+        {"type": "website", "title": "Johnny（Johnny Uzan）的 Medium 主页", "url": "https://medium.com/@Johnny_Uzan", "site": "medium.com", "evidence": "https://medium.com/@Johnny_Uzan", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "jon-ronson",
+      "note": "英国记者、纪实作家",
+      "sources": [
+        {"type": "website", "title": "Jon Ronson 个人网站", "url": "https://jonronson.com/", "site": "jonronson.com", "evidence": "https://jonronson.com/", "confidence": "high", "note": null},
+        {"type": "book", "title": "So You've Been Publicly Shamed（《千夫所指》，2015）", "url": "https://jonronson.com/book/so-youve-been-publicly-shamed/", "site": "jonronson.com", "evidence": "https://jonronson.com/book/so-youve-been-publicly-shamed/", "confidence": "high", "note": "中文译名为常见译名，未逐一核对出版信息"}
+      ]
+    },
+    {
+      "author_id": "jonathan-rowson",
+      "note": "国际象棋特级大师、哲学家，Perspectiva 联合创始人",
+      "sources": [
+        {"type": "website", "title": "Jonathan Rowson 个人网站", "url": "https://www.jonathanrowson.me/bio", "site": "jonathanrowson.me", "evidence": "https://www.jonathanrowson.me/bio", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Moves That Matter: A Chess Grandmaster on the Game of Life（Bloomsbury，2019）", "url": "https://www.jonathanrowson.me/moves-that-matter", "site": "jonathanrowson.me", "evidence": "https://www.jonathanrowson.me/moves-that-matter", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "jonathan-simon",
+      "note": "蒙特利尔大学哲学系助理教授",
+      "sources": [
+        {"type": "website", "title": "Jonathan Simon 个人网站（Publications）", "url": "https://jonsimon.net/publications/", "site": "jonsimon.net", "evidence": "https://jonsimon.net/publications/", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "jordan-fisher-smith",
+      "note": "前公园与荒野护林员，自然写作作家",
+      "sources": [
+        {"type": "website", "title": "Jordan Fisher Smith 个人网站", "url": "https://jordanfishersmith.com/bio/", "site": "jordanfishersmith.com", "evidence": "https://jordanfishersmith.com/bio/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Nature Noir: A Park Ranger's Patrol in the Sierra（Houghton Mifflin Harcourt，2005）", "url": "https://jordanfishersmith.com/books/", "site": "jordanfishersmith.com", "evidence": "https://www.dijkstraagency.com/author-page.php?auth_id=Fisher+Smith", "confidence": "high", "note": null},
+        {"type": "book", "title": "Engineering Eden: The True Story of a Violent Death, a Trial, and the Fight Over Controlling Nature（Crown，2016）", "url": "https://jordanfishersmith.com/books/", "site": "jordanfishersmith.com", "evidence": "https://www.dijkstraagency.com/author-page.php?auth_id=Fisher+Smith", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "jordan-hall",
+      "note": "原名 Jordan Greenhall，DivX 联合创始人，Game B 发起人之一",
+      "sources": [
+        {"type": "website", "title": "Deep Code（Jordan Hall 主编的 Medium 刊物）", "url": "https://medium.com/deep-code", "site": "medium.com", "evidence": "https://medium.com/deep-code", "confidence": "high", "note": null},
+        {"type": "website", "title": "Jordan Hall 的 Medium 主页", "url": "https://medium.com/@jordangreenhall", "site": "medium.com", "evidence": "https://medium.com/@jordangreenhall", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "joseph-brodsky",
+      "note": "俄裔美国诗人、散文家（1940–1996），1987 年诺贝尔文学奖得主",
+      "sources": [
+        {"type": "website", "title": "Joseph Brodsky – Facts - NobelPrize.org", "url": "https://www.nobelprize.org/prizes/literature/1987/brodsky/facts/", "site": "nobelprize.org", "evidence": "https://www.nobelprize.org/prizes/literature/1987/brodsky/facts/", "confidence": "high", "note": null},
+        {"type": "book", "title": "Less Than One: Selected Essays（《小于一》，Farrar, Straus and Giroux，1986；中译本黄灿然译）", "url": "https://book.douban.com/subject/35217663", "site": "book.douban.com", "evidence": "https://book.douban.com/subject/35217663", "confidence": "high", "note": null}
+      ]
+    },
+    {
+      "author_id": "joseph-henrich",
+      "note": "哈佛大学人类进化生物学教授",
+      "sources": [
+        {"type": "website", "title": "Joseph Henrich 个人主页（哈佛）", "url": "https://henrich.fas.harvard.edu/about", "site": "henrich.fas.harvard.edu", "evidence": "https://henrich.fas.harvard.edu/about", "confidence": "high", "note": null},
+        {"type": "book", "title": "The Secret of Our Success（《人类成功统治地球的秘密》，Princeton University Press，2016）", "url": null, "site": null, "evidence": "https://henrich.fas.harvard.edu/about", "confidence": "medium", "note": "中文译名为常见译名，未逐一核对出版信息"},
+        {"type": "book", "title": "The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous（Farrar, Straus and Giroux，2020）", "url": "https://heb.fas.harvard.edu/books", "site": "heb.fas.harvard.edu", "evidence": "https://heb.fas.harvard.edu/books", "confidence": "high", "note": "中文译名未核实，暂不填写"}
+      ]
+    },
+    {
+      "author_id": "joshua-rothman",
+      "note": "《纽约客》特约撰稿人，撰写每周专栏 Open Questions",
+      "sources": [
+        {"type": "website", "title": "Joshua Rothman | The New Yorker 作者页", "url": "https://www.newyorker.com/contributors/joshua-rothman", "site": "newyorker.com", "evidence": "https://www.newyorker.com/contributors/joshua-rothman", "confidence": "high", "note": null},
+        {"type": "website", "title": "Open Questions（Joshua Rothman 的《纽约客》每周专栏）", "url": "https://www.newyorker.com/culture/open-questions", "site": "newyorker.com", "evidence": "https://www.newyorker.com/culture/open-questions", "confidence": "high", "note": null}
+      ]
+    }
+  ]
+}

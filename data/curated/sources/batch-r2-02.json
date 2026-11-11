@@ -1,0 +1,398 @@
+{
+  "articles": [
+    {
+      "article_id": "vol0022-c06",
+      "status": "found",
+      "note": "英文原题 6 Harsh Truths That Will Make You a Better Person，Cracked.com，2012-12-17，署名为 Jason Pargin 的笔名 David Wong。cracked.com 原链接现已 404，给出 Wayback Machine 存档页。",
+      "sources": [
+        {
+          "type": "article",
+          "title": "6 Harsh Truths That Will Make You a Better Person",
+          "url": "https://web.archive.org/web/20121229235022/https:/www.cracked.com/blog/6-harsh-truths-that-will-make-you-better-person",
+          "site": "cracked.com（Wayback Machine 存档）",
+          "evidence": "https://web.archive.org/web/20121229235022/https:/www.cracked.com/blog/6-harsh-truths-that-will-make-you-better-person",
+          "confidence": "high",
+          "note": "存档页显示标题、署名 David Wong、日期 December 17, 2012，开头与摘录（列举五件令人印象深刻的事、1995 年、#6 The World Only Cares About What It Can Get from You）一致；原站 https://www.cracked.com/blog/6-harsh-truths-that-will-make-you-better-person 实测 404"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Jason Pargin"],
+        "evidence": "https://jasonpargin.substack.com/p/i-was-david-wong",
+        "note": "原文署名 David Wong；Jason Pargin 在其 Newsletter《I was David Wong》中确认 David Wong 是他在 Cracked 的笔名，并点名此文是他写的"
+      }
+    },
+    {
+      "article_id": "vol0022-c07",
+      "status": "found",
+      "note": "英文原题 How Linear builds product，Lenny's Newsletter「How they build product」系列，2023-09-26；由 Lenny Rachitsky 发布，正文为 Karri Saarinen 的问答。",
+      "sources": [
+        {
+          "type": "interview",
+          "title": "How Linear builds product",
+          "url": "https://www.lennysnewsletter.com/p/how-linear-builds-product",
+          "site": "lennysnewsletter.com",
+          "evidence": "https://www.lennysnewsletter.com/p/how-linear-builds-product",
+          "confidence": "high",
+          "note": "已打开核对：副标题 Karri Saarinen, co-founder and CEO, on taste over metrics...；列出的无 PM、无 A/B 测试、项目制团队、1-5 天付费试用等要点与摘录一致；部分内容付费"
+        }
+      ],
+      "author_check": {
+        "status": "confirmed",
+        "authors": ["Karri Saarinen"],
+        "evidence": "https://www.lennysnewsletter.com/p/how-linear-builds-product",
+        "note": "页面署名 Lenny Rachitsky（Newsletter 作者兼访谈者），正文回答部分署名 Karri Saarinen, co-founder and CEO；内容主体归属 Karri Saarinen 合理"
+      }
+    },
+    {
+      "article_id": "vol0004-c07",
+      "status": "found",
+      "note": "英文原题 21 Questions from Aussie Startups: Highs, lows & lessons learned during Canva's journey so far (Part 1)，2018-01-14；原文首发于 Medium 的 Canva 专栏，Canva 官网 Newsroom 有同文。正文中的 canva.com/design 链接是文中嵌入的设计稿，并非出处。",
+      "sources": [
+        {
+          "type": "article",
+          "title": "21 Questions from Aussie Startups: Highs, lows & lessons learned during Canva's journey so far [Part 1]",
+          "url": "https://medium.com/canva/21-questions-from-aussie-startups-highs-lows-lessons-learned-during-canvas-journey-so-far-da07723ff545",
+          "site": "medium.com（Canva 专栏）",
+          "evidence": "https://medium.com/canva/21-questions-from-aussie-startups-highs-lows-lessons-learned-during-canvas-journey-so-far-da07723ff545",
+          "confidence": "high",
+          "note": "页面标题 by Melanie Perkins，日期 Jan 14, 2018，开头提到在 Sydney Startups 论坛提问，与摘录一致"
+        },
+        {
+          "type": "article",
+          "title": "21 Questions from Aussie Startups: Highs, lows & lessons learned during Canva's journey so far (Part 1)",
+          "url": "https://www.canva.com/newsroom/news/melanie-perkins-21-questions-part-1/",
+          "site": "canva.com",
+          "evidence": "https://www.canva.com/newsroom/news/melanie-perkins-21-questions-part-1/",
+          "confidence": "high",
+          "note": "Canva 官方 Newsroom 转载的同一篇文章"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0054-c06",
+      "status": "found",
+      "note": "英文原题 The Garden and the Stream: A Technopastoral，作者博客 Hapgood，2015-10-17；原为 2015 年 10 月 16 日在斯坦福 dLRN 2015 会议的开幕主题演讲。",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Garden and the Stream: A Technopastoral",
+          "url": "https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/",
+          "site": "hapgood.us",
+          "evidence": "https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/",
+          "confidence": "high",
+          "note": "已打开核对：标题、日期 October 17, 2015，页面注明 Opening keynote for dLRN 2015；Hapgood 是 Mike Caulfield 的博客"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0047-c03",
+      "status": "found",
+      "note": "英文原题 Time Management，Randy Pausch 2007-11-27 在弗吉尼亚大学（Old Cabell Hall）的演讲。正文所附 B 站视频是转载，以下给出 Pausch 在 CMU 个人主页的官方视频/文字稿入口。",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "Randy Pausch – Time Management（英文文字稿，University of Virginia，2007-11-27）",
+          "url": "https://www.cs.cmu.edu/~pausch/Randy/Randy/TMenglishTranscript.pdf",
+          "site": "cs.cmu.edu",
+          "evidence": "https://www.cs.cmu.edu/~pausch/Randy/Randy/TMenglishTranscript.pdf",
+          "confidence": "high",
+          "note": "文字稿首页写明 Given at the University of Virginia, Tuesday, November 27th, 2007, Old Cabell Hall Auditorium，© Randy Pausch"
+        },
+        {
+          "type": "speech",
+          "title": "Time Management（Randy Pausch 主页上的演讲页：视频、幻灯片、文字稿）",
+          "url": "https://www.cs.cmu.edu/~pausch/Randy/Randy/timemanagement.html",
+          "site": "cs.cmu.edu",
+          "evidence": "https://www.cs.cmu.edu/~pausch/Randy/Randy/timemanagement.html",
+          "confidence": "medium",
+          "note": "搜索结果中的页面正文为 Pausch 第一人称介绍其 Time Management Lecture 的视频、幻灯片和英德文字稿"
+        },
+        {
+          "type": "video",
+          "title": "\"Time Management\" by Randy Pausch, November 2007",
+          "url": "https://www.youtube.com/watch?v=blaK_tB_KQA",
+          "site": "youtube.com",
+          "evidence": "https://www.youtube.com/watch?v=blaK_tB_KQA",
+          "confidence": "medium",
+          "note": "视频字幕开头为弗吉尼亚大学主持人 Gabriel Robins 介绍 Randy Pausch；Internet Archive 同名条目注明由 Gabriel Robins 主办并上传"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0048-c03",
+      "status": "found",
+      "note": "英文原题 Really Achieving Your Childhood Dreams（即「最后一课」The Last Lecture），2007-09-18 在卡内基梅隆大学 McConomy Auditorium 的演讲。",
+      "sources": [
+        {
+          "type": "speech",
+          "title": "Randy Pausch's Last Lecture: Really Achieving Your Childhood Dreams（官方文字稿）",
+          "url": "http://www.cs.cmu.edu/~pausch/Randy/pauschlastlecturetranscript.pdf",
+          "site": "cs.cmu.edu",
+          "evidence": "http://www.cs.cmu.edu/~pausch/Randy/pauschlastlecturetranscript.pdf",
+          "confidence": "high",
+          "note": "文字稿首页写明 Given at Carnegie Mellon University, Tuesday, September 18, 2007, McConomy Auditorium；结尾的 head fake（It's not about how to achieve your dreams. It's about how to lead your life.）与推荐语引文一致"
+        },
+        {
+          "type": "video",
+          "title": "Randy Pausch: Childhood Dreams Lecture",
+          "url": "https://www.cmu.edu/homepage/multimedia/randy-pausch-lecture.shtml",
+          "site": "cmu.edu",
+          "evidence": "https://www.cmu.edu/homepage/multimedia/randy-pausch-lecture.shtml",
+          "confidence": "medium",
+          "note": "卡内基梅隆大学官网的演讲视频页，介绍 2007-09-18 的 Really Achieving Your Childhood Dreams"
+        },
+        {
+          "type": "video",
+          "title": "The Last Lecture（CMU Entertainment Technology Center，含重制版视频）",
+          "url": "https://etc.cmu.edu/about/last-lecture",
+          "site": "etc.cmu.edu",
+          "evidence": "https://etc.cmu.edu/about/last-lecture",
+          "confidence": "medium",
+          "note": "Pausch 联合创办的 CMU ETC 官方页面，提供重制版演讲视频"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0081-c06",
+      "status": "found",
+      "note": "英文原题 OODA Loop Guide: Turning Uncertainty into Opportunity（taylorpearson.me/ooda-loop/），2017-08-02。",
+      "sources": [
+        {
+          "type": "article",
+          "title": "OODA Loop Guide: Turning Uncertainty into Opportunity",
+          "url": "https://taylorpearson.me/ooda-loop/",
+          "site": "taylorpearson.me",
+          "evidence": "https://taylorpearson.me/ooda-loop/",
+          "confidence": "high",
+          "note": "已打开核对：署名 By Taylor Pearson，日期 August 2, 2017；开头 1997 年 3 月 20 日阿灵顿国家公墓 Boyd 追悼会的段落与摘录一致"
+        }
+      ],
+      "author_check": null
+    },
+    {
+      "article_id": "vol0056-c06",
+      "status": "found",
+      "note": "英文原题 The fallacy of obviousness，Aeon Essays，2018-07-05（网址标题为 Are humans really blind to the gorilla on the basketball court?）。",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The fallacy of obviousness",
+          "url": "https://aeon.co/essays/are-humans-really-blind-to-the-gorilla-on-the-basketball-court",
+          "site": "aeon.co",
+          "evidence": "https://aeon.co/essays/are-humans-really-blind-to-the-gorilla-on-the-basketball-court",
+          "confidence": "high",
+          "note": "页面标题 The fallacy of obviousness，by Teppo Felin，日期 5 July 2018；以 1999 年 Simons 和 Chabris 的「看不见的大猩猩」实验与卡尼曼《思考，快与慢》开篇，与摘录一致"
+        }
+      ],
+      "author_check": null
+    }
+  ],
+  "authors": [
+    {
+      "author_id": "jason-del-rey",
+      "note": "资深商业记者，曾在 Recode/Vox Media 报道亚马逊与电商约十年",
+      "sources": [
+        {
+          "type": "website",
+          "title": "The Aisle（Jason Del Rey 的独立 Newsletter，报道 AI 时代的零售与电商）",
+          "url": "https://readtheaisle.com",
+          "site": "readtheaisle.com",
+          "evidence": "https://jasondelrey.substack.com/",
+          "confidence": "high",
+          "note": "他的旧 Newsletter Already Shipped（已归档）首页写明现在发布 The Aisle（readtheaisle.com）；已打开 readtheaisle.com 核对"
+        },
+        {
+          "type": "book",
+          "title": "Winner Sells All: Amazon, Walmart, and the Battle for Our Wallets（HarperCollins，2023）",
+          "url": null,
+          "site": null,
+          "evidence": "https://www.geekwire.com/2023/amazon-vs-walmart-reporter-and-author-jason-del-rey-on-the-defining-business-clash-of-our-era/",
+          "confidence": "medium",
+          "note": "GeekWire 书评介绍该书及作者；作者本人介绍见 https://jasondelrey.substack.com/p/winner-sells-all"
+        }
+      ]
+    },
+    {
+      "author_id": "mariam-mahmoud",
+      "note": "Kasurian 杂志撰稿人，作者简介为「加州律师」；未找到个人网站",
+      "sources": [
+        {
+          "type": "article",
+          "title": "The Lost Art of Research as Leisure（Kasurian，2025-03-09，作者简介页面）",
+          "url": "https://www.kasurian.com/research-as-leisure/",
+          "site": "kasurian.com",
+          "evidence": "https://www.kasurian.com/research-as-leisure/",
+          "confidence": "high",
+          "note": "文末作者简介 Mariam Mahmoud is a lawyer in California"
+        },
+        {
+          "type": "website",
+          "title": "Kasurian 文章存档（列出她在该刊发表的多篇文章）",
+          "url": "https://www.kasurian.com/issues/",
+          "site": "kasurian.com",
+          "evidence": "https://www.kasurian.com/issues/",
+          "confidence": "medium",
+          "note": "存档页列出她 2025–2026 年在 Kasurian 发表的多篇文章；Kasurian 创办人是 Ahmed Askary，不是她"
+        }
+      ]
+    },
+    {
+      "author_id": "michael-j-prietula",
+      "note": "埃默里大学 Goizueta 商学院荣休教授，曾在卡内基梅隆大学与 Herbert Simon 合作；《The Experts in Your Midst》（HBR，1989）与 Herbert A. Simon 合著",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Michael Prietula 教师主页（Emory Goizueta Business School）",
+          "url": "https://goizueta.emory.edu/faculty/profiles/michael-prietula",
+          "site": "goizueta.emory.edu",
+          "evidence": "https://goizueta.emory.edu/faculty/profiles/michael-prietula",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "website",
+          "title": "Michael Prietula（IHMC 高级研究科学家主页）",
+          "url": "https://www.ihmc.us/groups/mprietula/",
+          "site": "ihmc.us",
+          "evidence": "https://www.ihmc.us/groups/mprietula/",
+          "confidence": "medium",
+          "note": "Institute for Human & Machine Cognition 的研究者页面"
+        }
+      ]
+    },
+    {
+      "author_id": "rafael-nunez",
+      "note": "加州大学圣迭戈分校认知科学荣休教授，研究具身认知、时间与数字概念（如艾马拉人「未来在身后」的时间观）",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Rafael Núñez（UCSD Profiles）",
+          "url": "https://profiles.ucsd.edu/rafael.nunez",
+          "site": "profiles.ucsd.edu",
+          "evidence": "https://profiles.ucsd.edu/rafael.nunez",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "book",
+          "title": "Where Mathematics Comes From: How the Embodied Mind Brings Mathematics into Being（《数学从何而来》，与 George Lakoff 合著，Basic Books，2000）",
+          "url": "https://george-lakoff.com/books/where-mathematics-comes-from/",
+          "site": "george-lakoff.com",
+          "evidence": "https://old.maa.org/press/maa-reviews/where-mathematics-comes-from-how-the-embodied-mind-brings-mathematics-into-being",
+          "confidence": "medium",
+          "note": "中文译名为意译"
+        }
+      ]
+    },
+    {
+      "author_id": "ralph-l-keeney",
+      "note": "决策分析学者，杜克大学 Fuqua 商学院荣休研究教授；《决策中的陷阱》（The Hidden Traps in Decision Making）与 John S. Hammond、Howard Raiffa 合著",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Ralph Keeney 个人网站",
+          "url": "https://ralphkeeney.com/books/",
+          "site": "ralphkeeney.com",
+          "evidence": "https://ralphkeeney.com/books/",
+          "confidence": "medium",
+          "note": "个人网站的著作页"
+        },
+        {
+          "type": "book",
+          "title": "Smart Choices: A Practical Guide to Making Better Decisions（《明智的选择》，与 Hammond、Raiffa 合著，Harvard Business School Press，1999）",
+          "url": null,
+          "site": null,
+          "evidence": "https://www.fuqua.duke.edu/faculty/ralph-keeney",
+          "confidence": "medium",
+          "note": "书名与出版信息见 Fuqua 教师页及 ralphkeeney.com/books；中文译名为意译"
+        },
+        {
+          "type": "book",
+          "title": "Value-Focused Thinking: A Path to Creative Decisionmaking（《价值焦点思维》，Harvard University Press，1992）",
+          "url": null,
+          "site": null,
+          "evidence": "https://www.informs.org/Explore/History-of-O.R.-Excellence/Biographical-Profiles/Keeney-Ralph-L",
+          "confidence": "medium",
+          "note": "中文译名为意译"
+        }
+      ]
+    },
+    {
+      "author_id": "stephen-miran",
+      "note": "美国经济学家，特朗普政府白宫经济顾问委员会（CEA）主席，2025-09 至 2026-05 任美联储理事",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Stephen I. Miran（Federal Reserve History 人物页）",
+          "url": "https://www.federalreservehistory.org/people/stephen-miran",
+          "site": "federalreservehistory.org",
+          "evidence": "https://www.federalreservehistory.org/people/stephen-miran",
+          "confidence": "high",
+          "note": null
+        },
+        {
+          "type": "website",
+          "title": "Stephen Miran（维基百科）",
+          "url": "https://en.wikipedia.org/wiki/Stephen_Miran",
+          "site": "en.wikipedia.org",
+          "evidence": "https://en.wikipedia.org/wiki/Stephen_Miran",
+          "confidence": "high",
+          "note": null
+        }
+      ]
+    },
+    {
+      "author_id": "ted-fischer",
+      "note": "Edward F.（Ted）Fischer，范德堡大学人类学教授；《关于性、爱、吸引力和痴迷的科学》应来自 Big Think 同名多人访谈视频（The science of sex, love, attraction, and obsession），Ted Fischer 是其中一位受访者",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Professor Ted Fischer 个人网站",
+          "url": "https://tedfischer.org/",
+          "site": "tedfischer.org",
+          "evidence": "https://tedfischer.org/",
+          "confidence": "high",
+          "note": "首页写明 Edward F. Fischer is the Cornelius Vanderbilt Professor of Anthropology at Vanderbilt University"
+        },
+        {
+          "type": "book",
+          "title": "The Good Life: Aspiration, Dignity, and the Anthropology of Wellbeing（《美好生活：抱负、尊严与幸福人类学》，Stanford University Press，2014）",
+          "url": "https://www.sup.org/books/latin-american-studies/good-life",
+          "site": "sup.org",
+          "evidence": "https://www.sup.org/books/latin-american-studies/good-life",
+          "confidence": "medium",
+          "note": "中文译名为意译"
+        }
+      ]
+    },
+    {
+      "author_id": "unreal",
+      "note": "LessWrong 用户名 Unreal（化名），《恢复日和休息日》即其 2019 年 LessWrong 精选文 Rest Days vs Recovery Days；文中自述当时在 CFAR 工作；未找到可确认的真实姓名",
+      "sources": [
+        {
+          "type": "website",
+          "title": "Unreal（LessWrong 用户主页）",
+          "url": "https://www.lesswrong.com/users/unreal",
+          "site": "lesswrong.com",
+          "evidence": "https://www.lesswrong.com/users/unreal",
+          "confidence": "high",
+          "note": "已打开核对，置顶文章为 Rest Days vs Recovery Days"
+        },
+        {
+          "type": "article",
+          "title": "Rest Days vs Recovery Days（LessWrong，2019-03-19）",
+          "url": "https://www.lesswrong.com/posts/ximou2kyQorm6MPjX/rest-days-vs-recovery-days",
+          "site": "lesswrong.com",
+          "evidence": "https://www.lesswrong.com/posts/ximou2kyQorm6MPjX/rest-days-vs-recovery-days",
+          "confidence": "high",
+          "note": "代表作"
+        }
+      ]
+    }
+  ]
+}
